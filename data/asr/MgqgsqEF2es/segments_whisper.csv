@@ -1,0 +1,45 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.8399999141693115,3.8399999141693115,86,Bây giờ chúng ta sẽ cùng lắng nghe thông tin về thời tiết từ biên tập viên Thanh Tùng.,MgqgsqEF2es
+1,4.099999904632568,6.400000095367432,2.3000001907348633,56,Ngày mai thì thời tiết cả nước nắng mưa như thế nào anh?,MgqgsqEF2es
+2,6.659999847412109,10.5,3.8400001525878906,96,Ngày mai ngày làm việc đổ tuần thì trên cả nước chúng ta phải lưu ý khu vực Tây Nguyên và Nam Bộ,MgqgsqEF2es
+3,10.760000228881836,12.539999961853027,1.7799997329711914,36,Vì là khu vực này thì sẽ có mưa rông,MgqgsqEF2es
+4,12.800000190734863,16.1200008392334,3.320000648498535,56,"Thưa quý vị mưa thì chủ yếu là mưa muộn thôi, sau 15 giờ",MgqgsqEF2es
+5,16.3799991607666,17.399999618530273,1.0200004577636719,23,Lượng thì không quá lớn,MgqgsqEF2es
+6,17.65999984741211,19.700000762939453,2.0400009155273438,44,Thế nên là gần chục tiếng còn lại trong ngày,MgqgsqEF2es
+7,19.959999084472656,21.239999771118164,1.2800006866455078,20,Từ khoảng 7 giờ sáng,MgqgsqEF2es
+8,21.5,25.079999923706055,3.5799999237060547,61,Cho đến 15 giờ chiều thì vẫn có nắng mạnh tại hai khu vực này,MgqgsqEF2es
+9,25.34000015258789,29.940000534057617,4.600000381469727,84,Và đây chính là cơ sở để chúng ta dự báo là chỉ số tia cực tím hay còn gọi là tia UV,MgqgsqEF2es
+10,30.200000762939453,33.02000045776367,2.8199996948242188,46,Ở những khu vực này sẽ gây nguy hại rất là cao,MgqgsqEF2es
+11,33.540000915527344,36.599998474121094,3.05999755859375,58,"Cụ thể là tại thành phố Hồ Chí Minh, Cần Thơ hay là Cà Mau",MgqgsqEF2es
+12,36.86000061035156,37.880001068115234,1.0200004577636719,17,Trong ba ngày tới,MgqgsqEF2es
+13,38.13999938964844,41.47999954223633,3.3400001525878906,79,Thì mức UV cực đại giữa các ngày có thể là không bằng nhau nhưng đều rất là cao,MgqgsqEF2es
+14,41.7400016784668,43.2599983215332,1.5199966430664062,38,Quý vị có thể quan sát ở trên bảng này,MgqgsqEF2es
+15,43.52000045776367,44.540000915527344,1.0200004577636719,7,Ở mức 8,MgqgsqEF2es
+16,44.79999923706055,47.619998931884766,2.8199996948242188,49,Mức 9 và thậm chí là có những ngày lên tới mức 10,MgqgsqEF2es
+17,47.880001068115234,51.720001220703125,3.8400001525878906,79,Tất cả mức như thế này thì đều ảnh hưởng tới da và mắt của chúng ta sau 25 phút,MgqgsqEF2es
+18,51.97999954223633,54.02000045776367,2.0400009155273438,39,Nếu như tiếp xúc trực tiếp với ánh nắng,MgqgsqEF2es
+19,54.779998779296875,58.119998931884766,3.3400001525878906,72,Miền Bắc và miền Trung thì cũng là khu vực có chỉ số tia cực tím rất cao,MgqgsqEF2es
+20,58.279998779296875,60.31999969482422,2.0400009155273438,38,Bởi vì ngày mai dự báo là nắng cả ngày,MgqgsqEF2es
+21,60.84000015258789,63.13999938964844,2.299999237060547,42,Tại miền Bắc thì trong đó có thủ đô Hà Nội,MgqgsqEF2es
+22,63.400001525878906,65.44000244140625,2.0400009155273438,46,Cũng như là thành phố Hạ Long hay là Hải Phòng,MgqgsqEF2es
+23,65.69999694824219,68.26000213623047,2.5600051879882812,42,Thì chỉ số tia UV lúc cao nhất sẽ là mức 8,MgqgsqEF2es
+24,68.5199966430664,69.27999877929688,0.7600021362304688,5,Mức 9,MgqgsqEF2es
+25,69.80000305175781,71.80000305175781,2.0,43,Với khu vực miền Trung từ thành phố Huế này,MgqgsqEF2es
+26,72.05999755859375,74.0999984741211,2.0400009155273438,32,Trở vào Đà Nẵng hay là Nha Trang,MgqgsqEF2es
+27,74.36000061035156,75.37999725341797,1.0199966430664062,19,Thì đều ở mức 10 cả,MgqgsqEF2es
+28,75.63999938964844,76.16000366210938,0.5200042724609375,10,Rất là cao,MgqgsqEF2es
+29,76.91999816894531,81.5199966430664,4.599998474121094,81,Thời điểm xuất hiện chỉ số tia UV cực đại trên cả ba miền là từ 10 cho đến 14 giờ,MgqgsqEF2es
+30,81.77999877929688,84.33999633789062,2.55999755859375,67,Thì quý vị nên hạn chế đi ra đường trong những khoảng thời gian này,MgqgsqEF2es
+31,84.5999984741211,87.16000366210938,2.5600051879882812,53,Vừa tránh được tia UV mà lại vừa tránh được nắng nóng,MgqgsqEF2es
+32,87.76000213623047,91.31999969482422,3.55999755859375,98,Còn bây giờ chúng tôi xin chuyển sang phần dự báo chi tiết cho các thành phố trong 2 ngày đầu tuần,MgqgsqEF2es
+33,92.5999984741211,94.87999725341797,2.279998779296875,40,Thủ đô Hà Nội dự báo 2 ngày đầu tuần tới,MgqgsqEF2es
+34,95.13999938964844,97.68000030517578,2.5400009155273438,45,Thì trời sẽ có nắng với nguyên nhiệm là 35 độ,MgqgsqEF2es
+35,97.94000244140625,100.5,2.55999755859375,29,Đêm và sáng trời mát 27-28 độ,MgqgsqEF2es
+36,102.0199966430664,104.04000091552734,2.0200042724609375,37,Tại Đà Nẵng trời cũng có nắng cả ngày,MgqgsqEF2es
+37,104.30000305175781,105.05999755859375,0.7599945068359375,20,Nhưng không quá nóng,MgqgsqEF2es
+38,105.31999969482422,107.33999633789062,2.0199966430664062,28,Điều độ cao nhất là 31-33 độ,MgqgsqEF2es
+39,107.5999984741211,109.9000015258789,2.3000030517578125,29,Đêm và sáng trời mát 27-28 độ,MgqgsqEF2es
+40,111.44000244140625,112.45999908447266,1.0199966430664062,25,Với thành phố Hồ Chí Minh,MgqgsqEF2es
+41,112.72000122070312,114.5,1.779998779296875,40,Thời tiết 2 ngày đầu tuần khá tương đồng,MgqgsqEF2es
+42,114.76000213623047,116.55999755859375,1.7999954223632812,25,Giữa trưa trời nóng 34 độ,MgqgsqEF2es
+43,116.55999755859375,118.05999755859375,1.5,29,Chiều tối thì sẽ nóng hơn rồi,MgqgsqEF2es

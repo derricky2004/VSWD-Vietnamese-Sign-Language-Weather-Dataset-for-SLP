@@ -1,0 +1,20 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,py40p7XqKrI
+1,5.0,10.0,5.0,143,"Chào chị Hương Liên, ngày hôm nay Hà Nội nắng đã quay trở lại rồi, không biết mấy ngày tới thì nắng nóng có diễn biến phức tạp hơn hay không ạ?",py40p7XqKrI
+2,10.0,16.0,6.0,118,"Vâng anh Dương, theo dự báo thì Hà Nội cũng như là hầu khắp miền Bắc, từ nay đến cuối tuần sẽ càng ngày càng nóng hơn.",py40p7XqKrI
+3,16.0,27.0,11.0,167,"Ngay chiều nay, dù mức nhiệt hầu hết là 30-31 độ, nhưng với tốc độ tăng nhiệt lên 6-9 độ so với cùng thời điểm ngày hôm qua thì mọi người đều có cảm giác nóng lên hẳn.",py40p7XqKrI
+4,27.0,30.0,3.0,48,Đi ngoài đường lâu còn thấy nắng mạnh và rát da.,py40p7XqKrI
+5,30.0,38.0,8.0,136,"Dự báo miền Bắc sẽ tiếp tục tăng nhiệt trong ngày mai, bản đồ dự báo nhiệt chuyển dần sang màu cam và thậm chí là phía Tây còn có màu đỏ",py40p7XqKrI
+6,38.0,45.0,7.0,87,"tương ứng với mức nhiệt nắng nóng 35-36 độ xuất hiện ở Mường Lây, Mường La và Mai Châu.",py40p7XqKrI
+7,45.0,50.0,5.0,65,Còn phía Đông trong đó có thủ đô Hà Nội thì phổ biến từ 31-33 độ.,py40p7XqKrI
+8,50.0,53.0,3.0,54,Chữ ngày nóng còn kéo dài ở miền Bắc cả chục ngày tới.,py40p7XqKrI
+9,53.0,59.0,6.0,85,Đáng chú ý là tuần sau khả năng nền nhiệt toàn miền sẽ lên mức nắng nóng là 35-37 độ.,py40p7XqKrI
+10,59.0,63.0,4.0,72,Và đây cũng sẽ là đợt nắng nóng diện rộng đầu tiên trong mùa hè năm nay.,py40p7XqKrI
+11,63.0,67.0,4.0,75,Còn tiếp theo sẽ là những thông tin dự báo chi tiết trong một số thành phố.,py40p7XqKrI
+12,67.0,70.0,3.0,48,"Hà Nội tối và đêm nay không mưa, trời mát 24 độ.",py40p7XqKrI
+13,70.0,73.0,3.0,48,"Ngày mai trời nắng liên tục, giữa trưa là 32 độ.",py40p7XqKrI
+14,73.0,76.0,3.0,44,Đà Nẵng đêm nay giữ mát với mức nhiệt 26 độ.,py40p7XqKrI
+15,76.0,79.0,3.0,48,"Ngày mai nắng nhiều và khá nóng, cao nhất 33 độ.",py40p7XqKrI
+16,80.0,83.0,3.0,54,Thành phố Hồ Chí Minh đêm nay có thể có mưa rào 26 độ.,py40p7XqKrI
+17,83.0,87.0,4.0,61,Ngày mai mưa chủ yếu vào buổi chiều có thể kèm rông gió mạnh.,py40p7XqKrI
+18,87.0,90.0,3.0,35,Sáng đến trưa trời nắng mạnh 35 độ.,py40p7XqKrI

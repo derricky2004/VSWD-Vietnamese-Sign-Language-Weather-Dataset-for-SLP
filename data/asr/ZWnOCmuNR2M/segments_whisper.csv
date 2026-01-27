@@ -1,0 +1,27 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.0,3.0,47,Bây giờ sẽ là những thông tin dự báo thời tiết.,ZWnOCmuNR2M
+1,3.0,6.0,3.0,70,"Chị Hải Yên, mời chị cập nhật thông tin mới nhất về áp thấp nhiệt đới.",ZWnOCmuNR2M
+2,6.0,10.0,4.0,110,"Vâng ạ, như cập nhật ở phần đầu của chương trình, áp thấp nhiệt đới chiều nay đã đi vào khu vực Biển Đông rồi.",ZWnOCmuNR2M
+3,10.0,15.0,5.0,89,Và nó có khả năng là mạnh lên thành bão với hướng di chuyển vào khu vực Nam của Trung Bộ.,ZWnOCmuNR2M
+4,15.0,20.0,5.0,131,Và cụ thể với đường đi của cơn áp thấp nhiệt đới này như thế nào thì ngay bây giờ tôi sẽ cập nhật đến Anh Dương và quý vị khán giả.,ZWnOCmuNR2M
+5,20.0,29.0,9.0,135,"Thưa quý vị, trong đêm nay và ngày mai thì áp thấp nhiệt đới sẽ đi với bất tốc nhanh là từ 25 đến 30 km một giờ và hướng theo phía Tây.",ZWnOCmuNR2M
+6,29.0,39.0,10.0,147,"Đến 13 giờ ngày mai, ngày 9 tháng 11 thì tâm bão còn cách đảo sông Tử Tây khoảng là 170 km về phía Tây Bắc với cứng độ bão mạnh cấp 8, giật cấp 10.",ZWnOCmuNR2M
+7,39.0,44.0,5.0,81,Sau đó thì bão sẽ di chuyển hướng về khu vực vùng biển từ Phú Yên đến Ninh Thuận.,ZWnOCmuNR2M
+8,44.0,52.0,8.0,147,"Trước mắt là trong đêm nay và ngày mai, hoàn lưu của nó chủ yếu là gây thời tiết xấu trên biển và các tàu thuyền hoạt động trong vùng nguy hiểm này",ZWnOCmuNR2M
+9,52.0,55.0,3.0,72,"thì cần phải nhanh chóng di chuyển tranh trú, thoát khỏi vùng nguy hiểm.",ZWnOCmuNR2M
+10,55.0,63.0,8.0,92,Đó là từ vĩ tuyến 11 đến vĩ tuyến 15 độ Bắc và từ kinh tuyến 112 đến kinh tuyến 120 độ Đồng.,ZWnOCmuNR2M
+11,63.0,69.0,6.0,107,Đến chiều tối mai thì hoàn lưu bão mới bắt đầu tác động đến thời tiết trên đất liền gây mưa to cho khu vực.,ZWnOCmuNR2M
+12,69.0,78.0,9.0,129,Từ Đà Nẵng trở xuống đến Bình Thuận và sang đến ngày 10 tháng 11 thì mưa sẽ rồn rập hơn với lượng mưa có thể lên tới hàng trăm mm,ZWnOCmuNR2M
+13,78.0,83.0,5.0,79,tập trung tại khu vực từ Thừa Thiên Huế đến Khánh Hòa và cả khu vực Tây Nguyên.,ZWnOCmuNR2M
+14,83.0,91.0,8.0,119,Đến ngày 11 tháng 11 thì vùng mưa lớn sẽ dịch chuyển dần lên phía Bắc tập trung từ Quảng Bình trở xuống đến Quảng Ngãi.,ZWnOCmuNR2M
+15,91.0,98.0,7.0,121,"Ngay từ bây giờ bà con nên có kế hoạch ứng phó với mưa lũ, cất giữ giấy tờ tài liệu quan trọng trong túi không thấm nước,",ZWnOCmuNR2M
+16,98.0,104.0,6.0,116,"chuẩn bị lương thực, nhu yếu phẩm, bếp di động như bếp cồn, bếp ca du lịch trong trường hợp ngập lụt ít nhất 1 tuần.",ZWnOCmuNR2M
+17,104.0,110.0,6.0,96,"Và đừng quên các vật dụng dùng trong trường hợp khẩn cấp đó là áo phao, đèn pin và pin dự phòng.",ZWnOCmuNR2M
+18,110.0,114.0,4.0,85,Và cuối cùng sẽ là phần dự báo thời tiết cho các thành phố trong đêm nay và ngày mai.,ZWnOCmuNR2M
+19,114.0,121.0,7.0,118,"Thành phố Đà Nẵng trước khi có mưa nặng hạt vào chiều tối mai, đêm nay và sáng mai mưa nhỏ, trời chủ yếu là nhiều mây,",ZWnOCmuNR2M
+20,121.0,126.0,5.0,67,"trời xe lạnh, nhiệt độ thấp nhất là 22 độ, chưa mai tăng lên 28 độ.",ZWnOCmuNR2M
+21,126.0,130.0,4.0,63,"Thành phố Hồ Chí Minh đêm nay ít mưa, trời mát khoảng là 25 độ,",ZWnOCmuNR2M
+22,130.0,136.0,6.0,89,"ngày mai trời nắng nhiều, nhiệt độ cao nhất là 33 độ, chiều tối mưa vài nơi và rất nhanh.",ZWnOCmuNR2M
+23,136.0,141.0,5.0,92,"Thủ đô Hà Nội vẫn duy trì tiết trời khô giáo, đêm nay khá lạnh, nhiệt độ thấp nhất là 20 độ,",ZWnOCmuNR2M
+24,141.0,148.0,7.0,96,"ngày mai nắng và ấm hơn, nhiệt độ tăng nhanh lên 29 độ, độ ẩm giảm thấp 40% nên khá là hành khô.",ZWnOCmuNR2M
+25,156.0,158.0,2.0,48,Hẹn gặp lại các bạn trong những video tiếp theo!,ZWnOCmuNR2M

@@ -1,0 +1,29 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.559999942779541,4.559999942779541,83,Sau đây là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Xuân Anh,p0h-f31E9TQ
+1,4.559999942779541,9.600000381469727,5.0400004386901855,115,"Thưa chị Thanh Anh, khi mà không khí lạnh tràn xuống tăng cường thì có thể thấy tình thái thời tiết đã thay đổi hẳn",p0h-f31E9TQ
+2,9.600000381469727,12.960000038146973,3.359999656677246,75,"và có thể thấy là nhà cửa là khô giáo hẳn, không còn ấm ớt như ngày xưa nữa",p0h-f31E9TQ
+3,12.960000038146973,14.15999984741211,1.1999998092651367,26,"Vâng, đúng rồi anh Dương ạ",p0h-f31E9TQ
+4,14.15999984741211,19.84000015258789,5.680000305175781,116,Và ngày hôm nay thì tôi còn nghe rất nhiều người khác cũng chia sẻ với tôi rằng là khi mà ra đường đi làm hay đi học,p0h-f31E9TQ
+5,19.84000015258789,22.639999389648438,2.799999237060547,63,thì rất là thích bởi vì không cần phải mặc áo mưa vương víu nữa,p0h-f31E9TQ
+6,22.639999389648438,28.0,5.3600006103515625,122,Anh Dương cũng như quý vị khán giả thì bây giờ chúng ta cũng có thể thấy những hình ảnh thực tế mà chúng tôi có được ở đây,p0h-f31E9TQ
+7,28.0,34.63999938964844,6.6399993896484375,105,"Ngày hôm qua thì đường xá thì ấm ớt, thế nhưng mà sang đến ngày hôm nay thì không khí không còn ấm ớt nữa",p0h-f31E9TQ
+8,34.63999938964844,42.08000183105469,7.44000244140625,109,"mà chuyển sang là khô giáo, đường xá thì cũng khô rồi, cảm giác thì thoáng đẵng và thoải mái, dễ chịu hấn hẳn",p0h-f31E9TQ
+9,42.08000183105469,50.560001373291016,8.479999542236328,113,Số liệu thực tế cũng cho thấy là thay vì đới gió đông nam ấm thì ngày hôm nay gió đã chuyển hướng là đông bắc khô,p0h-f31E9TQ
+10,50.560001373291016,57.36000061035156,6.799999237060547,101,"Về độ ấm thì cũng giảm xuống gần một nửa, xuống còn là mức 53% vào khoảng giữa trưa đầu giờ chiều nay",p0h-f31E9TQ
+11,57.68000030517578,61.68000030517578,4.0,69,Tuy nhiên khoảng khô giáo này sẽ chỉ tạm thời trong ngày hôm nay thôi,p0h-f31E9TQ
+12,61.68000030517578,70.80000305175781,9.120002746582031,111,"Còn dự báo là trong 3 ngày tới thì mưa sẽ lại quay trở lại thủ đô, sát xuất mưa thì khá cao, đều ở mức trên 55%",p0h-f31E9TQ
+13,70.80000305175781,79.91999816894531,9.1199951171875,137,Lưu ý vào ngày mai sẽ là dạng mưa rào nhẹ về khoảng thời gian là trưa chiều do là không khí lạnh tăng cường xuống và mưa thì sẽ rất nhanh,p0h-f31E9TQ
+14,79.91999816894531,86.95999908447266,7.040000915527344,77,"Còn đối với 2 ngày sau đó thì mưa lại là mưa nhỏ, mưa phùn về đêm và sáng sớm",p0h-f31E9TQ
+15,87.36000061035156,96.55999755859375,9.199996948242188,132,"Su hướng nhiệt độ thì sẽ tăng dần lên 25 rồi 28 độ, bởi vậy là sẽ tạo ra cảm giác là ấm, ẩm và nó sẽ khó chịu như những ngày vừa qua",p0h-f31E9TQ
+16,96.55999755859375,102.0,5.44000244140625,103,Đối với các tỉnh thành khác ở khu vực Bắc Bộ cũng sẽ có diễn biến mưa tương tự như là tại thủ đô Hà Nội,p0h-f31E9TQ
+17,102.0,108.63999938964844,6.6399993896484375,93,Vào sáng ngày mai khi mà có thêm gió đông bắc tràn xuống thì nhiều nơi trời sẽ chuyển mưa rào,p0h-f31E9TQ
+18,108.95999908447266,115.76000213623047,6.8000030517578125,103,Sau đó đến đêm mai và sáng sớm ngày kia khi mà gió chuyển hướng thành hướng đông nam dồn ẩm từ biển vào,p0h-f31E9TQ
+19,115.76000213623047,120.80000305175781,5.040000915527344,81,"thì ở khu vực phía đông Bắc Bộ trời sẽ chuyển mưa nhỏ, mưa phùn kèm theo sương mù",p0h-f31E9TQ
+20,120.80000305175781,126.23999786376953,5.439994812011719,100,Và cuối cùng như thường lệ sẽ là phần dự báo thời tiết cho một số nơi khác trong đêm nay và ngày mai,p0h-f31E9TQ
+21,126.23999786376953,132.32000732421875,6.080009460449219,90,Tại thành phố Đà Nẵng trong đêm nay sáng mai dự báo sẽ có lúc có mưa trời xe xe lạnh 24 độ,p0h-f31E9TQ
+22,132.32000732421875,137.36000061035156,5.0399932861328125,66,Trưa chiều mai mưa rứt trời nhiều mây với nhiệt độ không quá 27 độ,p0h-f31E9TQ
+23,137.36000061035156,142.47999572753906,5.1199951171875,43,Nhà Trang đêm nay tạnh giáo và dị mát 25 độ,p0h-f31E9TQ
+24,142.47999572753906,147.36000061035156,4.8800048828125,64,Sáng ngày mai nắng lên liên tục nhiệt độ tăng lên cao nhất 29 độ,p0h-f31E9TQ
+25,147.36000061035156,152.39999389648438,5.0399932861328125,45,Thành phố Hồ Chí Minh đêm nay không mưa 25 độ,p0h-f31E9TQ
+26,152.39999389648438,156.8800048828125,4.480010986328125,58,Sáng ngày mai trở chuyển nắng nóng nhiệt độ cao nhất 35 độ,p0h-f31E9TQ
+27,167.36000061035156,172.32000732421875,4.9600067138671875,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,p0h-f31E9TQ

@@ -1,0 +1,31 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,84,Truyền sang những thông tin dự báo thời tiết cùng biên tập viên thời tiết Quỳnh Hoa.,I1v5zSI1Rus
+1,4.0,10.0,6.0,134,"Chị Quỳnh Hoa thân mến, ngay hôm nay thì không khí của Hà Nội khá là ụ ám và khi mà ra đường thì tôi cảm giác là hơi khó thở một chút.",I1v5zSI1Rus
+2,10.0,13.0,3.0,95,Không hiểu là tình trạng ô nhiễm không khí thì hôm nay diễn biến phức tạp như thế nào thưa chị?,I1v5zSI1Rus
+3,13.0,15.0,2.0,55,"Vâng, đúng là như những gì mà anh Hoàng Dương cảm nhận.",I1v5zSI1Rus
+4,15.0,20.0,5.0,106,Bởi vì tình trạng sương mù đã khiến cho ô nhiễm không khí diễn ra trong cả ngày hôm nay tại thủ đô Hà Nội.,I1v5zSI1Rus
+5,20.0,27.0,7.0,156,Không chỉ ở Hà Nội đâu mà ghi nhận tại rất nhiều nơi ở miền Bắc hay là xuống tận khu vực Hà Tĩnh của miền Trung nữa đều xảy ra tình trạng ô nhiễm không khí.,I1v5zSI1Rus
+6,27.0,33.0,6.0,93,"Đằng sau lưng tôi đây thì quý vị có thể theo dõi đó là diễn biến về chỉ số AQE theo từng giờ,",I1v5zSI1Rus
+7,33.0,38.0,5.0,98,cụ thể tại một điểm ở thủ đô Hà Nội theo số liệu ghi nhận của mạng nơi chất lượng không khí Parme.,I1v5zSI1Rus
+8,38.0,46.0,8.0,112,"Thì như quý vị có thể thấy là trong suốt cả ngày hôm nay, kết quả về chỉ số AQE đều cho ở mức là từ xấu trở lên.",I1v5zSI1Rus
+9,46.0,55.0,9.0,133,Trong đó trong khoảng thời gian là từ 0 giờ cho tới 10 giờ sáng là lúc mà ô nhiễm không khí nhất đều ở thang cảnh báo ở mức nguy hại.,I1v5zSI1Rus
+10,55.0,63.0,8.0,138,"Đây cũng là không giờ mà sương mù dày nhất trong ngày, mặt trời lại có gió nhẹ nữa khiến cho lớp bụi bẩn bị giữ lại nhiều nhất trong ngày.",I1v5zSI1Rus
+11,63.0,71.0,8.0,123,Ngoài ra đến chiều nay thì vùng ô nhiễm cũng bao phủ ở hầu khắp nhiều tỉnh thành miền Bắc cũng như là khu vực Bắc Trung Bộ.,I1v5zSI1Rus
+12,71.0,78.0,7.0,106,Nhiều nơi nằm trong vùng nằm trong thang cảnh báo màu cam cho đến màu đỏ tức là ở mức kém cho tới mức xấu.,I1v5zSI1Rus
+13,78.0,82.0,4.0,89,Và khả năng là tình trạng ô nhiễm không khí như thế này sẽ vẫn còn kéo dài sang ngày mai.,I1v5zSI1Rus
+14,82.0,88.0,6.0,119,Đặc biệt là khoảng thời gian từ đêm nay đến sáng ngày hôm mai thì ô nhiễm không khí sẽ có thể diễn ra nghiêm trọng hơn.,I1v5zSI1Rus
+15,88.0,94.0,6.0,101,Vì đây là lúc mà sương mù sẽ quay trở lại hầu khắp khu vực miền Bắc cũng như là khu vực Bắc Trung Bộ.,I1v5zSI1Rus
+16,95.0,105.0,10.0,127,"Trong đó tại các tỉnh như là Điện Biên, Lào Cai hay là Hòa Bình là những nơi mà khả năng sương mù dày tầm nhìn có thể dưới 1km.",I1v5zSI1Rus
+17,105.0,110.0,5.0,95,"Trong những ngày ô nhiễm như thế này thì nồng độ bụi mịn rất cao mà kích thước thì lại rất nhỏ,",I1v5zSI1Rus
+18,110.0,115.0,5.0,89,chỉ bằng 1 phần 30 của sợi tóc thôi nên chúng ta sẽ khó có thể thấy được bằng mắt thường.,I1v5zSI1Rus
+19,115.0,119.0,4.0,79,"Mà chỉ khi chúng ta hít thở thì các hụt bụi này sẽ dễ dàng xâm nhập vào cơ thể,",I1v5zSI1Rus
+20,119.0,123.0,4.0,46,"sẽ gây ra các vấn đề về hô hấp, ho, hen xuyễn.",I1v5zSI1Rus
+21,123.0,127.0,4.0,89,Và một trong những cách quý vị cần bảo vệ sức khỏe đó là chúng ta hãy tạo những thói quen,I1v5zSI1Rus
+22,127.0,132.0,5.0,80,vệ sinh mũi họng hàng ngày bằng nước mũi xinh lý sau khi mà chúng ta trở về nhà.,I1v5zSI1Rus
+23,132.0,137.0,5.0,97,Còn tiếp theo sẽ là những thông tin dự báo cụ thể cho một số thành phố trong đêm nay và ngày mai.,I1v5zSI1Rus
+24,137.0,142.0,5.0,78,Với thủ đô Hà Nội thì đêm và sáng sớm có sương mù nhiệt độ thấp nhất là 17 độ.,I1v5zSI1Rus
+25,142.0,147.0,5.0,81,"Trời chiều mai trời có nắng ấm, nhiệt độ cao nhất trong ngày sẽ lên mức là 24 độ.",I1v5zSI1Rus
+26,147.0,152.0,5.0,78,"Với thành phố Huế đêm nay vẫn xảy ra mưa rét, nhiệt độ thấp nhất khoảng 18 độ.",I1v5zSI1Rus
+27,152.0,157.0,5.0,84,"Sáng ngày mai thì mưa vẫn xảy ra bất chợt trong ngày, nhiệt độ không vượt quá 22 độ.",I1v5zSI1Rus
+28,157.0,162.0,5.0,72,"Ở phía nam thành phố Chín Minh đêm nay trời tạnh giáo, xe xe lạnh 24 độ.",I1v5zSI1Rus
+29,162.0,167.0,5.0,82,"Sáng ngày mai trời nắng mây đan xen, nhiệt độ cao nhất trong ngày không quá 32 độ.",I1v5zSI1Rus

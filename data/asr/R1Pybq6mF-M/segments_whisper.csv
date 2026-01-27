@@ -1,0 +1,23 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,73,"Còn bây giờ sẽ là những thông tin dự báo thời tiết, xin mời chị Hải hiện.",R1Pybq6mF-M
+1,4.0,10.0,6.0,131,"Vâng anh Dương, ngày hôm nay miền Bắc vẫn nằm trong những chuỗi ngày trời ấm lên và nhiệt độ ngày hôm nay cũng đã tăng đáng kể rồi.",R1Pybq6mF-M
+2,10.0,13.0,3.0,83,Cụ thể ra sao thì ngay bây giờ tôi sẽ cập nhật đến anh cũng như là quý vị khán giả.,R1Pybq6mF-M
+3,13.0,20.0,7.0,109,"Thưa quý vị, mức nhiệt đo được lúc 13h ngày hôm nay tại thủ đô Hà Nội cũng như là những nơi khác của miền Bắc",R1Pybq6mF-M
+4,20.0,28.0,8.0,119,"thì đều đã tăng khoảng là từ 3 cho đến 4 độ so với cùng thời điểm này của ngày hôm qua, lên mức là từ 18 cho đến 21 độ.",R1Pybq6mF-M
+5,28.0,33.0,5.0,91,Với mức nhiệt trên 18 độ và trời có nắng nên đi ngoài đường chúng ta cảm thấy khá là ấm áp.,R1Pybq6mF-M
+6,33.0,39.0,6.0,104,Nhiệt độ thì tăng và ấm lên như vậy nhưng mà độ ẩm lại giảm đi khiến cho không khí trở nên rất hành khô.,R1Pybq6mF-M
+7,39.0,46.0,7.0,97,"Độ ẩm trong chiều ngày hôm nay đều từ 43% trở xuống, thậm chí có những nơi chỉ đạt khoảng là 33%.",R1Pybq6mF-M
+8,46.0,50.0,4.0,67,"Thời tiết nắng ấm và khô thì sẽ còn duy trì thêm khoảng 3 ngày nữa,",R1Pybq6mF-M
+9,50.0,58.0,8.0,110,"nhưng là tại thủ đô Hà Nội thì nhiệt độ sẽ tăng thêm khoảng là từ 2 cho đến 3 độ, lên mức là 22 cho đến 23 độ.",R1Pybq6mF-M
+10,58.0,62.0,4.0,57,Còn độ ẩm thì trong 3 ngày tới thì sẽ không vượt quá 40%.,R1Pybq6mF-M
+11,62.0,68.0,6.0,111,"Kiểu thời tiết này sẽ rất dễ khiến cho da và hệ hô hấp của chúng ta bị kích ứng, cơ thể cảm thấy nóng khó chịu.",R1Pybq6mF-M
+12,68.0,72.0,4.0,74,Vì vậy quý vị lưu ý là chúng ta hãy uống đủ nước và cung cấp đủ ẩm cho da.,R1Pybq6mF-M
+13,72.0,78.0,6.0,119,Cùng với đó là thường xuyên rửa mũi và họng bằng nước mũi sinh lý cũng là một biện pháp để có thể bảo vệ được sức khỏe.,R1Pybq6mF-M
+14,78.0,83.0,5.0,88,"Còn về diễn biến của áp thấp nhiệt đới thì dự báo là nó vẫn sẽ di chuyển theo hướng Tây,",R1Pybq6mF-M
+15,83.0,86.0,3.0,52,sau đó thì sẽ suy yếu thành một vùng thấp trên biển.,R1Pybq6mF-M
+16,86.0,91.0,5.0,98,Còn bây giờ xin được chuyển sang phần dự báo chi tiết cho các thành phố trong đêm nay và ngày mai.,R1Pybq6mF-M
+17,91.0,97.0,6.0,107,"Thành phố Hải Phòng đêm nay và sáng sớm mai trời rét, có sương mùi nhẹ, nhiệt độ thấp nhất khoảng là 15 độ.",R1Pybq6mF-M
+18,97.0,99.0,2.0,29,Trên chiều mai nắng ấm 20 độ.,R1Pybq6mF-M
+19,99.0,103.0,4.0,63,"Thành phố Vinh cũng chung kiểu thời tiết đêm rét, ngày nắng ấm.",R1Pybq6mF-M
+20,103.0,107.0,4.0,54,"Nhiệt độ thấp nhất là khoảng 16 độ, cao nhất là 20 độ.",R1Pybq6mF-M
+21,107.0,114.0,7.0,103,"Thành phố Nha Trang đêm nay và ngày mai có mưa vừa mưa to, trời xe lạnh, nhiệt độ không vượt quá 26 độ.",R1Pybq6mF-M

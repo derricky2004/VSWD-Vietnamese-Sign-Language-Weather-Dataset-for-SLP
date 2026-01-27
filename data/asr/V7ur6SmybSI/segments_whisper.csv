@@ -1,0 +1,35 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,2.0,2.0,46,Còn tiếp theo sẽ là thông tin dự báo thời tiết,V7ur6SmybSI
+1,2.0,6.400000095367432,4.400000095367432,89,Đến thời điểm này thì bão số 12 đã có những tác động tới đất liền miền trung như thế nào?,V7ur6SmybSI
+2,6.400000095367432,9.399999618530273,2.999999523162842,87,Sau đây biên tập viên thời tiết Thanh Tùng sẽ chuyển từ quý vị những thông tin cập nhật,V7ur6SmybSI
+3,9.399999618530273,10.399999618530273,1.0,22,Xin mời anh Thanh Tùng,V7ur6SmybSI
+4,10.399999618530273,10.899999618530273,0.5,10,Cảm ơn anh,V7ur6SmybSI
+5,10.899999618530273,12.399999618530273,1.5,22,Thưa quý vị và các bạn,V7ur6SmybSI
+6,12.399999618530273,15.600000381469727,3.200000762939453,60,Cái tác động đầu tiên của cơn bão số 12 này đó là gây ra mưa,V7ur6SmybSI
+7,15.600000381469727,18.600000381469727,3.0,55,Và khoảng từ chiều tối nay thì khu vực gần với bão nhất,V7ur6SmybSI
+8,18.600000381469727,21.600000381469727,3.0,36,Đó là từ Quảng Nam cho đến Khánh Hòa,V7ur6SmybSI
+9,21.600000381469727,23.600000381469727,2.0,29,Thì đã có lúc có mưa nặng hạt,V7ur6SmybSI
+10,23.600000381469727,28.200000762939453,4.600000381469727,80,Từ đêm nay thì vùng màu xanh và màu vàng này thì sẽ trồm lên cả khu vực đất liền,V7ur6SmybSI
+11,28.200000762939453,30.200000762939453,2.0,43,Và khi đó thì trời sẽ có mưa to ở nhiều nơi,V7ur6SmybSI
+12,30.200000762939453,36.20000076293945,6.0,74,Trọng tâm mưa đó là các tỉnh từ Quảng Trị xuống tới phía Bắc của Khánh Hòa,V7ur6SmybSI
+13,36.20000076293945,42.20000076293945,6.0,93,Với lượng mưa từ đêm nay cho đến ngày 12 tháng 11 phổ biến là từ 200 cho đến 400mm của cả đợt,V7ur6SmybSI
+14,42.20000076293945,46.20000076293945,4.0,64,"Riêng ở Quảng Bình, phía Nam của Khánh Hòa và khu vực Tây Nguyên",V7ur6SmybSI
+15,46.20000076293945,49.20000076293945,3.0,44,Thì lượng mưa là từ 100 cho đến 200mm cả đợt,V7ur6SmybSI
+16,49.20000076293945,53.20000076293945,4.0,74,Cảnh báo lũ trên các sông từ Quảng Trị cho đến Khánh Hòa và Bắc Tây Nguyên,V7ur6SmybSI
+17,53.20000076293945,57.79999923706055,4.599998474121094,71,Sẽ lên ở mức từ báo động 2 đến báo động 3 và có sông là trên báo động 3,V7ur6SmybSI
+18,57.79999923706055,60.79999923706055,3.0,51,Nguy cơ cao xảy ra lũ quét và sạt lở đất ở vùng núi,V7ur6SmybSI
+19,60.79999923706055,62.79999923706055,2.0,41,Ngập lột ở những vùng trũng thấp ven sông,V7ur6SmybSI
+20,62.79999923706055,66.80000305175781,4.000003814697266,55,Các đô thị từ Quảng Bình đến Khánh Hòa và cả Tây Nguyên,V7ur6SmybSI
+21,66.80000305175781,70.80000305175781,4.0,86,Quý vị nên thường xuyên quan sát xung quanh nhà để sớm phát hiện những dấu hiệu sạt lở,V7ur6SmybSI
+22,70.80000305175781,73.80000305175781,3.0,73,Nếu như nghe thấy những tiếng động mạnh hoặc là những dấu hiệu bất thường,V7ur6SmybSI
+23,73.80000305175781,76.80000305175781,3.0,50,Thì cần phải chạy thật nhanh ra khỏi nơi nguy hiểm,V7ur6SmybSI
+24,76.80000305175781,80.80000305175781,4.0,68,Tuyệt đối là không đi qua hoặc là lại gần những khu vực có bị sạt lở,V7ur6SmybSI
+25,81.4000015258789,85.4000015258789,4.0,80,Còn bây giờ chúng tôi sẽ được chuyển sang phần dự báo chi tiết cho các thành phố,V7ur6SmybSI
+26,85.4000015258789,89.4000015258789,4.0,53,"Với thủ đô Hà Nội, đêm nay không mưa, trời lạnh 18 độ",V7ur6SmybSI
+27,89.4000015258789,92.4000015258789,3.0,59,Ngày mai thì trời nắng và nhiệt độ tăng nhanh lên mức 28 độ,V7ur6SmybSI
+28,93.4000015258789,97.4000015258789,4.0,46,"Thành phố Huế đêm nay có mưa vừa, mưa to 22 độ",V7ur6SmybSI
+29,97.4000015258789,100.4000015258789,3.0,56,Mưa kéo dài sang cả ngày mai và nhiệt độ không quá 25 độ,V7ur6SmybSI
+30,102.4000015258789,105.4000015258789,3.0,45,Thành phố Hồ Chí Minh đêm nay tạnh giáo 24 độ,V7ur6SmybSI
+31,105.4000015258789,107.4000015258789,2.0,37,Ngày mai thì trời nắng rán đoạn 31 độ,V7ur6SmybSI
+32,107.4000015258789,110.4000015258789,3.0,42,Và chiều tối thì mưa vài nơi không đáng kể,V7ur6SmybSI
+33,110.80000305175781,113.4000015258789,2.5999984741210938,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,V7ur6SmybSI

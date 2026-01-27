@@ -1,0 +1,33 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.400000095367432,4.400000095367432,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,q8ZW-FZqpp4
+1,4.400000095367432,8.319999694824219,3.919999599456787,95,"Chào chị Hương Liên, không biết là diễn biến áp thấp nhiệt đới hiện lúc này thì như thế nào rồi",q8ZW-FZqpp4
+2,8.319999694824219,10.720000267028809,2.40000057220459,55,và có gây mưa lớn tại nhiều tỉnh thành phố hay không ạ?,q8ZW-FZqpp4
+3,10.720000267028809,13.84000015258789,3.119999885559082,62,"Vâng anh Dương, áp thấp nhiệt đới này gần như là ít di chuyển.",q8ZW-FZqpp4
+4,13.84000015258789,16.639999389648438,2.799999237060547,59,Lúc này thì vẫn đang ở trên vùng biển Đà Nẵng – Quảng Ngãi.,q8ZW-FZqpp4
+5,16.639999389648438,20.0,3.3600006103515625,53,Chính vì vậy mà nó vẫn sẽ gây mưa lớn cho miền Trung.,q8ZW-FZqpp4
+6,20.0,27.600000381469727,7.600000381469727,107,"Trên ảnh radar chiều nay, vùng mưa nhiều nhất tập trung ở phía nam của Quảng Bình trở xuống đến Quảng Ngãi.",q8ZW-FZqpp4
+7,27.760000228881836,34.0,6.239999771118164,73,Có điểm mưa to 30-40mm trong 1 tiếng tương ứng với vùng màu vàng cam này.,q8ZW-FZqpp4
+8,34.0,37.20000076293945,3.200000762939453,55,Dự báo vùng mưa lớn sẽ dịch dần ra phía bắc miền Trung.,q8ZW-FZqpp4
+9,37.20000076293945,44.08000183105469,6.880001068115234,94,"Sau Đà Nẵng, Quảng Nam, Quảng Ngãi thì đêm nay ngày mai trọng tâm mưa lớn nhất sẽ nằm ở 2 tỉnh",q8ZW-FZqpp4
+10,44.08000183105469,46.959999084472656,2.8799972534179688,31,là Quảng Trị và Thừa Thiên Huế.,q8ZW-FZqpp4
+11,46.959999084472656,52.400001525878906,5.44000244140625,52,Lượng mưa tại đây từ 100-200mm và có nơi vượt 200mm.,q8ZW-FZqpp4
+12,52.400001525878906,56.400001525878906,4.0,63,Quảng Bình đến Thanh Hóa thì mưa sẽ kéo dài đến thứ 3 tuần sau.,q8ZW-FZqpp4
+13,56.400001525878906,62.79999923706055,6.399997711181641,56,Lượng mưa cả đợt phổ biến 50-150mm và có nơi trên 150mm.,q8ZW-FZqpp4
+14,62.79999923706055,67.76000213623047,4.960002899169922,76,"Với diễn biến mưa như vậy, lũ trên các sông ở con tung Quảng Ngãi xuống dần.",q8ZW-FZqpp4
+15,67.76000213623047,72.4000015258789,4.6399993896484375,79,"Các sông từ Quảng Bình đến Quảng Nam từ tối nay có thể sẽ xuất hiện một đợt lũ,",q8ZW-FZqpp4
+16,72.4000015258789,78.95999908447266,6.55999755859375,92,"trong đó các sông phía nam của Quảng Bình và Quảng Trị sẽ lên mức báo động 1 đến báo động 2,",q8ZW-FZqpp4
+17,78.95999908447266,81.83999633789062,2.8799972534179688,46,nguy cơ gây ngập úng vùng trũng thấp ven sông.,q8ZW-FZqpp4
+18,81.91999816894531,87.04000091552734,5.120002746582031,65,"Ngoài ra, khu vực vùng núi từ Quảng Bình trở xuống đến Quảng Ngãi",q8ZW-FZqpp4
+19,87.04000091552734,89.68000030517578,2.6399993896484375,39,cần chú ý đến cả lũ quét và sạt lở đất.,q8ZW-FZqpp4
+20,90.4800033569336,93.04000091552734,2.55999755859375,40,"Đối với Bắc Bộ, ngày mai cũng sẽ có mưa.",q8ZW-FZqpp4
+21,93.04000091552734,97.27999877929688,4.239997863769531,64,"Mưa rào từng lúc đan xen với nắng, cảm giác đỡ nóng hơn hôm nay.",q8ZW-FZqpp4
+22,97.27999877929688,103.12000274658203,5.840003967285156,75,Nhiệt độ cao nhất tại thủ đô Hà Nội và các thành phố trong khoảng 31-34 độ.,q8ZW-FZqpp4
+23,103.91999816894531,107.91999816894531,4.0,80,Cuối bản tin sẽ là phần dự báo thời tiết 2 ngày đầu tuần trong một số thành phố.,q8ZW-FZqpp4
+24,108.4000015258789,111.5999984741211,3.1999969482421875,55,Thủ đô Hà Nội trời sẽ lúc nắng lúc có mưa rào kèm rông.,q8ZW-FZqpp4
+25,111.5999984741211,114.63999938964844,3.0400009155273438,38,Nhiệt độ cao nhất 2 ngày tới 32-33 độ.,q8ZW-FZqpp4
+26,115.12000274658203,118.4000015258789,3.279998779296875,47,"Cố đô Huế, đêm nay ngày mai còn mưa vừa mưa to.",q8ZW-FZqpp4
+27,118.4000015258789,120.23999786376953,1.839996337890625,31,Sau đó đến thứ ba mưa giảm dần.,q8ZW-FZqpp4
+28,120.23999786376953,125.19999694824219,4.959999084472656,70,Nhiệt độ theo đó cũng tăng từ 30 độ vào ngày mai lên 32 độ vào thứ ba.,q8ZW-FZqpp4
+29,125.76000213623047,130.39999389648438,4.639991760253906,83,"Thành phố Hồ Chí Minh, 2 ngày tới vẫn có mưa rông về chiều, đề phòng gió giật mạnh.",q8ZW-FZqpp4
+30,130.39999389648438,134.32000732421875,3.920013427734375,52,"Sáng đến trưa trời nắng, nhiệt độ cao nhất 32-33 độ.",q8ZW-FZqpp4
+31,141.60000610351562,143.83999633789062,2.239990234375,48,Hẹn gặp lại các bạn trong những video tiếp theo.,q8ZW-FZqpp4

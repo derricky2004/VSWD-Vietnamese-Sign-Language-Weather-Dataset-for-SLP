@@ -1,0 +1,36 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.5799999237060547,3.5799999237060547,93,Còn sau đây sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Thanh Tùng.,tMe0PfEze14
+1,3.8399999141693115,4.599999904632568,0.7599999904632568,20,Chào anh Thanh Tùng!,tMe0PfEze14
+2,4.860000133514404,8.699999809265137,3.8399996757507324,99,Ngày hôm nay Hà Nội thì có thể có cái cảm giác tôi nghĩ là nóng và rát hơn rất nhiều và oi bức nữa.,tMe0PfEze14
+3,8.960000038146973,11.260000228881836,2.3000001907348633,61,Và ai cũng mong chờ là thứ Bảy Chủ nhật sắp tới cuối tuần rồi,tMe0PfEze14
+4,11.520000457763672,12.800000190734863,1.2799997329711914,42,Thời tiết sẽ dễ chịu hơn anh Thanh Tùng ạ.,tMe0PfEze14
+5,13.0600004196167,14.34000015258789,1.2799997329711914,37,"Vâng, mong muốn của tất cả mọi người.",tMe0PfEze14
+6,14.600000381469727,17.399999618530273,2.799999237060547,80,Thế nhưng hơi tiếc một chút khi tôi phải nói với anh Dương và quý vị khán giả là,tMe0PfEze14
+7,17.65999984741211,19.459999084472656,1.7999992370605469,39,Hai ngày cuối tuần thì không chỉ Hà Nội,tMe0PfEze14
+8,19.719999313354492,22.020000457763672,2.3000011444091797,59,mà nhiều tỉnh thành khác trên khắp ba miền của chúng ta thì,tMe0PfEze14
+9,22.5,24.799999237060547,2.299999237060547,70,Cái mức độ nắng nóng nó vẫn sẽ còn tương tự như là ngày hôm nay đấy ạ.,tMe0PfEze14
+10,25.059999465942383,31.200000762939453,6.14000129699707,133,Và thưa quý vị những vùng nóng của miền Bắc như là thủ đô Hà Nội thì sẽ là nóng khô chứ không còn là nóng oi như là những ngày trước.,tMe0PfEze14
+11,31.200000762939453,34.02000045776367,2.8199996948242188,55,Bởi vì là bầu trời ít mây hơn và nắng thì cũng rát hơn.,tMe0PfEze14
+12,34.52000045776367,40.5,5.979999542236328,112,Nhưng độ ngày hôm nay và ngày mai thì đều tăng lên mức cao là 38 độ và độ ẩm trong không khí thì rất là hạn chế.,tMe0PfEze14
+13,40.5,43.81999969482422,3.3199996948242188,40,Quý vị có thể quan sát là mức 49 và 50%.,tMe0PfEze14
+14,44.34000015258789,46.900001525878906,2.5600013732910156,66,Những nơi có chung trạng thái khô nóng trong ngày mai của miền Bắc,tMe0PfEze14
+15,47.34000015258789,52.7400016784668,5.400001525878906,65,"Phải kể đến như là ở Hải Dương, Ninh Bình, Hòa Bình hay Việt Trì.",tMe0PfEze14
+16,52.7400016784668,58.7400016784668,6.0,89,Những độ ở đây thì đều rất là cao 37 đến 38 độ và độ ẩm trong không khí đều dưới mức 50%.,tMe0PfEze14
+17,59.2400016784668,67.73999786376953,8.499996185302734,120,"Một số điểm vùng núi như là ở Sơn La, Điện Biên Phổ hay là ở Lào Cai và Hà Giang thì không quá nóng từ 30 cho đến 33 độ.",tMe0PfEze14
+18,68.23999786376953,73.37999725341797,5.1399993896484375,104,Ở khu vực miền Trung thì ngày mai dự báo là hàng loạt các thành phố từ Thanh Hóa trở vào cho đến Tuy Hòa,tMe0PfEze14
+19,73.37999725341797,79.0199966430664,5.6399993896484375,93,thì cũng sẽ duy trì nắng nóng gây gắt và mức nhiệt ở đây cũng rất là cao từ 37 cho đến 39 độ.,tMe0PfEze14
+20,79.0199966430664,86.0199966430664,7.0,111,"Ở Phan Rang, Tháp Chàm 36 độ, thời tiết vừa khô vừa nóng và độ ẩm không khí của khu vực miền Trung vào ngày mai",tMe0PfEze14
+21,86.0199966430664,89.0199966430664,3.0,54,thì cũng chỉ giao động trong khoảng từ 40 cho đến 50%.,tMe0PfEze14
+22,90.0199966430664,93.0199966430664,3.0,67,Khu vực Nam Bộ thì ngày mai tiếp tục duy trì nắng nóng ở nhiều nơi.,tMe0PfEze14
+23,93.0199966430664,99.0199966430664,6.0,108,"Sẽ không chỉ diễn ra ở miền Đông như là tại thành phố Hồ Chí Minh, Biên Hòa, Thù Dầu Một, Đồng Phú, Tây Ninh",tMe0PfEze14
+24,99.66000366210938,102.66000366210938,3.0,73,"Ngay cả một số điểm ở miền Tây như là Vĩnh Long, Cao Lãnh hay là Châu Đốc",tMe0PfEze14
+25,102.66000366210938,105.66000366210938,3.0,45,thì cũng sẽ có mức nhiệt từ 35 cho đến 36 độ.,tMe0PfEze14
+26,105.66000366210938,107.66000366210938,2.0,46,Thời tiết giống như là những ngày mùa khô vậy.,tMe0PfEze14
+27,108.66000366210938,112.66000366210938,4.0,134,Còn ngay sau đây chúng tôi sẽ được chuyển sang phần cập nhật những thông tin dự báo chi tiết cho các thành phố trong 2 ngày cuối tuần.,tMe0PfEze14
+28,113.66000366210938,116.66000366210938,3.0,71,Thủ đô Hà Nội 2 ngày tới thì đều nắng nóng gây gắt như là ngày hôm nay.,tMe0PfEze14
+29,116.66000366210938,118.66000366210938,2.0,27,Nhiệt độ cao nhất là 38 độ.,tMe0PfEze14
+30,118.66000366210938,120.66000366210938,2.0,26,Ban đêm trời oi bức 31 độ.,tMe0PfEze14
+31,122.66000366210938,127.66000366210938,5.0,89,Thành phố Huế dự báo từ đêm trời không còn dễ chịu nữa khi mà nhiệt tăng từ 26 lên 31 độ.,tMe0PfEze14
+32,128.3000030517578,131.3000030517578,3.0,51,Còn ban ngày thì nhiệt vẫn duy trì là 38 đến 39 độ.,tMe0PfEze14
+33,133.3000030517578,138.3000030517578,5.0,93,"Thành phố Đà Lạt lại có những ngày cuối tuần trời đẹp, gió mát với mức nhiệt là 24 đến 26 độ.",tMe0PfEze14
+34,138.3000030517578,140.3000030517578,2.0,35,Riêng chiều tối có thể có mưa rông.,tMe0PfEze14

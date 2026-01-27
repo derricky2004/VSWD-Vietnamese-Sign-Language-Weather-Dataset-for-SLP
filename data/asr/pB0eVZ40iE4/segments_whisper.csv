@@ -1,0 +1,23 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.0,3.0,83,Bây giờ chương trình tiếp tục với thông tin thời tiết với biên tập viên Hương Liên.,pB0eVZ40iE4
+1,3.0,4.0,1.0,20,Chào chị Hương Liên.,pB0eVZ40iE4
+2,4.0,7.0,3.0,50,Chưa chiều nay thì Hà Nội nắng rát và rất bí bách.,pB0eVZ40iE4
+3,7.0,10.0,3.0,57,Không biết là cái thời tiết này nó còn kéo dài không chị?,pB0eVZ40iE4
+4,10.0,13.0,3.0,63,"Vâng anh Dũng, Hà Nội sẽ còn phải trải qua nhiều ngày nóng nữa.",pB0eVZ40iE4
+5,13.0,15.0,2.0,45,Thậm chí là từ ngày mai sẽ còn nắng nóng hơn.,pB0eVZ40iE4
+6,15.0,21.0,6.0,88,Nhận độ tăng lên là 35 độ và từ thứ 5 đến chủ nhật sẽ tiếp tục cao hơn từ 1 đến 2 độ nữa,pB0eVZ40iE4
+7,21.0,23.0,2.0,19,ở mức 36 đến 37 độ.,pB0eVZ40iE4
+8,23.0,27.0,4.0,64,Trời nắng trang trang ngay từ sáng và kéo dài cho đến 16-17 giờ.,pB0eVZ40iE4
+9,27.0,31.0,4.0,74,Cảnh báo từ thứ 5 này thì nắng nóng diện rộng cũng sẽ quay trở lại Bắc Bộ.,pB0eVZ40iE4
+10,31.0,38.0,7.0,106,"Còn trong ngày mai, diện nắng nóng tập trung ở Tây Bắc Bộ gồm các tỉnh Lào Cai, Điện Biên, Sơn La Hỏa Bình",pB0eVZ40iE4
+11,38.0,41.0,3.0,47,và từ Thanh Hóa xuống đến Phú Yên của Trung Bộ.,pB0eVZ40iE4
+12,41.0,46.0,5.0,57,Nhiệt độ cao nhất phổ biến 35-38 độ và có nơi trên 38 độ.,pB0eVZ40iE4
+13,46.0,50.0,4.0,76,"Trái với thời tiết nắng nóng ở Bắc Bộ và Trung Bộ, khu vực Tây Nguyên Nam Bộ",pB0eVZ40iE4
+14,50.0,52.0,2.0,36,chiều mai lại có mưa trên diện rộng.,pB0eVZ40iE4
+15,52.0,56.0,4.0,50,Nhiều điểm mưa to với lượng mưa là từ 25 đến 50mm.,pB0eVZ40iE4
+16,56.0,61.0,5.0,77,"Trong mưa rông, rất dễ kèm theo sấm xét, gió giật mạnh và lốc xoáy nguy hiểm.",pB0eVZ40iE4
+17,61.0,64.0,3.0,62,Vùng núi của Tây Nguyên thì cần đề phòng cả sàn lở đất cục bộ.,pB0eVZ40iE4
+18,64.0,68.0,4.0,75,Còn tiếp theo sẽ là những thông tin dự báo chi tiết trong một số thành phố.,pB0eVZ40iE4
+19,68.0,74.0,6.0,93,"Thành phố Hải Phòng đêm nay có lúc mưa rào 25 độ, ngày mai trời nắng nhiệt độ cao nhất 30 độ.",pB0eVZ40iE4
+20,74.0,80.0,6.0,100,"Thành phố Nha Trang đêm nay cũng có thể có mưa rào nhẹ 26 độ, ngày mai nắng từ sáng đến chiều 32 độ.",pB0eVZ40iE4
+21,80.0,88.0,8.0,112,"Thành phố Cần Thơ đêm nay mưa mát 26 độ, ngày mai cảnh báo mưa to kèm rông mạnh vào buổi chiều, không quá 33 độ.",pB0eVZ40iE4

@@ -1,0 +1,59 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,80,"Bây giờ là 18h, Việt Nam hôm nay sẽ tiếp tục với những tin tức thời sự cập nhật.",EKaSpZslGIM
+1,5.0,9.0,4.0,70,"Thông tin từ lãnh đạo ủy ban nhân dân huyện Phước Sơn, tỉnh Quảng Nam.",EKaSpZslGIM
+2,9.0,14.0,5.0,80,Sáng nay tại thôn 6 của xã Phước Lộc xuất hiện một điểm sạt lở vùi lấp 11 người.,EKaSpZslGIM
+3,14.0,20.0,6.0,114,Tỉnh ủy Quảng Nam ngay trong sáng nay đã yêu cầu bộ chỉ huy bộ đội biên phòng tỉnh tiếp cận hiện trường vụ sạt lở.,EKaSpZslGIM
+4,20.0,26.0,6.0,107,"Thông tin mới nhất, lực lượng tại chỗ của thôn đã tìm thấy 3 thi thể trong số 11 người bị vùi lấp nói trên.",EKaSpZslGIM
+5,26.0,32.0,6.0,121,"Như vậy, chỉ trong một thời gian ngắn đã liên tiếp xảy ra 4 vụ sạt lở đất nghiêm trọng vùi lấp nhiều người tại Quảng Nam.",EKaSpZslGIM
+6,36.0,43.0,7.0,108,Liên quan đến vụ sạt lở đất tại 2 địa điểm là Trà Văn và Trà Leong thuộc huyện Nam Trà My của tỉnh Quảng Nam,EKaSpZslGIM
+7,43.0,45.0,2.0,35,khiến nhiều người chết và mất tích.,EKaSpZslGIM
+8,45.0,51.0,6.0,100,"Sau nỗ lực mở đường, 15h ngày hôm nay, 5 nạn nhân đầu tiên đã được đưa về bệnh viện huyện Bắc Trà My",EKaSpZslGIM
+9,51.0,53.0,2.0,31,để cấp cứu và điều trị ban đầu.,EKaSpZslGIM
+10,53.0,55.0,2.0,32,Thông tin từ phóng viên Đỗ Vinh.,EKaSpZslGIM
+11,57.0,68.0,11.0,134,"Thưa quý vị, sau một quá trình nỗ lực thì hiện nay, 4 nạn nhân đầu tiên thuộc huyện Bắc Trà My đã được đưa xuống bệnh viện Bắc Trà My.",EKaSpZslGIM
+12,68.0,77.0,9.0,68,Các bác sĩ đang tích cực cấp cứu và điều trị cho các nạn nhân ở đây.,EKaSpZslGIM
+13,77.0,84.0,7.0,116,"Đây là những nạn nhân đầu tiên từ thôn 1, xã Trà Leong, được cấp cứu về trung tâm y tế huyện Bắc Trà My để điều trị.",EKaSpZslGIM
+14,84.0,86.0,2.0,19,Phần lớn là trẻ em.,EKaSpZslGIM
+15,86.0,89.0,3.0,71,Các bệnh nhân được các bác sĩ tích cực cấp cứu và có dấu hiệu tích cực.,EKaSpZslGIM
+16,89.0,94.0,5.0,90,Những nạn nhân này được người dân địa phương thay phiên nhau đưa từ làng ra đến đường lớn.,EKaSpZslGIM
+17,94.0,97.0,3.0,59,Sau đó sẽ cấp cứu mới có thể tiếp nhận và đưa về bệnh viện.,EKaSpZslGIM
+18,97.0,105.0,8.0,116,"Chiều nay, trung tâm y tế huyện Bắc Trà My có tiếp nhận 5 trường hợp sọt lỡ vùi lắp tại xã Trà Leong huyện 5 Trà My.",EKaSpZslGIM
+19,105.0,107.0,2.0,38,Theo thông tin mân đào là 5 bệnh nhân.,EKaSpZslGIM
+20,107.0,111.0,4.0,77,"Trong đó có 1 bệnh nhân theo dõi chấm thư bụng kính, 2 bệnh nhân gãi sơn đùi,",EKaSpZslGIM
+21,111.0,115.0,4.0,76,1 bệnh nhân hiện tại thì đang hoang mang chụp phim thì chưa có dấu hiệu trì.,EKaSpZslGIM
+22,115.0,121.0,6.0,75,Còn 1 trẻ em nhỏ khoảng 5 tuổi cũng đã tiến hành chụp phim sơ cứu bằng đào.,EKaSpZslGIM
+23,122.0,125.0,3.0,50,"Sau khi 5 bệnh nhân đầu tiên được đưa về điều trị,",EKaSpZslGIM
+24,125.0,130.0,5.0,88,các bệnh nhân nạn sẽ được chuyển tuyến lên bệnh viện Đa Khoa tỉnh Quảng Nam để điều trị.,EKaSpZslGIM
+25,130.0,135.0,5.0,79,Trong chiều hôm nay dự kiến có thêm 7 bệnh nhân nữa được đưa về đây để cấp cứu.,EKaSpZslGIM
+26,135.0,139.0,4.0,53,Vậy đã có 12 bệnh nhân được đưa về điều trị kịp thời.,EKaSpZslGIM
+27,139.0,145.0,6.0,124,"Hiện trung tâm y tế huyện Bắc Trà My đã chuẩn bị đầy đủ nhân lực, thiết bị y tế để tiếp nhận, điều trị thêm nhiều bệnh nhân.",EKaSpZslGIM
+28,148.0,154.0,6.0,107,"Mặc dù không nằm trong vùng tâm bão, nhưng nhiều địa phương tại Thừa Thiên Huế cũng chịu thiệt hại nặng nề.",EKaSpZslGIM
+29,154.0,159.0,5.0,106,"Đặc biệt là tại các huyện miền núi sản xuất, nông nghiệp, lâm nghiệp của bà con bị ảnh hưởng nghiêm trọng.",EKaSpZslGIM
+30,162.0,165.0,3.0,63,"Mặc dù chỉ bị ảnh hưởng bởi hoang lưu phía Bắc của Bảo Sử Chín,",EKaSpZslGIM
+31,165.0,171.0,6.0,88,nhưng gần 3 hectare cao su cùng với 2 hectare keo của ông Phạm Sơn đã bị gại đổ đến 75%.,EKaSpZslGIM
+32,171.0,178.0,7.0,110,"Cống sức hơn 10 năm trồng cây, đang thời kỳ khai thạc mù, tuy nhiên chỉ sau một trận bão, mọi thứ đã tiêu tan.",EKaSpZslGIM
+33,178.0,185.0,7.0,129,Trồng được là quá như từ nhỏ đến lớn mà trồng được 1 mảnh vạt cao su thì quá như nhờ được cái cao su để mà sinh sống 2 ngày thôi.,EKaSpZslGIM
+34,185.0,193.0,8.0,137,"Nhưng mà hôm nay là quá như nó trồng gại đổ rồi, tôi không biết cái cách để làm kiểu nào để cho con tồn tại về cái mức sống của mình nữa.",EKaSpZslGIM
+35,193.0,196.0,3.0,69,Nam Đông là vùng chuyên trồng cây công nghiệp của tỉnh Thơ Thiên Huế.,EKaSpZslGIM
+36,196.0,204.0,8.0,109,"Cơn bão số 9 đi qua, địa phương này đã có 2.500 hectare keo và 1.500 hectare cao su đang thu hoạch bị gại đổ.",EKaSpZslGIM
+37,204.0,210.0,6.0,95,"Tại đây đã có 5 nhà dân bị sập, nhiều trường học, trụ sở cơ quan và gần 400 nhà dân bị tắt máy.",EKaSpZslGIM
+38,210.0,216.0,6.0,118,"Toàn bộ huyền Nam Đông đã bị mất điện, công tác phát phục vẫn đang được thực hiện gấp rút để đảm bảo có điện sớm nhất.",EKaSpZslGIM
+39,216.0,226.0,10.0,121,"Cùng với điện lực để sớm nhất đưa điện về trung tâm và đưa điện về các vùng xa xôi, hẻo lánh trên địa bàn huyền Nam Đông.",EKaSpZslGIM
+40,226.0,233.0,7.0,136,"Trên địa bàn tỉnh Thơ Thiên Huế đã có 4 người bị thương, 500 nhà dân bị tắt máy, hàng chục km bờ biển và bờ sông bị sạt lở nghiêm trọng.",EKaSpZslGIM
+41,233.0,238.0,5.0,86,Tập trung vào việc ưu tiên khắc phục cả đường giao thông để đảm bảo giao thông đi lại.,EKaSpZslGIM
+42,238.0,246.0,8.0,130,"Hướng bà tập trung khắc phục, giải quyết những khó khăn cho cả hồ nghèo, những khu vực bị nhà sập và ảnh hưởng của các trường học.",EKaSpZslGIM
+43,246.0,250.0,4.0,89,"Cơn bão đi qua, chính quyền địa phương cũng như người dân đang cố gắng khắc phục hậu quả.",EKaSpZslGIM
+44,250.0,258.0,8.0,128,"Tuy nhiên, bởi những diện tích cao su gãi đổ như thế này thì người dân đã thực sự trẳng tay, cuộc sống của họ đang rất khó khăn.",EKaSpZslGIM
+45,260.0,264.0,4.0,65,"Lũ vừa rút, bão lạnh tới, người dân quảng trị thêm phần khốn khó.",EKaSpZslGIM
+46,264.0,272.0,8.0,119,"Bởi nhà cửa chưa kịp dọn dẹp hậu quả từ cơn lũ trước, nhiều hộ dân ở vùng chúng lại bị ngập lụt trên diện rộng trở lại.",EKaSpZslGIM
+47,275.0,282.0,7.0,139,"Tại thôn Tân Đức, xã Triều Thành, huyện Triều Phong, tỉnh Quảng Trị, người dân ở đây đã quá mệt mỏi để chống tròi với các cơn lũ liên tiếp.",EKaSpZslGIM
+48,283.0,289.0,6.0,78,Trong vòng 20 ngày mà 5 cái lụt là quả lịch sử luôn. Nói chung là năm 2020 đi.,EKaSpZslGIM
+49,290.0,305.0,15.0,120,"Trên địa bàn huyện Triều Phong, 4 cơn lũ vừa qua đã có gần 18 ngàn hồ chân bị ngập. Chỗ sâu nhất là khoảng 3-4 bén nước.",EKaSpZslGIM
+50,305.0,311.0,6.0,97,Người dân mới nghỉ ngơi và dọn dẹp nhà cửa chưa tới 1 tuần. Giờ lại phải gánh chiều cơn lũ thứ 5.,EKaSpZslGIM
+51,312.0,317.0,5.0,84,"Mặc dù bây giờ trên địa bàn tỉnh Quảng Trị đã hết mưa, trời cũng đã có hẹn nắng lên.",EKaSpZslGIM
+52,317.0,326.0,9.0,182,"Nhưng vì thừa nguồn nước đang còn đổ về rất nhiều, hàng ngàn hộ dân ở dưới vùng trùng Quảng Trị đang bị ngập lụt rất nghiêm trọng, khó khăn, đang dọn dẹp đối với người dân Quảng Trị.",EKaSpZslGIM
+53,327.0,336.0,9.0,157,Chúng tôi đã tuyên truyền văn đồng bà con nhân dân về tích trực lương thực thực phẩm và nhũ yếu phẩm để phục vụ cho công tác án uổng trong thời gian 10 ngày.,EKaSpZslGIM
+54,336.0,345.0,9.0,135,Ngoài ra dựa trên cơ sở nguồn viện rờ của huyện và đơn vị tài trợ khác để chúng tôi tiếp tục hỗ trợ cho bà con vượt qua những khó khăn.,EKaSpZslGIM
+55,346.0,354.0,8.0,153,"Liên tục các cơn lũ qua, trên địa bàn tỉnh Quảng Trị nhiều nơi bị ngập lụt cũng như sạt lửa nghiêm trọng, gây ánh tắc nhiều tuyến đường quốc lộ, tỉnh lộ.",EKaSpZslGIM
+56,354.0,363.0,9.0,157,"Chưa tính thiệt thái về người, nhưng thiệt thái về tài sản do ngập lụt lâu ngày của người dân ở Quảng Trị đến thời điểm này vẫn chưa có thể liệt kê hết được.",EKaSpZslGIM
+57,363.0,367.0,4.0,76,"Người dân Quảng Trị đang phải hoàn bình chống lũ đầy nhọc nhằng, thiếu thốn.",EKaSpZslGIM

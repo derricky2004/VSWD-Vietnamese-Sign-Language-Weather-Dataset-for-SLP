@@ -1,0 +1,16 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,8.0,8.0,146,"Thưa quý vị tiếp tục với thông tin về thời tiết. Anh Thanh Tùng ạ, ngày mai ngày đầu tuần rồi thời tiết ở trên cả nước có gì đáng chú ý không anh?",rvrftTo_g0g
+1,8.0,15.0,7.0,144,Dạ vâng. Thưa anh quý anh và quý vị khán giả. Ngày mai ngày đầu tuần thì thời tiết đáng chú ý nhất phải kể đến đó là khu vực Trung Bộ sẽ có mưa.,rvrftTo_g0g
+2,15.0,24.0,9.0,156,"Tuy nhiên là mưa ở đây thì không lớn. Vùng mưa ngày mai cụ thể sẽ là khu vực từ Thanh Hóa trở vào đến Khánh Hòa theo kiểu thời tiết đó là lúc mưa, lúc tạnh.",rvrftTo_g0g
+3,24.0,31.0,7.0,136,Trong đó thì Thanh Hóa đến Thừa Thiên Huế gần khối khí lạnh hơn. Thế nên là nhiệt độ ở đây cao nhất cũng không vượt quá mức nhiệt 23 độ.,rvrftTo_g0g
+4,31.0,39.0,8.0,136,Do có mưa nên là cảm giác khá dét. Còn từ Đà Nẵng đến Khánh Hòa thì nhiệt độ cao hơn. Ở khu vực này thì sẽ giao động là từ 24 đến 29 độ.,rvrftTo_g0g
+5,39.0,47.0,8.0,151,Với miền Bắc thì ngày đầu tuần hầu như là không có mưa và trưa chiều còn có nắng. Vì thế cảm giác dét thì chủ yếu là xuất hiện về đêm và sáng sớm thôi.,rvrftTo_g0g
+6,47.0,52.0,5.0,92,Khi nhiệt độ toàn miền hầu hết đều là dưới mức 17 độ. Còn trưa và chiều quý vị sẽ thấy lạnh.,rvrftTo_g0g
+7,52.0,57.0,5.0,87,Nhiệt độ cao nhất ở thủ đô Hà Nội cũng như nhiều nơi khác giao động là từ 19 đến 23 độ.,rvrftTo_g0g
+8,57.0,63.0,6.0,110,Với Nam Bộ thì đang trong những ngày thời tiết ổn định. Những nơi nhiệt độ cao nhất thì nằm ở miền Đông Nam Bộ,rvrftTo_g0g
+9,63.0,69.0,6.0,101,"như là tại thành phố Hồ Chí Minh, Biên Hòa, Thủ Dông 1 hay là Tây Ninh với mức nhiệt là 32 đến 33 độ.",rvrftTo_g0g
+10,69.0,79.0,10.0,154,"Còn ở miền Tây Nam Bộ thì thời tiết dịu hơn một chút. Nhiệt độ cao nhất ở Phú Quốc, Châu Đốc, Cần Thơ, Vĩnh Long, Sóc Trăng hay Cà Mau là từ 30 đến 31 độ.",rvrftTo_g0g
+11,79.0,84.0,5.0,121,Còn bây giờ chúng tôi sẽ được chuyển sang những thông tin dự báo chi tiết cho một số thành phố trong đêm nay và ngày mai.,rvrftTo_g0g
+12,87.0,93.0,6.0,95,"Thủ đô Hà Nội đêm nay trời rét 16 độ, sáng sớm mai có sương mù nhẹ, chưa chiều trời nắng 22 độ.",rvrftTo_g0g
+13,93.0,102.0,9.0,134,"Thành phố Đà Nẵng đêm nay mưa rào, nhiệt độ khoảng 20 độ trời rét, mưa kéo dài sang cả ngày mai làm nhiệt độ cao nhất không quá 26 độ.",rvrftTo_g0g
+14,102.0,109.0,7.0,108,"Thành phố Hồ Chí Minh dự báo đêm nay tạnh giáo, sáng sớm xe lạnh 23 độ, chưa mai nhiệt độ cao nhất là 32 độ.",rvrftTo_g0g

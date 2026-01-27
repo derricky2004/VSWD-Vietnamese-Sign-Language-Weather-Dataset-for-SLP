@@ -1,0 +1,38 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,86,Còn tiếp theo sẽ đến thông tin dự báo thời tiết đến từ biên tập viên Thời tiết Hải Yến,CX22seEkK2g
+1,4.0,8.0,4.0,83,"Chị Hải Yến thân mến, như vậy là một mùa Giáng sinh đang về với tất cả chúng ta rồi",CX22seEkK2g
+2,8.0,11.0,3.0,79,Và ai cũng mong chờ rằng cái Z đặc trưng của miền Bắc rất là hợp với Giáng sinh,CX22seEkK2g
+3,11.0,15.0,4.0,99,Không biết là thời tiết vào ngày mai thì có nhiều sáo trộn so với những ngày vừa qua không chị Yến?,CX22seEkK2g
+4,15.0,18.0,3.0,65,"Vâng ạ, có lẽ là ngày mai thì vẫn không có quá nhiều sáo trộn nữa",CX22seEkK2g
+5,18.0,21.0,3.0,74,Mặc dù là ngày mai thì có thêm không khí lạnh yếu tăng cường xuống nước ta,CX22seEkK2g
+6,21.0,24.0,3.0,94,Nhưng mà quý vị khán giả ở miền Bắc và đi chơi vào dịp Giáng sinh thì có thể hoàn toàn yên tâm,CX22seEkK2g
+7,24.0,26.0,2.0,44,Bởi là xu thế thời tiết thì vẫn sẽ là ấm lên,CX22seEkK2g
+8,26.0,29.0,3.0,57,Chỉ có trạng thái thời tiết là hơi thay đổi một chút thôi,CX22seEkK2g
+9,29.0,31.0,2.0,56,Cụ thể ra sao thì ngay bây giờ chúng ta sẽ cùng cập nhật,CX22seEkK2g
+10,31.0,34.0,3.0,67,"Thưa quý vị, đó là trạng thái thời tiết nhiều mây tại thủ đô Hà Nội",CX22seEkK2g
+11,34.0,36.0,2.0,38,Như ngày hôm nay thì sang đến ngày mai,CX22seEkK2g
+12,36.0,39.0,3.0,33,Nó sẽ mở rộng ra khu vực phía Tây,CX22seEkK2g
+13,39.0,43.0,4.0,52,"Bao trùng tuyên quang, hà giang, yên bái và hòa bình",CX22seEkK2g
+14,43.0,48.0,5.0,84,Nhiệt độ cao nhất cho chiều mai thì vẫn phổ biến trong khoảng là từ 20 cho đến 22 độ,CX22seEkK2g
+15,48.0,51.0,3.0,40,Chỉ riêng có lạng sơn mức nhiệt là 18 độ,CX22seEkK2g
+16,51.0,55.0,4.0,76,Còn ở miền trung thì không khí lệnh tăng cường xuống sẽ không làm mưa to hơn,CX22seEkK2g
+17,55.0,58.0,3.0,44,Mà chỉ mở rộng vùng mưa ra các tỉnh miền Bắc,CX22seEkK2g
+18,58.0,60.0,2.0,36,Đó là Quảng Bình cũng như là Hà Tĩnh,CX22seEkK2g
+19,60.0,63.0,3.0,53,Cùng với mức nhiệt thấp khoảng là từ 20 cho đến 21 độ,CX22seEkK2g
+20,63.0,68.0,5.0,77,Vậy nên tại các thành phố Hà Tĩnh và Đồng Hới thì trời vẫn sẽ rét cả ngày mai,CX22seEkK2g
+21,68.0,71.0,3.0,40,Còn từ Đà Nẵng trở vào cho đến Nha Trang,CX22seEkK2g
+22,71.0,75.0,4.0,53,Thì mức nhiệt phổ biến tại đây là từ 25 cho đến 26 độ,CX22seEkK2g
+23,75.0,78.0,3.0,46,Ở Nam Bộ thì dự báo trong đêm nay và chiều mai,CX22seEkK2g
+24,78.0,82.0,4.0,65,Sẽ còn có mưa trong khoảng là 1 phần 3 diện tích khu vực miền Tây,CX22seEkK2g
+25,82.0,88.0,6.0,95,Và nhiệt độ cao nhất ngày mai tại đây sẽ giao động quanh ngưỡng là từ 27 cho đến 29 độ trời mát,CX22seEkK2g
+26,88.0,91.0,3.0,54,Còn tại khu vực miền Đông Nam Bộ thì mưa không đáng kể,CX22seEkK2g
+27,91.0,95.0,4.0,45,Nên nhiệt độ sẽ nhỉnh hơn từ 30 cho đến 32 độ,CX22seEkK2g
+28,95.0,100.0,5.0,82,Còn bây giờ sẽ là phần dự báo chi tiết cho các thành phố trong đêm nay và ngày mai,CX22seEkK2g
+29,100.0,103.0,3.0,40,Thành phố Hà Nội đêm nay không mưa 18 độ,CX22seEkK2g
+30,103.0,105.0,2.0,29,Ngày mai trời nhiều mây 21 độ,CX22seEkK2g
+31,105.0,108.0,3.0,39,Thành phố Đà Lạt đêm nay trời rét 17 độ,CX22seEkK2g
+32,108.0,110.0,2.0,32,Ngày mai nhiệt độ tăng lên 21 độ,CX22seEkK2g
+33,110.0,112.0,2.0,17,Mây nhiều cả ngày,CX22seEkK2g
+34,112.0,115.0,3.0,47,Thành phố Hồ Chí Minh đêm nay mưa vài nơi 23 độ,CX22seEkK2g
+35,115.0,117.0,2.0,23,Ngày mai trời mát 31 độ,CX22seEkK2g
+36,117.0,119.0,2.0,32,Chiều tối mai mưa xảy ra vài nơi,CX22seEkK2g

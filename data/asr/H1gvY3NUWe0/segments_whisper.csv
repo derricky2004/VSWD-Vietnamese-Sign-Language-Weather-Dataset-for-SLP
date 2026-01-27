@@ -1,0 +1,26 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.0,3.0,47,Bây giờ sẽ là những thông tin dự báo thời tiết.,H1gvY3NUWe0
+1,3.0,8.0,5.0,114,"Chị Duân Anh, Hà Nội ngày hôm nay có vẻ nhiều mây hơn, độ ẩm chắc có lẽ cũng cải thiện so với mấy hôm vừa rồi nhỉ?",H1gvY3NUWe0
+2,8.0,13.0,5.0,122,Vâng đúng là như vậy và không chỉ có ở thủ đô Hà Nội đâu mà miền Bắc thì nhiều nơi khác cũng có mây nhiều lên anh Dương ạ.,H1gvY3NUWe0
+3,13.0,20.0,7.0,134,Cụ thể một số nơi như là Móng Cái hay là tại Ninh Bình hay là Cao Bằng thì trời nhiều mây lên và độ ẩm ghi nhận được cũng tăng lên rõ.,H1gvY3NUWe0
+4,20.0,25.0,5.0,50,Phổ biến trong khoảng là từ 14 cho tới mức là 21%.,H1gvY3NUWe0
+5,25.0,31.0,6.0,107,Với mức tăng như thế này và trời thì nhiều mây báo hiệu là cho thấy không khí lạnh ngày mai sẽ về miền Bắc.,H1gvY3NUWe0
+6,31.0,41.0,10.0,133,Lần này thì không khí lạnh tăng cường chủ yếu là lệch đông từ biển dồn vào đất liền và sẽ làm thay đổi trạng thái thời tiết ở Bắc Bộ.,H1gvY3NUWe0
+7,41.0,46.0,5.0,87,Dự báo trong sáng mai thì đối với vùng Đông Bằng và vai miền Bắc Bộ trời sẽ có mưa nhỏ.,H1gvY3NUWe0
+8,46.0,54.0,8.0,99,Cụ thể tại thủ đô Hà Nội thì vào sáng mai do có mưa và độ ẩm thì tăng cao gần như là ở mức bão hòa.,H1gvY3NUWe0
+9,54.0,60.0,6.0,71,Nên là sau mưa thì trời bạnh và độ ẩm thì lại giảm nhanh khoảng là 68%.,H1gvY3NUWe0
+10,60.0,65.0,5.0,100,Tuy nhiên thì đây vẫn là mức ẩm phù hợp với con người chứ không còn khô như là những ngày trước nữa.,H1gvY3NUWe0
+11,65.0,71.0,6.0,89,Còn bên nhiệt độ do có mưa nên là ngày mai ở thủ đô Hà Nội mức nhiệt gần như là đi ngang.,H1gvY3NUWe0
+12,71.0,77.0,6.0,70,Cao nhất là khoảng 21 độ. Cảm giác thì dễ dét hơn so với ngày hôm nay.,H1gvY3NUWe0
+13,77.0,83.0,6.0,119,Và cuối cùng thì sẽ xin được chuyển sang phần thông tin dự báo chi tiết cho một số thành phố trong đêm nay và ngày mai.,H1gvY3NUWe0
+14,83.0,88.0,5.0,92,Ở khu vực Sa Pa nằm ở phía Tây Bắc Bộ nên chưa chịu ảnh hưởng của không khí lạnh tăng cường.,H1gvY3NUWe0
+15,88.0,91.0,3.0,28,Đêm nay trời tạnh giáo 7 độ.,H1gvY3NUWe0
+16,91.0,95.0,4.0,47,Ngày mai trời nắng với nhiệt độ cao nhất 15 độ.,H1gvY3NUWe0
+17,95.0,98.0,3.0,36,Đà Nẵng đêm nay có mưa trời dét nhẹ.,H1gvY3NUWe0
+18,99.0,103.0,4.0,66,Trời khá lạnh với mức nhiệt cao nhất vào ngày mai là khoảng 24 độ.,H1gvY3NUWe0
+19,107.0,111.0,4.0,76,Thành phố Cần Thơ vào đêm nay sáng sớm mai trời xe lạnh với mức nhiệt 22 độ.,H1gvY3NUWe0
+20,113.0,116.0,3.0,52,Ngày mai trời nắng nhiệt độ vừa phải cao nhất 31 độ.,H1gvY3NUWe0
+21,128.0,132.0,4.0,66,Trời khá lạnh với mức nhiệt cao nhất vào ngày mai là khoảng 24 độ.,H1gvY3NUWe0
+22,135.0,139.0,4.0,70,Thành phố Trắng Thủ nhảy vào đêm nay sáng sớm mai trời cao nhất 23 độ.,H1gvY3NUWe0
+23,140.0,144.0,4.0,72,Thành phố Trường Thái nhảy vào đêm nay sáng sớm mai trời cao nhất 31 độ.,H1gvY3NUWe0
+24,148.0,152.0,4.0,68,Thành phố Đà Nẵng nhảy vào đêm nay sáng sớm mai trời cao nhất 41 độ.,H1gvY3NUWe0

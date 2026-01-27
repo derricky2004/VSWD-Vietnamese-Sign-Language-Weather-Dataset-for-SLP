@@ -1,0 +1,45 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,83,"Thưa quý vị, thông tin từ lãnh đạo Ủy ban Nhân dân huyện Phước Sơn, tỉnh Quảng Nam.",PU1K7CGfyf4
+1,5.0,12.0,7.0,109,"Sáng nay, tại thôn 6 của xã Phước Lộc giáp với cả tỉnh Con Tum đã xuất hiện một điểm sạt lở vùi lấp 11 người.",PU1K7CGfyf4
+2,12.0,19.0,7.0,114,Tỉnh ủy Quảng Nam ngay trong sáng nay đã yêu cầu Bộ Chỉ huy Bộ đội Biên phòng tỉnh tiếp cận hiện trường vụ sạt lở.,PU1K7CGfyf4
+3,19.0,25.0,6.0,107,"Thông tin mới nhất, lực lượng tại chỗ của thôn đã tìm thấy 3 thi thể trong số 11 người bị vùi lấp nói trên.",PU1K7CGfyf4
+4,25.0,28.0,3.0,58,"Như vậy, chỉ trong một thời gian ngắn đã liên tiếp xảy ra.",PU1K7CGfyf4
+5,30.0,37.0,7.0,125,"Thưa quý vị, một thông tin tốt mà chúng tôi mới nhận được từ vụ sạt lở đất tại xã Trà Leng, huyện Nam Trà My, tỉnh Quảng Nam.",PU1K7CGfyf4
+6,37.0,44.0,7.0,125,"Đến 16 giờ chiều nay, lực lượng chức năng đã tìm được 3 măng đã đưa 8 người bị thương về đến trung tâm y tế huyện Bắc Trà My.",PU1K7CGfyf4
+7,44.0,48.0,4.0,62,Như vậy là vẫn còn 13 người đang mất tích trong vụ sạt lở này.,PU1K7CGfyf4
+8,48.0,51.0,3.0,62,Chúng tôi sẽ cập nhật tình hình cứu nạn trong các bản tin sau.,PU1K7CGfyf4
+9,52.0,60.0,8.0,104,"Ngay sau khi được lệnh của Bộ Quốc phòng, quân chủng hải quân đã điều động lực lượng của vùng 4 hải quân",PU1K7CGfyf4
+10,60.0,65.0,5.0,71,và lữ đoàn không quân hải quân 954 để tìm kiếm tàu cá ngư dân mất tích.,PU1K7CGfyf4
+11,65.0,75.0,10.0,113,"Đến 7 giờ sáng nay, tàu cứu hộ đã bắt đầu tổ chức lai kéo tàu cá BD-974 đến vị trí gặp nạn của tàu cá BD-963-88TS",PU1K7CGfyf4
+12,75.0,78.0,3.0,48,để hỗ trợ tìm kiếm 12 thuyền viên đang mất tích.,PU1K7CGfyf4
+13,78.0,85.0,7.0,107,Quân chủng hải quân tiếp tục điều động tàu 461 và tàu 463 ra huyện trường tìm kiếm 2 tàu bình định còn lại.,PU1K7CGfyf4
+14,85.0,92.0,7.0,120,"Đồng thời, 2 máy bay thủy phi cơ từ sân bay Cam Ranh bay ra vùng biển này tìm kiếm và chỉ thị mục tiêu cho tàu mặt nước.",PU1K7CGfyf4
+15,92.0,99.0,7.0,119,"Như vậy, nay đã có tổng cộng là 5 tàu và 2 máy bay của quân chủng hải quân hoạt động tìm kiếm trên vùng biển Khánh Hòa.",PU1K7CGfyf4
+16,100.0,106.0,6.0,76,"Ngay bây giờ, chúng tôi đã kết nối điện thoại với Thượng tá Nguyễn Ngọc Sơn,",PU1K7CGfyf4
+17,106.0,111.0,5.0,103,Chỉ huy trưởng Trung tâm Quốc gia điều hành tìm kiếm cứu nạn để cập nhật thêm những thông tin mới nhất.,PU1K7CGfyf4
+18,111.0,118.0,7.0,126,"Thượng tá Nguyễn Ngọc Sơn, đến thời điểm này, việc tìm kiếm 26 ngư dân bình định đang mất tích đã có thêm kết quả mới gì chưa?",PU1K7CGfyf4
+19,119.0,123.0,4.0,59,"Như các bạn đã biết, hiện tại hiện trường tìm kiếm cứu nạn,",PU1K7CGfyf4
+20,123.0,127.0,4.0,64,các thuyền viên của tàu bình định bị mất tích trên vùng biển đó.,PU1K7CGfyf4
+21,127.0,131.0,4.0,53,"Ngày nay, sóng ở đó rất lớn, sóng gió đến trên cấp 5.",PU1K7CGfyf4
+22,131.0,137.0,6.0,113,"Do vậy, đã ảnh hưởng rất nhiều đến trầm quan sát của tàu mặt nước cũng như máy bay chỉ thị mục tiêu ở trên không.",PU1K7CGfyf4
+23,137.0,141.0,4.0,68,"Do vậy, đến thời điểm này, chúng ta chưa đạt được kết quả mong muốn.",PU1K7CGfyf4
+24,141.0,146.0,5.0,85,"Và với tinh thần khẩn trương, ta cũng đã nắm được Thủ trưởng Bộ Quốc phòng quyết định",PU1K7CGfyf4
+25,146.0,150.0,4.0,53,điều động thêm 2 tàu của quân trung hải quân cơ động.,PU1K7CGfyf4
+26,150.0,155.0,5.0,105,"Dự kiến đến đêm ngày hôm nay, sẽ trực tiếp tham gia với lực lượng hiện trường để tham gia tỉnh thiếu nạn.",PU1K7CGfyf4
+27,155.0,161.0,6.0,99,"Đồng thời, dự kiến ngày mai, lãnh đạo ủy ban quốc gia ứng phó trường hối giữa CIA và tỉnh thiếu nạn",PU1K7CGfyf4
+28,161.0,166.0,5.0,64,sẽ điều động tàu xa 412 của Trung tâm Phối hợp hàng hải Việt Nam,PU1K7CGfyf4
+29,166.0,169.0,3.0,66,để tham gia phối hợp với các lực lượng tàu mặt nước tỉnh thiếu nạn,PU1K7CGfyf4
+30,169.0,173.0,4.0,71,ở khu vực các ngư dân tàu bình định của chúng ta đang còn mất liên lạc.,PU1K7CGfyf4
+31,174.0,179.0,5.0,76,"Vâng thưa ông, với tình hình là thời tiết vẫn có những đợt sóng lớn như vậy,",PU1K7CGfyf4
+32,179.0,185.0,6.0,104,thì có ảnh hưởng gì đến công tác tìm kiếm và kế hoạch tìm kiếm những ngày tới sẽ triển khai như thế nào?,PU1K7CGfyf4
+33,185.0,190.0,5.0,74,"Chắc chắn là do điều kiện sóng gió to, sóng lớn thì sẽ ảnh hưởng rất nhiều",PU1K7CGfyf4
+34,190.0,193.0,3.0,52,với lực lượng tìm kiếm của chúng ta tại hiện trường.,PU1K7CGfyf4
+35,193.0,198.0,5.0,77,Nhưng với quyết tâm cao nhất thực hiện ý kiến chỉ đạo của Thủ tướng Chính phủ,PU1K7CGfyf4
+36,198.0,202.0,4.0,74,cũng như của Thủ chủ Bố Phòng thì lực lượng tìm thiếu nạn sẽ bằng mọi cách,PU1K7CGfyf4
+37,202.0,209.0,7.0,80,để khoanh vùng đánh giá theo dòng trời để khoanh vùng tìm làm sao hiệu quả nhất.,PU1K7CGfyf4
+38,209.0,213.0,4.0,67,Và ngày mai thì tại hiện trường ngoài 5 tàu của quân trung hải quân,PU1K7CGfyf4
+39,213.0,218.0,5.0,86,thì đến buổi chiều chúng ta sẽ xác định thêm 1 tàu của Trung tâm phối hợp lại Việt Nam,PU1K7CGfyf4
+40,218.0,221.0,3.0,47,và khoanh vùng để tổ chức tìm kiếm bằng mọi giá,PU1K7CGfyf4
+41,221.0,224.0,3.0,57,và tính toán làm sao để đạt hiệu quả nhất trong ngày mai.,PU1K7CGfyf4
+42,224.0,227.0,3.0,43,"Vâng, xin cảm ơn Thượng tá Nguyễn Ngọc Sơn.",PU1K7CGfyf4
+43,227.0,231.0,4.0,73,Thời tiết sẽ tốt lên để việc tìm kiếm cứu nạn có thể sớm hoàn thành được.,PU1K7CGfyf4

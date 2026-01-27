@@ -1,0 +1,30 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,2.799999952316284,2.799999952316284,75,Còn tiếp theo sẽ là những thông tin dự báo thời tiết cho những ngày sắp tới,WhSrGWxYdUk
+1,2.799999952316284,4.800000190734863,2.000000238418579,42,đến từ biên tập viên thời tiết Hương Liên.,WhSrGWxYdUk
+2,4.800000190734863,7.300000190734863,2.5,83,"Chào chị Hương Liên, không biết tình hình thời tiết cả 3 miền đất nước ngày hôm nay",WhSrGWxYdUk
+3,7.300000190734863,9.300000190734863,2.0,34,có điều gì đáng chú ý hay không ạ?,WhSrGWxYdUk
+4,9.300000190734863,12.300000190734863,3.0,74,"Vâng anh Dương, sau buổi trưa nắng thì chiều đến đêm mưa rông sẽ xuất hiện",WhSrGWxYdUk
+5,12.300000190734863,14.300000190734863,2.0,31,tại nhiều khu vực trên cả nước.,WhSrGWxYdUk
+6,14.300000190734863,17.799999237060547,3.4999990463256836,62,"Cụ thể, vùng núi Bắc Bộ có mưa trong đêm nay đến sáng sớm mai,",WhSrGWxYdUk
+7,17.799999237060547,21.799999237060547,4.0,64,có điểm mưa vừa mưa to tự ứng vùng màu xanh đậm trên bản đồ này.,WhSrGWxYdUk
+8,21.799999237060547,26.799999237060547,5.0,84,Ngoài rông lốc sấm xét đi kèm trong mưa thì cần chú ý đến nguy cơ sạt lở đất cục bộ.,WhSrGWxYdUk
+9,26.799999237060547,30.799999237060547,4.0,62,Nhất là những nơi đã có mưa to vào đêm qua như là tại Hà Giang,WhSrGWxYdUk
+10,30.799999237060547,33.79999923706055,3.0,55,"gây ra một số vụ sạt lở nhỏ ở đường Liên Thôn, tỉnh Lộ.",WhSrGWxYdUk
+11,33.79999923706055,37.79999923706055,4.0,48,Đất đá đã bở rời có thể sạt tiếp bất cứ lúc nào.,WhSrGWxYdUk
+12,37.79999923706055,42.79999923706055,5.0,83,"Đến trưa chiều mai mưa ngớt, toàn miền Bắc đều có nắng và cảm giác oi nóng trở lại.",WhSrGWxYdUk
+13,42.79999923706055,47.79999923706055,5.0,54,Nhiệt độ cao nhất ở nhiều thành phố sẽ là từ 31-35 độ.,WhSrGWxYdUk
+14,47.79999923706055,51.79999923706055,4.0,55,"Ở phía Nam, khu vực Nam Trung Bộ, Tây Nguyên và Nam Bộ,",WhSrGWxYdUk
+15,51.79999923706055,54.79999923706055,3.0,50,"chiều nay đã có mưa rông, dự báo mưa sẽ tiếp diễn.",WhSrGWxYdUk
+16,54.79999923706055,58.79999923706055,4.0,67,"Trong đêm nay, chiều mai trên diện rộng, nhiều điểm mưa vừa mưa to,",WhSrGWxYdUk
+17,58.79999923706055,63.79999923706055,5.0,75,thậm chí có nơi mưa rất to lên đến màu xanh lá cây này có thể đến cả 100mm.,WhSrGWxYdUk
+18,63.79999923706055,68.80000305175781,5.000003814697266,69,"Ngoài rông lốc sấm xét thì lưu ý các tỉnh Đắk Nông, Đắk Lắc, Lâm Đồng",WhSrGWxYdUk
+19,68.80000305175781,72.80000305175781,4.0,58,đề phòng cả lũ quét sạt lở khi mấy ngày nay đã có mưa lớn.,WhSrGWxYdUk
+20,72.80000305175781,75.80000305175781,3.0,55,Còn bây giờ sẽ là dự báo chi tiết cho một số thành phố.,WhSrGWxYdUk
+21,75.80000305175781,78.80000305175781,3.0,46,Đà Lạt tối nay có lúc mưa rông trời rét 16 độ.,WhSrGWxYdUk
+22,78.80000305175781,81.80000305175781,3.0,50,Sáng đến trưa mai trời nắng nhiệt độ khoảng 25 độ.,WhSrGWxYdUk
+23,81.80000305175781,83.80000305175781,2.0,26,Về chiều mưa rông trở lại.,WhSrGWxYdUk
+24,83.80000305175781,87.80000305175781,4.0,51,"Huế khả năng đêm nay trời tạnh giáo, dịu mát 24 độ.",WhSrGWxYdUk
+25,87.80000305175781,91.80000305175781,4.0,55,"Ngày mai trời nắng và oi nóng 34 độ, độ ẩm 61% trở lên.",WhSrGWxYdUk
+26,91.80000305175781,95.80000305175781,4.0,63,"Thủ đô Hà Nội đêm nay cũng không mưa, nhiệt độ thấp nhất 28 độ.",WhSrGWxYdUk
+27,95.80000305175781,98.80000305175781,3.0,49,"Ngày mai trời nắng nóng, nhiệt độ cao nhất 35 độ.",WhSrGWxYdUk
+28,105.80000305175781,110.80000305175781,5.0,48,Hẹn gặp lại các bạn trong những video tiếp theo!,WhSrGWxYdUk

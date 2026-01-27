@@ -1,0 +1,20 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,8.319999694824219,8.319999694824219,143,"Bây giờ sẽ là những thông tin dự báo thời tiết, Chị Xuân Anh, thời tiết nắng rão ở Hà Nội thì còn có thể duy trì trong vòng bao nhiêu ngày nữa?",xExeTuhgSAM
+1,8.319999694824219,16.959999084472656,8.639999389648438,174,"Vâng, thật ra thì nắng thì sẽ còn kéo dài trong nhiều ngày sắp tới, tuy nhiên nắng mà lại có cảm giác ấm áp như là mấy ngày vừa qua, khả năng chỉ còn trong ngày mai nữa thôi.",xExeTuhgSAM
+2,16.959999084472656,20.639999389648438,3.6800003051757812,70,Vì đến chủ nhật tuần này thì sẽ có một đợt không khí lạnh mới tràn về.,xExeTuhgSAM
+3,20.639999389648438,28.559999465942383,7.920000076293945,138,"Thưa quý vị, không khí lạnh sẽ bắt đầu ảnh hưởng tới vùng núi từ buổi chiều, sau đó đến tối và đêm chủ nhật sẽ ảnh hưởng đến các nơi khác,",xExeTuhgSAM
+4,28.639999389648438,32.880001068115234,4.240001678466797,68,trong đó có khu vực thủ đô Hà Nội và xuống cả tới phía Bắc Trung Bộ.,xExeTuhgSAM
+5,32.880001068115234,39.279998779296875,6.399997711181641,111,Do đợt không khí lạnh lần này không bị lệch ra phới biển như các lần trước nên nó giữ được bản chất khô vẫn có.,xExeTuhgSAM
+6,39.279998779296875,46.47999954223633,7.200000762939453,108,Bởi vậy mà Bắc Bộ và Bắc Trung Bộ sẽ chỉ xảy ra mưa từ chiều của ngày chủ nhật cho đến thứ hai của tuần sau.,xExeTuhgSAM
+7,46.47999954223633,50.31999969482422,3.8400001525878906,61,Các ngày sau đó thì trời chuyển sang trạng thái là nắng hanh.,xExeTuhgSAM
+8,50.31999969482422,56.720001220703125,6.400001525878906,118,"Đợt lạnh tới đây được đánh giá có cường độ mạnh nhất kể từ đầu mùa, bởi vậy mà nhiệt độ ban đêm sẽ giảm xuống rất sâu.",xExeTuhgSAM
+9,56.880001068115234,64.08000183105469,7.200000762939453,94,"Như ở thủ đô Hà Nội, mức nhiệt với đêm có thể xuống 16 độ, thấp hơn đêm ngày hôm nay tới 8 độ.",xExeTuhgSAM
+10,64.08000183105469,70.55999755859375,6.4799957275390625,103,"Còn vào ban ngày, chúng ta sẽ không cảm thấy rét vì trời có nắng và nhiệt độ luôn giữ ở mức trên 20 độ.",xExeTuhgSAM
+11,71.12000274658203,75.36000061035156,4.239997863769531,90,Đợt không khí lạnh lần này dự báo sẽ gây ra một đợt mưa lớn trên diện rộng cho miền Trung.,xExeTuhgSAM
+12,75.36000061035156,82.63999938964844,7.279998779296875,103,"Đối với khu vực từ Đà Nẵng cho đến Khánh Hòa, thời gian mưa kéo dài từ ngày 8 cho đến ngày 15 tháng 11,",xExeTuhgSAM
+13,82.63999938964844,85.5999984741211,2.9599990844726562,47,"cảnh báo lốc, xét, gió giật mạnh có thể đi kèm.",xExeTuhgSAM
+14,86.23999786376953,89.91999816894531,3.6800003051757812,85,Và cuối bản tin sẽ là phần dự báo thời tiết cho các thành phố trong 2 ngày cuối tuần.,xExeTuhgSAM
+15,89.91999816894531,96.31999969482422,6.400001525878906,109,"Đối với Hải Phòng, ngày mai trời sẽ có nắng, đến chủ nhật thì có mưa rông, nhiệt độ giảm dần xuống còn 26 độ.",xExeTuhgSAM
+16,96.31999969482422,102.95999908447266,6.6399993896484375,77,"Nha Trang vào 2 ngày tới trời có nắng 30-31 độ, về chiều tối có lúc mưa rông.",xExeTuhgSAM
+17,102.95999908447266,111.36000061035156,8.400001525878906,127,"Thành phố Hồ Chí Minh vào 2 ngày cuối tuần trời có nắng 33 độ, chiều tối có thể xảy ra ngập úng do chiều cường cao và mưa rông.",xExeTuhgSAM
+18,115.5999984741211,120.08000183105469,4.480003356933594,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,xExeTuhgSAM

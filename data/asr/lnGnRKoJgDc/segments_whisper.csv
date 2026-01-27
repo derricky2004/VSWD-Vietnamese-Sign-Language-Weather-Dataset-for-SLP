@@ -1,0 +1,62 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,7.360000133514404,7.360000133514404,128,"Thưa quý vị, mùa rông lốc trên cả nước đang bắt đầu với liên tiếp các trận rông gió, cuột đổ cây cối xảy ra khắp từ Bắc vào Nam.",lnGnRKoJgDc
+1,7.360000133514404,11.600000381469727,4.240000247955322,91,Mùa rông lốc năm nay được nhận định như thế nào? Chúng ta sẽ cùng tìm hiểu với BTV Sơn Anh.,lnGnRKoJgDc
+2,11.600000381469727,23.360000610351562,11.760000228881836,221,"Vâng, mùa rông lốc thì đúng là đã bắt đầu trên khắp cả nước rồi, tuy nhiên thì mới đầu mùa, tức là khoảng tháng 4 như hiện nay thì hai đầu đất nước sẽ là những khu vực có nguy cơ cao xảy ra các hiện tượng như anh vừa nói.",lnGnRKoJgDc
+3,23.360000610351562,34.880001068115234,11.520000457763672,184,"Ngay trước mắt, đối với khu vực Bắc Bộ hay Bắc Trung Bộ, cảnh báo rông gió có nguy cơ cao sẽ xảy ra khoảng từ chiều tối ngày hôm nay cho chiều tối ngày mai sang đến chiều tối ngày kia,",lnGnRKoJgDc
+4,34.880001068115234,40.2400016784668,5.3600006103515625,65,thêm vào đó là khoảng chiều tối ngày 28 sang đến ngày 29 tháng 4.,lnGnRKoJgDc
+5,40.2400016784668,48.959999084472656,8.71999740600586,131,Tây Nguyên và Nam Bộ cũng có nguy cơ cao xảy ra các hiện tượng này vào chiều tối ngày 28 tháng 4 và kéo dài cho đến ngày 1 tháng 5.,lnGnRKoJgDc
+6,49.279998779296875,59.84000015258789,10.560001373291016,175,"Đối với khu vực từ Đà Nẵng tới Bình Thuận thì dự báo cũng có mưa rông về chiều tối 2 ngày cuối tháng, tuy nhiên nguy cơ xảy ra rông gió mạnh nhận định là chỉ ở mức trung bình.",lnGnRKoJgDc
+7,59.84000015258789,68.4800033569336,8.640003204345703,140,Sở dĩ rông lốc ở hai đầu đất nước có nguy cơ xảy ra cao hơn hẳn so với các khu vực khác là bởi trong tháng 4 này là đang giai đoạn giao mùa.,lnGnRKoJgDc
+8,68.80000305175781,81.76000213623047,12.959999084472656,183,Đối với các tỉnh thành từ Hà Tĩnh trở ra tới Bắc Bộ thì vẫn tiếp tục có những đợt không khí lạnh tràn về trên một nền nhiệt ở đây đang nóng ẩm bởi vậy mà bầu không khí dễ bị xáo trộn.,lnGnRKoJgDc
+9,81.76000213623047,95.44000244140625,13.680000305175781,202,"Còn đối với các tỉnh thành phía Nam như là Tây Nguyên và Nam Bộ, đó là do gió Tây Nam thổi với cường độ mạnh vào cũng lại trên một nền nhiệt đang cao bởi vậy mà cũng tạo đà cho mây rông phát triển mạnh.",lnGnRKoJgDc
+10,96.4000015258789,103.76000213623047,7.3600006103515625,144,Vâng như vậy là rông lốc có khả năng xảy ra ở cả hai đầu đất nước và cụ thể hơn thì nó sẽ xảy ra ở những khu vực có địa hình như thế nào hả chị?,lnGnRKoJgDc
+11,103.76000213623047,120.4800033569336,16.720001220703125,295,"Vâng rông lốc thì không chỉ xảy ra ở những nơi vùng núi, nơi mà có địa hình không bằng phẳng mà những năm gần đây thì ở các thành phố mà có những khu đô thị lớn thì hiện tượng rông lốc xảy ra cũng với tần suất cao hơn và thậm chí là cường độ của nó cũng mạnh ngoài sức tưởng tượng của con người.",lnGnRKoJgDc
+12,120.87999725341797,125.68000030517578,4.8000030517578125,93,Tôi cũng đã có một thử nghiệm đo gió để chứng minh giữa các tòa nhà thì gió mạnh như thế nào.,lnGnRKoJgDc
+13,127.68000030517578,137.1199951171875,9.439994812011719,179,Ở quy mô nhỏ khi đi qua các nhà cao tầng chúng ta cũng thường thấy gió ở đây thường mạnh hơn các khu vực khác. Vậy thực tế gió mạnh hơn bao nhiêu? Hãy cùng xem thử nghiệm sau đây.,lnGnRKoJgDc
+14,139.1199951171875,148.72000122070312,9.600006103515625,178,"Cùng vào một ngày có thời tiết tốt, tốc độ gió ghi nhận được trong khoảng 10 phút ở giữa các tòa nhà cao tầng đều lớn hơn 3 mét trên dây tương đương với cấp 2 trong thang đo gió.",lnGnRKoJgDc
+15,150.72000122070312,162.72000122070312,12.0,118,"Trong khi đó ở khu vực ít nhà cao tầng gió lại yếu hơn hẳn, chỉ khoảng 0,08 mét trên dây tức là trời gần như lặng gió.",lnGnRKoJgDc
+16,166.72000122070312,172.72000122070312,6.0,107,Gió ở các tòa nhà cao tầng không chỉ mạnh hơn mà còn tạo thành gió xoáy có thể gây nguy hiểm cho con người.,lnGnRKoJgDc
+17,172.9600067138672,182.9600067138672,10.0,88,"Gió càng nguy hiểm hơn trong các đợt gió mùa đông bắc, các trận siêu dông hay trồng bão.",lnGnRKoJgDc
+18,182.9600067138672,190.9600067138672,8.0,134,Khi gió bão ở nơi thông thường khoảng cấp 8 thì ở giữa các tòa nhà cao tầng có thể lên tới cấp 10 với sự thanh khóa lớn hơn rất nhiều.,lnGnRKoJgDc
+19,191.1999969482422,199.1999969482422,8.0,125,Ở quy mô lớn là các thịnh phố có nhiều khu đô thị thì các trận gió lốc cũng ngày càng mạnh đêm và xảy ra nhiều hơn trước đây.,lnGnRKoJgDc
+20,199.1999969482422,204.1999969482422,5.0,93,Liên tiếp những hình ảnh dông lốc mà khán giả đã ghi lại được ở nhiều thịnh phố trên cả nước.,lnGnRKoJgDc
+21,209.1999969482422,216.1999969482422,7.0,136,Vậy thì nguyên nhân nào khiến cho dông lốc ở đô thị ngày càng mạnh và nhiều như vậy chúng ta sẽ tiếp tục tìm hiểu với bện viên Xuân Ánh.,lnGnRKoJgDc
+22,216.44000244140625,223.44000244140625,7.0,118,Đô thị hóa quá nhanh là một trong những nguyên nhân khiến cho mưa dông mạnh hơn và hay xảy ra hơn ở các thành phố lớn.,lnGnRKoJgDc
+23,223.44000244140625,230.44000244140625,7.0,127,"Bởi ở những nơi này thì có nhiều nhà cao tầng, nhiều bề mặt bê tông, đường nhựa thì thường nóng hơn những khu vực ở xung quanh.",lnGnRKoJgDc
+24,230.44000244140625,241.44000244140625,11.0,170,"Khi mây dông di chuyển tới đây gặp nền nhiệt cao hơn như vậy thì mây sẽ phát triển thêm và sẽ gây ra các hiện tượng thời tích cực đoan như là mưa lớn, tấm xét và gió lốc.",lnGnRKoJgDc
+25,241.67999267578125,248.67999267578125,7.0,129,Chúng ta cần phải hết sức chú ý phòng trống vì ngay trong tuần tới thì mưa dông dự báo sẽ xuất hiện ở nhiều khu vực trên cả nước.,lnGnRKoJgDc
+26,249.67999267578125,254.67999267578125,5.0,88,Khi dông gió càng mạnh hơn ở khu đô thị thì cây xanh ngã đổ là vấn đề đáng lo ngại nhất.,lnGnRKoJgDc
+27,254.67999267578125,262.67999267578125,8.0,130,"Nhiều trùng loại cây đang được trồng ở các khu đô thị như là lim xẹt, phượng vĩ, sọ khỉ, bọ cạp nước lại có nguy cơ cao bị gãy đổ.",lnGnRKoJgDc
+28,262.67999267578125,270.67999267578125,8.0,134,Bởi đây là những loại cây có tính hướng sáng lớn và tán của nó thì thường lệch và nghiêng ra mặt đường hoặc là nơi có không gian rộng.,lnGnRKoJgDc
+29,271.67999267578125,276.67999267578125,5.0,90,Bởi vậy mỗi khi có dông gió mạnh quét qua thì rất dễ kiến cho cây bị đổ về phía mặt đường.,lnGnRKoJgDc
+30,278.67999267578125,281.67999267578125,3.0,55,Điều này gây mất an toàn cho người tham gia giao thông.,lnGnRKoJgDc
+31,282.67999267578125,289.67999267578125,7.0,155,"Vâng vậy thì để giảm thiểu thiệt hại do dông lốc đảm bảo an toàn cho người đi đường, chặt bỏ hết cây xanh trong đô thị liệu có phải là giải pháp hay không?",lnGnRKoJgDc
+32,289.67999267578125,291.67999267578125,2.0,31,Câu trả lời sẽ có ngay sau đây.,lnGnRKoJgDc
+33,294.67999267578125,297.67999267578125,3.0,54,Không thể chỉ vì sợ ngã đổ mà loại bỏ tất cả cây xanh.,lnGnRKoJgDc
+34,297.9200134277344,301.9200134277344,4.0,79,Trong cây xanh vẫn là một trong những giải pháp tốt nhất để điều hòa không khí.,lnGnRKoJgDc
+35,302.9200134277344,305.9200134277344,3.0,66,Làm giảm mức độ cực đoan của các hiện tượng như dông gió ở đô thị.,lnGnRKoJgDc
+36,306.9200134277344,310.9200134277344,4.0,75,Vậy loại cây nào sẽ là phù hợp với khí hậu lại chống chịu được với mưa bão?,lnGnRKoJgDc
+37,311.9200134277344,316.9200134277344,5.0,84,Cây thị vô cẩn này không nên quá cao và làm thế nào tán xanh quay nhầm được thì tốt.,lnGnRKoJgDc
+38,316.9200134277344,323.9200134277344,7.0,104,Đối với Hà Nội thì chúng ta phải nhìn nhận phải đánh giá rằng cây xanh nó là một yếu tố tạo nên bản sắc.,lnGnRKoJgDc
+39,324.1600036621094,328.1600036621094,4.0,61,Cây xanh đã góp phần tạo nên quỹ di sản phong phú cho Hà Nội.,lnGnRKoJgDc
+40,328.1600036621094,333.1600036621094,5.0,74,Nó cũng là một cái điểm để chúng ta nhìn rộng ra các phong trào trồng cây.,lnGnRKoJgDc
+41,333.1600036621094,336.1600036621094,3.0,49,"Trồng xong rồi lại chặt, chặt xong rồi lại trồng.",lnGnRKoJgDc
+42,337.1600036621094,342.1600036621094,5.0,89,"Cần có sự nghiên cứu, sau đó là thử nghiệm trước khi đưa ra trồng ô ạt để tránh lãng phí.",lnGnRKoJgDc
+43,346.1600036621094,349.1600036621094,3.0,85,Vừa rồi là những cảnh báo liên quan tới hiện tượng thời tiết cực đoan đó là dông lốc.,lnGnRKoJgDc
+44,349.3999938964844,354.3999938964844,5.0,97,Và BNV Xuân Anh sẽ tiếp tục cập nhật những tin tức dự báo thời tiết cho cả 30 trong ngày hôm nay.,lnGnRKoJgDc
+45,355.3999938964844,359.3999938964844,4.0,111,Trước khi mà trời sẽ chuyển mưa vào chiều tối ngày mai thì trước tiên tôi muốn chia sẻ về thời tiết tại Bắc Bộ.,lnGnRKoJgDc
+46,359.3999938964844,363.3999938964844,4.0,59,Từ sáng đến chiều thì vẫn sẽ tạnh giáo và có nắng rán đoạn.,lnGnRKoJgDc
+47,363.3999938964844,368.3999938964844,5.0,74,Một số nơi ở Tây Bắc Bộ thì sẽ có nắng nóng như là Biên Phủ hay là Sơn La.,lnGnRKoJgDc
+48,368.3999938964844,373.3999938964844,5.0,89,Tuy nhiên thì một số nơi tại vùng núi như là Sapa thì vẫn có mức nhiệt khá dễ chịu 24 độ.,lnGnRKoJgDc
+49,373.6400146484375,379.6400146484375,6.0,72,Ở các thành phố phía đông thì mức nhiệt phổ biến là từ 28 cho tới 31 độ.,lnGnRKoJgDc
+50,379.6400146484375,385.6400146484375,6.0,117,Đối với Tây Nguyên và Nam Bộ thì dự báo là chiều tối ngày mai mưa không nhiều nên là ban ngày thì trời cũng nóng hơn.,lnGnRKoJgDc
+51,385.6400146484375,389.6400146484375,4.0,47,Nắng nóng có thể xuất hiện cục bộ tại Tây Ninh.,lnGnRKoJgDc
+52,389.6400146484375,393.6400146484375,4.0,63,Còn đối với các nơi khác thì mức nhiệt sẽ không vượt quá 34 độ.,lnGnRKoJgDc
+53,393.6400146484375,398.6400146484375,5.0,95,Và cuối cùng sẽ là phần dự báo thời tiết trong một số thành phố khác trong đêm nay và ngày mai.,lnGnRKoJgDc
+54,398.8800048828125,403.8800048828125,5.0,82,Đối với thành phố Đà Nẵng tự dự báo là đêm nay thì trời tạnh ráo và dịu mát 26 độ.,lnGnRKoJgDc
+55,403.8800048828125,407.8800048828125,4.0,49,"Sang ngày mai trời nắng, nhiệt độ cao nhất 33 độ.",lnGnRKoJgDc
+56,407.8800048828125,411.8800048828125,4.0,39,Nha Trang đêm nay cũng không mưa 26 độ.,lnGnRKoJgDc
+57,411.8800048828125,416.8800048828125,5.0,57,"Ngày mai trời có nắng 32 độ, về chiều tối lưu ý mưa rông.",lnGnRKoJgDc
+58,418.8800048828125,422.8800048828125,4.0,61,"Thành phố Đà Lạt đêm nay trời lạnh, nhiệt độ thấp nhất 16 độ.",lnGnRKoJgDc
+59,422.8800048828125,425.8800048828125,3.0,38,Sang ngày mai nhiệt độ tăng lên 25 độ.,lnGnRKoJgDc
+60,425.8800048828125,428.1199951171875,2.239990234375,35,Chiều và tối mai lưu ý có mưa rông.,lnGnRKoJgDc

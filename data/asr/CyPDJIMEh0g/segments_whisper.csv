@@ -1,0 +1,30 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,86,Còn tiếp theo sẽ là thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hải Yến.,CyPDJIMEh0g
+1,4.0,7.0,3.0,82,"Chị Hải Yến thân mến, có thể nói là đợt lạnh vừa rồi đã làm thất vọng nhiều người.",CyPDJIMEh0g
+2,7.0,11.0,4.0,83,"Mọi người mong chờ một cái lạnh thực sự của mùa đông Hà Nội, mùa đông của miền Bắc.",CyPDJIMEh0g
+3,11.0,14.0,3.0,67,"Nhưng mà trời thì vẫn nóng và nắng. Vậy thì không khí lạnh sắp tới,",CyPDJIMEh0g
+4,14.0,17.0,3.0,68,đợt tiếp theo thì có thực sự là đợt không khí lạnh mạnh hay không ạ?,CyPDJIMEh0g
+5,17.0,21.0,4.0,85,"Vâng anh Dương, khả năng là từ thứ 7 tuần này trở đi thì chúng ta sẽ cảm nhận lạnh rõ",CyPDJIMEh0g
+6,21.0,24.0,3.0,73,hay là khối không khí lạnh lần này được đánh giá là có cường độ khá mạnh.,CyPDJIMEh0g
+7,24.0,27.0,3.0,64,Và cụ thể như thế nào thì mấy anh Dương cũng như quý vị khán giả,CyPDJIMEh0g
+8,27.0,29.0,2.0,62,chúng ta sẽ phân tích rõ hơn của ảnh mây vệ tinh ngay sau đây.,CyPDJIMEh0g
+9,29.0,34.0,5.0,81,"Thưa quý vị, khối không khí lạnh tương ứng với khối mây dày màu trắng như thế này",CyPDJIMEh0g
+10,34.0,39.0,5.0,92,và nó đang nằm ở phía nam của Trung Quốc. Khả năng là từ thứ 7 thì nó sẽ tràn xuống nước ta.,CyPDJIMEh0g
+11,39.0,42.0,3.0,72,Còn trong ngày mai thì chưa thể làm thay đổi thời tiết ở miền Bắc đâu ạ.,CyPDJIMEh0g
+12,42.0,45.0,3.0,66,Trời vẫn sẽ có những khoảng nắng và nhiệt độ chỉ giảm nhẹ mà thôi.,CyPDJIMEh0g
+13,45.0,49.0,4.0,79,Những bức nhiệt tại thủ đô Hà Nội cũng như là những thành phố khác của miền Bắc,CyPDJIMEh0g
+14,49.0,54.0,5.0,82,sẽ giao động quanh ngưỡng là 25-28 độ. Chỉ riêng có Lạng Sơn là nhiệt độ là 23 độ.,CyPDJIMEh0g
+15,54.0,59.0,5.0,82,Đến 2 ngày cuối tuần thì nhiệt độ miền Bắc trong đó có thủ đô Hà Nội sẽ giảm tiếp.,CyPDJIMEh0g
+16,59.0,66.0,7.0,76,Mỗi ngày sẽ giảm khoảng là từ 2-3 độ và nhiệt độ giảm xuống là còn 22-24 độ.,CyPDJIMEh0g
+17,66.0,71.0,5.0,86,Đặc điểm cần chú ý nhất trong đợt lạnh lần này là trời sẽ lạnh sâu về đêm và sáng sớm.,CyPDJIMEh0g
+18,72.0,75.0,3.0,32,Nhiệt độ chỉ từ 19 độ trở xuống.,CyPDJIMEh0g
+19,75.0,78.0,3.0,59,"Thời tiết này dễ ảnh hưởng đến sức khỏe của người cao tuổi,",CyPDJIMEh0g
+20,78.0,81.0,3.0,55,nhất là những ai có thói quen tập thể dục vào sáng sớm.,CyPDJIMEh0g
+21,81.0,85.0,4.0,83,Vì vậy tốt nhất quý vị nên điều chỉnh lại khung giờ ra ngoài để tránh bị giáo lạnh.,CyPDJIMEh0g
+22,85.0,90.0,5.0,97,Còn bây giờ sẽ được chuyển sang phần dự báo chi tiết cho các thành phố trong đêm nay và ngày mai.,CyPDJIMEh0g
+23,90.0,94.0,4.0,57,"Hải Phòng đêm nay trời tạnh giáo, nhiệt độ thấp là 20 độ.",CyPDJIMEh0g
+24,94.0,97.0,3.0,53,"Trên chiều mai trời nắng ấm, nhiệt độ cao nhất 26 độ.",CyPDJIMEh0g
+25,97.0,101.0,4.0,68,"Trái lại tại thành phố Đà Nẵng, đêm nay có mưa rào ngắt quãng 24 độ.",CyPDJIMEh0g
+26,101.0,105.0,4.0,64,"Ngày mai mưa vẫn xảy ra bất trợt, nhiệt độ không vượt quá 29 độ.",CyPDJIMEh0g
+27,105.0,109.0,4.0,64,"Thành phố Đà Lạt đêm nay trời rét, nhiệt độ chỉ khoảng là 14 độ.",CyPDJIMEh0g
+28,109.0,112.0,3.0,55,"Ngày mai trời nắng cả ngày, nhiệt độ cao nhất là 22 độ.",CyPDJIMEh0g

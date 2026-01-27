@@ -1,0 +1,43 @@
+video_id,segment_id,start,end,duration,text_whisper,text_clean,text_final,review_decision,quality_level
+5g86EqR5_MI,0,0.0,4.0,4.0,Còn tiếp theo sẽ là những thông tin dự báo thời tiết liên quan đến cơn bão số 6,Còn tiếp theo sẽ là những thông tin dự báo thời tiết liên quan đến cơn bão số 6,Còn tiếp theo sẽ là những thông tin dự báo thời tiết liên quan đến cơn bão số 6,OK,HIGH
+5g86EqR5_MI,1,4.0,5.0,1.0,Xin chào chị Xuân Anh,Xin chào chị Xuân Anh,Xin chào chị Xuân Anh,OK,HIGH
+5g86EqR5_MI,2,5.0,9.0,4.0,Không biết là cơn bão số 6 đến thời điểm này đã có những tác động đầu tiên như thế nào đến đất liền ạ?,Không biết là cơn bão số 6 đến thời điểm này đã có những tác động đầu tiên như thế nào đến đất liền ạ?,Không biết là cơn bão số 6 đến thời điểm này đã có những tác động đầu tiên như thế nào đến đất liền ạ?,OK,HIGH
+5g86EqR5_MI,3,9.0,13.0,4.0,"Vâng, bão số 6 thì cái tác động của nó đó là gió mạnh rồi cả mưa lớn nữa","Vâng, bão số 6 thì cái tác động của nó đó là gió mạnh rồi cả mưa lớn nữa","Vâng, bão số 6 thì cái tác động của nó đó là gió mạnh rồi cả mưa lớn nữa",OK,HIGH
+5g86EqR5_MI,4,13.0,17.0,4.0,Không chỉ là bây giờ đâu mà có thể là cả trong đêm nay và ngày mai,Không chỉ là bây giờ đâu mà có thể là cả trong đêm nay và ngày mai,Không chỉ là bây giờ đâu mà có thể là cả trong đêm nay và ngày mai,OK,HIGH
+5g86EqR5_MI,5,17.0,21.0,4.0,Cụ thể là đối với khu vực miền trung nơi mà nó sẽ trực tiếp đi qua,Cụ thể là đối với khu vực miền trung nơi mà nó sẽ trực tiếp đi qua,Cụ thể là đối với khu vực miền trung nơi mà nó sẽ trực tiếp đi qua,OK,HIGH
+5g86EqR5_MI,6,21.0,24.0,3.0,thì cảnh báo tiếp theo là từ tối đến đêm nay,thì cảnh báo tiếp theo là từ tối đến đêm nay,thì cảnh báo tiếp theo là từ tối đến đêm nay,OK,HIGH
+5g86EqR5_MI,7,24.0,28.0,4.0,Liền khu vực từ Thừa Thiên Huế trở xuống tới Quảng Ngãi,Liền khu vực từ Thừa Thiên Huế trở xuống tới Quảng Ngãi,Liền khu vực từ Thừa Thiên Huế trở xuống tới Quảng Ngãi,OK,HIGH
+5g86EqR5_MI,8,28.0,31.0,3.0,sẽ có gió mạnh là cấp 6 đến cấp 7,sẽ có gió mạnh là cấp 6 đến cấp 7,sẽ có gió mạnh là cấp 6 đến cấp 7,OK,HIGH
+5g86EqR5_MI,9,31.0,35.0,4.0,Vùng ven biển có nơi còn cấp 8 và giật cấp 10,Vùng ven biển có nơi còn cấp 8 và giật cấp 10,Vùng ven biển có nơi còn cấp 8 và giật cấp 10,OK,HIGH
+5g86EqR5_MI,10,35.0,40.0,5.0,Gió cấp 8 tức là gió có tốc độ là từ 60 đến 70 km một giờ,Gió cấp 8 tức là gió có tốc độ là từ 60 đến 70 km một giờ,Gió cấp 8 tức là gió có tốc độ là từ 60 đến 70 km một giờ,OK,HIGH
+5g86EqR5_MI,11,40.0,45.0,5.0,"Và với sức gió này thì có thể sẽ quật đổ cây cối, thổi bay mái tôn","Và với sức gió này thì có thể sẽ quật đổ cây cối, thổi bay mái tôn","Và với sức gió này thì có thể sẽ quật đổ cây cối, thổi bay mái tôn",OK,HIGH
+5g86EqR5_MI,12,45.0,48.0,3.0,"hay là các biển hiệu quảng cáo, mái nhà không kiên cố","hay là các biển hiệu quảng cáo, mái nhà không kiên cố","hay là các biển hiệu quảng cáo, mái nhà không kiên cố",OK,HIGH
+5g86EqR5_MI,13,48.0,51.0,3.0,Thời gian có gió mạnh sẽ kéo dài cho đến sáng ngày mai,Thời gian có gió mạnh sẽ kéo dài cho đến sáng ngày mai,Thời gian có gió mạnh sẽ kéo dài cho đến sáng ngày mai,OK,HIGH
+5g86EqR5_MI,14,51.0,53.0,2.0,Vì vậy từ tối nay cho đến sáng mai,Vì vậy từ tối nay cho đến sáng mai,Vì vậy từ tối nay cho đến sáng mai,OK,HIGH
+5g86EqR5_MI,15,53.0,56.0,3.0,thì quý vị ở khu vực Thừa Thiên Huế cho tới Quảng Ngãi,thì quý vị ở khu vực Thừa Thiên Huế cho tới Quảng Ngãi,thì quý vị ở khu vực Thừa Thiên Huế cho tới Quảng Ngãi,OK,HIGH
+5g86EqR5_MI,16,56.0,59.0,3.0,không nên ra khỏi nhà nếu như không có việc thực sự cần thiết,không nên ra khỏi nhà nếu như không có việc thực sự cần thiết,không nên ra khỏi nhà nếu như không có việc thực sự cần thiết,OK,HIGH
+5g86EqR5_MI,17,59.0,61.0,2.0,để có thể đảm bảo được an toàn,để có thể đảm bảo được an toàn,để có thể đảm bảo được an toàn,OK,HIGH
+5g86EqR5_MI,18,61.0,66.0,5.0,Báo số 6 cũng gây ra mưa to đến rất to từ nay cho đến hết ngày mai,Báo số 6 cũng gây ra mưa to đến rất to từ nay cho đến hết ngày mai,Báo số 6 cũng gây ra mưa to đến rất to từ nay cho đến hết ngày mai,OK,HIGH
+5g86EqR5_MI,19,66.0,69.0,3.0,ở khu vực từ Hà Tĩnh cho tới Bình Định,ở khu vực từ Hà Tĩnh cho tới Bình Định,ở khu vực từ Hà Tĩnh cho tới Bình Định,OK,HIGH
+5g86EqR5_MI,20,69.0,72.0,3.0,Với lượng mưa là từ 150 đến 250 mm,Với lượng mưa là từ 150 đến 250 mm,Với lượng mưa là từ 150 đến 250 mm,OK,HIGH
+5g86EqR5_MI,21,72.0,75.0,3.0,Có những nơi mưa trên 300 mm,Có những nơi mưa trên 300 mm,Có những nơi mưa trên 300 mm,OK,HIGH
+5g86EqR5_MI,22,75.0,79.0,4.0,Đối với Con Tum và Gia Lai thì cũng sẽ có mưa to,Đối với Con Tum và Gia Lai thì cũng sẽ có mưa to,Đối với Con Tum và Gia Lai thì cũng sẽ có mưa to,OK,HIGH
+5g86EqR5_MI,23,79.0,82.0,3.0,với lượng mưa từ 100 đến 150 mm,với lượng mưa từ 100 đến 150 mm,với lượng mưa từ 100 đến 150 mm,OK,HIGH
+5g86EqR5_MI,24,82.0,85.0,3.0,có nơi trên 200 mm,có nơi trên 200 mm,có nơi trên 200 mm,OK,HIGH
+5g86EqR5_MI,25,85.0,88.0,3.0,"Nguy cơ cao sẽ xảy ra lũ quét, sạt lở đất","Nguy cơ cao sẽ xảy ra lũ quét, sạt lở đất","Nguy cơ cao sẽ xảy ra lũ quét, sạt lở đất",OK,HIGH
+5g86EqR5_MI,26,88.0,90.0,2.0,tại khu vực vùng núi cũng như ngập ống cục bộ,tại khu vực vùng núi cũng như ngập ống cục bộ,tại khu vực vùng núi cũng như ngập ống cục bộ,OK,HIGH
+5g86EqR5_MI,27,90.0,91.0,1.0,tại các vùng trụng thấp,tại các vùng trụng thấp,tại các vùng trụng thấp,OK,HIGH
+5g86EqR5_MI,28,91.0,95.0,4.0,Mưa lớn hàng trăm mm trút xuống địa hình sông suối ngắn,Mưa lớn hàng trăm mm trút xuống địa hình sông suối ngắn,Mưa lớn hàng trăm mm trút xuống địa hình sông suối ngắn,OK,HIGH
+5g86EqR5_MI,29,95.0,97.0,2.0,và lại dốc ở khu vực phía trung Tây Nguyên,và lại dốc ở khu vực phía trung Tây Nguyên,và lại dốc ở khu vực phía trung Tây Nguyên,OK,HIGH
+5g86EqR5_MI,30,97.0,100.0,3.0,thì cũng sẽ khiến cho lũ ở khu vực này dâng nhanh,thì cũng sẽ khiến cho lũ ở khu vực này dâng nhanh,thì cũng sẽ khiến cho lũ ở khu vực này dâng nhanh,OK,HIGH
+5g86EqR5_MI,31,100.0,104.0,4.0,"Đối với các sông ở khu vực Quảng Bình, Quảng Trị, Quảng Ngãi, Con Tum","Đối với các sông ở khu vực Quảng Bình, Quảng Trị, Quảng Ngãi, Con Tum","Đối với các sông ở khu vực Quảng Bình, Quảng Trị, Quảng Ngãi, Con Tum",OK,HIGH
+5g86EqR5_MI,32,104.0,108.0,4.0,hay là Gia Lai sẽ lên từ mức báo động 1 cho tới báo động 2,hay là Gia Lai sẽ lên từ mức báo động 1 cho tới báo động 2,hay là Gia Lai sẽ lên từ mức báo động 1 cho tới báo động 2,OK,HIGH
+5g86EqR5_MI,33,108.0,110.0,2.0,và có sông thì còn trên báo động 2,và có sông thì còn trên báo động 2,và có sông thì còn trên báo động 2,OK,HIGH
+5g86EqR5_MI,34,110.0,112.0,2.0,Và cuối cùng thì sẽ là phần dự báo chi tiết,Và cuối cùng thì sẽ là phần dự báo chi tiết,Và cuối cùng thì sẽ là phần dự báo chi tiết,OK,HIGH
+5g86EqR5_MI,35,112.0,115.0,3.0,cho một số thành phố trong đêm nay và ngày mai,cho một số thành phố trong đêm nay và ngày mai,cho một số thành phố trong đêm nay và ngày mai,OK,HIGH
+5g86EqR5_MI,36,115.0,119.0,4.0,Đối với thủ đô Hà Nội vào đêm nay sẽ có lúc mưa rào 25 độ,Đối với thủ đô Hà Nội vào đêm nay sẽ có lúc mưa rào 25 độ,Đối với thủ đô Hà Nội vào đêm nay sẽ có lúc mưa rào 25 độ,OK,HIGH
+5g86EqR5_MI,37,120.0,124.0,4.0,"Ngày mai lúc nắng lúc mưa, nhiệt độ cao nhất 31 độ","Ngày mai lúc nắng lúc mưa, nhiệt độ cao nhất 31 độ","Ngày mai lúc nắng lúc mưa, nhiệt độ cao nhất 31 độ",OK,HIGH
+5g86EqR5_MI,38,125.0,129.0,4.0,Đà Nẵng đêm nay và sáng mai sẽ có mưa rất to kèm theo gió mạnh,Đà Nẵng đêm nay và sáng mai sẽ có mưa rất to kèm theo gió mạnh,Đà Nẵng đêm nay và sáng mai sẽ có mưa rất to kèm theo gió mạnh,OK,HIGH
+5g86EqR5_MI,39,129.0,133.0,4.0,"Trưa chiều mai cường độ mưa sẽ giảm dần, nhiệt độ cũng quá 29 độ","Trưa chiều mai cường độ mưa sẽ giảm dần, nhiệt độ cũng quá 29 độ","Trưa chiều mai cường độ mưa sẽ giảm dần, nhiệt độ cũng quá 29 độ",OK,HIGH
+5g86EqR5_MI,40,134.0,139.0,5.0,"Thành phố Hồ Chí Minh đêm nay ít mưa, đa phần tạnh giáo 25 độ","Thành phố Hồ Chí Minh đêm nay ít mưa, đa phần tạnh giáo 25 độ","Thành phố Hồ Chí Minh đêm nay ít mưa, đa phần tạnh giáo 25 độ",OK,HIGH
+5g86EqR5_MI,41,140.0,144.0,4.0,"Ngày mai có mưa rông từ trưa đến chiều tối, nhiệt độ cao nhất 32 độ","Ngày mai có mưa rông từ trưa đến chiều tối, nhiệt độ cao nhất 32 độ","Ngày mai có mưa rông từ trưa đến chiều tối, nhiệt độ cao nhất 32 độ",OK,HIGH

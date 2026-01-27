@@ -1,0 +1,58 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,6.400000095367432,6.400000095367432,54,Bão Assani dự báo khi đi vào Biển Đông sẽ suy yếu dần.,b2IDNL9ySTY
+1,6.400000095367432,13.520000457763672,7.12000036239624,99,"Lúc 13h hôm nay, tâm bão Assani ở trên vùng biển phía nam đảo Đài Loan cầng độ cấp 10, giật cấp 12.",b2IDNL9ySTY
+2,13.520000457763672,17.200000762939453,3.6800003051757812,46,"Dự báo trong 24h tới, bão sẽ đi vào Biển Đông.",b2IDNL9ySTY
+3,17.200000762939453,26.31999969482422,9.119998931884766,114,"Đến 13h ngày mai, tâm bão ở khoảng 22,1 độ Vĩ Bắc, 118,2 độ Kinh Đông, cầng độ bão cấp 8, cấp 9, giật trên cấp 11.",b2IDNL9ySTY
+4,26.559999465942383,34.15999984741211,7.600000381469727,126,"Trong 24 đến 48 giờ tiếp theo, khi di chuyển tới phía Bắc của huyện đảo Hoàng Sa, bão sẽ suy yếu dần, thành áp thấp nhiệt đới.",b2IDNL9ySTY
+5,36.400001525878906,44.0,7.599998474121094,132,"Còn vào lúc này, những cơn mưa to đến rất to do ảnh hưởng của bão số 10 vẫn đang tiếp tục diễn ra ở khu vực miền núi tỉnh Quảng Nam.",b2IDNL9ySTY
+6,44.0,51.119998931884766,7.119998931884766,109,"Nguy cơ tái diễn tình trạng sạt lở đất tại các huyện Bắc Trà Mi, Nam Trà Mi, Phước Sơn, Tây Giang là rất cao.",b2IDNL9ySTY
+7,51.20000076293945,58.0,6.799999237060547,125,"Trước tình hình này, tỉnh Quảng Nam đã tiến hành sơ tán trên diện rộng người dân tại các khu dân cư có nguy cơ bị sạt lở cao.",b2IDNL9ySTY
+8,58.0,65.04000091552734,7.040000915527344,107,"Về việc tìm kiếm 18 người còn mất tích tại xã Trà Leng, xã Trà Mai của huyện Nam Trà Mi và huyện Phước Sơn,",b2IDNL9ySTY
+9,65.04000091552734,69.04000091552734,4.0,69,"hiện quân đội, công an, biên phòng vẫn duy trì lực lượng tại địa bàn.",b2IDNL9ySTY
+10,69.04000091552734,76.31999969482422,7.279998779296875,127,Nhưng việc tìm kiếm phải tạm dừng do mưa lũ phức tạp. Lực lượng này sẽ nối lại hoạt động ngay sau khi thời tiết được thuận lợi.,b2IDNL9ySTY
+11,82.12000274658203,86.12000274658203,4.0,76,Hoàng Lưu bão số 10 cũng đã gây ra mưa lớn trên địa bàn của tỉnh Quảng Ngãi.,b2IDNL9ySTY
+12,86.12000274658203,89.12000274658203,3.0,56,Từ đêm qua đến sáng nay khiến cho nhiều nơi bị ngập sâu.,b2IDNL9ySTY
+13,89.12000274658203,94.12000274658203,5.0,74,"Nước lũ lên nhanh trong đêm khiến cho nhiều nhà dân bị ngập từ 1 đến 1,5m.",b2IDNL9ySTY
+14,94.12000274658203,99.12000274658203,5.0,79,Thị xã Đức Phổ là địa phương ngập nặng nhất với hơn 800 hộ dân bị cô lật do lũ.,b2IDNL9ySTY
+15,99.12000274658203,104.12000274658203,5.0,69,"Nhiều xã, phường, nằm ven sông Trà Câu cũng ngập sâu từ 0,8 đến 1,5m.",b2IDNL9ySTY
+16,104.12000274658203,109.12000274658203,5.0,92,"Quốc lộ 1A đoạn qua các phường Phổ Văn, Phổ Ninh, nước lũ tràn qua khiến giao thông ách tắt.",b2IDNL9ySTY
+17,109.12000274658203,112.12000274658203,3.0,65,"Chính quyền địa phương đang huy động lực lượng tập trung ứng phó,",b2IDNL9ySTY
+18,112.12000274658203,117.12000274658203,5.0,76,không để bất kỳ người dân nào còn ở lại vùng nguy hiểm khi nước lũ dâng cao.,b2IDNL9ySTY
+19,117.12000274658203,121.12000274658203,4.0,86,"Và ngay trong sáng nay, lực lượng chức năng đã huy động ghe xuồng để tiếp cận nhà dân,",b2IDNL9ySTY
+20,121.12000274658203,124.12000274658203,3.0,36,"hỗ trợ việc di rời, dọn dạt nhà cửa.",b2IDNL9ySTY
+21,124.12000274658203,129.1199951171875,4.999992370605469,78,"Ưu tiên trước là di rời người già, trẻ em và phụ nữ mang thai đến nơi an toàn.",b2IDNL9ySTY
+22,132.1199951171875,135.1199951171875,3.0,45,"Khi mực đức sông Trà Câu lên trên báo đoạn 3,",b2IDNL9ySTY
+23,135.1199951171875,139.1199951171875,4.0,79,chính quyền địa phương đã chỉ đạo cho các lực lượng xung kích của các xã phường,b2IDNL9ySTY
+24,139.1199951171875,144.1199951171875,5.0,73,"cùng với lực lượng công an quân đội hỗ trợ cho người dân kê dọn, dọn dạt.",b2IDNL9ySTY
+25,144.1199951171875,150.1199951171875,6.0,67,"Và ưu tiên là di rời các người già, trẻ nhỏ lên vùng an toàn trước.",b2IDNL9ySTY
+26,150.1199951171875,153.1199951171875,3.0,57,"Sau đó là thử các lực lượng để chốt chản các tuyến đường,",b2IDNL9ySTY
+27,153.1199951171875,159.1199951171875,6.0,66,các cầu có nguy cơ sọt lỡ để đảm bảo an toàn đi lại cho người dân.,b2IDNL9ySTY
+28,160.1199951171875,167.1199951171875,7.0,90,"Thưa quý vị, hôm qua và hôm nay mưa trên diện rộng ở hầu hết các huyện miền núi Quảng Nam.",b2IDNL9ySTY
+29,167.1199951171875,171.1199951171875,4.0,64,Và điều đáng lo ngại là phần lớn các huyện miền núi của tỉnh này,b2IDNL9ySTY
+30,171.1199951171875,173.1199951171875,2.0,41,vừa trải qua đợt sạt lờ đất chưa từng có.,b2IDNL9ySTY
+31,173.1199951171875,177.1199951171875,4.0,65,Nguy cơ tái diễn tình trạng sạt lờ đất rồi lũ quét có thể xảy ra.,b2IDNL9ySTY
+32,177.1199951171875,181.1199951171875,4.0,82,"Những ngày qua, tỉnh Quảng Nam và lực lượng quân đội, công an đã huy động tổng lực",b2IDNL9ySTY
+33,181.1199951171875,186.1199951171875,5.0,77,"để tìm kiếm 18 người còn đang mất tích, đảm bảo an toàn cho hàng vạn đồng bào",b2IDNL9ySTY
+34,186.1199951171875,190.1199951171875,4.0,57,đang sinh sống tại những địa bàn sung yếu ở miền núi cao.,b2IDNL9ySTY
+35,190.1199951171875,194.1199951171875,4.0,52,Mưa lũ diễn biến phức tạp khiến trọng chất khó khăn.,b2IDNL9ySTY
+36,198.1199951171875,202.1199951171875,4.0,74,"Đây là cầu Sông Trường, nằm trên tuyến quốc lộ 40B nối từ huyện Bắc Trà My",b2IDNL9ySTY
+37,202.1199951171875,206.1199951171875,4.0,56,"lên huyện Nam Trà My, bị nước lũ nhấn chìm vào sáng nay.",b2IDNL9ySTY
+38,206.1199951171875,210.1199951171875,4.0,67,"Với sự báo có mưa lớn, tình trạng sạt lờ đất chạy dọc theo gần 50km",b2IDNL9ySTY
+39,210.1199951171875,212.1199951171875,2.0,32,trên tuyến quốc lộ 40B tái diễn.,b2IDNL9ySTY
+40,212.1199951171875,216.1199951171875,4.0,83,"Không chỉ hàng nghìn người dân bị bắt kẻ thai bên bờ sông, toàn bộ huyện Nam Trà My",b2IDNL9ySTY
+41,216.1199951171875,219.1199951171875,3.0,44,và một phần huyện Bắc Trà My đã bị chia cắt.,b2IDNL9ySTY
+42,230.1199951171875,235.1199951171875,5.0,79,"Trong đợt mưa lũ vừa qua, các huyện miền núi Nam Trà My, Bắc Trà My, Phước Sơn,",b2IDNL9ySTY
+43,235.1199951171875,239.1199951171875,4.0,64,"Nam Giang và Tây Giang, không dưới 3.000 ngôi nhà, đã bị hư hại.",b2IDNL9ySTY
+44,239.1199951171875,244.1199951171875,5.0,76,Nhiều xã vùng sâu vùng xa của huyện Bắc Trà My và Nam Trà My vẫn còn cô lập.,b2IDNL9ySTY
+45,244.1199951171875,249.1199951171875,5.0,80,Hơn 200 hộ dân thuộc xã Phước Lộc của huyện Phước Sơn đang đối mặt với khó khăn.,b2IDNL9ySTY
+46,249.1199951171875,252.1199951171875,3.0,55,"Bởi gần 10 ngày nay, giao thông đến xã vẫn bị chia cắt.",b2IDNL9ySTY
+47,252.1199951171875,256.1199951171875,4.0,63,"Mưa lớn, nước lũ lên nhanh, việc gùi lương thực và nhu yếu phẩm",b2IDNL9ySTY
+48,256.1199951171875,259.1199951171875,3.0,44,vào các xã bị cô lập này đang rất nguy hiểm.,b2IDNL9ySTY
+49,269.1199951171875,284.1199951171875,15.0,53,"Trước nguy cơ đối mặt với sạt lở đất đợt thứ hai này,",b2IDNL9ySTY
+50,284.1199951171875,289.1199951171875,5.0,90,"tỉnh Quảng Nam di rời khẩn cấp, phần lớn dân cư nằm trong vùng nguy hiểm, đến nơi an toàn.",b2IDNL9ySTY
+51,289.1199951171875,292.1199951171875,3.0,66,"Với những gia đình đã bị thiệt hại nhà cửa trong đợt mưa lũ trước,",b2IDNL9ySTY
+52,292.1199951171875,298.1199951171875,6.0,91,"bà con được bố trí tạm trú tại các cơ sở, các trụ sở, ủy ban xã và trường học trên địa bàn.",b2IDNL9ySTY
+53,299.1199951171875,323.1199951171875,24.0,87,"Hiện nay, giao thông lên huyện Nam Trà My và tuyến đường vào xã Phước Thành, Phước Lộc,",b2IDNL9ySTY
+54,323.1199951171875,326.1199951171875,3.0,67,"đã bị mưa lũ phá hủy. Các địa phương đã chuẩn bị phương án tại chỗ,",b2IDNL9ySTY
+55,326.1199951171875,332.1199951171875,6.0,102,"nhân lực tại chỗ để thông đường khi mưa tạnh. Về lâu dài, tỉnh Quảng Nam khẩn trương triển khai đế án,",b2IDNL9ySTY
+56,332.1199951171875,338.6199951171875,6.5,95,"sắp xếp lại dân cư ở khu vực miền núi, di rời gần 11.000 hộ gia đình đến nơi ở mới an toàn hơn.",b2IDNL9ySTY

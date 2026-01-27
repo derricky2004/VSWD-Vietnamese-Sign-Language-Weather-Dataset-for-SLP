@@ -1,0 +1,26 @@
+id,start,end,duration,text_len,text,video_id
+0,1.0,5.0,4.0,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,GzIkxdLeKtA
+1,5.0,9.0,4.0,100,"Chào chị Hương Liên, có lẽ người dân miền Bắc lúc này rất quan tâm khi nào trời sẽ tạnh giáo trở lại",GzIkxdLeKtA
+2,9.0,11.0,2.0,44,để mọi hoạt động đời thường sẽ quay trở lại.,GzIkxdLeKtA
+3,11.0,14.0,3.0,56,Vào ngày dương sáng mai thì ở miền Bắc trời vẫn còn mưa.,GzIkxdLeKtA
+4,14.0,17.0,3.0,59,"Nhưng mà ở Lào Cai, Lai Châu, Điện Biên thì mưa vừa mưa to.",GzIkxdLeKtA
+5,17.0,22.0,5.0,73,Còn khu vực đồng bằng như thủ đô Hà Nội mưa nhỏ chỉ xảy ra vào buổi sáng.,GzIkxdLeKtA
+6,22.0,25.0,3.0,52,Đến trưa chiều ngày mai sẽ tạnh giáo và trời ấm lên.,GzIkxdLeKtA
+7,25.0,29.0,4.0,69,"Trong 3 ngày tới, xu thế thời tiết sẽ là mưa giảm, trời nắng dần lên.",GzIkxdLeKtA
+8,29.0,36.0,7.0,87,"Mỗi ngày tăng thêm 2 độ và đến thứ 5 trời nắng ráo cả ngày, nhiệt độ cao nhất là 29 độ.",GzIkxdLeKtA
+9,36.0,42.0,6.0,101,Trời vừa mưa ẩm lại ấm lên là môi trường thuận lợi cho mỗi vàn trung gian chuyển bệnh sốt xuất huyết.,GzIkxdLeKtA
+10,42.0,47.0,5.0,80,Mà theo Sở Y tế Hà Nội thì tháng 10 dịch sốt xuất huyết đã có dấu hiệu gia tăng.,GzIkxdLeKtA
+11,47.0,52.0,5.0,89,"Để phòng tránh quý vị hãy thu gom, hủy các vật dụng phế thải trong nhà và xung quanh nhà.",GzIkxdLeKtA
+12,52.0,57.0,5.0,69,Sắp xếp đồ đặc trong nhà gọn gàng sẽ giúp hạn chế nơi trú ẩn của mũi.,GzIkxdLeKtA
+13,57.0,64.0,7.0,102,Thời tiết Nam Bộ cũng cần đề phòng với mũi vằn vì chiều tối mưa rông còn sáng đến chiều lại nắng mạnh.,GzIkxdLeKtA
+14,64.0,70.0,6.0,73,"TP.HCM và hầu hết các nơi khác ở miền Đông Nam Bộ đều là 34 độ, khá nóng.",GzIkxdLeKtA
+15,70.0,75.0,5.0,66,Ở miền Tây có Vĩnh Long và Châu Đốc cùng chung mức nhiệt là 34 độ.,GzIkxdLeKtA
+16,75.0,79.0,4.0,49,Các thành phố khác thì nhiệt độ dịu hơn 32-33 độ.,GzIkxdLeKtA
+17,79.0,85.0,6.0,105,Còn bây giờ xin chuyển sang các thông tin dự báo chi tiết cho một số thành phố trong đêm nay và ngày mai.,GzIkxdLeKtA
+18,85.0,89.0,4.0,56,TP. Hạ Long đêm nay đến sáng mai mưa rào bất chợt 23 độ.,GzIkxdLeKtA
+19,89.0,92.0,3.0,34,Ngày mai nhiều mây trời mát 26 độ.,GzIkxdLeKtA
+20,92.0,96.0,4.0,63,TP. Đà Nẵng đêm nay mưa rào quay trở lại nhiệt độ khoảng 24 độ.,GzIkxdLeKtA
+21,96.0,100.0,4.0,58,Chiều mai trời giảm mây hửng nắng nhiệt độ vừa phải 28 độ.,GzIkxdLeKtA
+22,100.0,104.0,4.0,54,TP.HCM dự báo đêm nay gần như tạnh ráo trời mát 25 độ.,GzIkxdLeKtA
+23,104.0,107.0,3.0,29,Chiều mai lại khá nóng 34 độ.,GzIkxdLeKtA
+24,107.0,110.0,3.0,68,Chiều mai sẽ chuyển mưa rông. Trong mưa rông cảnh báo gió giật mạnh.,GzIkxdLeKtA

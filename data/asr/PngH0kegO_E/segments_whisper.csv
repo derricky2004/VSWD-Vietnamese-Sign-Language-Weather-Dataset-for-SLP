@@ -1,0 +1,43 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,PngH0kegO_E
+1,5.0,9.0,4.0,79,Xin chào chị Hương Liên. Diễn biến về cơn bão Rai hiện nay như thế nào rồi chị?,PngH0kegO_E
+2,9.0,12.0,3.0,68,Bởi tôi nghe nói đây là một cơn bão có sức ảnh hưởng rất mạnh đấy ạ.,PngH0kegO_E
+3,14.0,16.0,2.0,48,Vâng anh Dương và thưa quý vị khán giả thân mến.,PngH0kegO_E
+4,16.0,20.0,4.0,66,"Cơn bão Rai chiều nay đã đạt cấp siêu bão cấp 16 giật trên cấp 17,",PngH0kegO_E
+5,20.0,23.0,3.0,47,gần tương đương với siêu bão Hai Gian năm 2013.,PngH0kegO_E
+6,23.0,28.0,5.0,70,"Đặc điểm cho thấy đây là một cơn bão rất mạnh, đó là đĩa mây rất rộng,",PngH0kegO_E
+7,28.0,31.0,3.0,60,có phủ gần như toàn bộ khu vực miền Trung và Nam Philippines,PngH0kegO_E
+8,31.0,35.0,4.0,45,và cấu trúc mây dạng xoắn ốc đối xứng rõ nét.,PngH0kegO_E
+9,35.0,38.0,3.0,54,Dự báo bão Rai sẽ đi vào biển Đông vào khoảng tối mai.,PngH0kegO_E
+10,38.0,43.0,5.0,82,"Khi vào biển Đông, đúng lúc không khí lạnh tràn xuống nên cứng độ bão sẽ giảm bớt,",PngH0kegO_E
+11,43.0,45.0,2.0,23,nhưng vẫn còn rất mạnh.,PngH0kegO_E
+12,45.0,48.0,3.0,33,"Đến 13h thứ Bảy ngày 18 tháng 12,",PngH0kegO_E
+13,48.0,51.0,3.0,58,tâm bão ở cách đảo sông Thử Tây khoảng 100km về phía Đông.,PngH0kegO_E
+14,51.0,56.0,5.0,68,"Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 13, cấp 14, giật cấp 17.",PngH0kegO_E
+15,56.0,59.0,3.0,36,"Đến chiều Chủ nhật ngày 19 tháng 12,",PngH0kegO_E
+16,59.0,63.0,4.0,67,"khi còn cách bờ biển Phú Yên – Khánh Hòa khoảng 200km về phía Đông,",PngH0kegO_E
+17,63.0,66.0,3.0,41,"cứng độ bão vẫn mạnh cấp 13, giật cấp 16.",PngH0kegO_E
+18,66.0,69.0,3.0,58,"Cảnh báo cấp độ rủi ro thiên tai trên vùng biển phía Đông,",PngH0kegO_E
+19,69.0,73.0,4.0,68,khu vực giữa biển Đông bao gồm vùng biển phía Bắc quần đảo Trường Sa,PngH0kegO_E
+20,73.0,77.0,4.0,53,"lên tới cấp 4, cấp gần cao nhất trong thang cảnh báo.",PngH0kegO_E
+21,77.0,81.0,4.0,75,Đây lại là khu vực nhiều tàu thuyền khai thác của bà con ngư dân hoạt động.,PngH0kegO_E
+22,81.0,84.0,3.0,30,"Mà với sức gió cấp 13, cấp 14,",PngH0kegO_E
+23,84.0,88.0,4.0,51,"sức phá hoại cực kỳ lớn, gây sóng biển cực kỳ mạnh.",PngH0kegO_E
+24,88.0,92.0,4.0,74,Không chỉ tàu cãi của bà con mà có thể đánh đắm tàu biển có trọng tài lớn.,PngH0kegO_E
+25,92.0,96.0,4.0,68,"Ban Chỉ đạo Quốc gia về phòng chống thiên tai đã ra công điện số 26,",PngH0kegO_E
+26,96.0,100.0,4.0,52,trong đó yêu cầu theo dõi chặt chẽ diễn biến cơn bão,PngH0kegO_E
+27,100.0,103.0,3.0,64,và khẩn trương có phương án di chuyển vào nơi tránh chú an toàn.,PngH0kegO_E
+28,103.0,108.0,5.0,82,"Trên đất liền, thông tin thời tiết đáng chú ý là ngày mai sẽ có không khí lạnh về.",PngH0kegO_E
+29,108.0,112.0,4.0,61,Ban ngày thì nhiệt mới chỉ giảm khoảng 1-2 độ so với hôm nay.,PngH0kegO_E
+30,112.0,114.0,2.0,28,Trên đêm mai sẽ thấy rét rõ.,PngH0kegO_E
+31,114.0,118.0,4.0,50,"Ở Bắc Bộ, nhiệt độ thấp nhất phổ biến từ 13-16 độ.",PngH0kegO_E
+32,118.0,120.0,2.0,27,Vùng núi cao là dưới 10 độ.,PngH0kegO_E
+33,120.0,124.0,4.0,69,Còn tiếp theo sẽ là dự báo chi tiết cho một số nơi khác trên cả nước.,PngH0kegO_E
+34,125.0,128.0,3.0,45,Hà Nội đêm nay sáng mai có lúc mưa nhỏ 19 độ.,PngH0kegO_E
+35,128.0,130.0,2.0,36,Trưa chiều mai trời nhiều mây 24 độ.,PngH0kegO_E
+36,130.0,134.0,4.0,55,"Có gió đông bắc thổi cấp 2, cấp 3 nên sẽ thấy lạnh hơn.",PngH0kegO_E
+37,134.0,137.0,3.0,54,Đà Nẵng đêm nay và ngày mai đều có mưa rào ngắt quãng.,PngH0kegO_E
+38,137.0,139.0,2.0,39,Trời lạnh với nhiệt độ thấp nhất 22 độ.,PngH0kegO_E
+39,139.0,141.0,2.0,25,Cao nhất không quá 25 độ.,PngH0kegO_E
+40,141.0,144.0,3.0,31,TP.HCM đêm nay không mưa 26 độ.,PngH0kegO_E
+41,144.0,147.0,3.0,45,"Ngày mai nắng nhiều, nhiệt độ cao nhất 33 độ.",PngH0kegO_E

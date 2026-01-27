@@ -1,0 +1,37 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.440000057220459,3.440000057220459,93,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Xuân Anh.,Oc2XwiZa9zA
+1,3.440000057220459,4.440000057220459,1.0,18,Chào Chị Xuân Anh!,Oc2XwiZa9zA
+2,4.440000057220459,7.840000152587891,3.4000000953674316,86,"Giờ tan tầm chiều nay tại Hà Nội thì có một cơn mưa rất to, nhiều người đã bị ướt rồi.",Oc2XwiZa9zA
+3,7.840000152587891,11.520000457763672,3.6800003051757812,79,Không biết là đêm nay thì diễn biến của mưa rông ở Hà Nội như thế nào thưa chị?,Oc2XwiZa9zA
+4,11.520000457763672,16.079999923706055,4.559999465942383,82,"Vâng, khả năng là mưa vẫn sẽ còn tiếp tục xảy ra ở Hà Nội cũng như nhiều nơi khác.",Oc2XwiZa9zA
+5,16.079999923706055,21.440000534057617,5.3600006103515625,91,"Và trong đêm nay, anh Dương cũng như quý vị khán giả có thể theo dõi trên bản đồ dự báo mưa",Oc2XwiZa9zA
+6,21.520000457763672,27.440000534057617,5.920000076293945,100,"Để thấy là không chỉ có thủ đô Hà Nội đâu, mà nhiều nơi của khu vực đồng bằng và ven biển của Bắc Bộ",Oc2XwiZa9zA
+7,27.440000534057617,32.439998626708984,4.999998092651367,63,"dự báo sẽ có mưa vừa, mưa to với lượng mưa phổ biến từ 30-60mm.",Oc2XwiZa9zA
+8,32.439998626708984,35.439998626708984,3.0,41,Có những nơi mưa rất to thì sẽ trên 80mm.,Oc2XwiZa9zA
+9,35.439998626708984,39.439998626708984,4.0,73,"Cần phải đề phòng với lốc, xét hay là gió giật mạnh đi kèm trong cơn mưa.",Oc2XwiZa9zA
+10,39.439998626708984,44.439998626708984,5.0,82,"Một khu vực khác cũng cần phải chú ý đến mưa lớn, đó là ở phía bắc của miền Trung.",Oc2XwiZa9zA
+11,44.439998626708984,50.439998626708984,6.0,87,Dự báo là đêm nay cho đến ngày 6 tháng 10 thì từ Thanh Hóa trở xuống đến Thừa Thiên Huế,Oc2XwiZa9zA
+12,50.439998626708984,54.439998626708984,4.0,35,"sẽ có mưa vừa, mưa to từ 100-200mm.",Oc2XwiZa9zA
+13,54.439998626708984,58.439998626708984,4.0,38,Có những nơi cục bộ mưa to trên 250mm.,Oc2XwiZa9zA
+14,58.439998626708984,63.439998626708984,5.0,87,"Mưa lớn sẽ lại khiến cho nước trên các sông dâng lên, hầu hết là ở dưới mức báo động 1.",Oc2XwiZa9zA
+15,63.439998626708984,69.44000244140625,6.000003814697266,81,"Tuy nhiên, một số nơi tại thượng lưu của các sông Nghệ An, Hà Tĩnh hay Quảng Bình",Oc2XwiZa9zA
+16,69.44000244140625,75.44000244140625,6.0,84,"thì ở các khu vực này, sông có thể lên lũ từ báo động 1 cho đến trên mức báo động 1.",Oc2XwiZa9zA
+17,75.44000244140625,78.44000244140625,3.0,60,"Quý vị cần phải đề phòng với lũ quét, sạt lỡ đất ở vùng núi.",Oc2XwiZa9zA
+18,78.44000244140625,83.44000244140625,5.0,67,"Ngoài ra, còn cần phải đề phòng với ngập ống ở các vùng trũng thấp.",Oc2XwiZa9zA
+19,83.44000244140625,86.44000244140625,3.0,63,"Ngay đợt mưa lũ trước thì lũ cũng chỉ chừng là báo động 1 thôi,",Oc2XwiZa9zA
+20,86.44000244140625,92.44000244140625,6.0,100,thế nhưng mà lại kết hợp với việc điều tiết của các hổ chứa nên khiến cho nhiều vùng bị ngập lũ sâu.,Oc2XwiZa9zA
+21,92.44000244140625,94.44000244140625,2.0,34,"Để giảm thiểu thiệt hại do mưa lũ,",Oc2XwiZa9zA
+22,94.44000244140625,99.44000244140625,5.0,91,"thì bà con nên thường xuyên theo dõi cập nhật diễn biến mưa lũ, hổ chứa tại các địa phương.",Oc2XwiZa9zA
+23,100.44000244140625,104.44000244140625,4.0,56,"Cần phải di chuyển da súc, da cầm và đồ đạc lên nơi cao.",Oc2XwiZa9zA
+24,105.44000244140625,107.44000244140625,2.0,17,Dự trữ nước sạch.,Oc2XwiZa9zA
+25,107.44000244140625,110.44000244140625,3.0,51,"Bên cạnh đó, cần phải tranh thủ thu hoạch nông sản.",Oc2XwiZa9zA
+26,111.44000244140625,116.44000244140625,5.0,66,"Ngoài ra, bà con nên chuẩn bị thuyền, phao, bè mảng hay là vật nổi",Oc2XwiZa9zA
+27,116.44000244140625,122.44000244140625,6.0,97,cũng như là gia cố lại nhà làm gác lừng lối thoát trên mái nhà để có thể ở tạm và cất giữ đồ đạc.,Oc2XwiZa9zA
+28,122.44000244140625,126.44000244140625,4.0,89,Và cuối cùng thì sẽ là phần dự báo thời tiết tại các thành phố trong đêm nay và ngày mai.,Oc2XwiZa9zA
+29,126.44000244140625,130.44000244140625,4.0,65,"Đối với thành phố Huế, trong đêm nay sẽ có mưa rào và rông 24 độ.",Oc2XwiZa9zA
+30,131.44000244140625,135.44000244140625,4.0,67,"Mưa mát sẽ tiếp diễn cả ngày mai, nhiệt độ tăng chậm lên mức 30 độ.",Oc2XwiZa9zA
+31,137.44000244140625,141.44000244140625,4.0,60,Thủ đô Hà Nội vào đêm nay và sáng mai có lúc mưa rông 25 độ.,Oc2XwiZa9zA
+32,142.44000244140625,145.44000244140625,3.0,38,Trưa chiều mai trời chuyển nắng 31 độ.,Oc2XwiZa9zA
+33,146.44000244140625,150.44000244140625,4.0,66,"Thành phố Hồ Chí Minh đêm nay có mưa rông rải rác, trời mát 25 độ.",Oc2XwiZa9zA
+34,151.44000244140625,157.44000244140625,6.0,98,"Sáng mai trời có nắng, đến chiều và tối mai lại mưa trở lại, có mưa vừa, mưa to kèm theo rông xét.",Oc2XwiZa9zA
+35,160.44000244140625,165.44000244140625,5.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,Oc2XwiZa9zA

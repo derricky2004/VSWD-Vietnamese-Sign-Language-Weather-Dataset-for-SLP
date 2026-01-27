@@ -1,0 +1,32 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,92,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Ngọc Vân,khciWQgoUUM
+1,4.0,7.0,3.0,75,"Chào Chị Ngọc Vân, ngay hôm nay ở Hà Nội lại là tiếp tục một ngày nắng nóng",khciWQgoUUM
+2,7.0,10.0,3.0,79,Không biết là buổi tối ngay nay thì có một cơn mưa giải nhiệt ở đó hay không ạ?,khciWQgoUUM
+3,10.0,14.0,4.0,76,"Vâng, thời đô Hà Nội thì ít khả năng có mưa nhưng mà tại vùng núi của Bắc Bộ",khciWQgoUUM
+4,14.0,18.0,4.0,74,hay là cả khu vực Tây Nguyên và Nam Bộ thì lại phải cần lưu ý tới mưa rông,khciWQgoUUM
+5,18.0,23.0,5.0,81,Và hiện tại qua ảnh mây vệ tinh cũng cho thấy là mây rông đang bao phủ và gây mưa,khciWQgoUUM
+6,23.0,26.0,3.0,42,"tại vùng núi Lai Châu, Điện Điên và Sân La",khciWQgoUUM
+7,26.0,30.0,4.0,59,cũng như là nhiều nơi khác của khu vực Tây Nguyên và Nam Bộ,khciWQgoUUM
+8,30.0,33.0,3.0,70,Cường độ của mây phát triển khá mạnh chút mưa kèm theo rông xét dữ dội,khciWQgoUUM
+9,33.0,38.0,5.0,81,"Tại Lai Châu, Điện Biên và Sân La đã ghi nhận hơn 2.000 cú xét đánh xuống mặt đất",khciWQgoUUM
+10,38.0,40.0,2.0,30,chỉ trong vòng 2 tiếng đồng hồ,khciWQgoUUM
+11,40.0,43.0,3.0,73,Sở dĩ mưa nhiều nơi như vậy là do sự xuất hiện của nhiều hình thế gây mưa,khciWQgoUUM
+12,43.0,47.0,4.0,60,"Cùng một lúc, phía Nam là gió mùa Tây Nam hoạt động mạnh lên",khciWQgoUUM
+13,47.0,52.0,5.0,75,Còn vùng núi phía Bắc là có rãnh áp thấp nơi hội tụ mây ẩm giữa 2 hương gió,khciWQgoUUM
+14,53.0,56.0,3.0,61,"Rãnh này thở mạnh về đêm, vậy nên cảnh báo đêm nay và đêm mai",khciWQgoUUM
+15,56.0,60.0,4.0,65,"khu vực vùng núi Bắc Bộ sẽ có mưa rông, cục Bộ có mưa vừa, mưa to",khciWQgoUUM
+16,60.0,63.0,3.0,35,tương ứng với vùng màu xanh đậm này,khciWQgoUUM
+17,63.0,67.0,4.0,69,"Quý vị lưu ý là mưa sau ngày nắng nóng, nguy cơ xảy ra lốc xét mưa đá",khciWQgoUUM
+18,67.0,69.0,2.0,29,và gió rực mạnh khá nguy hiểm,khciWQgoUUM
+19,69.0,73.0,4.0,75,"Với Tây Nguyên và Nam Bộ, mưa cũng tiếp tục xảy ra vào chiều tối và tối mai",khciWQgoUUM
+20,73.0,76.0,3.0,37,khoảng thời gian từ 14 giờ tới 19 giờ,khciWQgoUUM
+21,76.0,80.0,4.0,78,Cảnh báo mưa to cục Bộ tại miền Đông Nam Bộ cũng như là khu vực Nam Tây Nguyên,khciWQgoUUM
+22,80.0,86.0,6.0,84,Đây cũng là những nơi có khả năng cao xuất hiện lốc xét và gió rực mạnh kèm theo mưa,khciWQgoUUM
+23,86.0,91.0,5.0,89,Tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố khác trong đêm nay và ngày mai,khciWQgoUUM
+24,91.0,96.0,5.0,56,"Thủ đô Hà Nội dự báo đêm nay hơi oi, 28 độ, độ ẩm là 92%",khciWQgoUUM
+25,96.0,101.0,5.0,70,"Sáng đến chiều mai nắng nóng 36 độ, về chiều tối có thể mưa rông nhiệt",khciWQgoUUM
+26,101.0,105.0,4.0,46,"Đà Nẵng đêm nay dự báo không mưa, dự mát 27 độ",khciWQgoUUM
+27,106.0,110.0,4.0,64,"Trưa và chiều mai thời nắng nhiều, than nóng, nền nhiệt là 33 độ",khciWQgoUUM
+28,110.0,114.0,4.0,52,"Đà Lạt dự báo đêm nay thời giách khô, nhiệt độ 16 độ",khciWQgoUUM
+29,114.0,118.0,4.0,72,"Sáng và chiều mai nắng liên tục, nhiệt độ tăng nhanh lên ngưỡng là 26 độ",khciWQgoUUM
+30,118.0,123.0,5.0,68,"Chiều tối và tối mưa rông xuất hiện, sẽ kèm theo gió rực và sống xét",khciWQgoUUM

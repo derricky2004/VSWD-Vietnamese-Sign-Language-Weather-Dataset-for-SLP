@@ -1,0 +1,34 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.5999999046325684,3.5999999046325684,51,Bây giờ thì sẽ là những thông tin dự báo thời tiết.,Lnazu8ftePw
+1,3.5999999046325684,6.599999904632568,3.0,70,"Chị Ương Liên, hôm qua chị mặc chiếc áo sơ mi xanh rất đẹp, trời nóng.",Lnazu8ftePw
+2,6.599999904632568,9.399999618530273,2.799999713897705,44,"Hôm nay mặc áo khoác dày hơn, trời lạnh hơn.",Lnazu8ftePw
+3,9.399999618530273,11.399999618530273,2.0,48,Không biết là trời lạnh còn kéo dài bao lâu nữa.,Lnazu8ftePw
+4,11.399999618530273,14.0,2.6000003814697266,48,"Vâng anh Dương, lạnh sẽ không kéo dài lâu đâu ạ.",Lnazu8ftePw
+5,14.0,17.799999237060547,3.799999237060547,81,"Bởi vì đã là cuối mùa rồi, không khí lạnh xuống không mạnh và cũng suy yếu nhanh.",Lnazu8ftePw
+6,17.799999237060547,20.399999618530273,2.6000003814697266,49,Hôm nay cũng là ngày mà nhiệt độ xuống thấp nhất.,Lnazu8ftePw
+7,20.399999618530273,24.600000381469727,4.200000762939453,71,"Trước nay, nhiệt độ ở các quận trung tâm Hà Nội đã xuống chỉ còn 21 độ,",Lnazu8ftePw
+8,24.600000381469727,27.399999618530273,2.799999237060547,47,tức là thấp hơn tới 9 độ so với chưa chiều qua.,Lnazu8ftePw
+9,27.399999618530273,32.400001525878906,5.000001907348633,88,"Trời âm u, đi ngoài đường cảm giác xe lạnh và không thể thiếu những chiếc áo khoác mỏng.",Lnazu8ftePw
+10,32.400001525878906,36.400001525878906,4.0,76,"Dự báo sang ngày mai, dù trời vẫn nhiều mây nhưng do không khí lạnh suy yếu,",Lnazu8ftePw
+11,36.400001525878906,38.400001525878906,2.0,33,nên cảm giác đỡ lạnh hơn hôm nay.,Lnazu8ftePw
+12,38.400001525878906,40.79999923706055,2.3999977111816406,53,Thời gian lạnh cũng rút ngắn chỉ còn trong buổi sáng.,Lnazu8ftePw
+13,40.79999923706055,46.400001525878906,5.600002288818359,94,"Đến chưa chiều, nhiệt độ sẽ tăng lên là 25 độ và khả năng đến chủ nhật thì cảm giác mới ấm hẳn",Lnazu8ftePw
+14,46.400001525878906,50.0,3.5999984741210938,52,khi nhiệt độ tăng lên 28 độ và có lúc hứng nắng nhẹ.,Lnazu8ftePw
+15,50.0,53.400001525878906,3.4000015258789062,70,"Không riêng Hà Nội, ngày mai hầu khắp miền Bắc cũng xu thế tăng nhiệt.",Lnazu8ftePw
+16,53.400001525878906,57.20000076293945,3.799999237060547,56,Bản đồ màu nhiệt chuyển dần từ màu xanh lá sang màu vàng,Lnazu8ftePw
+17,57.20000076293945,60.20000076293945,3.0,35,với mức nhiệt phổ biến là 24-25 độ.,Lnazu8ftePw
+18,60.20000076293945,66.19999694824219,5.999996185302734,91,"Riêng phía Tây, ít chịu ảnh hưởng của không khí lạnh nên nền nhiệt cao hơn hẳn là 27-31 độ.",Lnazu8ftePw
+19,66.19999694824219,71.19999694824219,5.0,89,"Còn ở Nam Bộ, dự báo những cơn mưa xảy ra trong đêm nay tập trung ven biên giới miền Tây.",Lnazu8ftePw
+20,71.19999694824219,75.19999694824219,4.0,65,Gần độ mưa giảm nên nguy cơ rung xét cũng ít khả năng xảy ra hơn.,Lnazu8ftePw
+21,75.19999694824219,79.19999694824219,4.0,53,"Sang ngày mai, mưa giảm nhanh, cả ngày trời nắng ráo.",Lnazu8ftePw
+22,79.19999694824219,83.19999694824219,4.0,86,Còn tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố trong 2 ngày cuối tuần.,Lnazu8ftePw
+23,83.19999694824219,88.19999694824219,5.0,84,"Thành phố Hải Phòng dự báo ngày mai trời nhiều mây, nhiệt độ giữa trưa khoảng 25 độ.",Lnazu8ftePw
+24,88.19999694824219,91.19999694824219,3.0,45,"Đến chủ nhật ấm hơn, nhiệt độ tăng lên 27 độ.",Lnazu8ftePw
+25,91.19999694824219,94.19999694824219,3.0,33,Tối và đêm trời xe lạnh 20-22 độ.,Lnazu8ftePw
+26,94.19999694824219,98.19999694824219,4.0,75,"Thành phố Đà Nẵng 2 ngày cuối tuần trời nắng đẹp, nhiệt độ không quá 30 độ.",Lnazu8ftePw
+27,98.19999694824219,101.19999694824219,3.0,60,Riêng chiều tối chủ nhật có thể mưa rào nhẹ nhưng rất nhanh.,Lnazu8ftePw
+28,101.19999694824219,103.19999694824219,2.0,26,Tối và đêm trời mát 25 độ.,Lnazu8ftePw
+29,103.19999694824219,107.19999694824219,4.0,73,Thành phố Hồ Chí Minh sang ngày mai cũng không còn mưa như chiều nay nữa.,Lnazu8ftePw
+30,107.19999694824219,108.19999694824219,1.0,28,Nhiệt độ có xu thế tăng lên.,Lnazu8ftePw
+31,108.19999694824219,111.19999694824219,3.0,51,"Đến chủ nhật có nắng nóng, nhiệt độ cao nhất 35 độ.",Lnazu8ftePw
+32,113.19999694824219,116.19999694824219,3.0,73,Thành phố Hồ Chí Minh sang ngày mai cũng không còn mưa như chiều nay nữa.,Lnazu8ftePw

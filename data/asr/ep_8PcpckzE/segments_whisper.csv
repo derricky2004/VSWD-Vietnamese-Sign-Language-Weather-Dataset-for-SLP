@@ -1,0 +1,187 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,8.600000381469727,8.600000381469727,129,"Thưa quý vị, chiều nay áp thấp nhiệt đới suy yếu từ cơn bão số 12 đã suy yếu tiếp thành một vùng áp thấp trên khu vực Tây Nguyên.",ep_8PcpckzE
+1,8.600000381469727,15.0,6.399999618530273,106,"Lúc 16 giờ, trung tâm vùng áp thấp ở ngay trên khu vực Tây Nguyên. Cơn độ của nó đã giảm xuống dưới cấp 6.",ep_8PcpckzE
+2,15.0,20.0,5.0,83,"Dự báo trong 12 giờ tới, vùng áp thấp tiếp tục di chuyển theo hướng Tây và tan dần.",ep_8PcpckzE
+3,20.0,24.0,4.0,71,Đáng chú ý là hiện nay ngoài khơi Philippines xuất hiện cơn bão vàm cỏ.,ep_8PcpckzE
+4,24.0,31.0,7.0,108,"Dự báo trong 1-2 ngày tới, sau khi quét qua Philippines, bão sẽ đi vào Biển Đông và trở thành cơn bão số 13.",ep_8PcpckzE
+5,31.0,39.0,8.0,97,"Đến 13 giờ ngày 12 tháng 11, tâm bão cách huyện đảo Hoàng Sa khoảng 760 km về phía đông Đông Nam,",ep_8PcpckzE
+6,39.0,42.0,3.0,42,"cơn độ mạnh cấp 11, 12 và giật tới cấp 14.",ep_8PcpckzE
+7,42.0,49.0,7.0,109,"Sau đó, bão tiếp tục đi vào giữa Biển Đông và có khả năng mạnh đến cấp 12, giật cấp 15, gây biển động dữ dội.",ep_8PcpckzE
+8,50.0,58.0,8.0,107,"Trước khi xuy yếu thành vùng áp thấp, sáng nay bão số 12 đã gây ra những ảnh hưởng trực tiếp đến Khánh Hòa.",ep_8PcpckzE
+9,58.0,65.0,7.0,130,Để đảm bảo an toàn cho người dân trong và sau khi bão đổ bộ là yêu cầu hàng đầu trong công tác ứng phó bão số 12 ở địa phương này.,ep_8PcpckzE
+10,67.0,72.0,5.0,68,"Bão số 12 khi đi vào đất liền có sức gió mạnh cấp 6, cấp 7 và cấp 9.",ep_8PcpckzE
+11,72.0,78.0,6.0,81,"Cũng trong 24 giờ qua, lượng mưa trên địa bàn tỉnh Khánh Hòa phổ biến từ 40-80mm.",ep_8PcpckzE
+12,78.0,81.0,3.0,38,Riêng huyện Vạn Ninh mưa từ 150-200mm.,ep_8PcpckzE
+13,81.0,87.0,6.0,87,"Gió mạnh kèm theo mưa lớn khi bão số 12 đổ bộ vào đất liền đã khiến hàng loạt cây xanh,",ep_8PcpckzE
+14,87.0,91.0,4.0,72,biển hiệu ở một số tiến đường tại thành phố Nha Trang bị ngạ đổ bọc gốc.,ep_8PcpckzE
+15,91.0,94.0,3.0,52,Một số khu vực ở thành phố Nha Trang đã bị mất điện.,ep_8PcpckzE
+16,94.0,98.0,4.0,102,"Theo báo cáo nhanh của Văn phòng Ban Chỉ huy Phòng chống thiên tai và Tìm kiếm cứu nạn tỉnh Khánh Hòa,",ep_8PcpckzE
+17,98.0,102.0,4.0,59,bão số 12 đã khiến nhiều ngôi nhà của người dân bị tóc mái.,ep_8PcpckzE
+18,102.0,106.0,4.0,69,Bão cũng đã gây ra sự cố hệ thống truyền tải điện ở nhiều địa phương.,ep_8PcpckzE
+19,106.0,110.0,4.0,55,"Có đến 49 xã, phường, thị trấn ở Khánh Hòa bị bóc điện,",ep_8PcpckzE
+20,110.0,113.0,3.0,55,trong đó tập trung ở huyện Vạn Ninh và thị xã Ninh Hòa.,ep_8PcpckzE
+21,113.0,117.0,4.0,100,"Trong chiều nay, việc khắc phục đã được triển khai nhưng chỉ đối với những khu vực bị ảnh hưởng nhẹ.",ep_8PcpckzE
+22,117.0,121.0,4.0,70,"Riêng đối với những khu vực mà nước sông đang lên như thị xã Ninh Hòa,",ep_8PcpckzE
+23,121.0,124.0,3.0,62,hiện tại việc khắc phục sự cố bóc điện gặp rất nhiều khó khăn.,ep_8PcpckzE
+24,124.0,128.0,4.0,58,"Về giao thông, tàu SE2 di chuyển theo hướng từ Nam ra Bắc,",ep_8PcpckzE
+25,128.0,135.0,7.0,91,"hiện tạm dừng tại lý trình 1233-650 thuộc xã Đại Lãnh, huyện Vạn Ninh do đường sắt bị ngập.",ep_8PcpckzE
+26,135.0,139.0,4.0,63,Mưa to do lớn cũng khiến nhiều diện tích lúa hoa màu bị ngạ đổ.,ep_8PcpckzE
+27,139.0,141.0,2.0,33,Ngập úng chưa thống kê thiệt hại.,ep_8PcpckzE
+28,141.0,145.0,4.0,89,"Một tàu cá bị chìm khi neo đầu tránh trú bão tại phường Vĩnh trường, thành phố Nha Trang.",ep_8PcpckzE
+29,145.0,147.0,2.0,46,"Ngay sau khi bão đi qua, ngay trong chiều nay,",ep_8PcpckzE
+30,147.0,150.0,3.0,58,ủy ban nhân dân tỉnh Khánh Hòa đã huy động nhiều nguồn lực,ep_8PcpckzE
+31,150.0,152.0,2.0,38,khắc phục hậu quả do bão số 12 gây ra.,ep_8PcpckzE
+32,154.0,157.0,3.0,55,"Đến chiều nay, mưa có giảm trên địa bàn tỉnh Khánh Hòa.",ep_8PcpckzE
+33,157.0,162.0,5.0,92,"Tuy nhiên, chính quyền địa phương vẫn lưu ý người dân ở những khu vực có nguy cơ sặt lở đất,",ep_8PcpckzE
+34,162.0,165.0,3.0,70,"vùng trụng thấp không được chủ quan, tiếp tục đảm bảo an toàn sau bão.",ep_8PcpckzE
+35,167.0,171.0,4.0,86,Mưa lớn từ bão số 12 cũng đã khiến nhiều công trình hồ đập trên địa bàn tỉnh Khánh Hòa,ep_8PcpckzE
+36,171.0,174.0,3.0,42,phải điều tiết xả nước để đảm bảo an toàn.,ep_8PcpckzE
+37,174.0,177.0,3.0,41,"Tính từ 19h ngày hôm qua đến 16h hôm nay,",ep_8PcpckzE
+38,177.0,182.0,5.0,66,"lượng mưa đo được tại khu vực Đèo Cả, huyện Vạn Ninh là hơn 323mm.",ep_8PcpckzE
+39,182.0,186.0,4.0,42,"Tại xã Ninh An, thị xã Ninh Hòa hơn 200mm.",ep_8PcpckzE
+40,186.0,189.0,3.0,40,Tại huyện miền núi Khánh Vĩnh hơn 150mm.,ep_8PcpckzE
+41,189.0,195.0,6.0,105,"Với lượng mưa đặc biệt lớn như vậy nên nhiều hồ chứa thủy điện, công trình thủy lợi đã xả nước điều tiết.",ep_8PcpckzE
+42,195.0,201.0,6.0,90,"Trong đó, hồ Hoa Sơn ở huyện Vạn Ninh đã xả điều tiết với lưu lượng là 250m khối trên dây.",ep_8PcpckzE
+43,201.0,206.0,5.0,60,"Thủy điện Sông Giang 2 tại huyện Khánh Vĩnh lúc 13h hôm nay,",ep_8PcpckzE
+44,206.0,209.0,3.0,46,lưu lượng nước về hồ là hơn 44m khối trên dây.,ep_8PcpckzE
+45,209.0,213.0,4.0,39,"Xả tràn sau đập là 32,2m khối trên dây.",ep_8PcpckzE
+46,213.0,216.0,3.0,51,"Mưa lớn ở Thượng Nguồn, nước đổ về vùng hạ lưu lớn,",ep_8PcpckzE
+47,216.0,219.0,3.0,68,khiến cho nhiều tuyến đường giao thông ở tỉnh Khánh Hòa bị chia cắt.,ep_8PcpckzE
+48,219.0,224.0,5.0,96,"Chính quyền các địa phương đã cắt cử người trực, không cho người dân đi qua vùng nước nguy hiểm.",ep_8PcpckzE
+49,226.0,232.0,6.0,89,"Còn tại tỉnh Phú Yên, bão số 12 cũng khiến 1 người bị thương, hơn 10 ngôi nhà bị tốc mái,",ep_8PcpckzE
+50,232.0,235.0,3.0,38,61 xã mất điện do lưới điện bị ngã đổ.,ep_8PcpckzE
+51,235.0,240.0,5.0,96,Mưa lớn kéo dài từ đêm qua đến chiều nay kết hợp với một số hồ thủy điện xả lũ với lưu lượng lớn,ep_8PcpckzE
+52,240.0,242.0,2.0,35,đã gây ngập và chia cắt nhiều vùng.,ep_8PcpckzE
+53,242.0,246.0,4.0,70,"Lúc này, Phú Yên phải vừa khắc phục bão số 12, vừa ứng phó với mưa lũ.",ep_8PcpckzE
+54,249.0,255.0,6.0,103,"Cho đến 17h hôm nay, các vùng bị ngập và chia cắt sau bão số 12 ở tỉnh Phú Yên đã không ngừng tăng lên.",ep_8PcpckzE
+55,255.0,260.0,5.0,91,"Xa Hòa Thịnh, huyện Tây Hòa, tỉnh Phú Yên, cho đến đầu giờ chiều nay đã chia cắt hoàn toàn.",ep_8PcpckzE
+56,260.0,263.0,3.0,37,Có nhiều tuyến đường ngập sâu đến 4m.,ep_8PcpckzE
+57,263.0,265.0,2.0,35,"Khi bão vừa tăng, thì lũ lên nhanh.",ep_8PcpckzE
+58,265.0,269.0,4.0,71,Nên nhiều gia đình đã không kịp di chuyển đồ đạc đi gỡi nên đã bị ngập.,ep_8PcpckzE
+59,269.0,274.0,5.0,69,Sáng giờ lũ lụt ở đây nó tăng cao rất là nhanh từ hầu lúc 8h đến giờ.,ep_8PcpckzE
+60,274.0,278.0,4.0,55,"Khu vực này là dân, bà con ở đây là đều rời đi hết rồi.",ep_8PcpckzE
+61,278.0,281.0,3.0,27,Sơ tán cũng được 5-60% rồi.,ep_8PcpckzE
+62,281.0,285.0,4.0,86,Theo chia sẻ của người dân thì chưa có năm nào nước lũ là lớn nhanh vào thời điểm này.,ep_8PcpckzE
+63,285.0,288.0,3.0,60,"Với dự ổ hộ gia đình này, lúc sáng thì vẫn còn ở ngồi đường,",ep_8PcpckzE
+64,288.0,292.0,4.0,72,nhưng hiện tại thì nước đã ngập sâu đến nửa mét như thế này thưa quý vị.,ep_8PcpckzE
+65,293.0,296.0,3.0,45,Lũ mưa đã được từ 19h hôm qua đến 9h hôm nay.,ep_8PcpckzE
+66,296.0,300.0,4.0,35,Ở Phú Yên có nơi lên đến hơn 280mm.,ep_8PcpckzE
+67,300.0,303.0,3.0,66,"Kết hợp với đó là các hồ thủy điện, hồ chứa cùng đường tuyết nước,",ep_8PcpckzE
+68,303.0,305.0,2.0,30,xã về Hạ Du với lưu lượng lớn.,ep_8PcpckzE
+69,305.0,309.0,4.0,48,Chỉ riêng thủy điện sông Ba Hạ đến 15h30 hôm nay,ep_8PcpckzE
+70,309.0,312.0,3.0,46,đã tăng lưu lượng xã lên đến 3.000m3 một giây.,ep_8PcpckzE
+71,312.0,316.0,4.0,52,Hồ gia đình này suốt từ sáng đến giờ chỉ lo chạy lũ.,ep_8PcpckzE
+72,316.0,320.0,4.0,58,Hầu sáng chứ còn trong bụng chưa có một hộp sông nào luôn.,ep_8PcpckzE
+73,320.0,322.0,2.0,27,"Giờ nó lên lệnh nó rung đi,",ep_8PcpckzE
+74,322.0,326.0,4.0,35,"một lớp bò nghĩ cũng phải mượn dầu,",ep_8PcpckzE
+75,326.0,329.0,3.0,38,"người nãy tập trung tới dầu bò đi râu,",ep_8PcpckzE
+76,329.0,331.0,2.0,31,giờ ra dịch ra có như trâu mất.,ep_8PcpckzE
+77,331.0,334.0,3.0,62,Chịu báo đêm nay trên địa bàn tỉnh Phú Yên tiếp tục có mưa to.,ep_8PcpckzE
+78,334.0,336.0,2.0,37,Kết hợp với lưu lượng nước điều tuyết,ep_8PcpckzE
+79,336.0,339.0,3.0,43,"từ các hồ thủy điện thủy lợi về vùng Hạ Du,",ep_8PcpckzE
+80,339.0,341.0,2.0,43,thì nghi cơ ngập sẽ diễn ra trên diện rộng.,ep_8PcpckzE
+81,341.0,343.0,2.0,37,"Vì thế, lãnh đạo tỉnh Phú Yên yêu cầu",ep_8PcpckzE
+82,343.0,345.0,2.0,34,chủ các hồ chứa thủy điện thủy lợi,ep_8PcpckzE
+83,345.0,347.0,2.0,29,có lâu lượng nước lũ đổ về hồ,ep_8PcpckzE
+84,347.0,349.0,2.0,41,"để xây dựng phương án điều tuyết phù hợp,",ep_8PcpckzE
+85,349.0,351.0,2.0,43,hạn chế thấp nhất thiệt hại cho vùng Hạ Du.,ep_8PcpckzE
+86,351.0,353.0,2.0,28,Các địa phương cũng cảnh báo,ep_8PcpckzE
+87,353.0,356.0,3.0,56,"người dân thiệt đối không đi qua lại các vùng nước chảy,",ep_8PcpckzE
+88,356.0,358.0,2.0,48,vì thực tế hiện nay có không ít thanh thiếu niên,ep_8PcpckzE
+89,358.0,360.0,2.0,36,đi vào các tuyến đường nước đang lên,ep_8PcpckzE
+90,360.0,362.0,2.0,37,để live stream chụp hình như thế này.,ep_8PcpckzE
+91,367.0,370.0,3.0,44,"Bão số 12 đã suy yếu thành một vùng áp thấp,",ep_8PcpckzE
+92,370.0,373.0,3.0,61,nhưng miền Trung vẫn còn mưa lớn trong đêm nay và 2 ngày tới.,ep_8PcpckzE
+93,374.0,376.0,2.0,37,"Đêm nay, vùng mưa mở rộng dọc Hà Tĩnh",ep_8PcpckzE
+94,376.0,378.0,2.0,31,đến Khánh Hòa và cả Tây Nguyên.,ep_8PcpckzE
+95,378.0,380.0,2.0,46,"Từ ngày mai, mưa ở khu vực Khánh Hòa, Phú Yên,",ep_8PcpckzE
+96,380.0,382.0,2.0,35,Bình Định và Tây Nguyên giảm nhanh.,ep_8PcpckzE
+97,382.0,385.0,3.0,58,Còn khu vực Hà Tĩnh đến Quảng Ngãi mưa kéo dài 2 ngày tới.,ep_8PcpckzE
+98,385.0,388.0,3.0,60,"Trọng tâm là Quảng Trị, Thứa Thiên Huế, Đà Nẵng và Quảng Nam",ep_8PcpckzE
+99,388.0,391.0,3.0,32,với tổng lượng mưa từ 100-300mm.,ep_8PcpckzE
+100,391.0,394.0,3.0,58,Lũ trên các sông từ Quảng Ngãi đến Khánh Hòa tiếp tục lên.,ep_8PcpckzE
+101,394.0,397.0,3.0,45,"Đêm nay, sáng sớm mai, mức nước trên sông Vệ,",ep_8PcpckzE
+102,398.0,401.0,3.0,49,sông Kỳ Lộ tại Phú Yên và sông Dinh tại Khánh Hòa,ep_8PcpckzE
+103,401.0,404.0,3.0,42,"sẽ vượt báo động 3, mức báo động khẩn cấp.",ep_8PcpckzE
+104,404.0,407.0,3.0,53,"Sông Trà Khốp tại Quảng Ngãi và sông Côn ở Bình Định,",ep_8PcpckzE
+105,407.0,410.0,3.0,53,"sông Ba tại Phú Yên, sông Cái-Nha Trang tại Khánh Hòa",ep_8PcpckzE
+106,410.0,411.0,1.0,19,sẽ trên báo động 2.,ep_8PcpckzE
+107,411.0,414.0,3.0,50,"Nguy cơ cao xảy ra ngập lụt ở các vùng trụng thấp,",ep_8PcpckzE
+108,414.0,416.0,2.0,31,đề phòng lụ quét và sạt lở đất.,ep_8PcpckzE
+109,416.0,419.0,3.0,56,"Cảnh báo nguy cơ cao nhất đêm nay là vùng núi Quảng Nam,",ep_8PcpckzE
+110,419.0,423.0,4.0,62,"Quảng Ngãi, Bình Định, Phú Yên, Khánh Hòa và Gia Lai, Đắk Lắc.",ep_8PcpckzE
+111,423.0,425.0,2.0,49,"Vùng núi Quảng Bình đến Bình Thuận và Tây Nguyên,",ep_8PcpckzE
+112,425.0,427.0,2.0,27,nguy cơ trung bình đến cao.,ep_8PcpckzE
+113,430.0,433.0,3.0,61,Trên địa bàn tỉnh Quảng Nam cũng đã xuất hiện mưa lớn trở lại,ep_8PcpckzE
+114,433.0,435.0,2.0,30,từ chiều tối qua đến sáng nay.,ep_8PcpckzE
+115,435.0,438.0,3.0,55,Nhiều nơi sạt lở đất tiếp diễn và nhiều điểm sạt lở mới,ep_8PcpckzE
+116,438.0,440.0,2.0,40,tại 9 huyện miền núi cũng được ghi nhận.,ep_8PcpckzE
+117,440.0,444.0,4.0,71,Chính quyền địa phương đã khẩn trương sơ tán người dân đến nơi an toàn.,ep_8PcpckzE
+118,444.0,448.0,4.0,60,"Các xã vùng cao của huyện Phước Sơn, Nam Trà My, Bắc Trà My,",ep_8PcpckzE
+119,448.0,450.0,2.0,32,sạt lở uy hiếp nhiều khu dân cư.,ep_8PcpckzE
+120,450.0,454.0,4.0,66,Khoảng 10.000 người đã được sơ tán đến các điểm tranh trú an toàn.,ep_8PcpckzE
+121,454.0,457.0,3.0,59,"Dự báo tình trạng mưa lũ còn kéo dài và diễn biến phức tạp,",ep_8PcpckzE
+122,457.0,460.0,3.0,59,"tỉnh Quảng Nam đã cấp rút tích chữ nhu yếu phẩm, lương thực",ep_8PcpckzE
+123,460.0,464.0,4.0,61,cho các địa bàn miền núi để cung ứng đủ trong vòng một tháng.,ep_8PcpckzE
+124,464.0,468.0,4.0,77,"Ngoài ra, tỉnh cũng đã bố trí lực lượng tại chỗ, sẵn sàng ứng phó với mưa lũ.",ep_8PcpckzE
+125,468.0,471.0,3.0,63,"Hiện nay, Quảng Nam còn 18 người bắt tích trong các đợt mưa lũ,",ep_8PcpckzE
+126,471.0,475.0,4.0,54,"trong đó huyện Nam Trà My 14 người, Phước Sơn 4 người.",ep_8PcpckzE
+127,475.0,478.0,3.0,48,Việc tìm kiếm rất khó khăn do thời tiết bất lợi.,ep_8PcpckzE
+128,481.0,485.0,4.0,76,"Theo thông tin, chúng tôi mới nhận được sáng nay do ảnh hưởng của báo số 12,",ep_8PcpckzE
+129,485.0,488.0,3.0,48,"tại xã Tam Lãnh, huyện Phú Ninh, tỉnh Quảng Nam,",ep_8PcpckzE
+130,488.0,491.0,3.0,49,vừa xảy ra vụ sập nhà khiến một người thiệt mạng.,ep_8PcpckzE
+131,493.0,497.0,4.0,77,"Và gần 10 ngày đã trôi qua, các lực lượng vẫn đang tiếp tục công tác tìm kiếm",ep_8PcpckzE
+132,497.0,500.0,3.0,60,"người bắt tích tại xã Phước Lộc, huyện Phước Sơn, Quảng Nam.",ep_8PcpckzE
+133,500.0,505.0,5.0,88,"Đến thời điểm này, tại xã Phước Lộc vẫn còn 4 trên 13 người bắt tích chưa được tìm thấy.",ep_8PcpckzE
+134,508.0,511.0,3.0,63,"Những ngày qua, 50 cán bộ chiến sĩ gồm một đội biên phòng tỉnh,",ep_8PcpckzE
+135,511.0,513.0,2.0,47,"ban chỉ huy quân sự và công an huyện Phước Sơn,",ep_8PcpckzE
+136,513.0,517.0,4.0,63,cùng với sự hỗ trợ của người dân địa phương đã nỗ lực tìm kiếm.,ep_8PcpckzE
+137,517.0,520.0,3.0,55,"Tuy nhiên, khối lượng đất đá, cây rừng tại đây quá lớn.",ep_8PcpckzE
+138,520.0,524.0,4.0,60,"Khu vực sạt lở có chiều dài gần 600m, chiều rộng khoảng 50m.",ep_8PcpckzE
+139,524.0,527.0,3.0,62,"Lực lượng tìm kiếm chỉ có dụng cụ cuốc, sẻng, xà ven, cửa thay",ep_8PcpckzE
+140,527.0,531.0,4.0,59,"nên để tìm kiếm hết khu vực này, đòi hỏi phải có thời gian.",ep_8PcpckzE
+141,531.0,534.0,3.0,76,Hiện xã Phước Lộc vẫn đang bị chia cắt nên việc huy động phương tiện máy móc,ep_8PcpckzE
+142,534.0,537.0,3.0,56,tiếp cận khu vực tìm kiếm chưa thể triện khai ngay được.,ep_8PcpckzE
+143,537.0,541.0,4.0,88,"Chưa kể, thời tiết mưa to sẽ tiếp tục quản trở việc tìm kiếm trong những ngày tiếp theo.",ep_8PcpckzE
+144,544.0,547.0,3.0,74,"Còn tại huyện Nam Trà My, Quảng Nam, hiện nay lực lượng chức năng tỉnh này",ep_8PcpckzE
+145,547.0,550.0,3.0,53,và quân khu 5 vẫn đang nỗ lực tìm kiếm những nạn nhân,ep_8PcpckzE
+146,550.0,553.0,3.0,43,còn bắt tích trong vụ sạt lở ở xã Trà Leng.,ep_8PcpckzE
+147,553.0,556.0,3.0,57,Lực lượng tìm kiếm đã dùng cắt treo sang bên kia bãi bổi.,ep_8PcpckzE
+148,556.0,559.0,3.0,53,Đây là vị trí nghi ngờ khả năng có người bị mất tích.,ep_8PcpckzE
+149,559.0,562.0,3.0,69,Lực lượng cứu hộ cũng đã phát hiện nhiều vật dụng quần áo và chăn màn,ep_8PcpckzE
+150,562.0,564.0,2.0,41,của người dân trôi rạt bên bờ sông Leong.,ep_8PcpckzE
+151,567.0,569.0,2.0,63,"Còn tại tỉnh Thứa Thiên Huế, lực lượng tìm kiếm cứu nạn dự kiến",ep_8PcpckzE
+152,569.0,573.0,4.0,62,"sau khi bão súp 12 và 13 qua đi thì sẽ ngăn đập, nắn dòng sông",ep_8PcpckzE
+153,573.0,577.0,4.0,78,để tìm kiếm 12 nạn nhân còn mất tích trong vụ sạt lở ở thủy điện Giao Trang 3.,ep_8PcpckzE
+154,577.0,581.0,4.0,64,"Cụ thể sẽ làm đập dài hơn 10m, sử dụng dọ đá và vần liệu tại chỗ",ep_8PcpckzE
+155,581.0,585.0,4.0,69,"để ngăn dòng chảy, đồng thời nắn dòng sông để làm đổi hướng dòng chảy",ep_8PcpckzE
+156,585.0,588.0,3.0,66,"sang hướng khác, tiếp tục tìm kiếm ở khu vực lòng sông Giao Trang.",ep_8PcpckzE
+157,590.0,594.0,4.0,72,"Do liên tục chịu ảnh hưởng của bão số 9, 10 và mới nhất vào ngày hôm nay",ep_8PcpckzE
+158,594.0,598.0,4.0,70,"là bão số 12, trên địa bàn tỉnh Bình Định, nhiều nơi mưa to đến rất to",ep_8PcpckzE
+159,598.0,600.0,2.0,22,có nơi mưa trên 450mm.,ep_8PcpckzE
+160,600.0,604.0,4.0,71,Mưa to dài ngày đã gây ra sạt lở nghiêm trọng tại một số huyện miền núi,ep_8PcpckzE
+161,604.0,606.0,2.0,45,tại tỉnh Bình Định với khối lượng sạt lở lớn.,ep_8PcpckzE
+162,606.0,611.0,5.0,98,"Trước những diễn biến phức tạp của thời tiết, tỉnh Bình Định đang khẩn trương khắc phục thiệt hại.",ep_8PcpckzE
+163,613.0,618.0,5.0,80,Đường lên từ xã Vĩnh Kim lên xã Vĩnh Sơn tại huyện Vĩnh Thạnh của tỉnh Bình Định,ep_8PcpckzE
+164,618.0,621.0,3.0,47,đang có khá nhiều các điểm sạt lở nghiêm trọng.,ep_8PcpckzE
+165,621.0,626.0,5.0,81,Hiện nay các lực lượng chức năng và chính quyền địa phương đã ra sách khẩn trương,ep_8PcpckzE
+166,626.0,628.0,2.0,26,khắc phục các điểm sạt lở.,ep_8PcpckzE
+167,628.0,633.0,5.0,77,Tuy nhiên do điều kiện ảnh hưởng của bão số 12 và mưa lớn kéo dài như thế này,ep_8PcpckzE
+168,633.0,637.0,4.0,62,thì nguy cơ xuất hiện các điểm sạt lở mới vẫn tiếp tục xảy ra.,ep_8PcpckzE
+169,638.0,643.0,5.0,103,"Huyện Vĩnh Thạnh, tỉnh Bình Định là địa phương bị sạt lở nghiêm trọng do mưa to kéo dài nhiều ngày qua.",ep_8PcpckzE
+170,643.0,649.0,6.0,81,"Cụ thể, đường từ xã Vĩnh Kim lên xã Vĩnh Sơn, huyện Vĩnh Thạnh bị sạt lở 15 điểm,",ep_8PcpckzE
+171,649.0,653.0,4.0,71,"sạt lở đường từ thôn K6 đến bờ đập Thủy Điện Vĩnh Sơn 5 khoảng 13 điểm,",ep_8PcpckzE
+172,653.0,657.0,4.0,71,gây chế cắt tuyến đường làm hàng trăm hộ dân sống xung quanh bị cô lập.,ep_8PcpckzE
+173,657.0,662.0,5.0,79,Ủy ban Nhà dân xã Vĩnh Kim đã sơ tán 18 hộ dân dưới chân núi có nguy cơ sạt lở.,ep_8PcpckzE
+174,662.0,667.0,5.0,89,"Đến trụ sở Ủy ban Nhà dân xã, chính quyền và lực lượng chức năng đã khuyến động lực lượng",ep_8PcpckzE
+175,667.0,671.0,4.0,64,"tại chỗ và máy đào để khai thông dòng chảy, tạo lối đi tạm thời.",ep_8PcpckzE
+176,671.0,674.0,3.0,53,"Đến nay, cơ bản các tuyến đường đã được thông thoáng.",ep_8PcpckzE
+177,674.0,678.0,4.0,51,Có khả năng địa bàn O3 và O5 sẽ bị chia cắt cho lũ.,ep_8PcpckzE
+178,678.0,684.0,6.0,79,"Chúng tôi cũng đã kịp thời chỉ đạo cho huyện có phương án hỗ trợ về lương thực,",ep_8PcpckzE
+179,684.0,689.0,5.0,65,sản phẩm và nước uống để đảm bảo khách phục bước đầu do tiên tai.,ep_8PcpckzE
+180,689.0,694.0,5.0,79,"Thời gian đến, Ủy ban Nhà dân tỉnh Bình Định đã chỉ đạo các ban ngành khảo sát,",ep_8PcpckzE
+181,694.0,699.0,5.0,81,"đánh giá là hiện tượng lũ ống, lũ quét, sạt lở chiều cường trên toàn địa bàn tỉnh",ep_8PcpckzE
+182,699.0,700.0,1.0,21,để kịp thời tham mưu.,ep_8PcpckzE
+183,700.0,705.0,5.0,75,"Ủy ban Nhà dân tỉnh quy hoạch bố trí khu tái địch cư mới kiên cố vững trãi,",ep_8PcpckzE
+184,705.0,707.0,2.0,48,"đảm bảo cuộc sống lâu dài, ổn định cho nhân dân.",ep_8PcpckzE
+185,714.0,716.0,2.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,ep_8PcpckzE

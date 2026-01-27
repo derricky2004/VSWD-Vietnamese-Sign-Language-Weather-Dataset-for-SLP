@@ -1,0 +1,60 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.0,3.0,47,Bây giờ sẽ là những thông tin dự báo thời tiết.,AQBy4LeoE3k
+1,3.0,6.0,3.0,50,"Chị Quỳnh Anh, hôm qua thì trời lạnh nhưng mà khô.",AQBy4LeoE3k
+2,6.0,8.0,2.0,39,Hôm nay thì cũng lạnh nhưng mà lại mưa.,AQBy4LeoE3k
+3,8.0,10.0,2.0,37,Chị phân tích rõ hơn cho khán giả đi.,AQBy4LeoE3k
+4,10.0,12.0,2.0,39,"Dạ vâng, nguyên nhân là do ngày hôm nay",AQBy4LeoE3k
+5,12.0,14.0,2.0,48,cũng có không khí lạnh tăng cường xuống nước ta.,AQBy4LeoE3k
+6,14.0,15.0,1.0,36,Thế nhưng khi mà di chuyển xuống đây,AQBy4LeoE3k
+7,15.0,17.0,2.0,35,nó lại lệch ra phía biển nhiều hơn.,AQBy4LeoE3k
+8,17.0,19.0,2.0,51,Chính vì vậy mà ẩm vào trong đất liền rất là nhiều.,AQBy4LeoE3k
+9,19.0,21.0,2.0,23,"Thưa quý vị và các bạn,",AQBy4LeoE3k
+10,21.0,23.0,2.0,28,ở miền Bắc và Bắc miền Trung,AQBy4LeoE3k
+11,23.0,25.0,2.0,61,sẽ là những nơi chịu tác động rõ nét nhất của không khí lạnh.,AQBy4LeoE3k
+12,25.0,27.0,2.0,37,Qua hình ảnh mây vệ tinh ngay sau đây,AQBy4LeoE3k
+13,27.0,29.0,2.0,38,thì cũng có thể thấy rõ được điều này.,AQBy4LeoE3k
+14,29.0,31.0,2.0,21,Từ đèo Hải Vân trở ra,AQBy4LeoE3k
+15,31.0,33.0,2.0,34,quý vị có thể thấy là được bao phủ,AQBy4LeoE3k
+16,33.0,35.0,2.0,19,bởi một lớp mây dày,AQBy4LeoE3k
+17,35.0,37.0,2.0,38,và có những cơn mưa bắt chợt kèm theo.,AQBy4LeoE3k
+18,37.0,39.0,2.0,28,Trong khi đó qua đèo Hải Vân,AQBy4LeoE3k
+19,39.0,41.0,2.0,29,từ Đà Nẵng trở vào đến Nam Bộ,AQBy4LeoE3k
+20,41.0,43.0,2.0,40,"thì lại là trạng thái ít mây, nắng giáo.",AQBy4LeoE3k
+21,43.0,45.0,2.0,32,Để thấy rõ hơn được sự khác biệt,AQBy4LeoE3k
+22,45.0,47.0,2.0,40,về thời tiết này thì quý vị hãy quan sát,AQBy4LeoE3k
+23,47.0,49.0,2.0,45,những hình ảnh thực tế mà chúng tôi kinh nhận,AQBy4LeoE3k
+24,49.0,51.0,2.0,19,trong ngày hôm nay.,AQBy4LeoE3k
+25,51.0,53.0,2.0,34,Tại thủ đô Hà Nội và thành phố Huế,AQBy4LeoE3k
+26,53.0,55.0,2.0,26,trời ấm u cả ngày hôm nay.,AQBy4LeoE3k
+27,55.0,57.0,2.0,27,Thậm chí là ở thủ đô Hà Nội,AQBy4LeoE3k
+28,57.0,59.0,2.0,42,trời có mưa kèm theo đó là sương mù ấm ướt,AQBy4LeoE3k
+29,59.0,61.0,2.0,25,khiến cho ống kính camera,AQBy4LeoE3k
+30,61.0,63.0,2.0,21,bị mờ đi như thế này.,AQBy4LeoE3k
+31,63.0,65.0,2.0,47,Ngược lại tại 2 thành phố là Đà Nẵng và Cần Thơ,AQBy4LeoE3k
+32,65.0,67.0,2.0,41,trời quang đẵng và có nắng đến tận chiều.,AQBy4LeoE3k
+33,67.0,69.0,2.0,36,Trạng thái thời tiết đối lập như vậy,AQBy4LeoE3k
+34,69.0,71.0,2.0,21,vẫn sẽ còn tiếp diễn.,AQBy4LeoE3k
+35,71.0,73.0,2.0,26,Ở phía bắc của đèo Hải Vân,AQBy4LeoE3k
+36,73.0,75.0,2.0,26,ngày mai trời sẽ nhiều mây,AQBy4LeoE3k
+37,75.0,77.0,2.0,47,"trong đó khu vực miền Bắc và Thanh Hóa, Nghệ An",AQBy4LeoE3k
+38,77.0,79.0,2.0,23,"sẽ có mưa nhỏ, mưa phủn",AQBy4LeoE3k
+39,79.0,81.0,2.0,25,trội lẫn với cả sương mù.,AQBy4LeoE3k
+40,81.0,83.0,2.0,39,Các thành phố tập trung về đêm và sáng.,AQBy4LeoE3k
+41,83.0,85.0,2.0,30,Còn ở phía nam của đèo Hải Vân,AQBy4LeoE3k
+42,85.0,87.0,2.0,23,ngày mai trời nắng ráo.,AQBy4LeoE3k
+43,87.0,89.0,2.0,30,Riêng khu vực miền Đông Nam Bộ,AQBy4LeoE3k
+44,89.0,91.0,2.0,41,còn xuất hiện nắng nóng với mức nhiệt cao,AQBy4LeoE3k
+45,91.0,93.0,2.0,16,khoảng 35-36 độ.,AQBy4LeoE3k
+46,93.0,95.0,2.0,44,Tiếp theo là những thông tin dự báo chi tiết,AQBy4LeoE3k
+47,95.0,97.0,2.0,47,cho một số thành phố trên cả nước vào ngày mai.,AQBy4LeoE3k
+48,97.0,99.0,2.0,31,Hà Nội đêm nay và sáng ngày mai,AQBy4LeoE3k
+49,99.0,101.0,2.0,37,"có mưa nhỏ, mưa phủn, trời rét 18 độ.",AQBy4LeoE3k
+50,101.0,103.0,2.0,32,"Trời chiều mai lúc mưa, lúc tạnh",AQBy4LeoE3k
+51,103.0,105.0,2.0,30,nhiệt độ không vượt quá 22 độ.,AQBy4LeoE3k
+52,105.0,107.0,2.0,27,Nhà Trang đêm nay không mưa,AQBy4LeoE3k
+53,107.0,109.0,2.0,15,trời mát 25 độ.,AQBy4LeoE3k
+54,109.0,111.0,2.0,43,"Ngày mai nắng đẹp, nhiệt độ cao nhất 30 độ.",AQBy4LeoE3k
+55,111.0,113.0,2.0,23,Đà Lạt đêm nay tạnh ráo,AQBy4LeoE3k
+56,113.0,115.0,2.0,15,trời rét 14 độ.,AQBy4LeoE3k
+57,115.0,117.0,2.0,32,Ngày mai ban ngày có nắng 24 độ.,AQBy4LeoE3k
+58,117.0,119.0,2.0,32,Chiều tối có mưa rồng xuất hiện.,AQBy4LeoE3k

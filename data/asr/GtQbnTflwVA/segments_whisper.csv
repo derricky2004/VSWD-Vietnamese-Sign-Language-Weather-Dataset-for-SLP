@@ -1,0 +1,23 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.799999952316284,3.799999952316284,90,Còn sau đây sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hải Yến.,GtQbnTflwVA
+1,3.799999952316284,6.920000076293945,3.120000123977661,73,"Thưa chị Hải Yến, ngày hôm nay ở miền Bắc xuất hiện mưa ẩm vào buổi sáng.",GtQbnTflwVA
+2,6.920000076293945,9.720000267028809,2.8000001907348633,80,Không biết là sáng ngày mai thì tình trạng thời tiết này có lặp lại hay không ạ?,GtQbnTflwVA
+3,9.720000267028809,16.0,6.279999732971191,145,"Vâng, quả thật là sáng ngày hôm nay thì mưa ẩm xuất hiện ở khu vực miền Bắc lại đúng vào dịp mà mọi người đi học đi làm nên cũng khá là bất tiện.",GtQbnTflwVA
+4,16.0,21.31999969482422,5.319999694824219,111,"Dự báo là tình trạng này vẫn sẽ tiếp diễn vào sáng ngày mai, không chỉ ở thủ đô Hà Nội mà là hầu khắp miền Bắc.",GtQbnTflwVA
+5,21.31999969482422,24.68000030517578,3.3600006103515625,64,"Vẫn sẽ là dạng mưa nhỏ, mưa phùn như trong ngày hôm nay mà thôi.",GtQbnTflwVA
+6,24.68000030517578,28.200000762939453,3.520000457763672,95,Nguyên nhân là do đâu thì ngay bây giờ tôi sẽ phân tích đến Anh Dương cũng như quý vị khán giả.,GtQbnTflwVA
+7,28.200000762939453,34.68000030517578,6.479999542236328,114,"Thưa quý vị, sở dĩ là xuất hiện mưa nhỏ, mưa phùn đó là do gió Đông Nam đưa ẩm từ biển vào sâu bên trong đất liền.",GtQbnTflwVA
+8,34.68000030517578,42.119998931884766,7.439998626708984,128,Và sang ngày thứ Bảy thì mưa còn có thể xuất hiện bất chợt trong ngày do là có không khí lạnh mang theo gió Đông Bắc tràn xuống.,GtQbnTflwVA
+9,42.119998931884766,48.599998474121094,6.479999542236328,131,"Và đợt không khí lạnh tới thì được nhận định là không mạnh, tức là trời chỉ chuyển rết trong một ngày, tức là ngày thứ Bảy mà thôi.",GtQbnTflwVA
+10,48.599998474121094,53.720001220703125,5.120002746582031,67,Nhiệt độ hạ xuống còn khoảng là 21 độ và về đêm mức nhiệt là 16 độ.,GtQbnTflwVA
+11,53.720001220703125,58.52000045776367,4.799999237060547,74,"Đến ngày Chủ nhật, trời sẽ ấm lên nhanh và nhiệt độ tăng lên mức là 24 độ.",GtQbnTflwVA
+12,58.52000045776367,66.04000091552734,7.520000457763672,144,"Trong khi ngày mai miền Bắc có mưa thì ở khu vực Nam Bộ thời tiết lại hoàn toàn trái ngược, đó là nắng mạnh, nhất là ở khu vực miền Đông Nam Bộ.",GtQbnTflwVA
+13,66.04000091552734,74.76000213623047,8.720001220703125,133,"Cụ thể là tại thành phố Hồ Chí Minh, Đồng Nai, Bình Dương, Bình Phước hay là Tây Ninh thì mức nhiệt đều cao trong khoảng là 33-34 độ.",GtQbnTflwVA
+14,74.83999633789062,81.23999786376953,6.400001525878906,84,"Trời vừa nóng lại vừa khô, độ ẩm trưa chiều tại khu vực này hầu hết là đều dưới 52%.",GtQbnTflwVA
+15,81.87999725341797,85.4000015258789,3.5200042724609375,73,Tiếp theo là thông tin dự báo chi tiết cho một số thành phố trên cả nước.,GtQbnTflwVA
+16,85.4000015258789,90.5999984741211,5.1999969482421875,66,"Hạ Long đêm nay và sáng mai có mưa nhỏ, mưa phùn, trời lạnh 21 độ.",GtQbnTflwVA
+17,90.5999984741211,94.44000244140625,3.8400039672851562,56,"Trưa chiều mai mưa dứt, trời chủ đạo là nhiều mây 24 độ.",GtQbnTflwVA
+18,94.44000244140625,98.0,3.55999755859375,37,"Huế đêm nay không mưa, rét nhẹ 18 độ.",GtQbnTflwVA
+19,98.0,101.16000366210938,3.160003662109375,44,"Ngày mai trời nắng, nhiệt độ cao nhất 29 độ.",GtQbnTflwVA
+20,101.72000122070312,104.83999633789062,3.1199951171875,41,Đà Lạt đêm nay nhiệt độ xuống thấp 12 độ.,GtQbnTflwVA
+21,104.83999633789062,110.83999633789062,6.0,99,"Sáng ngày mai trời nắng liên tục, nhiệt độ tăng thêm hơn chục độ so với ban đêm, cao nhất là 27 độ.",GtQbnTflwVA

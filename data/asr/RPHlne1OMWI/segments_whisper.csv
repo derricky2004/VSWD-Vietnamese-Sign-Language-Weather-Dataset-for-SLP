@@ -1,0 +1,26 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.4800000190734863,3.4800000190734863,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,RPHlne1OMWI
+1,3.4800000190734863,7.440000057220459,3.9600000381469727,88,Xin chào chị Hương Liên. Mưa to đợt này ở Trung Bộ và Tây Nguyên đã được 2 ngày nay rồi.,RPHlne1OMWI
+2,7.440000057220459,10.880000114440918,3.440000057220459,94,Không biết những ngày tới đây thì mưa tại khu vực này diễn biến phức tạp như thế nào thưa chị?,RPHlne1OMWI
+3,10.880000114440918,14.960000038146973,4.079999923706055,91,Vâng anh Dương. Một thông tin tích cực đó là mưa ở Nam Trung Bộ và Tây Nguyên đang giảm dần,RPHlne1OMWI
+4,14.960000038146973,18.399999618530273,3.439999580383301,72,khi mà áo thúc nhật đới tan đi nhưng mà mưa ở phía Bắc thì lại tăng lên.,RPHlne1OMWI
+5,18.399999618530273,24.15999984741211,5.760000228881836,86,"Thưa quý vị khán giả, quan sát ảnh mây vệ tinh cũng thấy sáng nay vẫn bao phủ phần lớn",RPHlne1OMWI
+6,24.31999969482422,30.1200008392334,5.80000114440918,103,Đà Nẵng tới Bình Thuận và khu vực Tây Nguyên. Nhưng đến chiều tối nay thì mây dông đã dịch lên phía Bắc,RPHlne1OMWI
+7,30.1200008392334,34.599998474121094,4.479997634887695,67,"tập trung từ Phú Yên trở ra đến Thửa Thiên Huế, Con Tum và Gia Lai.",RPHlne1OMWI
+8,34.599998474121094,37.959999084472656,3.3600006103515625,60,Dự báo trong đêm nay vùng mưa sẽ tiếp tục dịch lên phía Bắc.,RPHlne1OMWI
+9,37.959999084472656,44.52000045776367,6.560001373291016,85,Từ Quảng Nam trở ra đến Nghệ An sẽ có mưa lớn. Mưa dồn dập đến khoảng thứ 7 tuần này.,RPHlne1OMWI
+10,44.52000045776367,53.040000915527344,8.520000457763672,104,Với tâm mưa là từ Nghệ An đến Quảng Bình. Tổng lượng mưa cả đợt phổ biến 200-400mm và có nơi trên 450mm.,RPHlne1OMWI
+11,53.119998931884766,60.119998931884766,7.0,79,Còn Quảng Trị đến Quảng Nam thì lượng mưa sẽ là 100-150mm và có nơi trên 200mm.,RPHlne1OMWI
+12,60.119998931884766,66.5999984741211,6.479999542236328,103,"Nguy cơ cao xảy ra sẵn ở đất lũ quét ở vùng núi, ngập úng ở vùng trũng thấp và các khu đô thị gần biển.",RPHlne1OMWI
+13,66.5999984741211,73.72000122070312,7.120002746582031,108,"Ở Nam Miền Trung, dù mưa giảm nhưng lũ trên một số sông vẫn cao, nhất là sông Kỳ Lộ qua Hà Bằng tại Phú Yên.",RPHlne1OMWI
+14,73.72000122070312,80.36000061035156,6.6399993896484375,94,"Cảnh báo tối nay sẽ đạt đỉnh ở mức báo động 3, cảnh báo ngập úng ở vùng thượng liu sông Kỳ Lộ.",RPHlne1OMWI
+15,80.4800033569336,83.4800033569336,3.0,37,Từ ngày mai dự báo lũ sẽ xuống nhanh.,RPHlne1OMWI
+16,84.31999969482422,88.68000030517578,4.3600006103515625,81,"Trở ra Bắc Bộ, do không khí lạnh tăng cường, từ ngày mai toàn miền sẽ giảm nhiệt.",RPHlne1OMWI
+17,88.68000030517578,97.72000122070312,9.040000915527344,123,"Đông Bắc Bộ chỉ còn 20-24 độ, nên nhiệt chuyển hẳn sang màu xanh lạnh, chứ không còn là màu vàng của nắng ấm như chiều nay.",RPHlne1OMWI
+18,97.72000122070312,101.95999908447266,4.239997863769531,55,"Tới Bắc Bộ thì cũng nhiều mây và dịu mát hơn, 24-27 độ.",RPHlne1OMWI
+19,102.68000030517578,106.76000213623047,4.0800018310546875,83,Còn tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố đêm nay và ngày mai.,RPHlne1OMWI
+20,107.4800033569336,115.08000183105469,7.599998474121094,129,"Hà Nội đêm nay dự báo tạnh giáo 21 độ, sang ngày mai mây nhiều lên, có lúc có mưa, nhiệt độ cao nhất chỉ 23 độ, trời chuyển lạnh.",RPHlne1OMWI
+21,115.08000183105469,122.5999984741211,7.519996643066406,106,"Huế dự báo có mưa rông, có lúc mưa to, đêm nay trời lạnh 22 độ, trưa chiều mai nhiệt độ cao nhất là 26 độ.",RPHlne1OMWI
+22,122.5999984741211,126.12000274658203,3.5200042724609375,47,"Đà Lạt đêm nay ít khả năng mưa, trời rét 17 độ.",RPHlne1OMWI
+23,126.12000274658203,133.39999389648438,7.279991149902344,107,"Sang ngày mai nắng xuất hiện, tuy nhiên do có địa hình cao, quý vị vẫn thấy lạnh, nhiệt độ không quá 22 độ.",RPHlne1OMWI
+24,136.75999450683594,141.24000549316406,4.480010986328125,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,RPHlne1OMWI

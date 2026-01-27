@@ -1,0 +1,32 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,7.0,7.0,164,Và cũng trong tuần làm việc mới thì có lẽ là khán giả truyền hình cũng rất là mong muốn là không biết là thời tiết có thuận lợi trên cả nước hay không? Chị Xuân Anh,Yf-2icjLvvQ
+1,7.0,14.0,7.0,162,"Vâng, về thời tiết thì ở cả ba miền đất nước sẽ đều có một chút sự thay đổi trong cái ngày đầu tiên mà chúng ta quay trở lại công việc thường nhật sau kỳ ngày Tết",Yf-2icjLvvQ
+2,14.0,17.0,3.0,59,Anh Dương cũng như là quý vị khán giả có thể theo dõi ở đây,Yf-2icjLvvQ
+3,17.0,22.0,5.0,92,Khu vực Tây Nguyên và Nam Bộ thì khả năng sẽ là những nơi mà xuất hiện mưa trái mùa về chiều,Yf-2icjLvvQ
+4,22.0,28.0,6.0,129,Còn ở khu vực miền Trung thì mưa sẽ xảy ra ngắt quãng ở trong ngày và ít nhiều cũng sẽ ảnh hưởng đến việc di chuyển của người dân,Yf-2icjLvvQ
+5,28.0,34.0,6.0,107,Còn đối với miền Bắc thì trời có nắng ấm thế nhưng mà thời gian nắng thì sẽ muộn hơn là vào buổi trưa chiều,Yf-2icjLvvQ
+6,34.0,41.0,7.0,104,Còn vào sáng sớm thì quý vị khán giả ở miền Bắc lưu ý là trời sẽ có nhiều mây và đặc biệt là có sương mù,Yf-2icjLvvQ
+7,41.0,50.0,9.0,149,Sương sẽ bao phủ hầu khắp khu vực và trong đó ở khu vực vùng núi thì sương khá dày làm cho tầm nhìn xa giảm xuống chỉ còn khoảng vài trăm mét mà thôi,Yf-2icjLvvQ
+8,50.0,57.0,7.0,111,Còn đối với cả khu vực đồng bằng thì chủ yếu là mù nhẹ cho nên tầm nhìn xa thì có cao hơn một chút vẫn dưới 2km,Yf-2icjLvvQ
+9,58.0,62.0,4.0,74,Đến trưa chiều thì dự báo là nắng mới xuất hiện trở lại ở khu vực miền Bắc,Yf-2icjLvvQ
+10,62.0,69.0,7.0,118,Thế nhưng mà do thời gian nắng thì rút ngắn lại bởi vậy nên là trời sẽ bớt hanh khô hơn so với khoảng 1 đến 2 ngày qua,Yf-2icjLvvQ
+11,69.0,75.0,6.0,84,Dự báo là độ ấm ở khu vực thủ đô Hà Nội hay là các nơi khác phổ biến sẽ đều trên 40%,Yf-2icjLvvQ
+12,75.0,79.0,4.0,49,Còn với nhiệt độ thì không nơi nào vượt quá 21 độ,Yf-2icjLvvQ
+13,79.0,86.0,7.0,133,Đối với thủ đô Hà Nội hay là hầu khắp miền Bắc thì sẽ còn duy trì trạng thái thời tiết khá là ổn định trong khoảng là 2 ngày đầu tuần,Yf-2icjLvvQ
+14,86.0,91.0,5.0,90,Sau đó đến thứ tư thì sẽ có sự chuyển biến thời tiết khi mà không khí lạnh tăng cứng xuống,Yf-2icjLvvQ
+15,91.0,94.0,3.0,50,Trời sẽ chuyển nhiều mây và cảm giác cũng lạnh hơn,Yf-2icjLvvQ
+16,94.0,97.0,3.0,44,Càng về cuối tuần thì trời lại càng lạnh dần,Yf-2icjLvvQ
+17,97.0,103.0,6.0,95,Nhiệt độ về cuối tuần cao nhất trong ngày có khi chỉ từ 14 cho tới 15 độ và sẽ đậm quay trở lại,Yf-2icjLvvQ
+18,104.0,109.0,5.0,108,Cuối cùng xin được chuyển sang phần thông tin dự báo chi tiết cho một số thành phố trong 2 ngày đầu tuần tới,Yf-2icjLvvQ
+19,109.0,112.0,3.0,73,Thành phố Hải Phòng cũng sẽ có nắng ấm vào trưa chiều ngày thứ 2 và thứ 3,Yf-2icjLvvQ
+20,112.0,115.0,3.0,33,Nhiệt độ cao nhất là 19 đến 20 độ,Yf-2icjLvvQ
+21,115.0,118.0,3.0,53,Đêm và sáng thì trời nhiều mây có sương mù và khá rét,Yf-2icjLvvQ
+22,118.0,120.0,2.0,18,Thấp nhất 13-14 độ,Yf-2icjLvvQ
+23,121.0,124.0,3.0,62,Thành phố Đà Nẵng lại có mưa bất trợt trong cả 2 ngày đầu tuần,Yf-2icjLvvQ
+24,124.0,127.0,3.0,63,Nhiệt độ có xu hướng tăng lên nhưng vẫn ở trong ngưỡng khá lạnh,Yf-2icjLvvQ
+25,127.0,129.0,2.0,15,Không quá 23 độ,Yf-2icjLvvQ
+26,130.0,134.0,4.0,73,Thành phố Hồ Chí Minh lưu ý mưa trái mùa vào buổi chiều của cả 2 ngày tới,Yf-2icjLvvQ
+27,134.0,136.0,2.0,31,Có khả năng sẽ kèm theo cả dông,Yf-2icjLvvQ
+28,136.0,138.0,2.0,30,Sáng và trưa thì trời còn nắng,Yf-2icjLvvQ
+29,138.0,140.0,2.0,33,Nhiệt độ cao nhất không quá 32 độ,Yf-2icjLvvQ
+30,145.0,149.0,4.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,Yf-2icjLvvQ

@@ -1,0 +1,58 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,87,Việt Nam hôm nay sẽ tiếp tục với những thông tin về dự báo cháy rừng thời gian tới đây.,tZL17E37tGc
+1,5.0,9.5,4.5,102,"Trong giai đoạn nắng nóng cao điểm như hiện nay thì cháy rừng đã xảy ra ở nhiều khu vực trên thế giới,",tZL17E37tGc
+2,9.5,13.0,3.5,56,"trong đó có cả Việt Nam, gây ra nhiều thiệt hại nặng nề.",tZL17E37tGc
+3,15.0,21.5,6.5,84,"Cuối tháng 6 vừa qua, 90% thị trấn Layton ở Bristis, Columbia tại cực tây của Canada",tZL17E37tGc
+4,21.5,24.5,3.0,51,đã bị thiêu rụi khi cháy rừng lan xuống khu dân cư.,tZL17E37tGc
+5,24.5,30.5,6.0,91,"Sau 3 ngày nắng nóng khắc nghiệt liên tục, có ngày nhiệt độ vượt lịch sử lên tới 49,6 độ C.",tZL17E37tGc
+6,30.5,34.5,4.0,72,"Để chạy thoát khỏi biển lửa, nhiều người đã không kịp mang theo đồ đắng.",tZL17E37tGc
+7,34.5,41.5,7.0,103,Rừng nhiệt đới Amazon đã ghi nhận nhiều vụ cháy rừng nhất trong tháng 6 vừa qua kể từ năm 2007 đến nay.,tZL17E37tGc
+8,41.5,46.5,5.0,58,"Lên hơn 2.300 vụ cháy, tăng 2,6% so với cùng kỳ năm ngoái.",tZL17E37tGc
+9,46.5,52.0,5.5,94,"Còn ở Việt Nam, cháy rừng trong tháng 6 năm nay đã tăng 10 vụ so với cùng thời điểm năm ngoái.",tZL17E37tGc
+10,52.0,57.0,5.0,93,"Miền Trung là khu vực xảy ra cháy nhiều nhất, chiếm một nửa diện tích cháy rừng trên cả nước.",tZL17E37tGc
+11,57.0,62.0,5.0,84,"Hàng chục hectare rừng bị thiêu rụi ở Nghệ An, Thừa Thiên Huế, Khánh Hòa, Quảng Nam.",tZL17E37tGc
+12,62.0,66.0,4.0,71,"Thậm chí là tại Hương Thủy, Thừa Thiên Huế, có vụ còn cháy đi cháy lại.",tZL17E37tGc
+13,68.0,73.0,5.0,64,"Có 3 yếu tố gây ra cháy rừng là thời tiết, vật liệu cháy và lửa.",tZL17E37tGc
+14,73.0,77.0,4.0,81,"Nắng nóng đang ngày càng khắc nghiệt hơn, khiến thảm thực bi ở rừng càng khô hơn.",tZL17E37tGc
+15,77.0,82.0,5.0,80,Chỉ cần một chút bất cẩn của con người thôi thì những cánh rừng sẽ bị thiêu rụi.,tZL17E37tGc
+16,83.0,90.0,7.0,113,"Ở Việt Nam chúng ta hay trên thế giới, theo thống kê các vụ cháy do xét đánh, bom đạn xót lại sau chiến tranh nổ,",tZL17E37tGc
+17,90.0,91.0,1.0,19,chỉ chiếm phần nhỏ.,tZL17E37tGc
+18,91.0,99.0,8.0,107,"Còn 80% các vụ cháy rừng đều do các hoạt động của con người như đốt nương rẫy, dọn thực bi, dọn rác gây ra.",tZL17E37tGc
+19,99.0,106.0,7.0,104,"Những hình hình này được ghi lại ở một ngọn đồi cách không xa đám cháy vừa xảy ra ở Ninh Hòa, Khánh Hòa.",tZL17E37tGc
+20,106.0,109.0,3.0,63,Đây là chuyện thường thấy ở những rễ canh tác sau vụ thu hoạch.,tZL17E37tGc
+21,124.0,131.0,7.0,121,"Dù đã có những cảnh báo sớm hay các biện pháp tuyên truyền từ đầu mùa, nhưng do thói quen này mà cháy rừng vẫn tiếp diễn.",tZL17E37tGc
+22,131.0,137.0,6.0,107,"Thậm chí có trường hợp, cháy rừng lại do chính chủ rừng gây ra, chỉ vì thiếu cẩn trọng khi đốt dọn thực bi.",tZL17E37tGc
+23,137.0,145.0,8.0,135,"Gần đây, do dịch Covid-19, tỷ lệ người dân vào rừng để kiếm sống càng ngày càng tăng mạnh, dấy lên mối lo ngại về tình trạng cháy rừng.",tZL17E37tGc
+24,148.0,151.0,3.0,53,Mùa cháy rừng năm nay ở Việt Nam sẽ diễn biến ra sao?,tZL17E37tGc
+25,151.0,155.0,4.0,90,Chúng ta sẽ cùng gặp gỡ với biên tập viên thời tiết Hương Liên và trao đổi câu chuyện này.,tZL17E37tGc
+26,155.0,163.0,8.0,144,"Chào chị Hương Liên, không biết là thời gian tới thì mùa cháy rừng của chúng ta sẽ kéo dài đến bao giờ? Và đâu là những điểm nóng nhất hiện nay?",tZL17E37tGc
+27,164.0,169.0,5.0,108,"Vâng anh Dương, những cánh rừng ở Trung Bộ vẫn là khu vực đứng trước nguy cơ cao xảy ra cháy ở trên cả nước.",tZL17E37tGc
+28,170.0,176.0,6.0,124,"Theo Cục Kiểm Lâm, giai đoạn cao điểm cảnh báo cháy rừng ở miền Trung năm nay khả năng sẽ kéo dài hơn mọi năm gần một tháng,",tZL17E37tGc
+29,176.0,183.0,7.0,108,"tức là sẽ tiếp tục từ giờ đến giữa tháng 7. Vì vậy, nếu chủ quan thì thiết hại về rừng sẽ chưa thể dừng lại.",tZL17E37tGc
+30,184.0,192.0,8.0,136,"Cục Kiểm Lâm khuyến cáo, nhiều diện tích rừng từ Nghệ An xuống đến Bình Thuận đang có nguy cơ cháy cao nhất cấp 5, cấp cực kỳ nguy hiểm.",tZL17E37tGc
+31,193.0,198.0,5.0,90,"Cũng bởi Trung Bộ có nắng nóng trong tháng 7 và tháng 8 tới, có đợt kéo dài 5 đến 10 ngày.",tZL17E37tGc
+32,198.0,204.0,6.0,88,"So với tháng 6 thì vùng tâm nóng sẽ dịch xuống phía Nam, từ Quảng Trị xuống đến Phú Yên.",tZL17E37tGc
+33,204.0,211.0,7.0,106,"Tại đây, cảnh báo có điểm nắng nóng đặc biệt gai gắt trên 39 độ, còn lại các nơi khác khoảng 35 đến 38 độ.",tZL17E37tGc
+34,211.0,219.0,8.0,110,Trời nóng rát với độ ẩm thấp nhất giữa trưa đầu giờ chiều chỉ vào khoảng 40 đến 55% và gió khô nóng thổi mạnh.,tZL17E37tGc
+35,219.0,224.0,5.0,77,"Nếu để cháy rừng xảy ra trong thời tiết này, sẽ rất khó kiểm soát và dập tắt.",tZL17E37tGc
+36,224.0,233.0,9.0,155,"Trước diễn biến thời tiết như vậy, các địa phương có rừng một lần nữa cần tăng cường nhắc nhở người dân phải hết sức cẩn trọng mỗi khi đốt dọn rễ canh tác.",tZL17E37tGc
+37,233.0,240.0,7.0,123,"Đây là những việc cần làm trước mắt, còn về lâu dài để bảo vệ rừng, chúng ta vẫn phải hướng tới những giá trị bền vững hơn.",tZL17E37tGc
+38,240.0,247.0,7.0,100,"Thực tế trên 80% các vụ cháy rừng trong thời gian qua là cháy tại các khu rừng trồng, rừng phóng hộ,",tZL17E37tGc
+39,247.0,254.0,7.0,121,"còn những cánh rừng già nguyên sinh tỷ lệ cháy rất thấp, thậm chí có những cánh rừng già hàng chục năm không xảy ra cháy.",tZL17E37tGc
+40,254.0,262.0,8.0,122,"Bên cạnh việc làm tốt công tác bảo vệ rừng thì những yếu tố tự nhiên nào giúp rừng già, rừng nguyên sinh lại khó cháy hơn.",tZL17E37tGc
+41,262.0,265.0,3.0,47,Xin mời quý vị theo dõi những hình ảnh sau đây.,tZL17E37tGc
+42,266.0,276.0,10.0,154,"Giờ mặt trời đứng bóng tại một khu rừng nguyên sinh, không trói trang, không nắng rát, gần như lớp thực bì dưới tán rừng không được tiếp xúc với ánh nắng.",tZL17E37tGc
+43,277.0,286.0,9.0,163,"Chúng ta thì đều có thông tin là rừng nguyên sinh thì có độ ẩm cao hơn hẳn so với rừng trồng, tuy nhiên là cao hơn bao nhiêu cụ thể thì không phải là ai cũng biết.",tZL17E37tGc
+44,286.0,295.0,9.0,130,"Tôi có mặt tại rừng Cúc Phương vào lúc 12 giờ trưa, độ ẩm vào lúc này là 73% và đặc biệt là nhiệt độ thì chỉ có hơn 32 độ mà thôi.",tZL17E37tGc
+45,301.0,309.0,8.0,139,Giữa trưa nhưng mà nước suối thì mát lạnh và ở những khu vực suối như thế này thì độ ẩm cao hơn so với điểm vừa rồi tôi có đứng thử nghiệm.,tZL17E37tGc
+46,309.0,314.0,5.0,63,"Độ ẩm là 83% và nhiệt độ thì thấp hơn hẳn, chỉ có 30,6 độ thôi.",tZL17E37tGc
+47,315.0,325.0,10.0,134,"Rừng nguyên sinh thì 100% lúc nào cũng có nguồn nước, đây vừa là yếu tố giúp giảm nhiệt độ lại là chiều khóa để xử lý nếu cháy xảy ra.",tZL17E37tGc
+48,325.0,335.0,10.0,141,"Điều này có được là nhờ kết cấu rừng đa dạng tầng 8, ví dụ như ở Cúc Phương là rừng mọc trên địa hình đá vôi nhưng cũng có đến 5 loại tầng 8.",tZL17E37tGc
+49,335.0,342.0,7.0,84,"Ở trên tầng cây cao sẽ giảm thiểu việc mất nước của rừng, tầng dưới sẽ giữ nước nữa.",tZL17E37tGc
+50,342.0,353.0,11.0,143,"Gần như trong rừng lúc nào chúng ta có cảm giác mát mẻ và việc còn nhiều cây gỗ, còn nhiều tầng tán như vậy thì sẽ giảm thiểu nguy cơ cháy rừng",tZL17E37tGc
+51,353.0,361.0,8.0,120,bởi vì lúc nào ở đó cũng có độ ẩm cao và nguy cơ cháy rừng thì rất khó xảy ra trong rừng giàu và nhiều tầng tán như vậy.,tZL17E37tGc
+52,362.0,365.0,3.0,56,Tại Cúc Phương thì rất nhiều năm không xảy ra cháy rừng.,tZL17E37tGc
+53,365.0,372.0,7.0,104,Cho dù rừng tự nhiên có nhiều ưu tố thuận lợi nhưng chỉ cần có lửa thì cháy vẫn hoàn toàn có thể xảy ra.,tZL17E37tGc
+54,372.0,376.0,4.0,54,Việc cháy tại rừng nhiệt đới Amazon là ví dụ địa hình.,tZL17E37tGc
+55,378.0,384.0,6.0,132,Như vậy là nếu mà chúng ta không chặt phá rừng một cách bừa bãi và cháy phép rồi là những hộ dân sinh sống gần bìa rừng ở trong rừng,tZL17E37tGc
+56,384.0,391.0,7.0,153,thì không sử dụng lửa một cách bừa bãi rồi là biết bảo vệ môi trường thì tôi nghĩ chúng ta hoàn toàn có cơ hội làm chậm lại tốc độ nóng lên của cháy đất.,tZL17E37tGc

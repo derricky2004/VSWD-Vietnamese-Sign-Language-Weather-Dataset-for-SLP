@@ -1,0 +1,34 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.800000190734863,5.800000190734863,108,Thời điểm này hẳn quý vị cũng đang quan tâm đến tình hình thời tiết để chuẩn bị cho một kỳ lễ kéo dài 4 ngày,jUeiXuf77kQ
+1,5.800000190734863,9.399999618530273,3.59999942779541,94,"để chúng ta có thể chuẩn bị về trang phục này, chuẩn bị về phương tiện như thế nào cho hợp lý.",jUeiXuf77kQ
+2,9.399999618530273,12.399999618530273,3.0,84,Ngay sau đây sẽ là những thông tin cập nhật đến từ biên tập viên thời tiết Xuân Anh.,jUeiXuf77kQ
+3,12.399999618530273,17.399999618530273,5.0,105,"Xin chào Chị Xuân Anh, không biết là nghe nói thì có nhiều mưa trong kỳ lễ này cụ thể như thế nào hả chị?",jUeiXuf77kQ
+4,17.399999618530273,19.600000381469727,2.200000762939453,57,"Vâng, đúng là được một dịp nghỉ lễ dài ngày đúng không ạ?",jUeiXuf77kQ
+5,19.600000381469727,23.0,3.3999996185302734,73,Nhưng mà thời tiết thì lại không mới ủng hộ khi mà mưa dự báo sẽ kéo dài.,jUeiXuf77kQ
+6,23.0,27.0,4.0,70,"Anh Dương cũng như quý vị khán giả, mưa sẽ kéo dài xuất từ Bắc vào Nam",jUeiXuf77kQ
+7,27.0,30.399999618530273,3.3999996185302734,61,và thực tế là mây ẩm cũng đã phát triển ngay từ sáng nay rồi.,jUeiXuf77kQ
+8,30.399999618530273,35.0,4.600000381469727,69,Càng đến chiều thì mưa lại càng lan rộng hơn ở khắp khu vực phía Nam.,jUeiXuf77kQ
+9,35.0,41.400001525878906,6.400001525878906,89,"Như quý vị có thể thấy ở đây và một số nơi như là Khánh Hòa, TP.HCM, Sóc Trăng và Cần Thơ",jUeiXuf77kQ
+10,41.400001525878906,46.400001525878906,5.0,74,cũng đã có mưa to lên đến cả 100mm và điều này thì gây ra ngập úng cục bộ.,jUeiXuf77kQ
+11,46.400001525878906,50.20000076293945,3.799999237060547,55,Dự báo là mưa sẽ còn kéo dài không chỉ ở khu vực Nam Bộ,jUeiXuf77kQ
+12,50.20000076293945,55.400001525878906,5.200000762939453,75,mà cả ở phía Nam của miền Trung và Tây Nguyên trong 4 ngày nghỉ lễ sắp tới.,jUeiXuf77kQ
+13,55.400001525878906,60.599998474121094,5.1999969482421875,91,"Thời gian mưa nhiều thì tập trung từ chiều cho đến tối với nhiều nơi sẽ có mưa vừa, mưa to.",jUeiXuf77kQ
+14,60.599998474121094,65.5999984741211,5.0,96,Ngoài nguy cơ có mưa to gây ra ngập thì quý vị còn cần phải cảnh giác với cả các hiện tượng khác,jUeiXuf77kQ
+15,65.5999984741211,68.80000305175781,3.2000045776367188,58,"như là lốc, xét hay là gió giật dễ đi kèm trong cơn giông.",jUeiXuf77kQ
+16,68.80000305175781,74.80000305175781,6.0,98,Với khu vực Bắc miền Trung trở ra đến miền Bắc thì cũng sẽ chuyển mưa giông trong đúng dịp nghỉ lễ,jUeiXuf77kQ
+17,74.80000305175781,77.80000305175781,3.0,53,do ảnh hưởng của không khí lạnh và dãy ngấp thấp này.,jUeiXuf77kQ
+18,78.19999694824219,83.5999984741211,5.400001525878906,85,Tổ hợp hình thế này sẽ tràn xuống miền Bắc vào đêm ngày 30 tháng 4 và ngày 1 tháng 5.,jUeiXuf77kQ
+19,83.5999984741211,88.0,4.400001525878906,77,Và đó cũng là thời điểm mà miền Bắc cảnh báo sẽ có mưa xảy ra trên diện rộng.,jUeiXuf77kQ
+20,88.0,96.0,8.0,113,Có những nơi có mưa to trên cả 100mm và quý vị cần phải đề phòng với lũ quét sạt lở đất cục bộ xảy ra ở miền núi.,jUeiXuf77kQ
+21,96.0,102.5999984741211,6.599998474121094,98,Đối với khu vực phía Bắc của miền Trung thì mưa cao điểm trong 2 ngày là mùng 1 và mùng 2 tháng 5.,jUeiXuf77kQ
+22,102.5999984741211,108.4000015258789,5.8000030517578125,63,"Lượng mưa phổ biến là từ 70-150mm, cục bộ có thể là trên 150mm.",jUeiXuf77kQ
+23,108.4000015258789,115.4000015258789,7.0,110,Thời tiết ở khu vực Bắc Bộ cũng như là từ Thanh Hóa xuống đến Hà Tĩnh cũng chuyển lạnh từ ngày mùng 1 tháng 5.,jUeiXuf77kQ
+24,115.4000015258789,118.80000305175781,3.4000015258789062,44,Nhiệt độ thấp nhất phổ biến chỉ từ 18-21 độ.,jUeiXuf77kQ
+25,118.80000305175781,124.80000305175781,6.0,78,Thậm chí ở khu vực vùng núi của Bắc Bộ thì cục bộ có nơi là 16-18 độ trời rét.,jUeiXuf77kQ
+26,124.80000305175781,128.8000030517578,4.0,84,Và cuối cùng sẽ là phần dự báo thời tiết cho một số nơi khác trong 2 ngày cuối tuần.,jUeiXuf77kQ
+27,129.0,135.0,6.0,100,"Với thủ đô Hà Nội, ngày mai trời vẫn có lúc nhiều mây và có mưa, nhiệt độ buổi trưa khoảng là 29 độ.",jUeiXuf77kQ
+28,135.0,142.0,7.0,107,"Đến ngày kia thì trời chuyển mưa lạnh, có thể có mưa to và nhiệt độ giảm mạnh xuống còn 23 độ vào ban ngày.",jUeiXuf77kQ
+29,142.0,146.0,4.0,73,Thành phố Đà Nẵng vào 2 ngày tới sẽ có mưa nhiều và có thể kèn theo rông.,jUeiXuf77kQ
+30,146.0,150.0,4.0,44,"Ban ngày trời mát, nhiệt độ khoảng 28-29 độ.",jUeiXuf77kQ
+31,151.0,157.0,6.0,116,"Thành phố Hồ Chí Minh tiếp tục có mưa rông, tập trung vào buổi chiều, có thể có mưa to đề phòng mưa ngập úng cục bộ.",jUeiXuf77kQ
+32,157.0,161.1999969482422,4.1999969482421875,67,Vào buổi sáng thì có lúc nắng gián đoạn nhiệt độ cao nhất 32-33 độ.,jUeiXuf77kQ

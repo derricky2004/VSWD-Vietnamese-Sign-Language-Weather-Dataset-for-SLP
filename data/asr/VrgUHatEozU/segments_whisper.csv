@@ -1,0 +1,19 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,6.480000019073486,6.480000019073486,99,Vâng như vậy là mối nguy hiểm lớn nhất của cơn bão số 9 gây ra đó là mưa to và gió lớn ở trên biển.,VrgUHatEozU
+1,6.480000019073486,11.84000015258789,5.360000133514404,105,Ngoài ra thì hoàn lưu của bão cũng rất là rộng sẽ ảnh hưởng đến khu vực miền trung với lượng mưa rất lớn.,VrgUHatEozU
+2,11.84000015258789,13.84000015258789,2.0,49,Mời chị Liên thông tin cụ thể đến khán giả đây ạ.,VrgUHatEozU
+3,15.600000381469727,22.559999465942383,6.959999084472656,115,"Dự báo từ đêm nay trên đất liền Thừa Thiên Huế, Đà Nẵng, Quảng Nam, Khánh Hòa có gió mạnh cấp 5, cấp 6, giật cấp 7.",VrgUHatEozU
+4,22.559999465942383,26.200000762939453,3.6400012969970703,57,"Quảng Ngãi, Bình Định, Phú Yên thì gió mạnh cấp 6, cấp 7.",VrgUHatEozU
+5,26.200000762939453,32.599998474121094,6.399997711181641,104,"Vùng ven biển có nơi cấp 8, giật cấp 9. Mà sức gió từ cấp 8 trở lên có thể gây thiệt hại về nhà cửa rồi.",VrgUHatEozU
+6,32.599998474121094,37.7599983215332,5.159999847412109,97,"Thời gian không còn nhiều. Người dân trong vùng cảnh báo gió mạnh, hãy nhanh chóng ra cố nhà cửa,",VrgUHatEozU
+7,37.7599983215332,41.7599983215332,4.0,67,"nhất là với những loại nhà không kiên cố như mái ngói, brô xi măng.",VrgUHatEozU
+8,41.7599983215332,47.439998626708984,5.680000305175781,106,"Về diễn biến mưa lớn, mưa tập trung trong đêm nay và ngày mai, khu vực Thừa Thiên Huế xuống đến Khánh Hòa,",VrgUHatEozU
+9,47.439998626708984,52.959999084472656,5.520000457763672,58,tổng lượng mưa phổ biến từ 100-250mm và có nơi trên 300mm.,VrgUHatEozU
+10,52.959999084472656,59.68000030517578,6.720001220703125,123,"Mưa cấp tập chỉ hơn 1 ngày. Người dân cần đề phòng lũ quét, sạt lở đất ở vùng núi, ngập úng cục bộ tại các vùng trũng thấp.",VrgUHatEozU
+11,59.68000030517578,65.19999694824219,5.519996643066406,104,"Cuối cùng, xin chuyển sang các thông tin dự báo chi tiết cho một số thành phố trong đêm nay và ngày mai.",VrgUHatEozU
+12,67.68000030517578,71.19999694824219,3.5199966430664062,50,Thành phố Đà Nẵng đêm nay có mưa vừa mưa to 20 độ.,VrgUHatEozU
+13,71.19999694824219,75.19999694824219,4.0,58,"Ngày mai mưa lớn tiếp diễn, cảnh báo ngập vùng trũng thấp.",VrgUHatEozU
+14,75.19999694824219,79.19999694824219,4.0,46,Thành phố Hồ Chí Minh đêm nay không mưa 23 độ.,VrgUHatEozU
+15,79.19999694824219,82.19999694824219,3.0,44,"Ngày mai trời nắng, nhiệt độ cao nhất 32 độ.",VrgUHatEozU
+16,82.44000244140625,85.44000244140625,3.0,40,Thành phố Hà Nội đêm nay trời rét 14 độ.,VrgUHatEozU
+17,85.44000244140625,89.44000244140625,4.0,60,"Ngày mai trời nắng khô, nhiệt độ 22 độ, độ ấm thấp nhất 45%.",VrgUHatEozU

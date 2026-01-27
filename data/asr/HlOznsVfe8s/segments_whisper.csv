@@ -1,0 +1,73 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,6.400000095367432,6.400000095367432,104,Con số thiệt hại về người và của do mưa lũ tại các tỉnh miền Trung vẫn tiếp tục tăng trong ngày hôm nay.,HlOznsVfe8s
+1,6.400000095367432,12.039999961853027,5.639999866485596,92,"Theo thống kê từ Ban chỉ đạo Trung ương về phòng chống thiên tai, tính đến 17h ngày hôm nay,",HlOznsVfe8s
+2,12.039999961853027,19.200000762939453,7.160000801086426,101,"tổng số người thiệt mạng là 106 người, trong đó Nghệ An 1 người, Hà Tĩnh 2 người, Quảng Bình 6 người,",HlOznsVfe8s
+3,19.200000762939453,26.399999618530273,7.19999885559082,90,"Quảng Trị 49 người, Huế 27 người, Quảng Nam 11 người, Đà Nẵng 3 người, Quảng Ngãi 1 người,",HlOznsVfe8s
+4,26.399999618530273,30.719999313354492,4.319999694824219,68,"Gia Lai 1 người, Đắk Lắk 1 người, Lâm Đồng 1 người, Con Tùm 3 người.",HlOznsVfe8s
+5,30.719999313354492,37.439998626708984,6.719999313354492,96,"Vẫn còn 27 người mất tích do lỡ đất và lũ cuốn trôi, bao gồm ở Nghệ An 1 người, Hà Tĩnh 1 người,",HlOznsVfe8s
+6,37.439998626708984,43.439998626708984,6.0,77,"Quảng Trị 8 người, Thừa Thiên Huế 15 người, Đà Nẵng 1 người, Gia Lai 1 người.",HlOznsVfe8s
+7,43.439998626708984,48.79999923706055,5.3600006103515625,94,"Và đáng chú ý là số người mất tích giảm, xong, đó đều là những người đã được tìm thấy thi thể.",HlOznsVfe8s
+8,49.79999923706055,59.040000915527344,9.240001678466797,115,"Với diện tích 30 km vuông và trải dài tới 29 km, hồ kẻ gỗ là một trong những công trình trọng yếu của tỉnh Hà Tĩnh.",HlOznsVfe8s
+9,59.040000915527344,65.27999877929688,6.239997863769531,92,Đảm bảo an toàn hồ đập cũng là đảm bảo an toàn cho hơn 45.000 người dân tại khu vực Hạ Liêu.,HlOznsVfe8s
+10,65.27999877929688,72.4800033569336,7.200004577636719,115,"Báo cáo với Phó Thủ tướng Trịnh Đinh Dũng tại buổi kiểm tra sáng nay, tỉnh Hà Tĩnh khẳng định hồ kẻ gỗ vẫn an toàn.",HlOznsVfe8s
+11,72.63999938964844,78.87999725341797,6.239997863769531,116,Phó Thủ tướng Trịnh Đinh Dũng đánh giá cao công tác vận hành điều tiết lũ hợp lý của tỉnh Hà Tĩnh và Ban Quản lý Hồ.,HlOznsVfe8s
+12,78.87999725341797,86.55999755859375,7.680000305175781,115,"Hiện mức nước tại hồ kẻ gỗ đã giảm xuống dưới cao trình 32,6 m, lưu lượng nước về hồ cũng giảm 220 m khối trên dây,",HlOznsVfe8s
+13,86.55999755859375,90.08000183105469,3.5200042724609375,44,lưu lượng xả giảm xuống 690 m khối trên dây.,HlOznsVfe8s
+14,90.08000183105469,93.91999816894531,3.839996337890625,64,"Phó Thủ tướng chỉ đạo UBND tỉnh Hà Tĩnh cần bám sát hiện trường,",HlOznsVfe8s
+15,93.91999816894531,97.27999877929688,3.3600006103515625,65,theo dõi tình hình mưa lũ để có những giải pháp chỉ đạo kịp thời.,HlOznsVfe8s
+16,97.36000061035156,104.08000183105469,6.720001220703125,123,"Căn cứ vào tình hình thực tế, Phó Thủ tướng đề nghị Ban Quản lý Hồ trong chiều nay phải đưa mức nước hồ về mức bình thường.",HlOznsVfe8s
+17,104.08000183105469,109.44000244140625,5.3600006103515625,92,"Sau đó, căn cứ vào diễn biến thời tiết vùng Hạ Du để điều chỉnh lưu lượng xả lũ cho phù hợp.",HlOznsVfe8s
+18,112.08000183105469,116.95999908447266,4.879997253417969,89,"Tại Hà Tĩnh vào lúc này, mưa đã ngớt nhưng mức nước lũ vẫn còn đang giao động ở mức đỉnh.",HlOznsVfe8s
+19,116.95999908447266,121.44000244140625,4.480003356933594,73,Rất nhiều vùng thấp trũng dọc sông ngàn sâu vẫn còn bị chia cắt dài ngày.,HlOznsVfe8s
+20,127.27999877929688,135.9199981689453,8.639999389648438,120,Và địa phương chịu thiệt hại nặng nề nhất là huyện Cẩm Xuyên. Toàn tỉnh phải di chuyển 35.000 người dân đến nơi an toàn.,HlOznsVfe8s
+21,135.9199981689453,143.52000427246094,7.600006103515625,124,"Trong đó, riêng Cẩm Xuyên đã là 25.000 người. Đây cũng là huyện duy nhất có toàn bộ các xã bị ngập, có nơi ngập đến 2,5 mét.",HlOznsVfe8s
+22,143.52000427246094,149.83999633789062,6.3199920654296875,115,"Sáng nay, mức nước đo được ở sông ngàn sâu vẫn là trên báo động 2. Chiều nay, mức nước có giảm nhưng không đáng kể.",HlOznsVfe8s
+23,149.83999633789062,154.63999938964844,4.8000030517578125,76,Lực lượng chức năng vẫn đang hỗ trợ những người dân còn lại đến nơi an toàn.,HlOznsVfe8s
+24,154.8800048828125,160.0,5.1199951171875,106,"Ngoài Cẩm Xuyên, nhiều huyện khác cũng bị ngập, ngay cả thống phố Hà Tĩnh. Nhiều khu vực cũng bị ngập sâu.",HlOznsVfe8s
+25,162.0,165.67999267578125,3.67999267578125,79,"Còn ở tỉnh Quảng Nam, tình trạng ngập lụt đã giảm đáng kể trong những ngày qua.",HlOznsVfe8s
+26,165.67999267578125,173.27999877929688,7.600006103515625,125,"Tuy nhiên, mưa bão liên tục khiến biển động dữ dội đã tàn phá nghiêm trọng gần 7 km bờ biển thành phố Hội An, tỉnh Quảng Nam.",HlOznsVfe8s
+27,173.27999877929688,177.44000244140625,4.160003662109375,72,"Trong đó có biển Cửa Đại, một trong những bãi biển đẹp nhất của nước ta.",HlOznsVfe8s
+28,177.44000244140625,181.75999450683594,4.3199920654296875,81,"Theo người dân ở đây, sóng biển sâm thực mạnh nhất trong vòng 30 năm trở lại đây.",HlOznsVfe8s
+29,181.83999633789062,187.83999633789062,6.0,95,"Nhiều khu vực sóng đã ăn sâu vào đất liền gần 30 mét, chiều dài bị tác động nặng nhất gần 2 km.",HlOznsVfe8s
+30,187.83999633789062,190.72000122070312,2.8800048828125,55,Nhiều hàng cây và một số nhà hàng ven biển bị đánh sập.,HlOznsVfe8s
+31,190.72000122070312,194.72000122070312,4.0,75,Nhiều khu nghỉ dưỡng sặt lở đến tận chân công trình phải đóng cửa bỏ hoang.,HlOznsVfe8s
+32,194.72000122070312,202.0800018310547,7.3600006103515625,141,"Hiện không chỉ các nguyện lựa chức năng, mà cả người dân địa phương, khách lưu trú làm ở nước ngoài đều đang nỗ lực tham gia bảo vệ cửa biển.",HlOznsVfe8s
+33,202.0800018310547,206.24000549316406,4.160003662109375,61,Thật đáng tiếc khi bãi biển đẹp thế này bị sóng biển tàn phá.,HlOznsVfe8s
+34,206.24000549316406,209.9199981689453,3.67999267578125,73,"Cứ thế này thì du khách không còn được thưởng thức, thư giãn khi đến đây.",HlOznsVfe8s
+35,209.9199981689453,216.72000122070312,6.8000030517578125,118,Tôi và những người nước ngoài sinh sống ở đây không thể ngồi yên khi chính quyền và cộng đồng đang nỗ lực cứu bờ biển.,HlOznsVfe8s
+36,216.72000122070312,223.0399932861328,6.3199920654296875,117,"Chúng tôi không ngại thời tiết xấu, cùng người dân cố gắng giữ lại bờ biển xinh đẹp này được chừng nào tốt chừng đấy.",HlOznsVfe8s
+37,223.0399932861328,227.0399932861328,4.0,68,"Căn thủ rằng những cái thời điểm hiện nay, khi mà bão số 8 chưa vào,",HlOznsVfe8s
+38,227.0399932861328,234.39999389648438,7.3600006103515625,109,thì chúng tôi cố gắng là hãy sức mình để mà mong muốn lớn nhất đó là ngai ngừa được cái tình trạng trước mắt.,HlOznsVfe8s
+39,234.39999389648438,239.60000610351562,5.20001220703125,85,Đó là cái việc dừng lại cái việc xâm thực vào bên trong ở những cái điểm xung yếu đó.,HlOznsVfe8s
+40,239.60000610351562,242.63999938964844,3.0399932861328125,43,Còn lại thì chắc chắn một điều là phải chờ.,HlOznsVfe8s
+41,242.63999938964844,248.24000549316406,5.600006103515625,100,"Đó là cái dự án tổng thể của tỉnh khi nào sớm triển khai chừng nào, mà triển khai đồng bộ chừng nào,",HlOznsVfe8s
+42,248.24000549316406,253.44000244140625,5.1999969482421875,86,thì mới mong rằng là cái bờ biển Hồ An nó mới có thể là cái bờ biển đẹp nhất của tỉnh.,HlOznsVfe8s
+43,254.0800018310547,259.5199890136719,5.4399871826171875,97,"Thưa quý vị, Chủ tịch nước Nguyễn Phú Trọng vừa ký quyết định truy tặng hôn thương bảo vệ Tổ quốc",HlOznsVfe8s
+44,259.5199890136719,264.32000732421875,4.800018310546875,63,"cho 22 cán bộ chiến sĩ Đoàn Kinh tế Quốc phòng 337, quân khu 4,",HlOznsVfe8s
+45,264.32000732421875,267.9200134277344,3.600006103515625,71,hy sinh khi thực hiện nhiệm vụ phòng chống khắc phục hậu quả thiên tai.,HlOznsVfe8s
+46,267.9200134277344,275.5199890136719,7.5999755859375,93,"Chủ tịch nước truy tặng hôn thương bảo vệ Tổ quốc hạng nhì cho 5 cá nhân vào ngày 15 tháng 3,",HlOznsVfe8s
+47,275.8399963378906,277.8399963378906,2.0,59,thực hiện nhiệm vụ phòng chống khắc phục hậu quả thiên tai.,HlOznsVfe8s
+48,277.8399963378906,292.79998779296875,14.959991455078125,100,"Trước đó, Bộ trưởng Bộ Quốc phòng và Bộ Tư lệnh Quân khu 4 cũng đã ký quyết định truy thăng quân hàm",HlOznsVfe8s
+49,292.79998779296875,295.6000061035156,2.800018310546875,49,"cho các cán bộ chiến sĩ, quân nhân chuyên nghiệp.",HlOznsVfe8s
+50,295.6000061035156,302.0,6.399993896484375,97,"Vào rạng sáng ngày 18 tháng 10, một vụ sạt lở đã vùi lấp khu nhà của đoàn Kinh tế Quốc phòng 337.",HlOznsVfe8s
+51,302.0799865722656,307.6000061035156,5.52001953125,104,"Thời điểm xảy ra vụ việc, các cán bộ chiến sĩ đang thực hiện nhiệm vụ giúp dân khắc phục hậu quả mưa lũ.",HlOznsVfe8s
+52,310.3999938964844,315.8399963378906,5.44000244140625,103,"Hưởng ứng lời kêu gọi của Thủ tướng Chính phủ mặt trận Tổ quốc Việt Nam, Hội chức tập đỏ và Ngoại giao,",HlOznsVfe8s
+53,315.8399963378906,321.3599853515625,5.519989013671875,84,sáng nay Đại sứ quán Việt Nam tại Campuchia đã tổ chức quyên góp được gần 36.000 USD,HlOznsVfe8s
+54,321.3599853515625,323.3599853515625,2.0,32,chia sẻ với đồng bào miền trung.,HlOznsVfe8s
+55,323.3599853515625,325.3599853515625,2.0,52,Phóng viên Thạch Thông đưa tin từ thủ đô Phnom Penh.,HlOznsVfe8s
+56,325.3599853515625,335.6000061035156,10.240020751953125,89,Chia sẻ với đồng bào miền trung rụt thịt đang gặp rất nhiều khó khăn do ảnh hưởng bão lũ.,HlOznsVfe8s
+57,335.6000061035156,340.9599914550781,5.3599853515625,84,"Đại sứ quán Việt Nam tại Campuchia đã tổ chức quyên góp trong cán bộ công nhân viên,",HlOznsVfe8s
+58,340.9599914550781,347.9200134277344,6.96002197265625,119,các doanh nghiệp và doanh nhân Việt Nam tại Campuchia để cùng chung tay giúp đỡ đồng bào miền trung trong cơn hoạn nạn.,HlOznsVfe8s
+59,347.9200134277344,353.9200134277344,6.0,81,Hai doanh nhân góp việc là bà Huỳnh Kim Hảo và bà Phạm Phương Dung đã đến tham dự,HlOznsVfe8s
+60,354.0799865722656,361.6000061035156,7.52001953125,102,"góp số tiền rất ý nghĩa, lần lượt là 20.000 và 10.000 USD để chia sẻ với đồng bào miền trung rụt thịt.",HlOznsVfe8s
+61,361.6000061035156,368.0,6.399993896484375,85,"Đó là một chút ít lòng thành của những đứa con xa xứ góp tay cho đồng bào miền trung,",HlOznsVfe8s
+62,368.0,372.79998779296875,4.79998779296875,76,"cho khu vực miền trung của Việt Nam. Cũng cầu xin cho cơn bão nó mau qua đi,",HlOznsVfe8s
+63,372.79998779296875,377.8399963378906,5.040008544921875,65,"rồi sau khi người dân ổn định được thì mình cũng sẽ góp tiếp tục,",HlOznsVfe8s
+64,378.79998779296875,384.44000244140625,5.6400146484375,105,chung tay góp sức tiếp tục để tạo điều kiện cho người dân được ổn định trở lại với cuộc sống bình thường.,HlOznsVfe8s
+65,384.44000244140625,393.44000244140625,9.0,101,"Thật sự ra thì cái đóng góp của chị nó, nếu mà mình so ra cái bắt mát của đồng bào thì nó rất là nhỏ.",HlOznsVfe8s
+66,393.44000244140625,402.9200134277344,9.480010986328125,98,Nhưng mà đây là cũng thể hiện cái tấm lòng của người Việt ở nước ngoài hướng về đất nước của mình.,HlOznsVfe8s
+67,403.4800109863281,408.760009765625,5.279998779296875,88,Đại sứ của Quang Minh đã cảm ơn những tấm lòng của doanh nghiệp và cán bộ công nhân viên,HlOznsVfe8s
+68,408.760009765625,415.7200012207031,6.959991455078125,111,cơ quan đại diện tại Campuchia đã chung tay chia sẻ với khu rụt miền trung đang bị ảnh hưởng nặng nề do bão lũ.,HlOznsVfe8s
+69,415.7200012207031,419.5199890136719,3.79998779296875,42,Tổng số tiền viên góp được gần 36.000 USD.,HlOznsVfe8s
+70,419.5199890136719,425.32000732421875,5.800018310546875,93,Tất cả số tiền này sẽ nhanh chóng chuyển về nước để chia sẻ với đồng bào miền trung rụt thịt.,HlOznsVfe8s
+71,432.9200134277344,435.1199951171875,2.199981689453125,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,HlOznsVfe8s

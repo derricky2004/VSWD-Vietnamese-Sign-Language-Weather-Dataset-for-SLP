@@ -1,0 +1,33 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.599999904632568,4.599999904632568,92,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hải Yến.,T1A9c0WKXFU
+1,4.599999904632568,7.0,2.4000000953674316,55,"Thưa chị Hải Yến, 2 ngày nay rồi trời Hà Nội bừng nắng.",T1A9c0WKXFU
+2,7.0,11.0,4.0,101,Không biết rằng đây có vẻ dấu hiệu chúng ta chính thức bước vào một đợt nắng và nóng mới hay không ạ?,T1A9c0WKXFU
+3,11.0,13.0,2.0,40,"Vâng, tôi e là vẫn chưa đâu anh Dương ạ.",T1A9c0WKXFU
+4,13.0,15.0,2.0,49,"Nắng nóng chỉ xảy ra trong nốt ngày hôm nay thôi,",T1A9c0WKXFU
+5,15.0,19.0,4.0,91,"sang đến ngày mai thì mưa rông sẽ quay trở lại khu vực miền Bắc, trong đó có thủ đô Hà Nội.",T1A9c0WKXFU
+6,19.0,22.0,3.0,70,Nhưng mà đợt mưa lần này sẽ có một chút khác biệt so với đợt mưa trước,T1A9c0WKXFU
+7,22.0,25.0,3.0,81,và khác ở đâu thì ngay bây giờ tôi sẽ phân tích đến Anh cũng như quý vị khán giả.,T1A9c0WKXFU
+8,25.0,29.0,4.0,77,"Thưa quý vị, nếu như đợt mưa trước thì tập trung chủ yếu ở vùng núi phía Tây,",T1A9c0WKXFU
+9,29.0,32.0,3.0,59,"thì đợt mưa lần này có hình thế gây mưa, đó là rãnh áp thấp",T1A9c0WKXFU
+10,32.0,37.0,5.0,82,và nó di chuyển từ phía Bắc xuống và gây mưa chủ yếu cho khu vực phía Đông Bắc Bộ.,T1A9c0WKXFU
+11,37.0,41.0,4.0,73,Theo đà dịch chuyển của rãnh áp thấp này thì vùng mưa cũng sẽ mở rộng dần,T1A9c0WKXFU
+12,41.0,43.0,2.0,40,từ vùng núi xuống đến khu vực Đông Bằng.,T1A9c0WKXFU
+13,43.0,48.0,5.0,82,"Cụ thể là từ sáng sớm mai, mưa có thể xuất hiện sớm tại khu vực vùng núi Hà Giang,",T1A9c0WKXFU
+14,48.0,51.0,3.0,29,"Cao Bằng, Bắc Cạn và Lạc Sơn.",T1A9c0WKXFU
+15,51.0,55.0,4.0,73,Đến trưa chiều thì mưa sẽ lan xuống khu vực Đông Bằng và ven biển Bắc Bộ.,T1A9c0WKXFU
+16,55.0,61.0,6.0,93,Thậm chí là đến tối và đêm thì vùng mưa này còn mở rộng xuống đến tận khu vực Bắc Miền Trung.,T1A9c0WKXFU
+17,61.0,64.0,3.0,79,Dù là ít điểm mưa to nhưng mà trong giai đoạn này thì quý vị cần phải cảnh giác,T1A9c0WKXFU
+18,64.0,69.0,5.0,89,với những hiện tượng thời tiết nguy hiểm như là rông lốc mưa đá sấm xét và gió giật mạnh.,T1A9c0WKXFU
+19,69.0,72.0,3.0,60,"Mưa xuống nên chắc chắn rồi thời tiết ở miền Bắc sẽ mát hơn,",T1A9c0WKXFU
+20,72.0,74.0,2.0,35,3 ngày tới nhiệt độ giữ ở mức thấp.,T1A9c0WKXFU
+21,74.0,80.0,6.0,101,Như ở thủ đô Hà Nội thì nhiệt độ cao nhất sẽ giao động quanh ngưỡng là từ 25 cho đến khoảng là 26 độ.,T1A9c0WKXFU
+22,80.0,86.0,6.0,98,Tối và đêm có thể là trời hơi dây lạnh một chút với mức nhiệt thấp nhất là từ 21 cho đến là 22 độ.,T1A9c0WKXFU
+23,86.0,91.0,5.0,95,Tiếp theo sẽ là những thông tin dự báo chi tiết cho một số thành phố trong đêm nay và ngày mai.,T1A9c0WKXFU
+24,91.0,94.0,3.0,39,"Hải Phòng đêm nay trời tạnh ráo, 23 độ.",T1A9c0WKXFU
+25,94.0,100.0,6.0,76,"Trưa chiều mai có mưa rào bất chợt, nhiệt độ không vượt quá, 26 độ trời mát.",T1A9c0WKXFU
+26,100.0,104.0,4.0,66,"Hà Nẵng đêm nay không mưa, có gió thổi nhẹ, 25 độ, khá là dễ chịu.",T1A9c0WKXFU
+27,104.0,108.0,4.0,60,"Ngày mai trời nắng ráo, giữa trưa mức nhiệt khoảng là 30 độ.",T1A9c0WKXFU
+28,108.0,111.0,3.0,56,"Thành phố Hồ Chí Minh đêm nay trời cũng tạnh ráo, 26 độ.",T1A9c0WKXFU
+29,111.0,116.0,5.0,70,"Ngày mai nắng đến khoảng là 15 đến 16 giờ, nhiệt độ cao nhất là 34 độ.",T1A9c0WKXFU
+30,116.0,120.0,4.0,57,"Lưu ý là chiều tối có mưa, cần đề phòng đi kèm theo dông.",T1A9c0WKXFU
+31,130.0,134.0,4.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,T1A9c0WKXFU

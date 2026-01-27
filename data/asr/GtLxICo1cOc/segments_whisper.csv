@@ -1,0 +1,12 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,13.0,13.0,240,"Còn bây giờ sẽ là những thông tin dự báo thời tiết, chị Hương Liên. Bà con ở khu vực Nam miền Trung và Tây Nguyên đang chạy lũ rất là vất vả, nhiều nơi ngập sâu rồi. Không biết là đêm nay rồi, ngày mai thì hình mưa lũ thế nào? Có rút không?",GtLxICo1cOc
+1,13.0,22.0,9.0,157,"Vâng anh Dương, dù trong đêm nay và ngày mai mưa có xu hướng giảm dần, nhưng do các hồ đang vận hành xả nước điều tiết lũ nên lũ trên các sông vẫn ở mức cao.",GtLxICo1cOc
+2,22.0,34.0,12.0,176,"Dự báo sông Vệ ở Quảng Ngãi, sông Côn Bình Định và sông Ba qua 2 tỉnh Gia Lai – Phú Yên sẽ đều vượt báo động 3. Tình trạng ngập lụt sâu diễn rộng sẽ còn tiếp diễn ở 3 tỉnh này.",GtLxICo1cOc
+3,34.0,45.0,11.0,161,"Trong đó trên sông Ba, tại khu vực thượng nguồn là Ayunpa – Gia Lai, tối nay vẫn trên báo động 3 20cm, đến sáng mai sẽ rút xuống còn dưới báo động 3 khoảng 10cm.",GtLxICo1cOc
+4,45.0,60.0,15.0,199,"Tại trạm Phú Lâm của Phú Yên thuộc Hạ Liêu sông Ba, do nước từ thượng nguồn đổ về, đêm nay sáng mai sẽ tiếp tục lên, 1 giờ sáng mai sẽ vượt báo động 3 tới 1m40 và chỉ còn cách lũ lịch sử khoảng 11cm.",GtLxICo1cOc
+5,60.0,74.0,14.0,215,"Vì vậy đêm nay và sáng mai, tình trạng ngập ở Phú Yên có thể sâu và rộng hơn. Cảnh báo ngập lụt được đưa ra ở một loạt khu vực gồm thành phố Tuy Hòa, Đồng Xuân, thị xã Sông Cầu, Sông Hinh, Sơn Hòa, Tuy An, Đông Hòa.",GtLxICo1cOc
+6,75.0,91.0,16.0,207,"Về diễn biến mưa, dự báo mưa lớn sẽ diễn ra hết đêm nay ở Bình Định, Phú Yên, Khánh Hòa, Gia Lai, Đắk Lắc. Lượng mưa phổ biến từ 50-70mm và có nơi trên 100mm. Sáng ngày mai hầu hết chỉ có mưa nhỏ ngắt quãng.",GtLxICo1cOc
+7,92.0,95.0,3.0,69,Còn tiếp theo sẽ là dự báo chi tiết cho một số nơi khác trên cả nước.,GtLxICo1cOc
+8,96.0,102.0,6.0,94,"Hà Nội đêm nay không mưa trời rét 15 độ, ngày mai vẫn có nắng ấm, nhiệt độ tăng lên mức 23 độ.",GtLxICo1cOc
+9,102.0,109.0,7.0,103,"Đà Nẵng mưa xảy ra nốt đêm nay, nhiệt độ thấp nhất 21 độ, ngày mai dứt mưa, chưa chiều hửng nắng 26 độ.",GtLxICo1cOc
+10,110.0,117.0,7.0,92,"TP.HCM đem lên cảnh ráo mát mẻ 24 độ, ngày mai ít mưa, nắng kéo dài từ sáng đến chiều 32 độ.",GtLxICo1cOc

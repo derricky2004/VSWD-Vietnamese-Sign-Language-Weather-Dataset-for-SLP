@@ -1,0 +1,42 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.599999904632568,4.599999904632568,66,Việt Nam hôm nay sẽ tiếp tục với những tin tức thời sự đáng chú ý.,qfRwB7eXN1o
+1,4.599999904632568,10.039999961853027,5.440000057220459,94,"Mưa lớn liên tục chốt xuống miền Trung trong ngày hôm nay, đặc biệt là ở Quảng Nam, Quảng Ngãi",qfRwB7eXN1o
+2,10.039999961853027,15.680000305175781,5.640000343322754,91,"mưa rất to đã khiến nhiều khu vực bị ngập lụt, chia cắt. Dự báo từ hôm nay đến thứ hai tới,",qfRwB7eXN1o
+3,15.680000305175781,21.920000076293945,6.239999771118164,96,"25 tháng 10, Quảng Trị đến Phú Yên và Bắc Tây Nguyên tiếp tục có mưa lớn. Quảng Nam, Quảng Ngãi,",qfRwB7eXN1o
+4,21.920000076293945,29.440000534057617,7.520000457763672,77,"Bình Định có mưa to nhất, lượng từ 200 đến 350mm, có nơi trên 450mm. Con Tùm,",qfRwB7eXN1o
+5,29.760000228881836,36.52000045776367,6.760000228881836,88,"phía Bắc tỉnh Gia Lai, lượng phổ biến là từ 100 đến 200mm, các nơi khác từ 50 đến 150mm.",qfRwB7eXN1o
+6,36.52000045776367,42.599998474121094,6.079998016357422,100,"Trời còn mưa lớn, lũ trên các sông tiếp tục dâng cao. Đề phòng ngập lụt các vùng trũng thấp ven sông",qfRwB7eXN1o
+7,42.599998474121094,49.15999984741211,6.560001373291016,106,"và nguy cơ cao về sặt lở, lũ quét ở vùng núi thuộc khu vực Thứa Thiên Huế đến Phú Yên và Con Tùm, Gia Lai.",qfRwB7eXN1o
+8,49.15999984741211,57.52000045776367,8.360000610351562,107,"Tại Quảng Nam, mưa lớn từ hôm qua kéo dài đến chiều tối nay, khiến nhiều địa phương bị ngập trên diện rộng.",qfRwB7eXN1o
+9,57.52000045776367,62.36000061035156,4.840000152587891,84,"Hàng loạt khu dân cư vùng trũng thấp bị ngập sâu, nhiều tuyến giao thông bị ách tác.",qfRwB7eXN1o
+10,62.36000061035156,71.04000091552734,8.680000305175781,89,"Từ trưa nay, nước từ đồng ruộng tràn qua, ngập quốc lộ 1 qua xã Tam Đàng, huyện Phu Ngân,",qfRwB7eXN1o
+11,71.04000091552734,76.23999786376953,5.1999969482421875,100,"tỉnh Quảng Nam, khiến nhiều xe cổ qua lại khó khăn. Mưa rất to và liên tục từ đêm qua đến chiều nay,",qfRwB7eXN1o
+12,76.23999786376953,80.68000030517578,4.44000244140625,88,"khiến cho tình trạng ngập lụt xảy ra trên diện rộng. Trong khi đó, tại thành phố Tam Kỳ,",qfRwB7eXN1o
+13,80.68000030517578,85.83999633789062,5.159996032714844,98,"hàng loạt tuyến đường nổi thì bị ngập sâu, có nơi sắp xảy nửa mét khiến người dân đi lại khó khăn.",qfRwB7eXN1o
+14,85.95999908447266,91.08000183105469,5.120002746582031,100,"Nhiều xe bị tắt máy, không thể di chuyển. Tương tự, hàng loạt khu vực khác tại các huyện Thăng Bình,",qfRwB7eXN1o
+15,91.08000183105469,93.44000244140625,2.3600006103515625,44,"Núi Thành, Vy Xuyên cũng bị ngập sâu cục bộ.",qfRwB7eXN1o
+16,93.44000244140625,99.63999938964844,6.1999969482421875,80,"Hiện nay thì tênh lưu vực Lòng Hồ, tỉ lợi Phú Ninh thì mưa vẫn tiếp tục mưa lớn.",qfRwB7eXN1o
+17,99.63999938964844,108.5999984741211,8.959999084472656,89,16 giờ chiều nay thì hồ này sẽ được xả lũ để điều tiết lũ và khi mà hồ Phú Ninh xả lũ thì,qfRwB7eXN1o
+18,108.5999984741211,111.44000244140625,2.8400039672851562,50,nguy cơ ngập lụt ở các vùng Hải Nhu sẽ rất là lớn.,qfRwB7eXN1o
+19,111.83999633789062,116.63999938964844,4.8000030517578125,91,"Lượng nước điều tiết xả lũ tại hồ Phú Ninh sẽ giao động từ 400 đến 1.000 mét khối một giây,",qfRwB7eXN1o
+20,116.63999938964844,121.36000061035156,4.720001220703125,90,trong khi từ chiều nay lượng nước lũ về hồ đang giao động quanh mức 900 mét khối một giây.,qfRwB7eXN1o
+21,121.36000061035156,126.68000030517578,5.319999694824219,92,"Khi hồ Phú Ninh xả lũ, dự báo từ đêm nay tình hình ngập lụt tại các vùng Hải Nhu như Tăn Kỳ,",qfRwB7eXN1o
+22,126.68000030517578,128.8800048828125,2.2000045776367188,45,"Núi Thành, Thăng Bình rất có thể sẽ nặng hơn.",qfRwB7eXN1o
+23,128.8800048828125,134.75999450683594,5.8799896240234375,105,"Trong khi đó tại thành phố Hội An, các tuyến đường ven sông Hòi cũng đã bị ngập nước không thể lưu thông.",qfRwB7eXN1o
+24,134.75999450683594,138.67999267578125,3.9199981689453125,65,"Đến 17 giờ chiều nay, mưa nước sông Thu Bồ đã dâng cao rất nhanh,",qfRwB7eXN1o
+25,138.67999267578125,141.67999267578125,3.0,55,đạt bước trên báo động 1 tại một số khu vực thấp trũng.,qfRwB7eXN1o
+26,141.67999267578125,143.67999267578125,2.0,38,"Hiện tại, nước vẫn đang lên rất nhanh.",qfRwB7eXN1o
+27,143.67999267578125,148.1199951171875,4.44000244140625,94,"Từ chiều vào đêm nay, nhiều địa phương đã triển khai phương án di dời dân đến khu vực an toàn.",qfRwB7eXN1o
+28,148.1199951171875,153.0800018310547,4.9600067138671875,103,"Ngoài phương án sẵn sàng, ba tại chỗ, chính quyền địa phương cũng khuyến cáo các hội dân sống ven sông,",qfRwB7eXN1o
+29,153.0800018310547,157.8800048828125,4.8000030517578125,90,"gửi biển, thường xuyên theo dõi diễn biến của nước lũ để có kế hoạch di dời khi cần thiết.",qfRwB7eXN1o
+30,160.1199951171875,164.72000122070312,4.600006103515625,87,Mưa lớn trong đêm qua và hôm nay cũng làm cho nước các sông ở tỉnh Quảng Ngãi dâng cao.,qfRwB7eXN1o
+31,164.75999450683594,166.75999450683594,2.0,34,Nhiều sông đã vượt mức báo động 3.,qfRwB7eXN1o
+32,166.75999450683594,171.27999877929688,4.5200042724609375,89,Chính quyền địa phương đang huy động lực lượng hỗ trợ người dân ứng phó với lũ lên nhanh.,qfRwB7eXN1o
+33,174.27999877929688,178.24000549316406,3.9600067138671875,83,"Từ khuya hôm qua đến cả ngày nay, trên địa bàn tỉnh Quảng Ngãi có mưa to tới rất to",qfRwB7eXN1o
+34,178.24000549316406,180.24000549316406,2.0,46,đã khiến cho mực nước các sông dâng lên nhanh.,qfRwB7eXN1o
+35,180.24000549316406,184.24000549316406,4.0,70,"Nhiều vùng đồng bằng thấp trũng, ven sông suối đã ngập sâu trong nước.",qfRwB7eXN1o
+36,194.72000122070312,204.72000122070312,10.0,49,Mưa dân cư này là ở vùng hạ lưu của sông Trà Câu.,qfRwB7eXN1o
+37,204.72000122070312,208.72000122070312,4.0,56,"Chiều 2, nước lũ đã bắt đầu phong tỏa vào các khu dân cư",qfRwB7eXN1o
+38,208.72000122070312,214.72000122070312,6.0,92,và lực lượng ứng phó với mưa lũ của địa phương đã thực hiện việc khảo sát để hiệp thờ dư dời,qfRwB7eXN1o
+39,214.72000122070312,218.72000122070312,4.0,76,và đưa các hồi dân nằm trong vùng nguy hiểm của mưa lũ ra khỏi vùng ong vọt.,qfRwB7eXN1o
+40,224.72000122070312,229.72000122070312,5.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,qfRwB7eXN1o

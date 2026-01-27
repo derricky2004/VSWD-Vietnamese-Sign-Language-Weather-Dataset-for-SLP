@@ -1,0 +1,26 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.0,3.0,47,Bây giờ sẽ là những thông tin dự báo thời tiết.,VUvDNiNnAk8
+1,3.0,7.0,4.0,87,"Chị Hương Liên, hôm qua Hà Nội nóng, hôm nay nóng hơn, ngày mai nóng nữa, đúng không ạ?",VUvDNiNnAk8
+2,7.0,11.0,4.0,67,"Vâng anh Dương, khả năng là thủ đô Hà Nội sẽ còn nắng hết tuần này.",VUvDNiNnAk8
+3,11.0,15.0,4.0,84,"Và không riêng Hà Nội đâu, cả miền Bắc cũng sẽ chuyển nắng và tăng nhiệt từ hôm nay.",VUvDNiNnAk8
+4,15.0,19.0,4.0,96,Trên ảnh mây vệ tinh chiều nay thì trời đã quang mây khác hẳn với lớp mây dày che phủ chiều qua.,VUvDNiNnAk8
+5,19.0,21.0,2.0,29,Vì thế mà nhiệt độ tăng mạnh.,VUvDNiNnAk8
+6,21.0,27.0,6.0,82,"Lúc 13h, một loài các điểm ở Sơn La, Hòa Bình, Lào Cai, Ninh Bình và thủ đô Hà Nội",VUvDNiNnAk8
+7,27.0,33.0,6.0,77,"đều tăng thêm từ 5-7 độ so với cùng thời điểm ngày hôm qua, lên mức 29-31 độ.",VUvDNiNnAk8
+8,33.0,37.0,4.0,63,Thời tiết nóng lên nhanh như vậy là bởi các nguồn ẩm đã yếu đi.,VUvDNiNnAk8
+9,37.0,42.0,5.0,84,Thay vào đó là vùng áp cấp nóng phía Tây đang phát triển và mở rộng về phía nước ta.,VUvDNiNnAk8
+10,42.0,46.0,4.0,68,Dự báo vùng áp cấp này còn chi phối thời tiết miền Bắc đến hết tuần.,VUvDNiNnAk8
+11,46.0,50.0,4.0,72,"Ngày mai, toàn miền tiếp tục nắng nhiều, trưa và đầu dưới chiều khá nóng",VUvDNiNnAk8
+12,50.0,54.0,4.0,62,khi nhiệt độ ở một loạt các thành phố đều tăng lên trên 30 độ.,VUvDNiNnAk8
+13,54.0,58.0,4.0,70,Nghĩa là ở phía Tây như Điện Biên Phủ và Lào Cai có thể lên mức 33 độ.,VUvDNiNnAk8
+14,58.0,61.0,3.0,56,Dự báo càng đến cuối tuần thì trời sẽ càng nóng hơn nữa.,VUvDNiNnAk8
+15,61.0,66.0,5.0,57,"Như tại thủ đô Hà Nội, nhiệt độ 4 ngày tới ở mức là 32 độ",VUvDNiNnAk8
+16,66.0,69.0,3.0,34,và đến cuối tuần có thể lên 34 độ.,VUvDNiNnAk8
+17,69.0,73.0,4.0,85,Tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố trong đêm nay và ngày mai.,VUvDNiNnAk8
+18,73.0,76.0,3.0,45,Thành phố Hải Phòng ngày mai không quá 28 độ.,VUvDNiNnAk8
+19,76.0,80.0,4.0,60,Riêng trong đêm nay và sáng sớm mai có thể có mưa nhỏ 24 độ.,VUvDNiNnAk8
+20,80.0,84.0,4.0,76,"Thành phố Đà Nẵng đêm nay cũng có thể xuất hiện mưa rào nhẹ, trời mát 26 độ.",VUvDNiNnAk8
+21,84.0,87.0,3.0,55,"Ngày mai nắng cả ngày, nhiệt độ giữa trưa khoảng 32 độ.",VUvDNiNnAk8
+22,87.0,91.0,4.0,89,"Thành phố Hồ Chí Minh đêm nay và chiều tối mai có mưa, có thể kèn theo rung xét gió giật.",VUvDNiNnAk8
+23,91.0,93.0,2.0,28,Nhiệt độ thấp nhất là 25 độ.,VUvDNiNnAk8
+24,93.0,98.0,5.0,82,"Ngày mai nắng chủ yếu vào buổi sáng và trưa với nhiệt độ cao nhất 33 độ, khá nóng.",VUvDNiNnAk8

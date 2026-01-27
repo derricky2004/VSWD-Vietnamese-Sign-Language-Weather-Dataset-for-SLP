@@ -1,0 +1,23 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,92,Chào mừng quý vị đến với thông tin dự báo thời tiết đến từ biên tập viên thời tiết Ngọc Vân.,z34BChLRZ-M
+1,5.0,11.0,6.0,156,"Chào chị Ngọc Vân, ngày hôm nay Hà Nội và miền Bắc sau những cơn mưa đã nóng ngay lại rồi, tôi biết là tuần tới chúng ta sẽ tiếp tục đối diện với nắng nóng.",z34BChLRZ-M
+2,11.0,13.0,2.0,33,Diễn biến đợt này ra sao cho chị?,z34BChLRZ-M
+3,13.0,19.0,6.0,132,"Vâng, anh Hoàng Dương khả năng là 2 ngày tới sẽ là khoảng thời gian mà nóng nhất tại thủ đô Hà Nội và nhiều tỉnh thành của miền Bắc.",z34BChLRZ-M
+4,19.0,24.0,5.0,79,"Khu vực Hòa Bình, vùng đồng bằng Trung Du sẽ nằm trong tâm nóng màu đỏ đậm này.",z34BChLRZ-M
+5,24.0,30.0,6.0,80,Mức nhiệt cao nhất có thể lên là 37-38 độ và có nơi nền nhiệt độ còn trên 38 độ.,z34BChLRZ-M
+6,30.0,41.0,11.0,146,"Ở trung bộ chịu hiệu ứng phân mạnh hơn cho nên 2-3 ngày tới sẽ có những điểm nóng đặc biệt gai gắt 39-40 độ như là Đông Hà, Đà Nẵng và Quảng Ngãi.",z34BChLRZ-M
+7,41.0,44.0,3.0,34,Các nơi khác phổ biến từ 36-38 độ.,z34BChLRZ-M
+8,44.0,51.0,7.0,130,"Dù cường độ nóng lần này tại miền Bắc và miền Trung không gai gắt bằng đợt trước nhưng sẽ kéo dài nhiều ngày, có thể hết tuần tới.",z34BChLRZ-M
+9,51.0,58.0,7.0,131,"Vậy quý vị không được chủ quan tới sức khỏe, nhất là những ai thường xuyên phải lao động ngoài trời rất dễ bị say nắng và say nóng.",z34BChLRZ-M
+10,58.0,67.0,9.0,130,"Tốt nhất hãy hạn chế tối đa thời gian ở ngoài trời, đặc biệt không giờ, từ 12h đến 16h nên uống nhiều nước ngay cả khi không khát.",z34BChLRZ-M
+11,67.0,70.0,3.0,50,Mặc quần áo thoáng rộng sáng màu để giảm bớt nóng.,z34BChLRZ-M
+12,70.0,74.0,4.0,74,Còn tại phía nam đang trong giai đoạn ít mưa ngày mai tiếp tục nắng nhiều.,z34BChLRZ-M
+13,74.0,79.0,5.0,86,"Các thành phố tại Tây Nguyên thời tiết khá dễ chịu, nhiệt độ cao nhất không quá 32 độ.",z34BChLRZ-M
+14,79.0,86.0,7.0,136,"Trong thành phố Hồ Chí Minh và nhiều thành phố khác của khu vực Nam Bộ, trời khá nóng vào trưa chiều, nhiệt độ phổ biến từ 33 đến 34 độ.",z34BChLRZ-M
+15,86.0,90.0,4.0,66,Chuyển sang phần dịch báo thời tiết 2 ngày tới ở một số thành phố.,z34BChLRZ-M
+16,90.0,94.0,4.0,69,"Hải Phòng 2 ngày đầu tuần trời năng nóng, nhiệt độ cao nhất là 36 độ.",z34BChLRZ-M
+17,94.0,98.0,4.0,60,"Tối và đêm cũng không còn mắt nữa, nhiệt thấp nhất là 29 độ.",z34BChLRZ-M
+18,98.0,103.0,5.0,92,"Thành phố Đông Hới, Quảng Bình sẽ năng nóng gai gắt trong 2 ngày tới, nhiệt độ cao 38-39 độ.",z34BChLRZ-M
+19,103.0,105.0,2.0,23,Về đêm khoảng là 30 độ.,z34BChLRZ-M
+20,105.0,109.0,4.0,83,"Thành phố Hồ Chí Minh nóng chủ yếu vào buổi trưa chiều, nhiệt độ cao nhất là 34 độ.",z34BChLRZ-M
+21,109.0,115.0,6.0,87,"Chiều tối và đêm, trời dịu mắt nhanh, có lúc mưa giảm nhẹ, nhiệt độ thấp nhất là 27 độ.",z34BChLRZ-M

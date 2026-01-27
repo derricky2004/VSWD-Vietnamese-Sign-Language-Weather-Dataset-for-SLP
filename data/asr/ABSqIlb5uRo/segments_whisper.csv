@@ -1,0 +1,48 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,94,"Trở lại với những thông tin dự báo thời tiết, hôm nay thời tiết ngày bầu cử tương đối lý tưởng",ABSqIlb5uRo
+1,5.0,7.0,2.0,50,khi trời không quá nắng tuy nhiên vẫn còn oi nóng.,ABSqIlb5uRo
+2,7.0,10.0,3.0,61,Người dân miền Bắc đang mong ngóng một cơn mưa để giải nhiệt.,ABSqIlb5uRo
+3,10.0,12.0,2.0,56,Còn người dân miền Nam đang đối diện với những ngày mưa.,ABSqIlb5uRo
+4,12.0,15.0,3.0,61,Cụ thể tình hình diễn biến mưa chiều nay tại miền Nam ra sao?,ABSqIlb5uRo
+5,15.0,18.0,3.0,87,Chúng ta cùng chờ đợi những thông tin cập nhật đến từ biên tập viên thời tiết Xuân Anh.,ABSqIlb5uRo
+6,18.0,19.0,1.0,18,Chào Chị Xuân Anh!,ABSqIlb5uRo
+7,19.0,23.0,4.0,64,"Ở nhiều tỉnh thành, phía Nam Trung Bộ, Tây Nguyên và Nam Bộ nữa,",ABSqIlb5uRo
+8,23.0,26.0,3.0,66,mưa hôm nay đã đến sớm rồi anh Dương ạ và thậm chí còn mưa to nữa.,ABSqIlb5uRo
+9,26.0,29.0,3.0,44,"Và theo hình ảnh mà chúng tôi ghi nhận được,",ABSqIlb5uRo
+10,29.0,32.0,3.0,54,thành phố Hồ Chí Minh đã có mưa to và gây ra ngập úng.,ABSqIlb5uRo
+11,32.0,35.0,3.0,42,"Như là tại khu vực quận thành phố Thủ Đức,",ABSqIlb5uRo
+12,35.0,40.0,5.0,89,nhiều tuyến đường trũng thấp cũng đã bị ngập sâu sau trận mưa đầu giờ chiều ngày hôm nay.,ABSqIlb5uRo
+13,40.0,45.0,5.0,92,Có những nơi là ngập đến nửa bánh xe máy và khiến cho tình trạng giao thông khá là khó khăn.,ABSqIlb5uRo
+14,45.0,50.0,5.0,80,Cảnh báo là ngập úng nhiều và cùng với nhiều hiện tượng thời tiết nguy hiểm khác,ABSqIlb5uRo
+15,50.0,55.0,5.0,80,"sẽ còn xảy ra những ngày tới ở khu vực Nam Bộ, Tây Nguyên và cả Nam Trung Bộ nữa",ABSqIlb5uRo
+16,55.0,58.0,3.0,48,khi mà dự báo mưa sẽ gia tăng ở các khu vực này.,ABSqIlb5uRo
+17,58.0,63.0,5.0,67,"Cảnh báo sẽ có mưa vừa, mưa to và thậm chí là những nơi mưa rất to.",ABSqIlb5uRo
+18,63.0,68.0,5.0,62,Với tổng lượng mưa trong cả đợt từ nay cho đến ngày 27 tháng 5,ABSqIlb5uRo
+19,68.0,73.0,5.0,54,ở khu vực Nam Trung Bộ và Nam Bộ là 150-300mm một đợt.,ABSqIlb5uRo
+20,73.0,79.0,6.0,60,Đối với khu vực Tây Nguyên thì mưa từ 200-450mm trên cả đợt.,ABSqIlb5uRo
+21,80.0,84.0,4.0,66,Mưa lớn cũng sẽ tạo ra một đợt lũ trên các sông thuộc khu vực này.,ABSqIlb5uRo
+22,84.0,88.0,4.0,66,"Và cần chú ý nhất là các sông xuế nhỏ ở khu vực Đắc Nông, Lâm Đồng",ABSqIlb5uRo
+23,88.0,91.0,3.0,47,có thể lên là từ báo động 2 cho tới báo động 3.,ABSqIlb5uRo
+24,91.0,95.0,4.0,70,"Các sông khác ở khu vực phía Nam Tây Nguyên, Ninh Thuận hay Bình Thuận",ABSqIlb5uRo
+25,95.0,97.0,2.0,37,thì từ báo động 1 cho tới báo động 2.,ABSqIlb5uRo
+26,97.0,101.0,4.0,60,"Nguy cơ cao sẽ gây ra ngập úng tại vùng trũng thấp ven sông,",ABSqIlb5uRo
+27,101.0,106.0,5.0,65,"các đô thị lớn như là tại Đà Lạt, TP.HCM hay là khu vực Biên Hòa.",ABSqIlb5uRo
+28,106.0,111.0,5.0,62,Đối với các vùng núi thì lại có cảnh báo về nguy cơ sạt lở đất,ABSqIlb5uRo
+29,111.0,112.0,1.0,22,hay là lũ quét cục bộ.,ABSqIlb5uRo
+30,112.0,117.0,5.0,80,"Đắc Lắc, Đắc Nông, Lâm Đồng là những nơi nằm trong vùng cảnh báo có nguy cơ cao.",ABSqIlb5uRo
+31,117.0,120.0,3.0,47,"Lũ quét, sạt lở đất thì thường xảy ra rất nhanh",ABSqIlb5uRo
+32,120.0,122.0,2.0,47,và lại còn gây ra những thiệt hại nghiêm trọng.,ABSqIlb5uRo
+33,122.0,127.0,5.0,82,"Vì vậy trước khi có mưa lớn thì bà con nên kiểm tra và giá soát kỹ xung quanh nhà,",ABSqIlb5uRo
+34,127.0,130.0,3.0,55,khoanh vùng những nơi có nguy cơ sạt lở và lũ quét cao.,ABSqIlb5uRo
+35,130.0,135.0,5.0,65,"Cần phải chuẩn bị sẵn các vật dụng cần thiết như là phao, đèn pin",ABSqIlb5uRo
+36,135.0,137.0,2.0,31,để có thể bảo vệ bản thân mình.,ABSqIlb5uRo
+37,137.0,141.0,4.0,54,Cũng cần phải bảo vệ và kê cao các tài sản có giá trị.,ABSqIlb5uRo
+38,141.0,145.0,4.0,76,Và cuối cùng thì sẽ là phần thông tin dự báo thời tiết cho một số thành phố.,ABSqIlb5uRo
+39,145.0,149.0,4.0,50,Tại Đà Lạt vào 2 ngày đầu tuần thì sẽ có mưa rông.,ABSqIlb5uRo
+40,149.0,152.0,3.0,44,"Thứ 3 có mưa vừa, mưa to sẽ gây ra ngập úng.",ABSqIlb5uRo
+41,152.0,154.0,2.0,34,Nhiệt độ ban ngày không quá 24 độ.,ABSqIlb5uRo
+42,155.0,158.0,3.0,33,Về đêm mức nhiệt thấp nhất 17 độ.,ABSqIlb5uRo
+43,159.0,161.0,2.0,40,"Thành phố Đà Nẵng mưa rông về chiều tối,",ABSqIlb5uRo
+44,161.0,165.0,4.0,60,"ban ngày vẫn có nắng, nhiệt độ cao nhất 2 ngày tới 31-32 độ.",ABSqIlb5uRo
+45,167.0,172.0,5.0,84,Thủ đô Hà Nội từ đêm nay cũng chuyển mưa và mưa còn duy trì trong cả 2 ngày sắp tới.,ABSqIlb5uRo
+46,172.0,175.0,3.0,51,Hết nắng nóng và nhiệt độ cao nhất không quá 32 độ.,ABSqIlb5uRo

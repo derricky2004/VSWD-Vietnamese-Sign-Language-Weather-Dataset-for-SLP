@@ -1,0 +1,85 @@
+id,start,end,duration,text_len,text,video_id
+0,1.0,5.0,4.0,58,"Dự báo từ đêm nay, miền Trung sẽ bước vào một đợt mưa lớn.",k0pIUp_0IcU
+1,5.0,9.0,4.0,96,"Cụ thể như thế nào, chúng ta cùng chờ đợi những thông tin từ biên tập viên thời tiết Thanh Tùng.",k0pIUp_0IcU
+2,9.0,12.0,3.0,75,"Thanh Tùng, tôi nhớ thời điểm này năm ngoái thì miền Trung đã phải gồm mình",k0pIUp_0IcU
+3,12.0,15.0,3.0,71,"chống đỡ với đợt mưa lũ lịch sử, với thiệt hại rất lớn về người và của.",k0pIUp_0IcU
+4,15.0,18.0,3.0,70,Vậy thì đợt mưa này có điểm nào tự tự giống như năm ngoái hay không ạ?,k0pIUp_0IcU
+5,18.0,20.0,2.0,31,"Vâng, có những điểm tương đồng.",k0pIUp_0IcU
+6,20.0,22.0,2.0,56,Chúng ta phải kể đến đó chính là nguyên nhân gây ra mưa.,k0pIUp_0IcU
+7,22.0,26.0,4.0,61,Những hình thế gây ra đợt mưa lớn lần này cũng khá tương đồng,k0pIUp_0IcU
+8,26.0,29.0,3.0,53,với những hình thế đã từng gây ra trận mưa lũ lịch sử,k0pIUp_0IcU
+9,29.0,31.0,2.0,51,tại thời điểm này năm ngoái tại khu vực miền Trung.,k0pIUp_0IcU
+10,31.0,35.0,4.0,81,"Cụ thể như thế này, đó là những đợt không khí lạnh liên tục được tăng cường xuống",k0pIUp_0IcU
+11,35.0,40.0,5.0,85,và lại kết hợp với một vùng áp thấp có khả năng xuất hiện trên giải hữu tụ nhiệt đới.,k0pIUp_0IcU
+12,40.0,45.0,5.0,109,"Tuy nhiên, các chuyên gia khí tượng đánh giá là cường độ hoạt động không mạnh mẽ và mãnh liệt bằng năm ngoái.",k0pIUp_0IcU
+13,45.0,50.0,5.0,67,Chính vì thế mà tính chất của hai đợt mưa này cũng có sự khác biệt.,k0pIUp_0IcU
+14,50.0,53.0,3.0,72,Tôi sẽ đưa ra một số so sánh sau đây để quý vị có thể dễ dàng hình dung.,k0pIUp_0IcU
+15,53.0,55.0,2.0,33,Trước hết đó là về thời gian mưa.,k0pIUp_0IcU
+16,55.0,58.0,3.0,47,"Đợt mưa tới đây sẽ diễn ra trong khoảng 4 ngày,",k0pIUp_0IcU
+17,58.0,63.0,5.0,70,"tức là từ đêm nay cho đến ngày 18 tháng 10, tức là đến thứ 2 tuần sau.",k0pIUp_0IcU
+18,63.0,66.0,3.0,64,"Trong khi đó, đợt mưa lớn thời điểm này năm ngoái tại miền Trung",k0pIUp_0IcU
+19,66.0,69.0,3.0,56,"thì diễn ra thời gian gần gấp đôi, diễn ra trong 7 ngày,",k0pIUp_0IcU
+20,69.0,72.0,3.0,35,từ đêm ngày 15 cho đến 21 tháng 10.,k0pIUp_0IcU
+21,72.0,75.0,3.0,44,Về cường độ mưa thì cũng tranh lệch khá lớn.,k0pIUp_0IcU
+22,75.0,78.0,3.0,64,"Lượng mưa ở vùng trọng tâm mưa, đó là Hà Tĩnh đến Thừa Thiên Huế",k0pIUp_0IcU
+23,78.0,81.0,3.0,47,"diễn ra vào năm ngoái thì lượng mưa rất là lớn,",k0pIUp_0IcU
+24,81.0,84.0,3.0,26,"từ 1.300 cho đến 1.850 mm,",k0pIUp_0IcU
+25,84.0,87.0,3.0,52,đã gây ra lũ lớn lịch sử và ngập lụt trên diện rộng.,k0pIUp_0IcU
+26,87.0,90.0,3.0,52,"Trong khi đó, lượng mưa dự báo của đợt này ở khu vực",k0pIUp_0IcU
+27,90.0,93.0,3.0,58,"từ Hà Tĩnh đến Thừa Thiên Huế khoảng là từ 300 đến 600 mm,",k0pIUp_0IcU
+28,93.0,96.0,3.0,35,chỉ một số nơi thì mới trên 600 mm.,k0pIUp_0IcU
+29,96.0,98.0,2.0,35,"Mặc dù là mưa thì ít hơn năm ngoái,",k0pIUp_0IcU
+30,98.0,100.0,2.0,48,nhưng mà vẫn tiềm ẩn rất là nhiều mối nguy hiểm.,k0pIUp_0IcU
+31,100.0,102.0,2.0,35,Quý vị tuyệt đối là không chủ quan.,k0pIUp_0IcU
+32,102.0,105.0,3.0,67,"Bởi vì là với đặc điểm sông suối của miền Trung rất là ngắn và rốc,",k0pIUp_0IcU
+33,105.0,108.0,3.0,56,thì với lượng mưa khoảng là từ 300 đến 600 mm chút xuống,k0pIUp_0IcU
+34,108.0,110.0,2.0,33,thì lũ cũng sẽ dâng rất là nhanh.,k0pIUp_0IcU
+35,110.0,112.0,2.0,34,"Cảnh báo trong những ngày tới đây,",k0pIUp_0IcU
+36,112.0,114.0,2.0,35,"lũ ở thượng lưu các sông ở Nghệ An,",k0pIUp_0IcU
+37,114.0,116.0,2.0,27,"rồi là sông La tại Hà Tĩnh,",k0pIUp_0IcU
+38,116.0,118.0,2.0,26,"sông Hương Thừa Thiên Huế,",k0pIUp_0IcU
+39,118.0,119.0,1.0,23,sông Vô Gia ở Quảng Nam,k0pIUp_0IcU
+40,119.0,122.0,3.0,51,thì sẽ lên ở mức là báo động 1 đến trên báo động 2.,k0pIUp_0IcU
+41,122.0,124.0,2.0,31,Còn ở thượng nguồn của các sông,k0pIUp_0IcU
+42,124.0,126.0,2.0,33,"ở Hà Tĩnh, Quảng Bình, Quảng Trị,",k0pIUp_0IcU
+43,126.0,128.0,2.0,26,sông Bồ của Thừa Thiên Huế,k0pIUp_0IcU
+44,128.0,129.0,1.0,17,"sẽ ở mức cao hơn,",k0pIUp_0IcU
+45,129.0,132.0,3.0,54,đó là từ báo động 2 đến báo động 3 và trên báo động 3.,k0pIUp_0IcU
+46,132.0,135.0,3.0,52,Nguy cơ rất cao xảy ra hiện tượng lũ quét sạt lở đất,k0pIUp_0IcU
+47,135.0,137.0,2.0,26,và cả hiện tượng ngập lụt.,k0pIUp_0IcU
+48,137.0,140.0,3.0,56,Để tránh thiệt hại thì bà con ở vùng thường xuyên bị lụt,k0pIUp_0IcU
+49,140.0,142.0,2.0,33,thì hãy chủ động cây cao tài sản.,k0pIUp_0IcU
+50,142.0,143.0,1.0,20,"Cây ngay từ lúc này,",k0pIUp_0IcU
+51,143.0,145.0,2.0,34,khi chưa lụt thì sẽ đỡ vất vả hơn.,k0pIUp_0IcU
+52,145.0,147.0,2.0,43,"Bà con hãy khơi thông tất cả các cống rãnh,",k0pIUp_0IcU
+53,147.0,149.0,2.0,11,"bờ bao yếu,",k0pIUp_0IcU
+54,149.0,151.0,2.0,38,không để nước mưa tự tích tụ và tự vỡ.,k0pIUp_0IcU
+55,151.0,153.0,2.0,26,"Những gia đình sống ở ven,",k0pIUp_0IcU
+56,153.0,155.0,2.0,35,những đường dốc rồi là sườn đồi núi,k0pIUp_0IcU
+57,155.0,157.0,2.0,47,thì cần phải cảnh giác khi có mưa lớn liên tục.,k0pIUp_0IcU
+58,157.0,159.0,2.0,33,Nếu như phát hiện các vết lốn nứt,k0pIUp_0IcU
+59,159.0,162.0,3.0,54,thì hãy lập tức di rời đến nơi cao giáo và an toàn hơn,k0pIUp_0IcU
+60,162.0,164.0,2.0,38,và hãy báo cho chính quyền địa phương.,k0pIUp_0IcU
+61,165.0,167.0,2.0,50,"Còn tại miền Bắc thì do không khí lạnh tăng cường,",k0pIUp_0IcU
+62,167.0,169.0,2.0,46,trời sẽ còn mưa giả dích cho đến hết sáng mai.,k0pIUp_0IcU
+63,169.0,170.0,1.0,19,"Cảm giác lành lạnh,",k0pIUp_0IcU
+64,170.0,173.0,3.0,61,nhiệt độ thấp nhất toàn miền trong khoảng là từ 18 đến 21 độ.,k0pIUp_0IcU
+65,173.0,176.0,3.0,52,Còn những nơi vùng núi cao thì còn có thể chuyển jet,k0pIUp_0IcU
+66,176.0,178.0,2.0,29,"như là tại Sapa hay Đồng Văn,",k0pIUp_0IcU
+67,178.0,180.0,2.0,34,chỉ khoảng là từ 14 cho đến 15 độ.,k0pIUp_0IcU
+68,180.0,183.0,3.0,57,Còn bây giờ chúng tôi xin cập nhật những thông tin dự báo,k0pIUp_0IcU
+69,183.0,185.0,2.0,53,chi tiết cho một số thành phố trong 2 ngày cuối tuần.,k0pIUp_0IcU
+70,185.0,187.0,2.0,35,"Thủ đô Hà Nội sáng mai còn mưa nhỏ,",k0pIUp_0IcU
+71,187.0,189.0,2.0,27,"trưa chiều thì mưa sẽ ngớt,",k0pIUp_0IcU
+72,189.0,191.0,2.0,16,"trời lạnh 23 độ,",k0pIUp_0IcU
+73,191.0,194.0,3.0,52,"sang chủ nhật trời tạnh giáo cả ngày nhưng vẫn lạnh,",k0pIUp_0IcU
+74,194.0,196.0,2.0,33,nhiệt độ về đêm chỉ còn là 19 độ.,k0pIUp_0IcU
+75,197.0,199.0,2.0,43,"Thành phố Huế cả 2 ngày tới đều mưa rất to,",k0pIUp_0IcU
+76,199.0,201.0,2.0,26,"đề phòng ngập ống phục bộ,",k0pIUp_0IcU
+77,201.0,203.0,2.0,34,nhiệt độ cao nhất không quá 27 độ.,k0pIUp_0IcU
+78,204.0,207.0,3.0,59,"Thành phố Hồ Chí Minh 2 ngày tới còn nắng từ sáng đến trưa,",k0pIUp_0IcU
+79,207.0,208.0,1.0,15,nhiệt độ 32 độ.,k0pIUp_0IcU
+80,208.0,210.0,2.0,33,"Về chiều thì chờ chuyển mưa rông,",k0pIUp_0IcU
+81,210.0,211.0,1.0,23,"cảnh báo có lúc mưa to,",k0pIUp_0IcU
+82,211.0,213.0,2.0,33,kèm theo sấm xét và gió rất mạnh.,k0pIUp_0IcU
+83,215.0,217.0,2.0,48,Hẹn gặp lại các bạn trong những video tiếp theo.,k0pIUp_0IcU

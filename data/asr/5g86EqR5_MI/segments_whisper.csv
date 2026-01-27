@@ -1,0 +1,43 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,79,Còn tiếp theo sẽ là những thông tin dự báo thời tiết liên quan đến cơn bão số 6,5g86EqR5_MI
+1,4.0,5.0,1.0,21,Xin chào chị Xuân Anh,5g86EqR5_MI
+2,5.0,9.0,4.0,102,Không biết là cơn bão số 6 đến thời điểm này đã có những tác động đầu tiên như thế nào đến đất liền ạ?,5g86EqR5_MI
+3,9.0,13.0,4.0,72,"Vâng, bão số 6 thì cái tác động của nó đó là gió mạnh rồi cả mưa lớn nữa",5g86EqR5_MI
+4,13.0,17.0,4.0,66,Không chỉ là bây giờ đâu mà có thể là cả trong đêm nay và ngày mai,5g86EqR5_MI
+5,17.0,21.0,4.0,66,Cụ thể là đối với khu vực miền trung nơi mà nó sẽ trực tiếp đi qua,5g86EqR5_MI
+6,21.0,24.0,3.0,44,thì cảnh báo tiếp theo là từ tối đến đêm nay,5g86EqR5_MI
+7,24.0,28.0,4.0,55,Liền khu vực từ Thừa Thiên Huế trở xuống tới Quảng Ngãi,5g86EqR5_MI
+8,28.0,31.0,3.0,33,sẽ có gió mạnh là cấp 6 đến cấp 7,5g86EqR5_MI
+9,31.0,35.0,4.0,45,Vùng ven biển có nơi còn cấp 8 và giật cấp 10,5g86EqR5_MI
+10,35.0,40.0,5.0,57,Gió cấp 8 tức là gió có tốc độ là từ 60 đến 70 km một giờ,5g86EqR5_MI
+11,40.0,45.0,5.0,66,"Và với sức gió này thì có thể sẽ quật đổ cây cối, thổi bay mái tôn",5g86EqR5_MI
+12,45.0,48.0,3.0,53,"hay là các biển hiệu quảng cáo, mái nhà không kiên cố",5g86EqR5_MI
+13,48.0,51.0,3.0,54,Thời gian có gió mạnh sẽ kéo dài cho đến sáng ngày mai,5g86EqR5_MI
+14,51.0,53.0,2.0,34,Vì vậy từ tối nay cho đến sáng mai,5g86EqR5_MI
+15,53.0,56.0,3.0,54,thì quý vị ở khu vực Thừa Thiên Huế cho tới Quảng Ngãi,5g86EqR5_MI
+16,56.0,59.0,3.0,61,không nên ra khỏi nhà nếu như không có việc thực sự cần thiết,5g86EqR5_MI
+17,59.0,61.0,2.0,30,để có thể đảm bảo được an toàn,5g86EqR5_MI
+18,61.0,66.0,5.0,66,Báo số 6 cũng gây ra mưa to đến rất to từ nay cho đến hết ngày mai,5g86EqR5_MI
+19,66.0,69.0,3.0,38,ở khu vực từ Hà Tĩnh cho tới Bình Định,5g86EqR5_MI
+20,69.0,72.0,3.0,34,Với lượng mưa là từ 150 đến 250 mm,5g86EqR5_MI
+21,72.0,75.0,3.0,28,Có những nơi mưa trên 300 mm,5g86EqR5_MI
+22,75.0,79.0,4.0,48,Đối với Con Tum và Gia Lai thì cũng sẽ có mưa to,5g86EqR5_MI
+23,79.0,82.0,3.0,31,với lượng mưa từ 100 đến 150 mm,5g86EqR5_MI
+24,82.0,85.0,3.0,18,có nơi trên 200 mm,5g86EqR5_MI
+25,85.0,88.0,3.0,41,"Nguy cơ cao sẽ xảy ra lũ quét, sạt lở đất",5g86EqR5_MI
+26,88.0,90.0,2.0,45,tại khu vực vùng núi cũng như ngập ống cục bộ,5g86EqR5_MI
+27,90.0,91.0,1.0,23,tại các vùng trụng thấp,5g86EqR5_MI
+28,91.0,95.0,4.0,55,Mưa lớn hàng trăm mm trút xuống địa hình sông suối ngắn,5g86EqR5_MI
+29,95.0,97.0,2.0,42,và lại dốc ở khu vực phía trung Tây Nguyên,5g86EqR5_MI
+30,97.0,100.0,3.0,49,thì cũng sẽ khiến cho lũ ở khu vực này dâng nhanh,5g86EqR5_MI
+31,100.0,104.0,4.0,69,"Đối với các sông ở khu vực Quảng Bình, Quảng Trị, Quảng Ngãi, Con Tum",5g86EqR5_MI
+32,104.0,108.0,4.0,58,hay là Gia Lai sẽ lên từ mức báo động 1 cho tới báo động 2,5g86EqR5_MI
+33,108.0,110.0,2.0,34,và có sông thì còn trên báo động 2,5g86EqR5_MI
+34,110.0,112.0,2.0,43,Và cuối cùng thì sẽ là phần dự báo chi tiết,5g86EqR5_MI
+35,112.0,115.0,3.0,46,cho một số thành phố trong đêm nay và ngày mai,5g86EqR5_MI
+36,115.0,119.0,4.0,57,Đối với thủ đô Hà Nội vào đêm nay sẽ có lúc mưa rào 25 độ,5g86EqR5_MI
+37,120.0,124.0,4.0,50,"Ngày mai lúc nắng lúc mưa, nhiệt độ cao nhất 31 độ",5g86EqR5_MI
+38,125.0,129.0,4.0,62,Đà Nẵng đêm nay và sáng mai sẽ có mưa rất to kèm theo gió mạnh,5g86EqR5_MI
+39,129.0,133.0,4.0,64,"Trưa chiều mai cường độ mưa sẽ giảm dần, nhiệt độ cũng quá 29 độ",5g86EqR5_MI
+40,134.0,139.0,5.0,61,"Thành phố Hồ Chí Minh đêm nay ít mưa, đa phần tạnh giáo 25 độ",5g86EqR5_MI
+41,140.0,144.0,4.0,67,"Ngày mai có mưa rông từ trưa đến chiều tối, nhiệt độ cao nhất 32 độ",5g86EqR5_MI

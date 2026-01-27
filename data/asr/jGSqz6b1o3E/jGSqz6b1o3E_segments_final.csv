@@ -1,0 +1,56 @@
+video_id,segment_id,start,end,duration,text_whisper,text_clean,text_final,review_decision,quality_level
+jGSqz6b1o3E,0,0.0,7.0,7.0,"Tại Yên Bái, mưa lớn đã làm hai người dân trên địa bàn huyện Trạm Tấu bị lũ cuốn trôi.","Tại Yên Bái, mưa lớn đã làm hai người dân trên địa bàn huyện Trạm Tấu bị lũ cuốn trôi.","Tại Yên Bái, mưa lớn đã làm hai người dân trên địa bàn huyện Trạm Tấu bị lũ cuốn trôi.",OK,HIGH
+jGSqz6b1o3E,1,7.0,10.0,3.0,Nạn nhân thứ nhất là một cháu bé hơn 2 tuổi.,Nạn nhân thứ nhất là một cháu bé hơn 2 tuổi.,Nạn nhân thứ nhất là một cháu bé hơn 2 tuổi.,OK,HIGH
+jGSqz6b1o3E,2,10.0,15.0,5.0,Cháu được chị gái trông nhưng chẳng may bị tuột ngã xuống suối và bị lũ cuốn đi.,Cháu được chị gái trông nhưng chẳng may bị tuột ngã xuống suối và bị lũ cuốn đi.,Cháu được chị gái trông nhưng chẳng may bị tuột ngã xuống suối và bị lũ cuốn đi.,OK,HIGH
+jGSqz6b1o3E,3,15.0,18.0,3.0,"Nạn nhân thứ hai là một người đàn ông khoảng 30 tuổi,","Nạn nhân thứ hai là một người đàn ông khoảng 30 tuổi,","Nạn nhân thứ hai là một người đàn ông khoảng 30 tuổi,",OK,HIGH
+jGSqz6b1o3E,4,18.0,21.0,3.0,bị cuốn trôi tại đoạn đường ngầm qua suối khi đang trên đường đi làm.,bị cuốn trôi tại đoạn đường ngầm qua suối khi đang trên đường đi làm.,bị cuốn trôi tại đoạn đường ngầm qua suối khi đang trên đường đi làm.,OK,HIGH
+jGSqz6b1o3E,5,21.0,23.0,2.0,Hiện vẫn chưa tìm được hai nạn nhân.,Hiện vẫn chưa tìm được hai nạn nhân.,Hiện vẫn chưa tìm được hai nạn nhân.,OK,HIGH
+jGSqz6b1o3E,6,23.0,27.0,4.0,"Không chỉ thiệt hại về người, mưa lũ còn làm sặt lở nhiều điểm,","Không chỉ thiệt hại về người, mưa lũ còn làm sặt lở nhiều điểm,","Không chỉ thiệt hại về người, mưa lũ còn làm sặt lở nhiều điểm,",OK,HIGH
+jGSqz6b1o3E,7,27.0,31.0,4.0,gây ách cắt giao thông ở xã Sà Hồ và xã Bản Bù.,gây ách cắt giao thông ở xã Sà Hồ và xã Bản Bù.,gây ách cắt giao thông ở xã Sà Hồ và xã Bản Bù.,OK,HIGH
+jGSqz6b1o3E,8,34.0,38.0,4.0,"Không chỉ Yên Bái, từ hôm qua đến sáng nay do ảnh hưởng của không khí lạnh kết hợp","Không chỉ Yên Bái, từ hôm qua đến sáng nay do ảnh hưởng của không khí lạnh kết hợp","Không chỉ Yên Bái, từ hôm qua đến sáng nay do ảnh hưởng của không khí lạnh kết hợp",OK,HIGH
+jGSqz6b1o3E,9,38.0,43.0,5.0,"với hoàn lưu bão số 7, mưa lớn đã xảy ra ở nhiều địa phương miền núi phía Bắc,","với hoàn lưu bão số 7, mưa lớn đã xảy ra ở nhiều địa phương miền núi phía Bắc,","với hoàn lưu bão số 7, mưa lớn đã xảy ra ở nhiều địa phương miền núi phía Bắc,",OK,HIGH
+jGSqz6b1o3E,10,43.0,45.0,2.0,trong đó có Lào Cai và Hòa Bình.,trong đó có Lào Cai và Hòa Bình.,trong đó có Lào Cai và Hòa Bình.,OK,HIGH
+jGSqz6b1o3E,11,48.0,51.0,3.0,"Tại Lào Cai, mưa lớn gây sặt lở đất đá,","Tại Lào Cai, mưa lớn gây sặt lở đất đá,","Tại Lào Cai, mưa lớn gây sặt lở đất đá,",OK,HIGH
+jGSqz6b1o3E,12,51.0,55.0,4.0,ách cắt dọa điểm tránh quốc lộ 4D từ Sapa đi Lai Châu.,ách cắt dọa điểm tránh quốc lộ 4D từ Sapa đi Lai Châu.,ách cắt dọa điểm tránh quốc lộ 4D từ Sapa đi Lai Châu.,OK,HIGH
+jGSqz6b1o3E,13,55.0,57.0,2.0,Thiệt tiện phải đi theo hướng qua thị xã Sapa.,Thiệt tiện phải đi theo hướng qua thị xã Sapa.,Thiệt tiện phải đi theo hướng qua thị xã Sapa.,OK,HIGH
+jGSqz6b1o3E,14,57.0,61.0,4.0,Nhiều điểm sặt lở cũng xuất hiện trên các tuyến tỉnh lộ 152,Nhiều điểm sặt lở cũng xuất hiện trên các tuyến tỉnh lộ 152,Nhiều điểm sặt lở cũng xuất hiện trên các tuyến tỉnh lộ 152,OK,HIGH
+jGSqz6b1o3E,15,61.0,65.0,4.0,"đoạn qua xã Mường Hoa, phường Cầu Mây và đường liên xã Thanh Bình.","đoạn qua xã Mường Hoa, phường Cầu Mây và đường liên xã Thanh Bình.","đoạn qua xã Mường Hoa, phường Cầu Mây và đường liên xã Thanh Bình.",OK,HIGH
+jGSqz6b1o3E,16,66.0,71.0,5.0,"Còn tại Hòa Bình, mưa lớn liên tục kéo dài đến hàng nghìn mét khối đất đá hệ xã.","Còn tại Hòa Bình, mưa lớn liên tục kéo dài đến hàng nghìn mét khối đất đá hệ xã.","Còn tại Hòa Bình, mưa lớn liên tục kéo dài đến hàng nghìn mét khối đất đá hệ xã.",OK,HIGH
+jGSqz6b1o3E,17,71.0,74.0,3.0,Xuất hiện các vết trượt mái ta lui dương dài hơn 50 mét,Xuất hiện các vết trượt mái ta lui dương dài hơn 50 mét,Xuất hiện các vết trượt mái ta lui dương dài hơn 50 mét,OK,HIGH
+jGSqz6b1o3E,18,74.0,79.0,5.0,"gây ách tắt tuyến tỉnh lộ 435 đi qua phường Thái Bình, thành phố Hòa Bình.","gây ách tắt tuyến tỉnh lộ 435 đi qua phường Thái Bình, thành phố Hòa Bình.","gây ách tắt tuyến tỉnh lộ 435 đi qua phường Thái Bình, thành phố Hòa Bình.",OK,HIGH
+jGSqz6b1o3E,19,79.0,83.0,4.0,"Lực lượng chức năng vận động các hộ dân nằm trong vùng nguy cơ bị sặt lở,","Lực lượng chức năng vận động các hộ dân nằm trong vùng nguy cơ bị sặt lở,","Lực lượng chức năng vận động các hộ dân nằm trong vùng nguy cơ bị sặt lở,",OK,HIGH
+jGSqz6b1o3E,20,83.0,85.0,2.0,di chuyển tới nơi an toàn.,di chuyển tới nơi an toàn.,di chuyển tới nơi an toàn.,OK,HIGH
+jGSqz6b1o3E,21,89.0,93.0,4.0,"Còn ở thủ đô Hà Nội, những cơn mưa tầm tạ cũng đã trút xuống","Còn ở thủ đô Hà Nội, những cơn mưa tầm tạ cũng đã trút xuống","Còn ở thủ đô Hà Nội, những cơn mưa tầm tạ cũng đã trút xuống",OK,HIGH
+jGSqz6b1o3E,22,93.0,95.0,2.0,suốt 2 ngày cuối tuần sang đánh ngảy.,suốt 2 ngày cuối tuần sang đánh ngảy.,suốt 2 ngày cuối tuần sang đánh ngảy.,OK,HIGH
+jGSqz6b1o3E,23,95.0,98.0,3.0,"Cả ngày hôm nay, nhiều tuyến đường đã bị ngập sâu trong buổi sáng","Cả ngày hôm nay, nhiều tuyến đường đã bị ngập sâu trong buổi sáng","Cả ngày hôm nay, nhiều tuyến đường đã bị ngập sâu trong buổi sáng",OK,HIGH
+jGSqz6b1o3E,24,98.0,101.0,3.0,khiến việc đi lại của người dân khá vất vả.,khiến việc đi lại của người dân khá vất vả.,khiến việc đi lại của người dân khá vất vả.,OK,HIGH
+jGSqz6b1o3E,25,102.0,106.0,4.0,"Hầm chui nối đường đi lên cầu Huống, thị trấn Yên Viên, huyện xã Năm.","Hầm chui nối đường đi lên cầu Huống, thị trấn Yên Viên, huyện xã Năm.","Hầm chui nối đường đi lên cầu Huống, thị trấn Yên Viên, huyện xã Năm.",OK,HIGH
+jGSqz6b1o3E,26,106.0,109.0,3.0,Đoạn đường này tập trung rất nhiều phương tiện từ Bắc Ninh,Đoạn đường này tập trung rất nhiều phương tiện từ Bắc Ninh,Đoạn đường này tập trung rất nhiều phương tiện từ Bắc Ninh,OK,HIGH
+jGSqz6b1o3E,27,109.0,111.0,2.0,và khu vực Yên Viên đi vào trung tâm thành phố.,và khu vực Yên Viên đi vào trung tâm thành phố.,và khu vực Yên Viên đi vào trung tâm thành phố.,OK,HIGH
+jGSqz6b1o3E,28,112.0,115.0,3.0,"8 giờ sáng, cao điểm đi lạ, đường đã ngập.","8 giờ sáng, cao điểm đi lạ, đường đã ngập.","8 giờ sáng, cao điểm đi lạ, đường đã ngập.",OK,HIGH
+jGSqz6b1o3E,29,116.0,121.0,5.0,"Chỗ nông nhất là khoảng 60cm, chỗ sâu thì đến hơn 1m.","Chỗ nông nhất là khoảng 60cm, chỗ sâu thì đến hơn 1m.","Chỗ nông nhất là khoảng 60cm, chỗ sâu thì đến hơn 1m.",OK,HIGH
+jGSqz6b1o3E,30,129.0,132.0,3.0,"Cố để vượt qua, nhưng rồi xe chết máy.","Cố để vượt qua, nhưng rồi xe chết máy.","Cố để vượt qua, nhưng rồi xe chết máy.",OK,HIGH
+jGSqz6b1o3E,31,133.0,137.0,4.0,Một số phương tiện đã không dám đi qua mà phải quay đầu.,Một số phương tiện đã không dám đi qua mà phải quay đầu.,Một số phương tiện đã không dám đi qua mà phải quay đầu.,OK,HIGH
+jGSqz6b1o3E,32,138.0,141.0,3.0,Nỗi khổ của người dân là đoạn đường này thường xuyên bị ngập.,Nỗi khổ của người dân là đoạn đường này thường xuyên bị ngập.,Nỗi khổ của người dân là đoạn đường này thường xuyên bị ngập.,OK,HIGH
+jGSqz6b1o3E,33,153.0,157.0,4.0,"Các đêm một tháng, đoạn đường này đã được đưa vào sử dụng hệ thống bơm chìm.","Các đêm một tháng, đoạn đường này đã được đưa vào sử dụng hệ thống bơm chìm.","Các đêm một tháng, đoạn đường này đã được đưa vào sử dụng hệ thống bơm chìm.",OK,HIGH
+jGSqz6b1o3E,34,157.0,160.0,3.0,Nước được dẫn để thoát ra sông thêm được gần đó.,Nước được dẫn để thoát ra sông thêm được gần đó.,Nước được dẫn để thoát ra sông thêm được gần đó.,OK,HIGH
+jGSqz6b1o3E,35,160.0,163.0,3.0,"Tuy nhiên, ngập úng vẫn xảy ra.","Tuy nhiên, ngập úng vẫn xảy ra.","Tuy nhiên, ngập úng vẫn xảy ra.",OK,HIGH
+jGSqz6b1o3E,36,163.0,166.0,3.0,Đơn vị thoát nước đang tính thêm các phương án khác.,Đơn vị thoát nước đang tính thêm các phương án khác.,Đơn vị thoát nước đang tính thêm các phương án khác.,OK,HIGH
+jGSqz6b1o3E,37,167.0,173.0,6.0,Chỗ nào vết và mở rộng các phần khó hẹp ở trung tâm yên được.,Chỗ nào vết và mở rộng các phần khó hẹp ở trung tâm yên được.,Chỗ nào vết và mở rộng các phần khó hẹp ở trung tâm yên được.,OK,HIGH
+jGSqz6b1o3E,38,173.0,178.0,5.0,Và nghiên cứu để có thể tăng cường đến sông chốt bơm.,Và nghiên cứu để có thể tăng cường đến sông chốt bơm.,Và nghiên cứu để có thể tăng cường đến sông chốt bơm.,OK,HIGH
+jGSqz6b1o3E,39,179.0,182.0,3.0,"Còn đây là ngã tư Lương Thế Vinh, Tố Hữu.","Còn đây là ngã tư Lương Thế Vinh, Tố Hữu.","Còn đây là ngã tư Lương Thế Vinh, Tố Hữu.",OK,HIGH
+jGSqz6b1o3E,40,182.0,185.0,3.0,Các xe tìm cách treo lên vỉa hè.,Các xe tìm cách treo lên vỉa hè.,Các xe tìm cách treo lên vỉa hè.,OK,HIGH
+jGSqz6b1o3E,41,185.0,188.0,3.0,"Hy vọng nước thấp hơn, xe đỡ chết máy.","Hy vọng nước thấp hơn, xe đỡ chết máy.","Hy vọng nước thấp hơn, xe đỡ chết máy.",OK,HIGH
+jGSqz6b1o3E,42,188.0,192.0,4.0,Lực lượng chức năng cũng dần mình trong mưa để điều tiết xa thông.,Lực lượng chức năng cũng dần mình trong mưa để điều tiết xa thông.,Lực lượng chức năng cũng dần mình trong mưa để điều tiết xa thông.,OK,HIGH
+jGSqz6b1o3E,43,193.0,196.0,3.0,Một ngày đi lại thật vất vả của người dân thủ đô.,Một ngày đi lại thật vất vả của người dân thủ đô.,Một ngày đi lại thật vất vả của người dân thủ đô.,OK,HIGH
+jGSqz6b1o3E,44,198.0,201.0,3.0,"Còn tại Trung Quốc, mưa như chút tại tỉnh Sơn Tây","Còn tại Trung Quốc, mưa như chút tại tỉnh Sơn Tây","Còn tại Trung Quốc, mưa như chút tại tỉnh Sơn Tây",OK,HIGH
+jGSqz6b1o3E,45,201.0,204.0,3.0,"đã làm gián đoạn cuộc sống của hơn 1,75 triệu dân.","đã làm gián đoạn cuộc sống của hơn 1,75 triệu dân.","đã làm gián đoạn cuộc sống của hơn 1,75 triệu dân.",OK,HIGH
+jGSqz6b1o3E,46,204.0,208.0,4.0,Mưa lớn kéo dài khiến cho mực nước trên các con sông dân cao,Mưa lớn kéo dài khiến cho mực nước trên các con sông dân cao,Mưa lớn kéo dài khiến cho mực nước trên các con sông dân cao,OK,HIGH
+jGSqz6b1o3E,47,208.0,210.0,2.0,nguy cơ gây vỡ đê xảy ra lũ lụt.,nguy cơ gây vỡ đê xảy ra lũ lụt.,nguy cơ gây vỡ đê xảy ra lũ lụt.,OK,HIGH
+jGSqz6b1o3E,48,210.0,213.0,3.0,Hơn 120.000 người đã được sơ tán.,Hơn 120.000 người đã được sơ tán.,Hơn 120.000 người đã được sơ tán.,OK,HIGH
+jGSqz6b1o3E,49,213.0,216.0,3.0,Khoảng 190.000 hectare cây trồng bị hư hại,Khoảng 190.000 hectare cây trồng bị hư hại,Khoảng 190.000 hectare cây trồng bị hư hại,OK,HIGH
+jGSqz6b1o3E,50,216.0,219.0,3.0,và hơn 17 ngôi nhà đã bị sập do mưa lớn.,và hơn 17 ngôi nhà đã bị sập do mưa lớn.,và hơn 17 ngôi nhà đã bị sập do mưa lớn.,OK,HIGH
+jGSqz6b1o3E,51,219.0,222.0,3.0,"Lực lượng quân đội đã được huy động để ra cố đê điều,","Lực lượng quân đội đã được huy động để ra cố đê điều,","Lực lượng quân đội đã được huy động để ra cố đê điều,",OK,HIGH
+jGSqz6b1o3E,52,222.0,225.0,3.0,sơ tán người dân đến nơi an toàn tránh lũ.,sơ tán người dân đến nơi an toàn tránh lũ.,sơ tán người dân đến nơi an toàn tránh lũ.,OK,HIGH
+jGSqz6b1o3E,53,225.0,229.0,4.0,"Tỉnh này cũng đã chi khẩn cấp khoảng 7,8 triệu USD","Tỉnh này cũng đã chi khẩn cấp khoảng 7,8 triệu USD","Tỉnh này cũng đã chi khẩn cấp khoảng 7,8 triệu USD",OK,HIGH
+jGSqz6b1o3E,54,229.0,232.0,3.0,hỗ trợ công tác cứu trợ và kiểm soát lũ lụt.,hỗ trợ công tác cứu trợ và kiểm soát lũ lụt.,hỗ trợ công tác cứu trợ và kiểm soát lũ lụt.,OK,HIGH

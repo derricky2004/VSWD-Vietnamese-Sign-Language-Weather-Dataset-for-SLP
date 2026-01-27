@@ -1,0 +1,26 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.400000095367432,4.400000095367432,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,B2Qyx_vndSE
+1,4.400000095367432,9.399999618530273,4.999999523162842,128,Chào chị Hương Liên! Không biết là tình hình nắng nóng tại Bắc Bộ và Trung Bộ thì sẽ diễn biến như thế nào trong mấy ngày tới ạ?,B2Qyx_vndSE
+2,9.399999618530273,14.399999618530273,5.0,114,Vâng anh Dương! Trong đợt nắng nóng lần này ở Bắc Bộ và Trung Bộ thì không phải chỗ nào cũng nắng rát và nóng khô.,B2Qyx_vndSE
+3,14.399999618530273,20.899999618530273,6.5,121,"Thực tế là trong ngày nắng nóng diện rộng đầu tiên là hôm nay, phía Đông Bắc Bộ gồm thủ đô Hà Nội là dạng nóng ẩm oi bức,",B2Qyx_vndSE
+4,20.899999618530273,25.899999618530273,5.0,47,nhiệt độ khoảng 34-36 độ và độ ẩm cao trên 56%.,B2Qyx_vndSE
+5,26.299999237060547,32.29999923706055,6.0,90,"Trong khi đó ở phía Tây Bắc Bộ và dọc vùng núi của Trung Bộ thì chỉ khoảng 39-45% mà thôi,",B2Qyx_vndSE
+6,32.29999923706055,36.29999923706055,4.0,44,nhưng nhiệt độ lại rất cao lên tới 37-38 độ.,B2Qyx_vndSE
+7,36.29999923706055,38.29999923706055,2.0,40,Cảm giác khô rát khi nắng mạnh liên tục.,B2Qyx_vndSE
+8,38.29999923706055,46.29999923706055,8.0,128,Sự khác biệt này khả năng vẫn duy trì sang ngày mai do hiệu ứng phơn dọc vùng núi từ Điện Biên Sơn La Hòa Bình xuống tới Phú Yên,B2Qyx_vndSE
+9,46.29999923706055,51.29999923706055,5.0,73,"sẽ là nơi nóng khô nhất, tương ứng với màu đỏ nhất trên bản đồ nhiệt này.",B2Qyx_vndSE
+10,51.70000076293945,59.70000076293945,8.0,92,"Mức nhiệt cảnh báo lên tới 37-40 độ và có nơi trên 40 độ, còn độ ẩm thấp nhất chỉ từ 35-45%.",B2Qyx_vndSE
+11,59.70000076293945,65.69999694824219,5.999996185302734,92,Còn lại các nơi khác trong đó có thủ đô Hà Nội tiếp tục oi nóng với nhiệt độ khoảng 35-38 độ,B2Qyx_vndSE
+12,65.69999694824219,69.69999694824219,4.0,41,và độ ẩm giữa trưa chiều sẽ là từ 50-60%.,B2Qyx_vndSE
+13,69.69999694824219,74.69999694824219,5.0,90,"Sau đó đến chiều tối và đêm, lưu ý những cơn mưa dông nhiệt có thể lại xảy ra khắp Bắc Bộ,",B2Qyx_vndSE
+14,74.69999694824219,76.69999694824219,2.0,26,trong đó có thủ đô Hà Nội.,B2Qyx_vndSE
+15,77.0999984741211,82.0999984741211,5.0,89,"Tầm 30 phút đến 1 tiếng, lượng không lớn nhưng dễ kèm theo gió giật và sấm xét nguy hiểm.",B2Qyx_vndSE
+16,82.0999984741211,85.0999984741211,3.0,54,"Lại đúng giờ tan tầm, mọi người cần hết sức cảnh giác.",B2Qyx_vndSE
+17,85.0999984741211,88.0999984741211,3.0,55,Khi thấy mây đen kéo đến nên tìm nơi trú tránh an toàn.,B2Qyx_vndSE
+18,88.0999984741211,93.0999984741211,5.0,94,Còn tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố khác trong đêm nay và ngày mai.,B2Qyx_vndSE
+19,93.0999984741211,97.0999984741211,4.0,46,"Hà Nội dự báo đêm nay hơi oi 28 độ, độ ẩm 95%.",B2Qyx_vndSE
+20,97.0999984741211,101.0999984741211,4.0,67,"Sáng đến chiều mai nắng nóng 36 độ, về chiều tối có mưa dông nhiệt.",B2Qyx_vndSE
+21,101.0999984741211,104.0999984741211,3.0,47,Đà Nẵng đêm nay dự báo không mưa dịu mát 26 độ.,B2Qyx_vndSE
+22,104.5,107.5,3.0,49,Trưa và chiều mai trời nắng nhiều khá nóng 34 độ.,B2Qyx_vndSE
+23,107.5,110.5,3.0,41,Đà Lạt dự báo đêm nay trời rét khô 15 độ.,B2Qyx_vndSE
+24,110.5,113.5,3.0,59,"Sáng ngày mai nắng liên tục, nhiệt độ tăng nhanh lên 26 độ.",B2Qyx_vndSE

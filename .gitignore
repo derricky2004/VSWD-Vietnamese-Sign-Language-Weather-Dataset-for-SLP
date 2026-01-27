@@ -1,0 +1,64 @@
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Video and Audio files (Exclude data video)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.flv
+*.wmv
+*.webm
+*.wav
+*.mp3
+*.m4a
+
+# Data folder handling
+# Ignore everything inside data/ by default
+data/**/*
+
+# Allow all directory structures so the data/ folder exists on GitHub
+!data/**/
+
+# Explicitly allow CSV files within the data/ folder
+!data/**/*.csv
+
+# Also allow the lists/*.txt as they are usually small metadata
+!data/lists/*.txt
+
+# Ignore heavy output/temporary folders
+legacy/
+test_Dat/
+classifier_thumbnail/
+
+# Ignore models and checkpoints
+*.pth
+*.h5
+*.weights
+*.onnx

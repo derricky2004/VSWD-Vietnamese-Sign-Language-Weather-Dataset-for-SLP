@@ -1,0 +1,29 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,Fct_pUhSbA8
+1,4.0,7.0,3.0,68,"Thưa chị Hương Liên, trái ngược lại với thế giấc nắng nóng ở Bắc Bộ,",Fct_pUhSbA8
+2,7.0,9.0,2.0,55,thì lúc này tôi biết là phía Nam đang có những cơn mưa.,Fct_pUhSbA8
+3,9.0,12.0,3.0,72,Không biết là đợt mưa lần này có ảnh hưởng gì đến đời sống của người dân,Fct_pUhSbA8
+4,12.0,14.0,2.0,38,và có chú ý gì về an toàn hay không ạ?,Fct_pUhSbA8
+5,14.0,17.0,3.0,81,"Vâng anh Dương, ngay trong chiều nay, Đài Khí tượng Thủy Văn khu vực Nam Trung Bộ",Fct_pUhSbA8
+6,17.0,20.0,3.0,64,đã phát tin cảnh báo sạt lở đất lũ quét cho vùng núi Ninh Thuận.,Fct_pUhSbA8
+7,20.0,26.0,6.0,103,"Cụ thể, trong tối và đêm nay, người dân sinh sống ở các xã Ma Nới, Lâm Sơn, Lương Sơn ở huyện Ninh Sơn,",Fct_pUhSbA8
+8,26.0,29.0,3.0,49,"Phước Bình, Phước Hòa, Phước Tân tại huyện Bắc Ái",Fct_pUhSbA8
+9,29.0,34.0,5.0,72,"cần đề phòng lũ quét sạt lở đất, lũ cục bộ xảy ra trên các sông suối nhỏ",Fct_pUhSbA8
+10,34.0,37.0,3.0,43,và chú ý an toàn khi đi qua các đường tràn.,Fct_pUhSbA8
+11,37.0,40.0,3.0,61,"Sở dĩ cảnh báo được đưa ra là do chỉ trong 3 tiếng chiều nay,",Fct_pUhSbA8
+12,40.0,43.0,3.0,44,"tại các huyện Ninh Sơn, Bắc Ái đã có mưa to,",Fct_pUhSbA8
+13,43.0,49.0,6.0,81,"nhiều nơi lên tới hàng chục mm, thậm chí là tại trạm Sông Pha còn hơn cả trăm mm.",Fct_pUhSbA8
+14,50.0,53.0,3.0,62,"Không chỉ Ninh Thuận, dọc vùng núi từ Quảng Nam tới Bình Thuận",Fct_pUhSbA8
+15,53.0,57.0,4.0,63,và khu vực Tây Nguyên Nam Bộ cũng có mưa nhiều trong chiều nay.,Fct_pUhSbA8
+16,57.0,62.0,5.0,87,"Quan sát ảnh mây vệ tinh có thể thấy là mây dông đang bao phủ phần lớn các khu vực này,",Fct_pUhSbA8
+17,62.0,64.0,2.0,24,chút mưa nặng hạt xuống.,Fct_pUhSbA8
+18,64.0,67.0,3.0,54,"Tối nay cho đến trưa mai thì mưa khả năng sẽ tạm giảm,",Fct_pUhSbA8
+19,67.0,71.0,4.0,71,nhưng sau 13h thì mưa sẽ quay trở lại trên diện rộng ở các khu vực này.,Fct_pUhSbA8
+20,71.0,77.0,6.0,85,"Cảnh báo mưa vừa có nơi mưa to đến rất to, dễ kèm theo gió giật và sấm xét nguy hiểm.",Fct_pUhSbA8
+21,77.0,82.0,5.0,80,"Vùng trúng thấp ven sông Nam Bộ đề phòng ngập úng, còn vùng núi thuộc Tây Nguyên",Fct_pUhSbA8
+22,82.0,88.0,6.0,87,và từ Đà Nẵng xuống đến Bình Thuận thì cần cảnh giác với sạt lợi đất và lũ quét cục bộ.,Fct_pUhSbA8
+23,89.0,93.0,4.0,89,Còn tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố trong đêm nay và ngày mai.,Fct_pUhSbA8
+24,93.0,99.0,6.0,95,"Nha Trang tối nay và chiều tối mai có mưa dông, còn sáng đến trưa mai trời nắng rán đoạn 31 độ.",Fct_pUhSbA8
+25,99.0,103.0,4.0,63,"Thành phố Hồ Chí Minh đêm nay mưa tạm giảm, trời dịu mát 25 độ.",Fct_pUhSbA8
+26,103.0,108.0,5.0,78,Sáng đến trưa mai vừa nắng vừa nóng 34 độ. Sau 14 giờ trời sẽ chuyển mưa dông.,Fct_pUhSbA8
+27,108.0,115.0,7.0,104,"Hà Nội đêm nay không mưa, dịu mát 26 độ. Sáng ngày mai trời nắng nhiều, oi nóng, nhiệt độ lên tới 34 độ.",Fct_pUhSbA8

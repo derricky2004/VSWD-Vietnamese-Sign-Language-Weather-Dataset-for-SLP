@@ -1,0 +1,33 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,7.599999904632568,7.599999904632568,140,Chuyển sang thông tin liên quan đến tình hình thời tiết. Hôm qua thì đã xuất hiện mưa tuyết và băng giá tại đỉnh Phanxipan của tỉnh Lào Cai.,VXep7_nTovo
+1,7.599999904632568,11.039999961853027,3.440000057220459,100,Sau đây thì chúng ta sẽ cùng chờ đợi những thông tin cập nhật từ biên tập viên thời tiết Hương Liên.,VXep7_nTovo
+2,11.039999961853027,18.0,6.960000038146973,148,Xin chào chị Hương Liên ạ. Không biết là thời gian này thì diễn biến của đợt rét đậm rét hại tại tỉnh Lào Cai thì đã diễn biến như thế nào thưa chị?,VXep7_nTovo
+3,18.0,25.360000610351562,7.3600006103515625,142,"Vâng, tỉnh Lào Cai là một trong những địa phương chịu ảnh hưởng của đợt rét đậm rét hại này anh Dương ạ và sẽ còn rét trong một thời gian nữa.",VXep7_nTovo
+4,25.360000610351562,30.479999542236328,5.119998931884766,107,"Thông viên Thu Hường, đài phát thanh và truyền hình Lào Cai sẽ cho chúng ta biết thông tin tại hiện trường.",VXep7_nTovo
+5,33.040000915527344,39.7599983215332,6.719997406005859,111,"Thưa quý vị và các bạn, thời tiết Lào Cai đang có diễn biến phức tạp. Trời có mưa tuy đã giảm về diện và lượng.",VXep7_nTovo
+6,39.7599983215332,46.959999084472656,7.200000762939453,142,"Trời rét đậm, rét hại, nhiệt độ giảm sâu so với ngày hôm trước. Và vào ngày hôm qua thì tại đỉnh Phanxipan còn xuất hiện hiện tượng tuyết rơi.",VXep7_nTovo
+7,46.959999084472656,53.79999923706055,6.840000152587891,107,"Hồi 7h ngày 27 tháng 12, quan chắc được nhiệt độ thấp nhất ở một số nơi như thành phố Lào Cai là 14,2 độ C,",VXep7_nTovo
+8,53.79999923706055,64.68000030517578,10.880001068115234,171,"thị trấn Bắc Hà là 11,5 độ C, Sapa rét nhất 7,4 độ C. Dù nhiệt độ giảm sâu, song đợt mưa hai ngày qua đã cung cấp một lượng nước đáng kể cho hoa màu và cây trồng các loại.",VXep7_nTovo
+9,64.68000030517578,70.5199966430664,5.839996337890625,106,"Các ao, hồ chứa thủy lợi, hồ thủy điện cũng tích thêm được một lượng nước lớn, nguy cơ cháy rừng giảm hẳn.",VXep7_nTovo
+10,70.5199966430664,77.16000366210938,6.640007019042969,136,"Tuy nhiên mà con nông dân vẫn cần chủ động các biện pháp để phòng tránh những diễn biến tiêu cực của thời tiết như băng giá, xương muối,",VXep7_nTovo
+11,77.16000366210938,82.16000366210938,5.0,87,"rét đậm, rét hại cho cây non và vật nuôi, có biện pháp giữ ấm cho người già và trẻ nhỏ.",VXep7_nTovo
+12,85.33999633789062,90.4000015258789,5.060005187988281,113,"Ở thủ đô Hà Nội thì ngày hôm nay trời cũng thực sự rét rồi, người dân ra đường là cảm thấy cái rét rất là rõ rệt.",VXep7_nTovo
+13,90.4000015258789,93.27999877929688,2.8799972534179688,73,Vậy không biết là đêm nay thì trời còn rét hơn không thưa chị Hương Liên?,VXep7_nTovo
+14,94.27999877929688,98.31999969482422,4.040000915527344,81,"Vâng anh Dương và thưa quý vị khán giả thân mến, đêm nay sẽ còn rét cóng hơn nữa.",VXep7_nTovo
+15,98.31999969482422,106.45999908447266,8.139999389648438,122,"Tại thủ đô Hà Nội, nhiệt độ từ 19 giờ trở đi sẽ giảm xuống chỉ còn là 12 độ và mức nhiệt này sẽ duy trì đến 7 giờ sáng mai",VXep7_nTovo
+16,106.5199966430664,108.5199966430664,2.0,32,nếu lái xe máy sẽ thấy cóng tay.,VXep7_nTovo
+17,109.0199966430664,114.23999786376953,5.220001220703125,87,"Chiều mai do mây vẫn nhiều kèm theo gió đông bắc thổi mạnh nên trời vẫn rất rét, 17 độ.",VXep7_nTovo
+18,114.63999938964844,121.77999877929688,7.1399993896484375,110,"Toàn Bắc Bộ, Bắc Trung Bộ đêm nay vẫn tiếp tục chìm trong giá rét, nhiệt độ thấp nhất phổ biến khoảng 9-14 độ.",VXep7_nTovo
+19,121.77999877929688,127.69999694824219,5.9199981689453125,74,"Các điểm vùng núi cao như Tàn Đảo, Lũng Cú, Mộc Châu, Sa Pa chỉ từ 5-7 độ.",VXep7_nTovo
+20,128.13999938964844,135.4600067138672,7.32000732421875,95,Ngày mai dù nhiệt có tăng 2-3 độ so với hôm nay nhưng vẫn nằm trong ngưỡng rét đậm là 13-18 độ.,VXep7_nTovo
+21,136.22000122070312,141.10000610351562,4.8800048828125,106,Không khí lạnh mạnh cũng khiến nhiều nơi ở khu vực Trung và Nam Trung Bộ chuyển lạnh thấy rõ vào ngày mai.,VXep7_nTovo
+22,141.10000610351562,147.10000610351562,6.0,84,Nhiệt độ cao nhất tại các thành phố từ Đồng Hới xuống đến Nha Trang khoảng 18-25 độ.,VXep7_nTovo
+23,147.72000122070312,154.63999938964844,6.9199981689453125,113,"Về mưa lớn ở Trung Bộ, dự báo từ giờ đến sáng mai, khu vực Hà Tĩnh xuống đến Khánh Hòa tiếp tục có mưa vừa mưa to",VXep7_nTovo
+24,154.63999938964844,156.63999938964844,2.0,25,với lượng mưa từ 20-60mm.,VXep7_nTovo
+25,157.32000732421875,163.86000061035156,6.5399932861328125,61,"Riêng Quảng Nam, Quảng Ngãi là 60-120mm và có nơi trên 150mm.",VXep7_nTovo
+26,163.94000244140625,168.4600067138672,4.5200042724609375,76,Nguy cơ ngập úng vùng trúng thấp và sạt lở đất ở vùng núi vẫn có thể xảy ra.,VXep7_nTovo
+27,169.3800048828125,172.89999389648438,3.519989013671875,62,Tiếp theo là dự báo chi tiết cho một số nơi khác trên cả nước.,VXep7_nTovo
+28,176.97999572753906,183.02000427246094,6.040008544921875,90,"Vinh trời vừa mưa vừa rét đậm, nhiệt độ thấp nhất đêm nay 13 độ, ngày mai không quá 15 độ.",VXep7_nTovo
+29,184.02000427246094,191.10000610351562,7.0800018310546875,103,"Đà Nẵng đêm nay sáng mai có mưa vừa mưa to trời rét 19 độ, ngày mai trời lạnh, nhiệt độ cao nhất 21 độ.",VXep7_nTovo
+30,191.6199951171875,195.10000610351562,3.480010986328125,56,"Thành phố Hồ Chí Minh đêm nay ít mưa, hơi xe lạnh 23 độ,",VXep7_nTovo
+31,195.10000610351562,199.6199951171875,4.519989013671875,81,"ngày mai nắng rán đoạn, nhiệt độ cao nhất 32 độ, chiều tối có thể có mưa rào nhẹ.",VXep7_nTovo

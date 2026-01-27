@@ -1,0 +1,27 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.799999952316284,3.799999952316284,94,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Thanh Tùng,pX0K3aP9aCk
+1,3.799999952316284,7.960000038146973,4.1600000858306885,96,"Thưa anh Thanh Tùng, đến thời điểm này tôi đã cảm thấy trời miền Bắc dường như đã ấm dần lên rồi",pX0K3aP9aCk
+2,7.960000038146973,9.960000038146973,2.0,54,Không biết là đợt lạnh này còn kéo dài không thưa anh?,pX0K3aP9aCk
+3,9.960000038146973,15.640000343322754,5.680000305175781,90,"Thời tiết thì cũng có lúc là z, nhưng mà z chỉ diễn ra trong khoảng đêm và sáng sớm thôi ạ",pX0K3aP9aCk
+4,15.640000343322754,20.280000686645508,4.640000343322754,119,Còn ban ngày thì anh Dương thấy là ví dụ ngay trưa mai thôi thì chúng ta sẽ thấy là thời tiết nó sẽ ấm hơn rất là nhiều,pX0K3aP9aCk
+5,20.280000686645508,23.15999984741211,2.8799991607666016,62,"Và thưa quý vị, đêm nay thì nhiệt độ thấp nhất ở thủ đô Hà Nội",pX0K3aP9aCk
+6,23.200000762939453,28.520000457763672,5.319999694824219,94,Cũng như là nhiều thành phố khác của miền Bắc thì sẽ phổ biến mức nhiệt là từ 11 cho đến 18 độ,pX0K3aP9aCk
+7,28.520000457763672,33.63999938964844,5.119998931884766,118,"Thời tiết như thế này vẫn còn z, thế nên là khi ra ngoài thì quý vị vẫn cần phải sử dụng đến những chiếc áo khoác giày",pX0K3aP9aCk
+8,33.63999938964844,39.79999923706055,6.159999847412109,118,Tuy nhiên là sang đến trưa và chiều mai thì dự báo là trời sẽ có những khoảng hửng nắng và thời tiết thì ấm áp hơn hẳn,pX0K3aP9aCk
+9,39.79999923706055,46.31999969482422,6.520000457763672,87,"Nhiệt độ toàn miền sẽ tăng từ 5 đến 6 độ so với ban đêm, hầu hết là từ 19 cho đến 23 độ",pX0K3aP9aCk
+10,46.31999969482422,51.52000045776367,5.200000762939453,103,Trời sẽ còn tiếp tục ấm lên vào 2 ngày sau và nhiệt độ sẽ tăng đều vào ban ngày cũng như là cả buổi đêm,pX0K3aP9aCk
+11,51.63999938964844,54.84000015258789,3.200000762939453,55,Dự báo như là ở thủ đô Hà Nội thì mỗi ngày sẽ tăng 1 độ,pX0K3aP9aCk
+12,54.84000015258789,61.20000076293945,6.3600006103515625,105,Đến thứ 5 tuần này thì sẽ đạt mức nhiệt là 25 độ và ngay cả buổi đêm thì cũng sẽ tăng dần từ 18 lên 21 độ,pX0K3aP9aCk
+13,61.20000076293945,65.23999786376953,4.039997100830078,82,Quý vị sẽ thấy là đến thứ 5 thì sẽ có một chút mưa nhỏ mưa phùn về đêm và sáng sớm,pX0K3aP9aCk
+14,65.23999786376953,71.4000015258789,6.160003662109375,110,Còn ở miền Trung thì đêm nay và ngày mai mưa tiếp tục xảy ra ở khu vực từ Quảng Bình trở vào cho đến Khánh Hòa,pX0K3aP9aCk
+15,71.4000015258789,76.4800033569336,5.0800018310546875,98,Trong đó cái vùng màu xanh đậm này bao gồm là từ Thiên Huế đến Quảng Ngãi thì sẽ có mưa vừa mưa to,pX0K3aP9aCk
+16,76.5999984741211,81.63999938964844,5.040000915527344,108,Và mưa diễn ra trong giai đoạn giao mùa như thế này thì rất dễ đi kèm với các hiện tượng thời tiết nguy hiểm,pX0K3aP9aCk
+17,81.63999938964844,85.31999969482422,3.6800003051757812,65,"như là sấm xét, tố lốc hay là mưa đá thì quý vị hết sức cảnh giác",pX0K3aP9aCk
+18,86.0,88.31999969482422,2.3199996948242188,64,Chuyển sang những thông tin dự báo chi tiết cho một số thành phố,pX0K3aP9aCk
+19,88.76000213623047,92.91999816894531,4.159996032714844,79,"Với Hải Phòng thì đêm nay trời tạnh giáo, rét khô, mức nhiệt thấp nhất là 16 độ",pX0K3aP9aCk
+20,92.91999816894531,97.04000091552734,4.120002746582031,65,"Trưa chiều mai trời hửng nắng, ấm lên, nhiệt độ cao nhất là 22 độ",pX0K3aP9aCk
+21,98.36000061035156,102.83999633789062,4.4799957275390625,72,"Huế đêm nay có lúc có mưa, gia tăng cảm giác lạnh, nhiệt độ khoảng 19 độ",pX0K3aP9aCk
+22,102.83999633789062,106.04000091552734,3.2000045776367188,58,"Ngày mai thì vẫn có mưa bất chợt, nhiệt độ không quá 21 độ",pX0K3aP9aCk
+23,107.19999694824219,110.31999969482422,3.1200027465820312,47,"Đà Lạt dự báo đêm nay không mưa, trời rét 16 độ",pX0K3aP9aCk
+24,110.31999969482422,114.16000366210938,3.8400039672851562,56,"Sáng đến chiều mai trời nắng, nhiệt độ cao nhất là 27 độ",pX0K3aP9aCk
+25,114.16000366210938,116.16000366210938,2.0,21,Chiều tối có mưa giảm,pX0K3aP9aCk

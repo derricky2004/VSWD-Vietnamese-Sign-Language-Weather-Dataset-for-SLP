@@ -1,0 +1,19 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.140000104904175,3.140000104904175,86,Bây giờ thì chúng ta sẽ cùng trở lại với những thông tin dự báo thời tiết của Chị Yến.,d_V_tgOERUk
+1,3.140000104904175,9.180000305175781,6.0400002002716064,93,"Tôi nghe nói là chuẩn bị miền Bắc đón không khí lạnh, thậm chí là có thể rét đậm rét hại nữa.",d_V_tgOERUk
+2,9.180000305175781,12.600000381469727,3.4200000762939453,42,Bao giờ thì không khí lạnh sẽ đến Chị Yến?,d_V_tgOERUk
+3,12.600000381469727,18.3799991607666,5.779998779296875,105,"Vâng anh Dương, phải là sang đến thứ 2 tuần tới đây thì không khí lạnh mới bắt đầu ảnh hưởng đến nước ta.",d_V_tgOERUk
+4,18.3799991607666,22.260000228881836,3.8800010681152344,72,"Còn trong ngày mai, tức là ngày Chủ nhật thì không khí vẫn khá là ấm áp.",d_V_tgOERUk
+5,22.260000228881836,27.68000030517578,5.420000076293945,98,Và cụ thể đó là mức nhiệt cao nhất tại thủ đô Hà Nội cũng như là những thành phố khác của miền Bắc,d_V_tgOERUk
+6,27.68000030517578,35.279998779296875,7.599998474121094,115,ngày mai sẽ giao động quanh ngưỡng là khoảng từ 23-26 độ và chúng ta chỉ cần mặc những chiếc ao khoác mỏng mà thôi.,d_V_tgOERUk
+7,35.279998779296875,41.58000183105469,6.3000030517578125,107,"Sau đó thì đến ngày thứ 2, sau khi mà không khí lạnh tràn xuống thì thời tiết tại đây sẽ hoàn toàn thay đổi",d_V_tgOERUk
+8,41.58000183105469,46.2400016784668,4.659999847412109,83,từ nắng ấm chuyển sang trạng thái là mưa rét và nhiệt độ chính vì thế sẽ giảm mạnh.,d_V_tgOERUk
+9,46.2400016784668,53.599998474121094,7.359996795654297,107,Như là tại thủ đô Hà Nội chẳng hạn thì mức nhiệt vào ngày thứ 2 sẽ giảm khoảng 4 độ so với cả ngày Chủ nhật,d_V_tgOERUk
+10,53.599998474121094,60.439998626708984,6.840000152587891,92,"xuống còn ở mức là 22 độ, thậm chí là đến thứ 3 thì mức nhiệt có thể giảm tới cả gần chục độ",d_V_tgOERUk
+11,60.439998626708984,65.80000305175781,5.360004425048828,85,"và mức nhiệt ban ngày chỉ khoảng là 16 độ mà thôi, trời rét cống lại có thêm mưa nữa.",d_V_tgOERUk
+12,65.80000305175781,70.04000091552734,4.239997863769531,83,Còn tiếp theo là phần dự báo thời tiết cho các thành phố trong đêm nay và ngày mai.,d_V_tgOERUk
+13,70.04000091552734,76.16000366210938,6.120002746582031,86,"Thành phố Hải Phòng dự báo đêm nay không mưa, trời lạnh 19 độ, ngày mai nắng ấm 25 độ.",d_V_tgOERUk
+14,76.16000366210938,81.63999938964844,5.4799957275390625,86,"Thành phố Đà Nẵng dự báo đêm nay có lúc có mưa giàu, nhiệt độ sẽ không vượt quá 23 độ.",d_V_tgOERUk
+15,81.68000030517578,85.4800033569336,3.8000030517578125,68,Mưa vẫn sẽ ra bất trời trong ngày mai và nhiệt độ cao nhất là 26 độ.,d_V_tgOERUk
+16,85.4800033569336,91.4800033569336,6.0,97,"Thành phố Hồ Chí Minh dự báo đêm nay đôi lúc có mưa nhỏ 25 độ, mưa xuất hiện cả vào chiều tối mai",d_V_tgOERUk
+17,91.4800033569336,94.4800033569336,3.0,46,còn trước đó từ sáng đến trưa trời nắng 32 độ.,d_V_tgOERUk

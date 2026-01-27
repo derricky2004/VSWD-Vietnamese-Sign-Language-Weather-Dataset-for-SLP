@@ -1,0 +1,77 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.800000190734863,4.800000190734863,96,"Thông tin mới nhất từ Thủy điện Giao Trang 3 là trưa nay, lực lượng cứu hộ cứu nạn theo đường bộ",BwyECHrS2nY
+1,4.800000190734863,9.600000381469727,4.800000190734863,93,"đã tiếp cận được vị trí có 13 cán bộ, chiến sĩ bị mất tích khi đang trên đường vào Thủy điện.",BwyECHrS2nY
+2,9.600000381469727,14.199999809265137,4.59999942779541,102,Việc mở đường vào công trường Thủy điện Giao Trang 3 và Giao Trang 4 vẫn đang tiếp tục được triển khai,BwyECHrS2nY
+3,14.199999809265137,15.399999618530273,1.1999998092651367,30,khẩn trương không kể ngày đêm.,BwyECHrS2nY
+4,15.399999618530273,20.0,4.600000381469727,90,"Trên tuyến đường Thủy, lực lượng cứu hộ đã đưa được 2 chuyên gia người Ấn Độ, 17 người dân",BwyECHrS2nY
+5,20.0,23.360000610351562,3.3600006103515625,79,"và 1 thi thể nạn nhân từ Thủy điện Giao Trang 4 ra ngoài, chuyển đến bệnh viện.",BwyECHrS2nY
+6,23.559999465942383,28.360000610351562,4.80000114440918,97,"Cùng lúc, 2 máy bay trực thăng của Sư đoàn Không quân 372 đã được điều động để thực hiện nhiệm vụ",BwyECHrS2nY
+7,28.360000610351562,32.040000915527344,3.6800003051757812,83,"vận chuyển nhu yếu phẩm tiếp tế cho bà con 2 tỉnh Thừa Thiên Huế và tỉnh Quảng Trị,",BwyECHrS2nY
+8,32.040000915527344,34.040000915527344,2.0,43,đồng thời tham gia tìm kiếm cứu nạn cứu hộ.,BwyECHrS2nY
+9,37.279998779296875,41.119998931884766,3.8400001525878906,73,"Sau gần 30 phút khởi hành, trực thăng đã tiếp cận vị trí có người bị nạn,",BwyECHrS2nY
+10,41.119998931884766,45.91999816894531,4.799999237060547,86,"chuyển gần 2 tấn lương thực, thực phẩm, gồm mì tôm, lương khô, nước lọc, vật tư, y tế.",BwyECHrS2nY
+11,46.91999816894531,51.91999816894531,5.0,102,Tổ bay đã xác định vị trí Thủy điện Giao Trang 3 có rất nhiều điểm sạt lở nghiêm trọng trên diện rộng.,BwyECHrS2nY
+12,52.47999954223633,58.47999954223633,6.0,115,Những thông tin trên đã được Tổ bay nhanh chóng báo cáo về sự chỉ huy tiên phương để xác định các biện pháp cứu hộ.,BwyECHrS2nY
+13,59.040000915527344,65.83999633789062,6.799995422363281,65,"Tất cả các nhà gần như bị sập đổ, các công trình cũng bị hư hỏng.",BwyECHrS2nY
+14,65.83999633789062,72.83999633789062,7.0,87,"Chỉ thấy được từ nhóm người một, khoảng 3 người là nhiều nhất, xong đó là nhóm 2 người.",BwyECHrS2nY
+15,72.83999633789062,79.83999633789062,7.0,94,Và chúng tôi đã quyết định tiếp cận Giao Trang ở độ cao thấp 30m và thả hàng xuống thành công.,BwyECHrS2nY
+16,79.83999633789062,86.83999633789062,7.0,95,Quân chủ phòng pháp không quân cũng đã chỉ đạo sư đoàn 372 chuẩn bị kỹ về lực lượng phương tiện,BwyECHrS2nY
+17,87.19999694824219,92.19999694824219,5.0,94,"Khi thời tiết thuận lợi, tổ chức bay và thực hiện cầu người bị kẹt tại Thủy điện Giao Trang 3,",BwyECHrS2nY
+18,92.19999694824219,95.19999694824219,3.0,57,dự kiến trực thăng bay trong chiều tối nay hoặc sáng mai.,BwyECHrS2nY
+19,99.19999694824219,106.19999694824219,7.0,113,"Chiều nay, bão số 7 đã suy yếu thành áp thấp nhiệt đới trên vùng biển ven bờ các tỉnh từ Thái Bình đến Thanh Hóa.",BwyECHrS2nY
+20,106.19999694824219,113.19999694824219,7.0,139,Dự báo trong những giờ tới thì áp thấp nhiệt đới đi vào đất liền các tỉnh từ Thái Bình đến Nghệ An tiếp tục suy yếu thành một vùng áp thấp.,BwyECHrS2nY
+21,113.55999755859375,118.55999755859375,5.0,112,"Nhiều thường của áp thấp nhiệt đới suy yếu từ bã số 7 trên vịnh Bắc Bộ còn có gió mạnh cấp 6, cấp 7, giật cấp 9.",BwyECHrS2nY
+22,118.55999755859375,124.55999755859375,6.0,117,"Còn trên đất liền thì vùng ven biển từ Quảng Ninh đến Hà Tĩnh tối nay cần đề phòng gió mạnh cấp 6, cấp 7, giật cấp 9.",BwyECHrS2nY
+23,124.55999755859375,130.55999755859375,6.0,113,"Về diễn biến mưa lớn từ nay đến hết thứ 6, vùng đồng bằng và ven biển Bắc Bộ các tỉnh Hòa Bình, Phú Thọ, Yên Bái,",BwyECHrS2nY
+24,130.55999755859375,134.55999755859375,4.0,61,"phía nam của Sơn La, Thanh Hóa, Nghệ An có mưa to đến rất to.",BwyECHrS2nY
+25,134.55999755859375,138.55999755859375,4.0,86,"Cảnh báo ngập úng các vùng trụng thấp, các đô thị và lũ quét sạt lờ đất trên vùng núi.",BwyECHrS2nY
+26,142.55999755859375,148.55999755859375,6.0,120,"Mặc dù bã số 7 đã suy yếu thành áp thấp nhiệt đới nhưng hoàn lưu của nó vẫn gây mưa to và gió mạnh cho nhiều tỉnh thành,",BwyECHrS2nY
+27,148.55999755859375,150.55999755859375,2.0,39,nhất là ven biển Thái Bình tới Nghệ An.,BwyECHrS2nY
+28,150.55999755859375,154.55999755859375,4.0,67,Và Nam Định là một trong những địa phương chịu ảnh hưởng trực tiếp.,BwyECHrS2nY
+29,156.55999755859375,158.55999755859375,2.0,59,"Thưa quý vị khán giả, tôi đang có mặt tại Hải hậu Nam Định.",BwyECHrS2nY
+30,158.55999755859375,162.55999755859375,4.0,69,Ngay từ sáng nay thì ở đây đã có mưa sối xả do ảnh hưởng của bã số 7.,BwyECHrS2nY
+31,162.55999755859375,164.55999755859375,2.0,43,"Ngoài ra thì gió rất mạnh tới cấp 7, cấp 8.",BwyECHrS2nY
+32,164.55999755859375,168.55999755859375,4.0,85,"Trước tình hình như vậy, ngay từ sớm Ban Chỉ đạo Trung ương với phóng chống thiên tai",BwyECHrS2nY
+33,168.55999755859375,172.55999755859375,4.0,72,cùng với địa phương đã đi kiểm tra và soát lại toàn bộ hệ thống đê biển.,BwyECHrS2nY
+34,172.55999755859375,174.55999755859375,2.0,50,"Chỉ đạo phương án ứng phó với mưa lớn và gió mạnh,",BwyECHrS2nY
+35,174.55999755859375,178.55999755859375,4.0,87,chủ động triển khai quyết liệt để giảm hiểu thấp nhất những rủi ro do thiên tai gây ra.,BwyECHrS2nY
+36,178.55999755859375,183.55999755859375,5.0,93,"Tỉnh Nam Định hiện nay còn nhiều tuyến đê sung yếu, những vị trí kè trước góc khu vực Mỏ Hàn.",BwyECHrS2nY
+37,183.55999755859375,187.55999755859375,4.0,94,"Và đây là điểm yếu của hệ thống đê biển, đặc biệt là những nơi trực viện với biển như thế này.",BwyECHrS2nY
+38,187.55999755859375,193.55999755859375,6.0,93,"Đến chiều nay, dù mưa đã tạm giảm, tuy nhiên là gió ở đây vẫn còn rất là mạnh, sóng biển cao.",BwyECHrS2nY
+39,193.55999755859375,197.55999755859375,4.0,72,Như quý vị có thể thấy là sóng biển ở đây có lúc còn tràn qua cả mặt đê.,BwyECHrS2nY
+40,197.55999755859375,201.55999755859375,4.0,52,Dự báo đến tối nay thì mưa sẽ quay trở lại Nam Định.,BwyECHrS2nY
+41,201.55999755859375,206.55999755859375,5.0,86,Như vậy là những cái mối lo về an toàn đê biển cũng như là ngập lụt vẫn có thể xảy ra.,BwyECHrS2nY
+42,206.55999755859375,211.55999755859375,5.0,62,"Bởi vì cách đây 15 năm, năm 2005 thì toàn bộ đê ở đây đã bị vỡ",BwyECHrS2nY
+43,211.55999755859375,215.55999755859375,4.0,54,và nước tràn vào gây ngập lụt toàn bộ hộ dân cư ở đây.,BwyECHrS2nY
+44,215.55999755859375,219.55999755859375,4.0,82,Ngay lúc này thì đám bất điện trên diện rộng và những thông tin thời tiết mới nhất,BwyECHrS2nY
+45,219.55999755859375,222.55999755859375,3.0,48,tôi sẽ gặp nhật trong bản tin thời sự tiếp theo.,BwyECHrS2nY
+46,222.55999755859375,224.55999755859375,2.0,33,Xin lỗi trở lại với trường quanh.,BwyECHrS2nY
+47,227.55999755859375,232.55999755859375,5.0,96,"Còn tại Thái Bình thì hiện gió bão đã mạnh cấp 5, giật cấp 6, lượng mưa phổ biến từ 20 đến 50mm.",BwyECHrS2nY
+48,232.55999755859375,235.55999755859375,3.0,59,Và từ 5h sáng nay thì Thái Bình đã thực hiện lệnh cấm biển.,BwyECHrS2nY
+49,235.55999755859375,240.55999755859375,5.0,98,Hiện Thái Bình có trên 1.100 phương tiện tàu thuyền với trên 3.400 lao động đang làm ăn trên biển.,BwyECHrS2nY
+50,240.55999755859375,244.55999755859375,4.0,92,"Toàn bộ đã được kêu gọi vào bờ neo đậu, không có phương tiện nào hoạt động ở vùng nguy hiểm.",BwyECHrS2nY
+51,244.55999755859375,246.55999755859375,2.0,40,Hơn 50% diện tích lúa đã được thu hoạch.,BwyECHrS2nY
+52,246.55999755859375,251.55999755859375,5.0,97,"Diện tích còn lại, địa phương đang huy động nhân lực bằng mọi biện pháp khẩn trương để thu hoạch,",BwyECHrS2nY
+53,251.55999755859375,255.55999755859375,4.0,85,đặc biệt là ở các vùng có khả năng bị ngập úng để giảm thiểu thiệt hại có thể xảy ra.,BwyECHrS2nY
+54,255.55999755859375,259.55999755859375,4.0,80,"Theo dự báo bắt đầu từ hôm nay đến ngày 16 tháng 10 trên địa bàn tỉnh Thái Bình,",BwyECHrS2nY
+55,259.55999755859375,263.55999755859375,4.0,65,"tiếp tục có mưa to đến rất to, lượng mưa cả đợt từ 150 đến 250mm.",BwyECHrS2nY
+56,264.55999755859375,272.55999755859375,8.0,95,"Đã gần 10 ngày nay, hàng chục ngàn hội dân ở vùng đồng bằng Quảng Trị nước vẫn đang trắng đồng.",BwyECHrS2nY
+57,272.55999755859375,276.55999755859375,4.0,84,Với những người dân vùng lũ Quảng Trị thì vẫn đang phải đối diện với những khó khăn.,BwyECHrS2nY
+58,276.55999755859375,280.55999755859375,4.0,83,"Mặc dù nước lũ vẫn chưa rút, nhưng những ngày qua thì đã có nhiều đoàn thiện nguyện",BwyECHrS2nY
+59,280.55999755859375,283.55999755859375,3.0,63,về nơi vùng lũ để chia sẻ khó khăn với những người dân nơi đây.,BwyECHrS2nY
+60,285.55999755859375,292.55999755859375,7.0,97,"Những thùng bì tôm, suất cơm, bánh bì, tất cả là tấm lòng quý giá đối với bà con vùng lũ lúc này.",BwyECHrS2nY
+61,292.55999755859375,299.55999755859375,7.0,63,"Cảm ơn mấy anh, mấy chị đã hỗ trợ cho được trí thi. Cảm ơn đến.",BwyECHrS2nY
+62,299.55999755859375,304.55999755859375,5.0,105,"Những ngày qua, tại địa bàn huyện Hải Lăng, nơi được cho là bị ngập lụt lâu ngày nhất của tỉnh Quảng Trị,",BwyECHrS2nY
+63,304.55999755859375,308.55999755859375,4.0,62,"trên 100 đoàn thiện nguyện đã về tận các vùng bị ngập lụt sâu,",BwyECHrS2nY
+64,308.55999755859375,312.55999755859375,4.0,53,trào hơn 20.000 suất quà đến bà con nhân dân vùng lũ.,BwyECHrS2nY
+65,312.55999755859375,317.55999755859375,5.0,78,"Đóng thiện nguyện của chúng tôi cũng đã kêu gọi ba con trên mọi miền đất nước,",BwyECHrS2nY
+66,317.55999755859375,321.55999755859375,4.0,65,"kể cả nước ngoài, đã truyền đến cho ba con rất nhiều nhu yếu phẩm",BwyECHrS2nY
+67,321.55999755859375,325.55999755859375,4.0,40,và chúng tôi vẫn đang tiếp tục vận động.,BwyECHrS2nY
+68,325.55999755859375,329.55999755859375,4.0,65,"Các đoàn thiện nguyện trong nước, ngoài nước và kể cả địa phương,",BwyECHrS2nY
+69,329.55999755859375,332.55999755859375,3.0,57,chính quyền địa phương đều tập trung vào công tác hỗ trợ.,BwyECHrS2nY
+70,332.55999755859375,336.55999755859375,4.0,65,"Mà trong đó, các đoàn thiện nguyện là một trong những đội đắc lực",BwyECHrS2nY
+71,336.55999755859375,340.55999755859375,4.0,71,để đến đến các món quà đối với ba con trong những ngày mưa gió vừa qua.,BwyECHrS2nY
+72,340.55999755859375,344.55999755859375,4.0,47,"Có người nêu tên, cũng có những người lạc thầm.",BwyECHrS2nY
+73,344.55999755859375,348.55999755859375,4.0,80,"Nhưng đến thời điểm này, ở Quảng Trị đã có rất nhiều những tấm lòng thiện nguyện",BwyECHrS2nY
+74,349.55999755859375,353.55999755859375,4.0,66,"Sự trung tay góp sức của các đoàn thiện nguyện, những nhà hào tâm,",BwyECHrS2nY
+75,353.55999755859375,357.55999755859375,4.0,70,"đã góp vần làm vơi bớt khó khăn, mất mát của người dân trước kiên tài.",BwyECHrS2nY

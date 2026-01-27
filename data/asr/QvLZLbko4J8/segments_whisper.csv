@@ -1,0 +1,21 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,3.7799999713897705,3.7799999713897705,84,Bây giờ xin được chuyển sang những thông tin thời tiết cùng với bê tập viên Hải Yến.,QvLZLbko4J8
+1,3.7799999713897705,7.340000152587891,3.56000018119812,95,"Chị Yến này, tình hình thời tiết những ngày này cả ba miền đất nước có gì đáng lưu ý không chị?",QvLZLbko4J8
+2,7.340000152587891,10.34000015258789,3.0,73,"Dạ vâng ạ, có lẽ là những ngày tới thì thời tiết vẫn đang khá là ổn định.",QvLZLbko4J8
+3,10.34000015258789,18.0,7.659999847412109,134,"Nhưng mà xin lưu ý với quý vị ạ, đó là tùy là chúng ta không có bất cứ mối lo ngại về thiên tai nhưng mà vấn đề sức khỏe thì có đấy ạ.",QvLZLbko4J8
+4,18.0,25.0,7.0,159,"Nhất là đối với các tỉnh thành miền Bắc, bởi là đặc trưng của những ngày thời tiết đầu đông như thế này thì rất có thể là ảnh hưởng đến sức khỏe của mỗi người.",QvLZLbko4J8
+5,25.0,29.0,4.0,107,Và cụ thể ảnh hưởng như thế nào thì ngay bây giờ tôi sẽ phân tích đến anh Dũng cũng như là quý vị khán giả.,QvLZLbko4J8
+6,29.0,33.5,4.5,84,"Thưa quý vị, thứ nhất đó là sự tranh lệch nhiệt độ giữa ngày và đêm đang là quá lớn.",QvLZLbko4J8
+7,33.5,42.0,8.5,142,Cụ thể là trong đêm nay và ngày mai thì khoảng cách này tại thủ đô Hà Nội và nhiều tỉnh thành khác sẽ tranh lệch khoảng là từ 9 đến tận 13 độ.,QvLZLbko4J8
+8,42.0,47.0,5.0,100,Tức là đêm thì rét cóng đến mức mà nếu ra ngoài thì quý vị phải mang theo những chiếc áo khoác giày.,QvLZLbko4J8
+9,47.0,54.0,7.0,136,Trái ngược lại thì ban ngày trời lại đắng và không khí ấm lên nhanh và có lẽ chỉ chủ quan một chút thôi thì quý vị có thể là nhiễm lệnh.,QvLZLbko4J8
+10,54.0,62.0,8.0,97,"Yếu tố thứ hai đó là trời rất khô hanh, độ ẩm ngày mai ở miền Bắc rơi vào khoảng là từ 50 đến 65%",QvLZLbko4J8
+11,62.0,68.0,6.0,105,và trạng thái thời tiết như hiện nay dự báo sẽ còn kéo dài khoảng 3 ngày nữa thì mới có được sự thay đổi.,QvLZLbko4J8
+12,68.0,73.0,5.0,116,Và đây là độ ẩm khiến cho niên mạc mũi rất dễ bị khô và chúng ta có thể tránh được điều này bằng những cách như sau.,QvLZLbko4J8
+13,73.0,79.0,6.0,78,"Đó là uống từ 1,5 đến 2 lít nước mỗi ngày, dùng khẩu trang khi mà đi ra ngoài,",QvLZLbko4J8
+14,79.0,84.0,5.0,87,dùng nước mũi bằng nước muối xinh lý 2 lần một ngày sẽ giúp làm sạch và giữ ẩm cho mũi.,QvLZLbko4J8
+15,84.0,91.0,7.0,119,"Ăn nhiều trái cây có vitamin C như là cam, quýt hay là bưởi, uống mật ong tranh đào có thể giúp quý vị bảo vệ sức khỏe.",QvLZLbko4J8
+16,91.0,96.0,5.0,97,Còn bây giờ sẽ được chuyển sang phần dự báo chi tiết cho các thành phố trong đêm nay và ngày mai.,QvLZLbko4J8
+17,96.0,102.0,6.0,104,"Thành phố Hải Phòng đêm nay không mưa trời rẽ 13 độ, ngày mai nhiệt độ tăng lên 24 độ, nắng khô cả ngày.",QvLZLbko4J8
+18,102.0,108.0,6.0,97,"Thành phố Đà Lạt đêm nay trời rẽ không mưa 14 độ, ngày mai trời nắng 18 độ, chiều tối có mưa rào.",QvLZLbko4J8
+19,108.0,115.0,7.0,102,"Thành phố Hồ Chí Minh đêm nay trời mát 24 độ, ngày mai trời nắng 32 độ, độ ẩm thấp nhất khoảng là 45%.",QvLZLbko4J8

@@ -1,0 +1,30 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,76,"Tiếp theo, biên tập viên thời tiết Thanh Tùng sẽ đem đến cho quý vị khán giả",ZTJktBiMAvI
+1,4.0,6.0,2.0,46,những thông tin dự báo thời tiết cho ngày mai.,ZTJktBiMAvI
+2,6.0,8.0,2.0,23,Xin mời anh Thanh Tùng.,ZTJktBiMAvI
+3,8.0,10.0,2.0,69,"Vâng ạ, xin được cảm ơn anh Hoàng Dương và kính chào quý vị khán giả.",ZTJktBiMAvI
+4,10.0,12.0,2.0,60,"Thưa quý vị, thông tin thời tiết đáng chú ý đó là chiều mai,",ZTJktBiMAvI
+5,12.0,14.0,2.0,26,Nam Bộ sẽ có mưa trái mùa.,ZTJktBiMAvI
+6,14.0,16.0,2.0,46,Còn sáng mai ở Bắc Bộ thì lại có sương mù nhẹ.,ZTJktBiMAvI
+7,16.0,20.0,4.0,64,"Theo dự báo là ở vùng núi Bắc Bộ như là ở Y Tí thì sáng sớm mai,",ZTJktBiMAvI
+8,20.0,24.0,4.0,61,sương mù có thể xuất hiện khiến tầm nhìn giảm xuống dưới 1km.,ZTJktBiMAvI
+9,24.0,26.0,2.0,51,"Sương mù thì làm cho không gian ở đây huyền ảo hơn,",ZTJktBiMAvI
+10,26.0,30.0,4.0,70,"tuy nhiên là sương mù dày lại khiến cho giao thông gặp nhiều khó khăn,",ZTJktBiMAvI
+11,30.0,32.0,2.0,56,nhất là ở những cung đường đèo núi quanh co như thế này.,ZTJktBiMAvI
+12,32.0,36.0,4.0,74,"Chính vì vậy khi di chuyển, quý vị hãy chú ý là chúng ta cần bật đèn vàng,",ZTJktBiMAvI
+13,36.0,40.0,4.0,64,"di chuyển và chú ý quan sát thật là kỹ, không đột ngột đạp phanh",ZTJktBiMAvI
+14,40.0,44.0,4.0,80,"bởi vì việc đạp phanh gấp thì sẽ khiến cho những người đằng sau không kịp xử lý,",ZTJktBiMAvI
+15,44.0,46.0,2.0,36,dẫn đến những va chạm có thể xảy ra.,ZTJktBiMAvI
+16,46.0,50.0,4.0,78,"Với thời tiết của khu vực Nam Bộ thì chiều mai sẽ có mưa trái mùa ở nhiều nơi,",ZTJktBiMAvI
+17,50.0,54.0,4.0,92,"trong đó có thành phố Hồ Chí Minh và hầu hết các nơi khác ở cả miền Đông và miền Tây Nam Bộ,",ZTJktBiMAvI
+18,54.0,56.0,2.0,38,trong đó có những điểm mưa vừa mưa to.,ZTJktBiMAvI
+19,56.0,60.0,4.0,79,"Trong cơn giông, quý vị cần phải để ý đến một số hiện tượng thời tiết nguy hiểm",ZTJktBiMAvI
+20,60.0,62.0,2.0,38,"như tố lốc, sấm xét hay gió giật mạnh.",ZTJktBiMAvI
+21,62.0,67.0,5.0,97,Còn bây giờ chúng tôi xin chuyển sang phần dự báo cho một số thành phố trong đêm nay và ngày mai.,ZTJktBiMAvI
+22,71.0,74.0,3.0,48,"Thủ đô Hà Nội đêm nay không mưa, trời zét 15 độ,",ZTJktBiMAvI
+23,74.0,77.0,3.0,51,"sáng sớm mai sương mù nhẹ, chưa trời nắng ấm 24 độ.",ZTJktBiMAvI
+24,77.0,80.0,3.0,52,"Thành phố Đà Nẵng đêm nay tạnh giáo 19 độ, trời zét.",ZTJktBiMAvI
+25,80.0,83.0,3.0,44,"Chiều mai nắng đẹp, nhiệt độ vừa phải 26 độ.",ZTJktBiMAvI
+26,84.0,87.0,3.0,64,"Thành phố Hồ Chí Minh dự báo đêm nay tạnh giáo, trời lạnh 23 độ.",ZTJktBiMAvI
+27,87.0,90.0,3.0,31,Chiều mai nắng gián đoạn 32 độ.,ZTJktBiMAvI
+28,90.0,93.0,3.0,70,"Chiều tối mai chuyển mưa dông trái mùa, cục bộ có nơi mưa vừa bà rông.",ZTJktBiMAvI

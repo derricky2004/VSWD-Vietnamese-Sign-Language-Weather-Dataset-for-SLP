@@ -1,0 +1,27 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,u2e8HCQMo6I
+1,5.0,6.0,1.0,20,Chào chị Hương Liên.,u2e8HCQMo6I
+2,6.0,10.0,4.0,101,"Thời tiết Hà Nội cũng như miền Bắc ngày hôm nay tôi thấy là lúc nắng lúc mưa, lúc trời rất nhiều mây.",u2e8HCQMo6I
+3,10.0,13.0,3.0,65,Không biết là nó kéo dài tình trạng này cho đến ngày mai không ạ?,u2e8HCQMo6I
+4,13.0,17.0,4.0,84,Vâng anh Dương. Khả năng là ngày mai Hà Nội cũng như miền Bắc thời tiết ổn định hơn.,u2e8HCQMo6I
+5,17.0,18.0,1.0,21,Phần lớn sẽ nắng ráo.,u2e8HCQMo6I
+6,18.0,21.0,3.0,54,Bởi gió đông nam ẩm chỉ đủ gây mưa trong hôm nay thôi.,u2e8HCQMo6I
+7,21.0,26.0,5.0,78,"Nên trưa chiều nay ở Hà Nội mưa rào một lúc, ngay sau đó đã bừng nắng trở lại.",u2e8HCQMo6I
+8,27.0,30.0,3.0,67,Khả năng mưa sẽ còn ngắt quãng trong đêm nay sáng sớm mai ở Bắc Bộ.,u2e8HCQMo6I
+9,30.0,37.0,7.0,91,"Diễn mưa không rộng, lốm đốm ở Lào Cai, Hà Giang, dọc xuống Hòa Bình, Ninh Bình, Thái Bình.",u2e8HCQMo6I
+10,37.0,40.0,3.0,39,Hầu hết là mưa rào lượng nhỏ dưới 25mm.,u2e8HCQMo6I
+11,40.0,44.0,4.0,71,"Sang đến trưa chiều mai, gió ẩm yếu đi, hầu khắp toàn miền đều có nắng.",u2e8HCQMo6I
+12,44.0,50.0,6.0,85,"Cảm giác oi nóng lên, nhiệt độ cao nhất ở thủ đô Hà Nội và nhiều thành phố gần 34 độ,",u2e8HCQMo6I
+13,50.0,55.0,5.0,56,cộng với lượng ẩm trong không khí từ 60 đến 70% trở lên.,u2e8HCQMo6I
+14,55.0,58.0,3.0,47,"Còn ở phía nam, vẫn trong chuỗi ngày mưa nhiều.",u2e8HCQMo6I
+15,58.0,61.0,3.0,51,"Chiều đến chiều tối mai, mưa xảy ra trên diện rộng.",u2e8HCQMo6I
+16,61.0,66.0,5.0,81,"Nhiều điểm ở miền Tây sẽ có mưa vừa, mưa to, tương ứng với vùng màu xanh đậm này.",u2e8HCQMo6I
+17,66.0,69.0,3.0,55,"Nguy cơ kèm theo rông lốc, sấm xét, gió giật nguy hiểm.",u2e8HCQMo6I
+18,69.0,74.0,5.0,80,Còn bây giờ sẽ là phần dự báo thời tiết trong 2 ngày tới trong một số thành phố.,u2e8HCQMo6I
+19,74.0,78.0,4.0,58,"Hà Nội 2 ngày tuần trời nóng bức, nhiệt độ cao nhất 33 độ.",u2e8HCQMo6I
+20,78.0,81.0,3.0,51,"Đêm về sáng sớm có lúc mưa rào nhẹ, trời mát 26 độ.",u2e8HCQMo6I
+21,81.0,84.0,3.0,42,"Huế 2 ngày tới dự báo không mưa, nắng ráo.",u2e8HCQMo6I
+22,84.0,87.0,3.0,48,Trời nóng nhẹ vào buổi trưa đầu rời chiều 34 độ.,u2e8HCQMo6I
+23,87.0,90.0,3.0,43,Tối đến đêm bầu không khí thoáng mát 25 độ.,u2e8HCQMo6I
+24,90.0,93.0,3.0,49,TP.HCM chiều mai vẫn mưa nhiều kèm rông gió mạnh.,u2e8HCQMo6I
+25,93.0,97.0,4.0,67,"Đến chủ nhật trời nắng cả ngày nhưng không nóng, nhiệt độ là 32 độ.",u2e8HCQMo6I

@@ -1,0 +1,85 @@
+video_id,segment_id,start,end,duration,text_whisper,text_clean,text_final,review_decision,quality_level
+k0pIUp_0IcU,0,1.0,5.0,4.0,"Dự báo từ đêm nay, miền Trung sẽ bước vào một đợt mưa lớn.","Dự báo từ đêm nay, miền Trung sẽ bước vào một đợt mưa lớn.","Dự báo từ đêm nay, miền Trung sẽ bước vào một đợt mưa lớn.",OK,HIGH
+k0pIUp_0IcU,1,5.0,9.0,4.0,"Cụ thể như thế nào, chúng ta cùng chờ đợi những thông tin từ biên tập viên thời tiết Thanh Tùng.","Cụ thể như thế nào, chúng ta cùng chờ đợi những thông tin từ biên tập viên thời tiết Thanh Tùng.","Cụ thể như thế nào, chúng ta cùng chờ đợi những thông tin từ biên tập viên thời tiết Thanh Tùng.",OK,HIGH
+k0pIUp_0IcU,2,9.0,12.0,3.0,"Thanh Tùng, tôi nhớ thời điểm này năm ngoái thì miền Trung đã phải gồm mình","Thanh Tùng, tôi nhớ thời điểm này năm ngoái thì miền Trung đã phải gồm mình","Thanh Tùng, tôi nhớ thời điểm này năm ngoái thì miền Trung đã phải gồm mình",OK,HIGH
+k0pIUp_0IcU,3,12.0,15.0,3.0,"chống đỡ với đợt mưa lũ lịch sử, với thiệt hại rất lớn về người và của.","chống đỡ với đợt mưa lũ lịch sử, với thiệt hại rất lớn về người và của.","chống đỡ với đợt mưa lũ lịch sử, với thiệt hại rất lớn về người và của.",OK,HIGH
+k0pIUp_0IcU,4,15.0,18.0,3.0,Vậy thì đợt mưa này có điểm nào tự tự giống như năm ngoái hay không ạ?,Vậy thì đợt mưa này có điểm nào tự tự giống như năm ngoái hay không ạ?,Vậy thì đợt mưa này có điểm nào tự tự giống như năm ngoái hay không ạ?,OK,HIGH
+k0pIUp_0IcU,5,18.0,20.0,2.0,"Vâng, có những điểm tương đồng.","Vâng, có những điểm tương đồng.","Vâng, có những điểm tương đồng.",OK,HIGH
+k0pIUp_0IcU,6,20.0,22.0,2.0,Chúng ta phải kể đến đó chính là nguyên nhân gây ra mưa.,Chúng ta phải kể đến đó chính là nguyên nhân gây ra mưa.,Chúng ta phải kể đến đó chính là nguyên nhân gây ra mưa.,OK,HIGH
+k0pIUp_0IcU,7,22.0,26.0,4.0,Những hình thế gây ra đợt mưa lớn lần này cũng khá tương đồng,Những hình thế gây ra đợt mưa lớn lần này cũng khá tương đồng,Những hình thế gây ra đợt mưa lớn lần này cũng khá tương đồng,OK,HIGH
+k0pIUp_0IcU,8,26.0,29.0,3.0,với những hình thế đã từng gây ra trận mưa lũ lịch sử,với những hình thế đã từng gây ra trận mưa lũ lịch sử,với những hình thế đã từng gây ra trận mưa lũ lịch sử,OK,HIGH
+k0pIUp_0IcU,9,29.0,31.0,2.0,tại thời điểm này năm ngoái tại khu vực miền Trung.,tại thời điểm này năm ngoái tại khu vực miền Trung.,tại thời điểm này năm ngoái tại khu vực miền Trung.,OK,HIGH
+k0pIUp_0IcU,10,31.0,35.0,4.0,"Cụ thể như thế này, đó là những đợt không khí lạnh liên tục được tăng cường xuống","Cụ thể như thế này, đó là những đợt không khí lạnh liên tục được tăng cường xuống","Cụ thể như thế này, đó là những đợt không khí lạnh liên tục được tăng cường xuống",OK,HIGH
+k0pIUp_0IcU,11,35.0,40.0,5.0,và lại kết hợp với một vùng áp thấp có khả năng xuất hiện trên giải hữu tụ nhiệt đới.,và lại kết hợp với một vùng áp thấp có khả năng xuất hiện trên giải hữu tụ nhiệt đới.,và lại kết hợp với một vùng áp thấp có khả năng xuất hiện trên giải hữu tụ nhiệt đới.,OK,HIGH
+k0pIUp_0IcU,12,40.0,45.0,5.0,"Tuy nhiên, các chuyên gia khí tượng đánh giá là cường độ hoạt động không mạnh mẽ và mãnh liệt bằng năm ngoái.","Tuy nhiên, các chuyên gia khí tượng đánh giá là cường độ hoạt động không mạnh mẽ và mãnh liệt bằng năm ngoái.","Tuy nhiên, các chuyên gia khí tượng đánh giá là cường độ hoạt động không mạnh mẽ và mãnh liệt bằng năm ngoái.",OK,HIGH
+k0pIUp_0IcU,13,45.0,50.0,5.0,Chính vì thế mà tính chất của hai đợt mưa này cũng có sự khác biệt.,Chính vì thế mà tính chất của hai đợt mưa này cũng có sự khác biệt.,Chính vì thế mà tính chất của hai đợt mưa này cũng có sự khác biệt.,OK,HIGH
+k0pIUp_0IcU,14,50.0,53.0,3.0,Tôi sẽ đưa ra một số so sánh sau đây để quý vị có thể dễ dàng hình dung.,Tôi sẽ đưa ra một số so sánh sau đây để quý vị có thể dễ dàng hình dung.,Tôi sẽ đưa ra một số so sánh sau đây để quý vị có thể dễ dàng hình dung.,OK,HIGH
+k0pIUp_0IcU,15,53.0,55.0,2.0,Trước hết đó là về thời gian mưa.,Trước hết đó là về thời gian mưa.,Trước hết đó là về thời gian mưa.,OK,HIGH
+k0pIUp_0IcU,16,55.0,58.0,3.0,"Đợt mưa tới đây sẽ diễn ra trong khoảng 4 ngày,","Đợt mưa tới đây sẽ diễn ra trong khoảng 4 ngày,","Đợt mưa tới đây sẽ diễn ra trong khoảng 4 ngày,",OK,HIGH
+k0pIUp_0IcU,17,58.0,63.0,5.0,"tức là từ đêm nay cho đến ngày 18 tháng 10, tức là đến thứ 2 tuần sau.","tức là từ đêm nay cho đến ngày 18 tháng 10, tức là đến thứ 2 tuần sau.","tức là từ đêm nay cho đến ngày 18 tháng 10, tức là đến thứ 2 tuần sau.",OK,HIGH
+k0pIUp_0IcU,18,63.0,66.0,3.0,"Trong khi đó, đợt mưa lớn thời điểm này năm ngoái tại miền Trung","Trong khi đó, đợt mưa lớn thời điểm này năm ngoái tại miền Trung","Trong khi đó, đợt mưa lớn thời điểm này năm ngoái tại miền Trung",OK,HIGH
+k0pIUp_0IcU,19,66.0,69.0,3.0,"thì diễn ra thời gian gần gấp đôi, diễn ra trong 7 ngày,","thì diễn ra thời gian gần gấp đôi, diễn ra trong 7 ngày,","thì diễn ra thời gian gần gấp đôi, diễn ra trong 7 ngày,",OK,HIGH
+k0pIUp_0IcU,20,69.0,72.0,3.0,từ đêm ngày 15 cho đến 21 tháng 10.,từ đêm ngày 15 cho đến 21 tháng 10.,từ đêm ngày 15 cho đến 21 tháng 10.,OK,HIGH
+k0pIUp_0IcU,21,72.0,75.0,3.0,Về cường độ mưa thì cũng tranh lệch khá lớn.,Về cường độ mưa thì cũng tranh lệch khá lớn.,Về cường độ mưa thì cũng tranh lệch khá lớn.,OK,HIGH
+k0pIUp_0IcU,22,75.0,78.0,3.0,"Lượng mưa ở vùng trọng tâm mưa, đó là Hà Tĩnh đến Thừa Thiên Huế","Lượng mưa ở vùng trọng tâm mưa, đó là Hà Tĩnh đến Thừa Thiên Huế","Lượng mưa ở vùng trọng tâm mưa, đó là Hà Tĩnh đến Thừa Thiên Huế",OK,HIGH
+k0pIUp_0IcU,23,78.0,81.0,3.0,"diễn ra vào năm ngoái thì lượng mưa rất là lớn,","diễn ra vào năm ngoái thì lượng mưa rất là lớn,","diễn ra vào năm ngoái thì lượng mưa rất là lớn,",OK,HIGH
+k0pIUp_0IcU,24,81.0,84.0,3.0,"từ 1.300 cho đến 1.850 mm,","từ 1.300 cho đến 1.850 mm,","từ 1.300 cho đến 1.850 mm,",OK,HIGH
+k0pIUp_0IcU,25,84.0,87.0,3.0,đã gây ra lũ lớn lịch sử và ngập lụt trên diện rộng.,đã gây ra lũ lớn lịch sử và ngập lụt trên diện rộng.,đã gây ra lũ lớn lịch sử và ngập lụt trên diện rộng.,OK,HIGH
+k0pIUp_0IcU,26,87.0,90.0,3.0,"Trong khi đó, lượng mưa dự báo của đợt này ở khu vực","Trong khi đó, lượng mưa dự báo của đợt này ở khu vực","Trong khi đó, lượng mưa dự báo của đợt này ở khu vực",OK,HIGH
+k0pIUp_0IcU,27,90.0,93.0,3.0,"từ Hà Tĩnh đến Thừa Thiên Huế khoảng là từ 300 đến 600 mm,","từ Hà Tĩnh đến Thừa Thiên Huế khoảng là từ 300 đến 600 mm,","từ Hà Tĩnh đến Thừa Thiên Huế khoảng là từ 300 đến 600 mm,",OK,HIGH
+k0pIUp_0IcU,28,93.0,96.0,3.0,chỉ một số nơi thì mới trên 600 mm.,chỉ một số nơi thì mới trên 600 mm.,chỉ một số nơi thì mới trên 600 mm.,OK,HIGH
+k0pIUp_0IcU,29,96.0,98.0,2.0,"Mặc dù là mưa thì ít hơn năm ngoái,","Mặc dù là mưa thì ít hơn năm ngoái,","Mặc dù là mưa thì ít hơn năm ngoái,",OK,HIGH
+k0pIUp_0IcU,30,98.0,100.0,2.0,nhưng mà vẫn tiềm ẩn rất là nhiều mối nguy hiểm.,nhưng mà vẫn tiềm ẩn rất là nhiều mối nguy hiểm.,nhưng mà vẫn tiềm ẩn rất là nhiều mối nguy hiểm.,OK,HIGH
+k0pIUp_0IcU,31,100.0,102.0,2.0,Quý vị tuyệt đối là không chủ quan.,Quý vị tuyệt đối là không chủ quan.,Quý vị tuyệt đối là không chủ quan.,OK,HIGH
+k0pIUp_0IcU,32,102.0,105.0,3.0,"Bởi vì là với đặc điểm sông suối của miền Trung rất là ngắn và rốc,","Bởi vì là với đặc điểm sông suối của miền Trung rất là ngắn và rốc,","Bởi vì là với đặc điểm sông suối của miền Trung rất là ngắn và rốc,",OK,HIGH
+k0pIUp_0IcU,33,105.0,108.0,3.0,thì với lượng mưa khoảng là từ 300 đến 600 mm chút xuống,thì với lượng mưa khoảng là từ 300 đến 600 mm chút xuống,thì với lượng mưa khoảng là từ 300 đến 600 mm chút xuống,OK,HIGH
+k0pIUp_0IcU,34,108.0,110.0,2.0,thì lũ cũng sẽ dâng rất là nhanh.,thì lũ cũng sẽ dâng rất là nhanh.,thì lũ cũng sẽ dâng rất là nhanh.,OK,HIGH
+k0pIUp_0IcU,35,110.0,112.0,2.0,"Cảnh báo trong những ngày tới đây,","Cảnh báo trong những ngày tới đây,","Cảnh báo trong những ngày tới đây,",OK,HIGH
+k0pIUp_0IcU,36,112.0,114.0,2.0,"lũ ở thượng lưu các sông ở Nghệ An,","lũ ở thượng lưu các sông ở Nghệ An,","lũ ở thượng lưu các sông ở Nghệ An,",OK,HIGH
+k0pIUp_0IcU,37,114.0,116.0,2.0,"rồi là sông La tại Hà Tĩnh,","rồi là sông La tại Hà Tĩnh,","rồi là sông La tại Hà Tĩnh,",OK,HIGH
+k0pIUp_0IcU,38,116.0,118.0,2.0,"sông Hương Thừa Thiên Huế,","sông Hương Thừa Thiên Huế,","sông Hương Thừa Thiên Huế,",OK,HIGH
+k0pIUp_0IcU,39,118.0,119.0,1.0,sông Vô Gia ở Quảng Nam,sông Vô Gia ở Quảng Nam,sông Vô Gia ở Quảng Nam,OK,HIGH
+k0pIUp_0IcU,40,119.0,122.0,3.0,thì sẽ lên ở mức là báo động 1 đến trên báo động 2.,thì sẽ lên ở mức là báo động 1 đến trên báo động 2.,thì sẽ lên ở mức là báo động 1 đến trên báo động 2.,OK,HIGH
+k0pIUp_0IcU,41,122.0,124.0,2.0,Còn ở thượng nguồn của các sông,Còn ở thượng nguồn của các sông,Còn ở thượng nguồn của các sông,OK,HIGH
+k0pIUp_0IcU,42,124.0,126.0,2.0,"ở Hà Tĩnh, Quảng Bình, Quảng Trị,","ở Hà Tĩnh, Quảng Bình, Quảng Trị,","ở Hà Tĩnh, Quảng Bình, Quảng Trị,",OK,HIGH
+k0pIUp_0IcU,43,126.0,128.0,2.0,sông Bồ của Thừa Thiên Huế,sông Bồ của Thừa Thiên Huế,sông Bồ của Thừa Thiên Huế,OK,HIGH
+k0pIUp_0IcU,44,128.0,129.0,1.0,"sẽ ở mức cao hơn,","sẽ ở mức cao hơn,","sẽ ở mức cao hơn,",OK,HIGH
+k0pIUp_0IcU,45,129.0,132.0,3.0,đó là từ báo động 2 đến báo động 3 và trên báo động 3.,đó là từ báo động 2 đến báo động 3 và trên báo động 3.,đó là từ báo động 2 đến báo động 3 và trên báo động 3.,OK,HIGH
+k0pIUp_0IcU,46,132.0,135.0,3.0,Nguy cơ rất cao xảy ra hiện tượng lũ quét sạt lở đất,Nguy cơ rất cao xảy ra hiện tượng lũ quét sạt lở đất,Nguy cơ rất cao xảy ra hiện tượng lũ quét sạt lở đất,OK,HIGH
+k0pIUp_0IcU,47,135.0,137.0,2.0,và cả hiện tượng ngập lụt.,và cả hiện tượng ngập lụt.,và cả hiện tượng ngập lụt.,OK,HIGH
+k0pIUp_0IcU,48,137.0,140.0,3.0,Để tránh thiệt hại thì bà con ở vùng thường xuyên bị lụt,Để tránh thiệt hại thì bà con ở vùng thường xuyên bị lụt,Để tránh thiệt hại thì bà con ở vùng thường xuyên bị lụt,OK,HIGH
+k0pIUp_0IcU,49,140.0,142.0,2.0,thì hãy chủ động cây cao tài sản.,thì hãy chủ động cây cao tài sản.,thì hãy chủ động cây cao tài sản.,OK,HIGH
+k0pIUp_0IcU,50,142.0,143.0,1.0,"Cây ngay từ lúc này,","Cây ngay từ lúc này,","Cây ngay từ lúc này,",OK,HIGH
+k0pIUp_0IcU,51,143.0,145.0,2.0,khi chưa lụt thì sẽ đỡ vất vả hơn.,khi chưa lụt thì sẽ đỡ vất vả hơn.,khi chưa lụt thì sẽ đỡ vất vả hơn.,OK,HIGH
+k0pIUp_0IcU,52,145.0,147.0,2.0,"Bà con hãy khơi thông tất cả các cống rãnh,","Bà con hãy khơi thông tất cả các cống rãnh,","Bà con hãy khơi thông tất cả các cống rãnh,",OK,HIGH
+k0pIUp_0IcU,53,147.0,149.0,2.0,"bờ bao yếu,","bờ bao yếu,","bờ bao yếu,",OK,HIGH
+k0pIUp_0IcU,54,149.0,151.0,2.0,không để nước mưa tự tích tụ và tự vỡ.,không để nước mưa tự tích tụ và tự vỡ.,không để nước mưa tự tích tụ và tự vỡ.,OK,HIGH
+k0pIUp_0IcU,55,151.0,153.0,2.0,"Những gia đình sống ở ven,","Những gia đình sống ở ven,","Những gia đình sống ở ven,",OK,HIGH
+k0pIUp_0IcU,56,153.0,155.0,2.0,những đường dốc rồi là sườn đồi núi,những đường dốc rồi là sườn đồi núi,những đường dốc rồi là sườn đồi núi,OK,HIGH
+k0pIUp_0IcU,57,155.0,157.0,2.0,thì cần phải cảnh giác khi có mưa lớn liên tục.,thì cần phải cảnh giác khi có mưa lớn liên tục.,thì cần phải cảnh giác khi có mưa lớn liên tục.,OK,HIGH
+k0pIUp_0IcU,58,157.0,159.0,2.0,Nếu như phát hiện các vết lốn nứt,Nếu như phát hiện các vết lốn nứt,Nếu như phát hiện các vết lốn nứt,OK,HIGH
+k0pIUp_0IcU,59,159.0,162.0,3.0,thì hãy lập tức di rời đến nơi cao giáo và an toàn hơn,thì hãy lập tức di rời đến nơi cao giáo và an toàn hơn,thì hãy lập tức di rời đến nơi cao giáo và an toàn hơn,OK,HIGH
+k0pIUp_0IcU,60,162.0,164.0,2.0,và hãy báo cho chính quyền địa phương.,và hãy báo cho chính quyền địa phương.,và hãy báo cho chính quyền địa phương.,OK,HIGH
+k0pIUp_0IcU,61,165.0,167.0,2.0,"Còn tại miền Bắc thì do không khí lạnh tăng cường,","Còn tại miền Bắc thì do không khí lạnh tăng cường,","Còn tại miền Bắc thì do không khí lạnh tăng cường,",OK,HIGH
+k0pIUp_0IcU,62,167.0,169.0,2.0,trời sẽ còn mưa giả dích cho đến hết sáng mai.,trời sẽ còn mưa giả dích cho đến hết sáng mai.,trời sẽ còn mưa giả dích cho đến hết sáng mai.,OK,HIGH
+k0pIUp_0IcU,63,169.0,170.0,1.0,"Cảm giác lành lạnh,","Cảm giác lành lạnh,","Cảm giác lành lạnh,",OK,HIGH
+k0pIUp_0IcU,64,170.0,173.0,3.0,nhiệt độ thấp nhất toàn miền trong khoảng là từ 18 đến 21 độ.,nhiệt độ thấp nhất toàn miền trong khoảng là từ 18 đến 21 độ.,nhiệt độ thấp nhất toàn miền trong khoảng là từ 18 đến 21 độ.,OK,HIGH
+k0pIUp_0IcU,65,173.0,176.0,3.0,Còn những nơi vùng núi cao thì còn có thể chuyển jet,Còn những nơi vùng núi cao thì còn có thể chuyển jet,Còn những nơi vùng núi cao thì còn có thể chuyển jet,OK,HIGH
+k0pIUp_0IcU,66,176.0,178.0,2.0,"như là tại Sapa hay Đồng Văn,","như là tại Sapa hay Đồng Văn,","như là tại Sapa hay Đồng Văn,",OK,HIGH
+k0pIUp_0IcU,67,178.0,180.0,2.0,chỉ khoảng là từ 14 cho đến 15 độ.,chỉ khoảng là từ 14 cho đến 15 độ.,chỉ khoảng là từ 14 cho đến 15 độ.,OK,HIGH
+k0pIUp_0IcU,68,180.0,183.0,3.0,Còn bây giờ chúng tôi xin cập nhật những thông tin dự báo,Còn bây giờ chúng tôi xin cập nhật những thông tin dự báo,Còn bây giờ chúng tôi xin cập nhật những thông tin dự báo,OK,HIGH
+k0pIUp_0IcU,69,183.0,185.0,2.0,chi tiết cho một số thành phố trong 2 ngày cuối tuần.,chi tiết cho một số thành phố trong 2 ngày cuối tuần.,chi tiết cho một số thành phố trong 2 ngày cuối tuần.,OK,HIGH
+k0pIUp_0IcU,70,185.0,187.0,2.0,"Thủ đô Hà Nội sáng mai còn mưa nhỏ,","Thủ đô Hà Nội sáng mai còn mưa nhỏ,","Thủ đô Hà Nội sáng mai còn mưa nhỏ,",OK,HIGH
+k0pIUp_0IcU,71,187.0,189.0,2.0,"trưa chiều thì mưa sẽ ngớt,","trưa chiều thì mưa sẽ ngớt,","trưa chiều thì mưa sẽ ngớt,",OK,HIGH
+k0pIUp_0IcU,72,189.0,191.0,2.0,"trời lạnh 23 độ,","trời lạnh 23 độ,","trời lạnh 23 độ,",OK,HIGH
+k0pIUp_0IcU,73,191.0,194.0,3.0,"sang chủ nhật trời tạnh giáo cả ngày nhưng vẫn lạnh,","sang chủ nhật trời tạnh giáo cả ngày nhưng vẫn lạnh,","sang chủ nhật trời tạnh giáo cả ngày nhưng vẫn lạnh,",OK,HIGH
+k0pIUp_0IcU,74,194.0,196.0,2.0,nhiệt độ về đêm chỉ còn là 19 độ.,nhiệt độ về đêm chỉ còn là 19 độ.,nhiệt độ về đêm chỉ còn là 19 độ.,OK,HIGH
+k0pIUp_0IcU,75,197.0,199.0,2.0,"Thành phố Huế cả 2 ngày tới đều mưa rất to,","Thành phố Huế cả 2 ngày tới đều mưa rất to,","Thành phố Huế cả 2 ngày tới đều mưa rất to,",OK,HIGH
+k0pIUp_0IcU,76,199.0,201.0,2.0,"đề phòng ngập ống phục bộ,","đề phòng ngập ống phục bộ,","đề phòng ngập ống phục bộ,",OK,HIGH
+k0pIUp_0IcU,77,201.0,203.0,2.0,nhiệt độ cao nhất không quá 27 độ.,nhiệt độ cao nhất không quá 27 độ.,nhiệt độ cao nhất không quá 27 độ.,OK,HIGH
+k0pIUp_0IcU,78,204.0,207.0,3.0,"Thành phố Hồ Chí Minh 2 ngày tới còn nắng từ sáng đến trưa,","Thành phố Hồ Chí Minh 2 ngày tới còn nắng từ sáng đến trưa,","Thành phố Hồ Chí Minh 2 ngày tới còn nắng từ sáng đến trưa,",OK,HIGH
+k0pIUp_0IcU,79,207.0,208.0,1.0,nhiệt độ 32 độ.,nhiệt độ 32 độ.,nhiệt độ 32 độ.,OK,HIGH
+k0pIUp_0IcU,80,208.0,210.0,2.0,"Về chiều thì chờ chuyển mưa rông,","Về chiều thì chờ chuyển mưa rông,","Về chiều thì chờ chuyển mưa rông,",OK,HIGH
+k0pIUp_0IcU,81,210.0,211.0,1.0,"cảnh báo có lúc mưa to,","cảnh báo có lúc mưa to,","cảnh báo có lúc mưa to,",OK,HIGH
+k0pIUp_0IcU,82,211.0,213.0,2.0,kèm theo sấm xét và gió rất mạnh.,kèm theo sấm xét và gió rất mạnh.,kèm theo sấm xét và gió rất mạnh.,OK,HIGH
+k0pIUp_0IcU,83,215.0,217.0,2.0,Hẹn gặp lại các bạn trong những video tiếp theo.,Hẹn gặp lại các bạn trong những video tiếp theo.,Hẹn gặp lại các bạn trong những video tiếp theo.,OK,HIGH

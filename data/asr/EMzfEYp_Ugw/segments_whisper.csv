@@ -1,0 +1,26 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.400000095367432,4.400000095367432,95,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,EMzfEYp_Ugw
+1,4.400000095367432,8.399999618530273,3.999999523162842,107,"Chào chị Hương Liên, không biết là tình hình mưa lớn tại miền Trung ngày hôm nay diễn biến như thế nào vậy?",EMzfEYp_Ugw
+2,8.399999618530273,13.199999809265137,4.800000190734863,100,Phường Hai Dương không chỉ miền Trung đâu mà vùng mưa lớn cũng đang mở rộng ra phía Đông Bắc Bộ nữa.,EMzfEYp_Ugw
+3,13.199999809265137,17.600000381469727,4.40000057220459,94,"Thưa quý vị khán giả, nguyên nhân là do không khí lạnh đang bổ sung xuống theo hướng lệch đông",EMzfEYp_Ugw
+4,17.600000381469727,22.399999618530273,4.799999237060547,78,"kết hợp với nhiễu động, gió đông ở trên cao nên gây mưa trên một phạm vi rộng.",EMzfEYp_Ugw
+5,22.600000381469727,29.0,6.399999618530273,86,"Ở Trung Bộ đã có mưa rất lớn từ dạng sáng nay và dự báo ở Nghệ An, Hà Tĩnh, Quảng Bình",EMzfEYp_Ugw
+6,29.0,35.20000076293945,6.200000762939453,68,sẽ mưa thêm 2 ngày nữa. Lượng mưa từ 150-250mm và có nơi vượt 300mm.,EMzfEYp_Ugw
+7,35.20000076293945,42.79999923706055,7.599998474121094,88,Quảng Trị đến Quảng Nam thì mưa đến ngày mai lượng khoảng 50-100mm và có nơi trên 100mm.,EMzfEYp_Ugw
+8,42.79999923706055,49.0,6.200000762939453,96,"Mưa lớn sẽ tạo ra một đợt lũ trên các sông, trong đó đỉnh lũ trên thượng lưu các sông ở Hà Tĩnh,",EMzfEYp_Ugw
+9,49.0,56.79999923706055,7.799999237060547,125,"các sông ở Quảng Bình, Quảng Trị sẽ lên mức báo động 1 đến báo động 2, các sông nhỏ có thể lên mức báo động 2 đến báo động 3.",EMzfEYp_Ugw
+10,56.79999923706055,63.599998474121094,6.799999237060547,111,"Mức lũ này sẽ gây ngập úng các vùng trũng thấp ven sông. Bên cạnh đó, mưa nhiều ngày, đất đá ở các sườn đồi núi",EMzfEYp_Ugw
+11,63.599998474121094,67.5999984741211,4.0,50,"đang bở nhão, trực chờ nguy cơ sạt bất cứ lúc nào.",EMzfEYp_Ugw
+12,67.5999984741211,75.4000015258789,7.8000030517578125,95,"Khu vực Đông Bắc Bộ và Thanh Hóa mưa sẽ kéo dài hơn đến Chủ nhật, với lượng mưa là từ 100-200mm",EMzfEYp_Ugw
+13,75.4000015258789,81.4000015258789,6.0,73,"và có nơi trên 250mm. Mưa giàn trải 3 ngày như vậy ít có khả năng tạo lũ,",EMzfEYp_Ugw
+14,81.4000015258789,85.4000015258789,4.0,58,nhưng có thể gây ngập cục bộ ở các vùng trúng thấp đô thị.,EMzfEYp_Ugw
+15,85.4000015258789,89.80000305175781,4.400001525878906,71,Mưa cùng với không khí lạnh sẽ tìm giữ nền nhiệt ở Bắc Bộ và Thanh Hóa.,EMzfEYp_Ugw
+16,89.80000305175781,94.80000305175781,5.0,42,"Ngày mai, trăm khoảng 23-26 độ, trời lạnh.",EMzfEYp_Ugw
+17,94.80000305175781,98.80000305175781,4.0,73,Chuyển sang phần dự báo trong một số thành phố trong đêm nay và ngày mai.,EMzfEYp_Ugw
+18,98.80000305175781,102.4000015258789,3.5999984741210938,50,Thủ đô Hà Nội đêm nay trời vừa mưa vừa lạnh 21 độ.,EMzfEYp_Ugw
+19,102.4000015258789,106.4000015258789,4.0,66,"Ngày mai vẫn mưa cả ngày, có lúc mưa to, nhiệt độ không quá 23 độ.",EMzfEYp_Ugw
+20,106.4000015258789,110.4000015258789,4.0,63,"Thành phố Vinh đêm nay cũng mưa lạnh, nhiệt độ thấp nhất 21 độ.",EMzfEYp_Ugw
+21,110.4000015258789,115.4000015258789,5.0,74,"Ngày mai có mưa to đến rất to vì phòng ngập cục bộ, nhiệt độ khoảng 24 độ.",EMzfEYp_Ugw
+22,115.4000015258789,118.4000015258789,3.0,62,"Thành phố Hồ Chí Minh đêm nay ít khả năng mưa, trời mát 24 độ.",EMzfEYp_Ugw
+23,118.4000015258789,123.4000015258789,5.0,67,"Sáng đến chiều mai, trời nắng và nóng 33 độ, mưa muộn về chiều tối.",EMzfEYp_Ugw
+24,132.39999389648438,136.39999389648438,4.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,EMzfEYp_Ugw

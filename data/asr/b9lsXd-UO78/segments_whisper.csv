@@ -1,0 +1,24 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.239999771118164,5.239999771118164,109,Còn tiếp theo sẽ đến thông tin dự báo thời tiết liên quan đến tình hình rét đậm rét hại tại khu vực miền Bắc.,b9lsXd-UO78
+1,5.239999771118164,9.399999618530273,4.159999847412109,108,"Thưa chương trình Anh, đến ngày hôm nay thì ai ai cũng cảm nhận được cái rét rất đặc trưng của miền Bắc rồi.",b9lsXd-UO78
+2,9.399999618530273,12.0,2.6000003814697266,79,Không biết là diễn biến của nó trong mấy ngày tới thì như thế nào đây chưa chị?,b9lsXd-UO78
+3,12.0,18.200000762939453,6.200000762939453,123,"Dạ vâng anh Dương, theo như dự báo thì trong đêm nay nhiệt độ sẽ giảm thêm và có thể là trở thành đêm rét nhất của đợt này.",b9lsXd-UO78
+4,18.200000762939453,21.0,2.799999237060547,65,"Trong những ngày tới thì nhiệt độ có tăng, thế nhưng tăng chậm ạ.",b9lsXd-UO78
+5,21.0,26.600000381469727,5.600000381469727,94,"Thưa quý vị và các bạn, trong đêm nay những điểm vùng núi cao như là tại Lũng Cú hay là Sa Pa,",b9lsXd-UO78
+6,26.600000381469727,35.0,8.399999618530273,121,"nhiệt độ sẽ giảm xuống chỉ còn là từ 5-7 độ, thậm chí là tại Mẫu Sơn, quý vị có thể thấy là nhiệt độ chỉ còn khoảng 2 độ.",b9lsXd-UO78
+7,35.0,44.0,9.0,132,"Các nơi khác như là Lạng Sơn, Tam Đảo hay là Mộc Châu thì là 9 độ, đối với thủ đô Hà Nội, Hải Phòng và Ninh Bình là khoảng 12-13 độ.",b9lsXd-UO78
+8,44.0,53.400001525878906,9.400001525878906,137,"Nhiệt độ thấp, ẩm cao lại có thêm gió nữa nên ra đường vào buổi tối quý vị sẽ có cảm giác rét hơn khoảng 2-3 độ so với các mức nhiệt này.",b9lsXd-UO78
+9,53.400001525878906,59.20000076293945,5.799999237060547,113,"Trong những ngày xét như vậy thì có rất nhiều cách để chúng ta sự ấm cơ thể, quý vị có thể mặc quần áo nhiều lớp,",b9lsXd-UO78
+10,59.20000076293945,68.5999984741211,9.39999771118164,140,"đóng kín các cửa ngăn cho gió lạnh vào nhà, ăn uống đủ chất, tăng cường rau xanh, trái cây, gia vị có tính nóng như là gừng, tỏi hay là quế,",b9lsXd-UO78
+11,68.5999984741211,76.80000305175781,8.200004577636719,133,ngâm chân bằng nước nóng để giúp lưu thông máu và làm ấm cơ thể và quý vị nên hạn chế ra ngoài đường vào lúc quá sớm hay là quá muộn.,b9lsXd-UO78
+12,77.12000274658203,81.63999938964844,4.519996643066406,91,"Đối với những khán giả ở miền Trung thì cũng nên lưu ý tới những điều này vì trong đêm nay,",b9lsXd-UO78
+13,81.63999938964844,90.12000274658203,8.480003356933594,96,"nhiệt độ thấp nhất tại Thanh Hóa, Vinh và Hà Tĩnh chỉ là từ 13-16 độ, Đồng Hới hay Huế 18-21 độ.",b9lsXd-UO78
+14,90.12000274658203,93.23999786376953,3.1199951171875,42,Có thêm mưa nữa nên cảm giác càng rét hơn.,b9lsXd-UO78
+15,93.23999786376953,102.55999755859375,9.319999694824219,148,"Qua tới đèo Hải Vân thì cảm giác lạnh cũng khá rõ, nhiệt độ thấp nhất tại Đà Nẵng, Quảng Ngãi, Quy Nhơn, Nha Trang hay Phán Thiết sẽ là từ 22-25 độ.",b9lsXd-UO78
+16,102.55999755859375,106.23999786376953,3.6800003051757812,83,Chuyển sang phần dự báo thời tiết trong một số thành phố trong đêm nay và ngày mai.,b9lsXd-UO78
+17,106.23999786376953,111.4800033569336,5.2400054931640625,87,"Tại thủ đô Hà Nội, đêm nay và sáng sớm ngày mai có mưa nhỏ trời rét, nhiệt độ là 12 độ.",b9lsXd-UO78
+18,111.4800033569336,115.0,3.5199966430664062,54,"Trưa chiều mai trời khô giáo, nhiệt độ tăng lên 16 độ.",b9lsXd-UO78
+19,115.0,121.4800033569336,6.480003356933594,85,"Thành phố Đà Lạt đêm nay không mưa, trời rét 16 độ. Ngày mai nắng giáo cả ngày 19 độ.",b9lsXd-UO78
+20,121.4800033569336,127.19999694824219,5.719993591308594,91,"Thành phố Hồ Chí Minh đêm nay tạnh giáo, gió mát 25 độ. Ngày mai trời nắng gián đoạn 32 độ.",b9lsXd-UO78
+21,127.19999694824219,130.47999572753906,3.279998779296875,54,Chiều tối mai có mưa giải giác để phòng dông gió mạnh.,b9lsXd-UO78
+22,136.24000549316406,145.52000427246094,9.279998779296875,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,b9lsXd-UO78

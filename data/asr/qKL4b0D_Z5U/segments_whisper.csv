@@ -1,0 +1,57 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.599999904632568,4.599999904632568,68,"Thưa quý vị, ngay bây giờ sẽ là thông tin mới nhất về cơn bão số 10.",qKL4b0D_Z5U
+1,4.599999904632568,9.600000381469727,5.000000476837158,83,"Lúc 16h ngày hôm nay, cường độ của bão đang là vào khoảng cấp 8 và giật tới cấp 10.",qKL4b0D_Z5U
+2,9.600000381469727,14.600000381469727,5.0,65,Tầm bão cách huyệt đảo Hoàng Sa là khoảng 360km về phía đông nam.,qKL4b0D_Z5U
+3,14.600000381469727,17.600000381469727,3.0,56,"Dự báo trong ngày mai, bão sẽ đi theo hướng tây tây nam.",qKL4b0D_Z5U
+4,17.600000381469727,23.600000381469727,6.0,82,"Đến 16h ngày mai, tầm bão cách Quảng Ngãi đến Khánh Hòa khoảng 340km về phía đông.",qKL4b0D_Z5U
+5,23.600000381469727,26.600000381469727,3.0,50,"Cường độ bão mạnh cấp 8, cấp 9 và giật tới cấp 11.",qKL4b0D_Z5U
+6,26.600000381469727,33.599998474121094,6.999998092651367,120,"Lúc kia, bão sẽ suy yếu dần thành áp thấp nhiệt đới rồi đi vào đất liền Quảng Ngãi tới Khánh Hòa theo hướng tây tây nam.",qKL4b0D_Z5U
+7,33.599998474121094,37.599998474121094,4.0,73,"Từ giờ cho đến khi yếu đi, bão sẽ tiếp tục gây thời tiết xấu ở trên biển.",qKL4b0D_Z5U
+8,37.599998474121094,43.599998474121094,6.0,93,"Cảnh báo vùng nguy hiểm do bão trên Biển Đông trong 24h tới sẽ từ vị tuyến 12-16,5 độ vị Bắc,",qKL4b0D_Z5U
+9,43.599998474121094,47.599998474121094,4.0,37,"từ kinh tuyến 110,5-117 độ Kinh Đông.",qKL4b0D_Z5U
+10,47.599998474121094,52.599998474121094,5.0,101,Toàn bộ tàu thuyền hoạt động trong vùng nguy hiểm đều có nguy cơ cao chịu tác động của gió giật mạnh.,qKL4b0D_Z5U
+11,53.599998474121094,60.599998474121094,7.0,103,"Cập nhật về công tác tìm kiếm 4 nạn nhân còn đang mất tích tại xã Phước Lộc, Phước Sơn, tỉnh Quảng Nam,",qKL4b0D_Z5U
+12,60.599998474121094,64.5999984741211,4.0,75,thì vẫn đang được các lực lượng cứu nạn tích cực triển khai trong sáng nay.,qKL4b0D_Z5U
+13,64.5999984741211,70.5999984741211,6.0,106,"Đây là hình ảnh của lực lượng bộ đội biên phòng tỉnh Quảng Nam tìm kiếm nạn nhân tại thôn 1, xã Phước Lộc.",qKL4b0D_Z5U
+14,70.5999984741211,73.5999984741211,3.0,62,Tại đây đang còn một nạn nhân là cán bộ xã chưa được tìm thấy.,qKL4b0D_Z5U
+15,73.5999984741211,78.5999984741211,5.0,105,"Tính đến chiều qua, lực lượng chức năng đã tìm thấy 9 thi thể nạn nhân trong vụ sập lở ở huyện Phước Sơn.",qKL4b0D_Z5U
+16,79.5999984741211,83.5999984741211,4.0,100,Công tác tìm kiếm nạn nhân mất tích đang được triển khai song song cùng công tác tiếp tế lương thực.,qKL4b0D_Z5U
+17,83.5999984741211,89.5999984741211,6.0,103,"Dự kiến trong ngày hôm nay, các lực lượng tiếp tục gùi cõng lương thực vào xã Phước Thành và Phước Lộc.",qKL4b0D_Z5U
+18,89.5999984741211,93.5999984741211,4.0,89,"Đồng thời, máy bay trực thăng sẽ vận chuyển gạo vào xã Phước Lộc khi thời tiết thuận lợi.",qKL4b0D_Z5U
+19,96.5999984741211,100.5999984741211,4.0,65,Những cơn mưa to đến rất to vẫn xảy ra trên địa bàn tỉnh Nghệ An.,qKL4b0D_Z5U
+20,100.5999984741211,105.5999984741211,5.0,89,"Nói chung, vào huyện Hưng Nguyên nói riêng, kết hợp với việc xả lũ của các đập thủy điện,",qKL4b0D_Z5U
+21,105.5999984741211,108.5999984741211,3.0,43,đã gây ra ngập úng trên địa bàn toàn huyện.,qKL4b0D_Z5U
+22,108.5999984741211,113.5999984741211,5.0,99,Nước đang rút dần và người dân đang nỗ lực hết sức để có thể sớm trở lại với cuộc sống thường nhật.,qKL4b0D_Z5U
+23,117.5999984741211,121.5999984741211,4.0,56,"Năm ngày trôi qua, nhiều xã ở Hưng Nguyên vẫn ngập nặng.",qKL4b0D_Z5U
+24,121.5999984741211,123.5999984741211,2.0,39,Chỉ có đi thuyền thì mới tiếp cận được.,qKL4b0D_Z5U
+25,123.5999984741211,125.5999984741211,2.0,30,Nhà anh sinh là ngập sâu nhất.,qKL4b0D_Z5U
+26,125.5999984741211,131.60000610351562,6.000007629394531,87,"Nghe nói cơn bão số 10 lại sắp tới, anh lại kê cá đổ vật thêm vài bên gạch cho chắc ăn.",qKL4b0D_Z5U
+27,131.60000610351562,136.60000610351562,5.0,82,"Chiếc tủ lạnh, vật đắt giá nhất trong nhà, cũng được kê ở chỗ cao nhất cho an tâm.",qKL4b0D_Z5U
+28,153.60000610351562,157.60000610351562,4.0,78,"Câu chuyện từ hộ gia đình anh sinh đã mô tả câu chuyện cho cả xã Hưng Lợi này,",qKL4b0D_Z5U
+29,157.60000610351562,159.60000610351562,2.0,22,cũng như là cả 6 thôn.,qKL4b0D_Z5U
+30,159.60000610351562,161.60000610351562,2.0,47,Mọi người thì đang trong tình cảnh như thế này.,qKL4b0D_Z5U
+31,161.60000610351562,169.60000610351562,8.0,104,"Và thưa quý vị, đây là khu vực nuôi trồng thủy sản, cũng như là nuôi gà, nuôi vịt của gia đình anh sinh.",qKL4b0D_Z5U
+32,169.60000610351562,172.60000610351562,3.0,43,Và quý vị có thể thấy là nước ngập bẫn sâu.,qKL4b0D_Z5U
+33,172.60000610351562,175.60000610351562,3.0,43,Ngoài kia cả một màu nước lũ thủ trắng xóa.,qKL4b0D_Z5U
+34,175.60000610351562,177.60000610351562,2.0,35,Và tất cả thì đã mất trắng hết rồi.,qKL4b0D_Z5U
+35,177.60000610351562,183.60000610351562,6.0,102,Và tổng diện tích thiệt hại về cây trồng cũng như là nuôi thủy hải sản của xã Hưng Lợi là 220 hectare.,qKL4b0D_Z5U
+36,184.60000610351562,189.60000610351562,5.0,85,"Nhiều nhà khu vực cao hơn, nước rút nhanh thì cũng đang tranh thủ dọn dẹp lại đồ đặc.",qKL4b0D_Z5U
+37,189.60000610351562,191.60000610351562,2.0,31,Khu bếp nhà bà Quý bị ngập sâu.,qKL4b0D_Z5U
+38,191.60000610351562,195.60000610351562,4.0,67,Bà chỉ mong ước là nước rút nhanh để sớm có được nước sạch mà dùng.,qKL4b0D_Z5U
+39,195.60000610351562,198.60000610351562,3.0,52,Nhưng chả biết mong mỏi đơn giản ấy bao giờ mới đến.,qKL4b0D_Z5U
+40,214.60000610351562,220.60000610351562,6.0,107,"Hai ngày nay lực lượng quân đội đã tiếp cận được một số khu vực ngoài đê đã thoát lụt và tiến hành vệ sinh,",qKL4b0D_Z5U
+41,220.60000610351562,222.60000610351562,2.0,34,dọn dẹp cơ sở vật chất cho các xã.,qKL4b0D_Z5U
+42,222.60000610351562,226.60000610351562,4.0,75,Nhiều xã vẫn mất điện nên công tác vệ sinh vẫn làm bằng sức người là chính.,qKL4b0D_Z5U
+43,227.60000610351562,229.60000610351562,2.0,38,Nếu mất rơi không mưa thì nước sẽ rút.,qKL4b0D_Z5U
+44,229.60000610351562,234.60000610351562,5.0,53,"Sau đó quý bán xã sẽ tiến hành chỉ đào tất cả các xã,",qKL4b0D_Z5U
+45,234.60000610351562,239.60000610351562,5.0,81,ban toàn xã tiến hành tổng dọn vệ sinh môi trường và khắc phục ổn định cuộc sống.,qKL4b0D_Z5U
+46,240.60000610351562,242.60000610351562,2.0,35,Những sân trường vắng bóng học trò.,qKL4b0D_Z5U
+47,242.60000610351562,246.60000610351562,4.0,76,Toàn bộ học sinh của huyện Hưng Nguyên đã phải nghỉ học từ thứ 5 tuần trước.,qKL4b0D_Z5U
+48,246.60000610351562,249.60000610351562,3.0,56,"Học sinh thì có thể nghỉ, thế nhưng giáo viên thì không.",qKL4b0D_Z5U
+49,250.60000610351562,253.60000610351562,3.0,59,"Tình hình lù lụt rất cao nhưng các cô vẫn không ngừng nghỉ,",qKL4b0D_Z5U
+50,253.60000610351562,259.6000061035156,6.0,86,ngay nào cũng đến trường và trực chiến và thăm dò tình hình lù lụt rất cao như thế nào,qKL4b0D_Z5U
+51,259.6000061035156,264.6000061035156,5.0,62,"và khắc phục theo hình thức quần chiều, đến đâu là dọn đến đó.",qKL4b0D_Z5U
+52,265.6000061035156,269.6000061035156,4.0,77,Những đứa trẻ lớn lên ở vùng lũ giờ cũng chỉ biết chơi với nước cho qua ngày.,qKL4b0D_Z5U
+53,270.6000061035156,273.6000061035156,3.0,52,Có lẽ chúng là những người lạc quan và hồn nhân nhất,qKL4b0D_Z5U
+54,273.6000061035156,276.6000061035156,3.0,58,khi vẫn tươi giói mặc cho nước lũ vẫn mênh mông ngoài kia.,qKL4b0D_Z5U
+55,283.6000061035156,285.6000061035156,2.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,qKL4b0D_Z5U

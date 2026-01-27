@@ -1,0 +1,28 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,7.0,7.0,113,"Bây giờ sẽ là những thông tin dự báo thời tiết. Anh Tùng, sáng ngày hôm nay trời mù đến chiều, tưởng nắng mù hơn.",c4xACrQYiOk
+1,7.0,9.0,2.0,34,Không biết là trời có mưa không ạ?,c4xACrQYiOk
+2,9.0,11.0,2.0,45,"Sẽ là có, và chủ yếu là về đêm và sáng sớm ạ.",c4xACrQYiOk
+3,11.0,15.0,4.0,101,Rõ ràng là ngày hôm nay chúng ta thấy là thời tiết đã có một sự chuyển biến rất là rõ so với hôm qua.,c4xACrQYiOk
+4,15.0,18.0,3.0,42,Đó là trời không còn bỏng mây và nắng nữa.,c4xACrQYiOk
+5,18.0,25.0,7.0,120,"Và thưa quý vị, cụ thể thay vào đó là một lớp mây dày hiện đang bao phủ hầu khắp cả miền Bắc, trong đó có thủ đô Hà Nội.",c4xACrQYiOk
+6,25.0,33.0,8.0,140,"Nguyên nhân đó là bởi vì không khí lạnh suy yếu, gió Đông Bắc dần chuyển thành hướng gió Đông Nam, mang nhiều ẩm từ biển vào trong đất liền.",c4xACrQYiOk
+7,33.0,40.0,7.0,163,"Và theo dự báo là những luồng gió Đông Nam này sẽ còn tiếp tục hoạt động mạnh hơn nữa trong đêm nay và sáng mai, tương ứng với những đường gió dày hơn như thế này.",c4xACrQYiOk
+8,40.0,45.0,5.0,68,"Và ẩm cao cộng với một nền nhiệt thấp về đêm và sáng sớm dưới 20 độ,",c4xACrQYiOk
+9,45.0,50.0,5.0,83,"thì sẽ dễ làm cho hơi nước bão hòa, hình thành một lớp sương mù bao phủ ở miền Bắc.",c4xACrQYiOk
+10,50.0,55.0,5.0,75,"Thậm chí là còn xảy ra cả mưa nhỏ, mưa phồn, và nhất là ở phía Đông Bắc Bộ.",c4xACrQYiOk
+11,55.0,60.0,5.0,91,Trong tình trạng như thế này thì tầm nhìn sẽ bị hạn chế hầu hết chỉ từ 1 cho đến 2 km thôi.,c4xACrQYiOk
+12,60.0,67.0,7.0,136,"Thậm chí là những nơi có sương dày thì tầm nhìn còn giảm xuống dưới 500m, sẽ gây cản trở cho việc điều khiển các phương tiện giao thông.",c4xACrQYiOk
+13,67.0,74.0,7.0,130,"Chỉ vì vậy quý vị chú ý là khi chúng ta di chuyển trong khoảng thời gian từ 4 đến 8 giờ sáng, hãy chú ý đến các biện pháp an toàn.",c4xACrQYiOk
+14,74.0,78.0,4.0,63,Nhất là các cung đường đèo núi thì thường bị khuất về tầm nhìn.,c4xACrQYiOk
+15,78.0,84.0,6.0,87,Và thêm với việc là có một lớp sương mù mệt đường trơn trượt nữa thì càng khó khăn hơn.,c4xACrQYiOk
+16,84.0,92.0,8.0,155,Quý vị hãy chú ý là chúng ta nên di chuyển chậm lại và hãy giữ một khoảng cách đủ an toàn với những xe phía trước để dễ dàng có thể xử lý các sự cố xảy ra.,c4xACrQYiOk
+17,92.0,97.0,5.0,105,Còn sau đây thì chúng tôi sẽ chuyển sang vần dự báo chi tiết cho các thành phố trong đêm nay và ngày mai.,c4xACrQYiOk
+18,97.0,102.0,5.0,80,"Thủ đô Hà Nội dự báo đêm nay và sáng mai có mưa nhỏ, mưa phồn kèm theo sương mù.",c4xACrQYiOk
+19,102.0,104.0,2.0,37,"Nhật độ thấp nhất là 20 độ, khá lạnh.",c4xACrQYiOk
+20,104.0,108.0,4.0,60,"Đến trưa chiều mai thì trời nhiều mây, nhật độ khoảng 24 độ.",c4xACrQYiOk
+21,108.0,112.0,4.0,55,"Thành phố Đà Nẵng trời tạnh ráo, đêm nay xe lạnh 22 độ.",c4xACrQYiOk
+22,112.0,116.0,4.0,51,"Trưa chiều mai có nắng, nhật độ tăng dần lên 28 độ.",c4xACrQYiOk
+23,116.0,120.0,4.0,56,"Thành phố Hồ Chí Minh đêm nay không mưa, 26 độ trời mát.",c4xACrQYiOk
+24,120.0,124.0,4.0,82,"Ngày mai thì tiếp tục nắng gắt và nóng, nhất là trong khoảng từ 11 cho đến 16 giờ.",c4xACrQYiOk
+25,124.0,126.0,2.0,26,Nhật độ cao nhất là 36 độ.,c4xACrQYiOk
+26,134.0,138.0,4.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,c4xACrQYiOk

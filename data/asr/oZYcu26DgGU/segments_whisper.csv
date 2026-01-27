@@ -1,0 +1,37 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,4.0,4.0,92,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Xuân Anh,oZYcu26DgGU
+1,4.0,5.0,1.0,18,Chào chị Xuân Anh!,oZYcu26DgGU
+2,5.0,11.0,6.0,126,"Thời tiết ngày hôm nay có thể thấy có sự biến chuyển không còn hanh khô nữa, trời lạnh hơn, nhiều gió hơn và nhiều mây hơn nữa",oZYcu26DgGU
+3,11.0,14.0,3.0,73,Không biết là 3 ngày cuối tuần thì thời tiết có nhiều thay đổi không chị?,oZYcu26DgGU
+4,14.0,18.0,4.0,87,Vâng! Trong cuối tuần này thì ở thủ đô Hà Nội và nhiều tỉnh thành khác của miền Bắc nữa,oZYcu26DgGU
+5,18.0,20.0,2.0,52,thì sẽ liên tục có sự thay đổi thời tiết anh Dương ạ,oZYcu26DgGU
+6,20.0,22.0,2.0,46,Và cụ thể thì tôi sẽ chia sẻ thêm ngay sau đây,oZYcu26DgGU
+7,22.0,26.0,4.0,48,Như ở thủ đô Hà Nội thì sau 2 ngày tạm nhiều mây,oZYcu26DgGU
+8,26.0,30.0,4.0,52,thì sang đến 2 ngày tới nắng dự báo sẽ lại xuất hiện,oZYcu26DgGU
+9,30.0,33.0,3.0,51,và sửa ấm bầu không khí của thủ đô về trưa và chiều,oZYcu26DgGU
+10,33.0,36.0,3.0,40,nhiệt độ cao nhất khoảng từ 24 đến 25 độ,oZYcu26DgGU
+11,36.0,40.0,4.0,52,Sau đó đến chủ nhật thì trời lại có mưa nhỏ bất trợt,oZYcu26DgGU
+12,40.0,44.0,4.0,77,Mặc dù là nhiệt độ thì không có sự thay đổi quá nhiều so với những ngày trước,oZYcu26DgGU
+13,44.0,47.0,3.0,48,nhưng do có mưa nên cảm giác thì vẫn sẽ lạnh hơn,oZYcu26DgGU
+14,47.0,51.0,4.0,60,"Không chỉ Hà Nội, nhiều nơi khác ở Bắc Bộ như là tại Tam Đảo",oZYcu26DgGU
+15,51.0,54.0,3.0,57,thì thời tiết cũng có sự chuyển biến vào 3 ngày cuối tuần,oZYcu26DgGU
+16,54.0,58.0,4.0,55,Trong 2 ngày tới thì mỗi ngày nắng sẽ lại lên nhiều hơn,oZYcu26DgGU
+17,58.0,62.0,4.0,45,với mức nhiệt cao nhất là khoảng 18 đến 19 độ,oZYcu26DgGU
+18,62.0,66.0,4.0,69,Còn đến ngày chủ nhật thì ở đây lại chuyển sang trạng thái là mưa rét,oZYcu26DgGU
+19,66.0,70.0,4.0,59,với mức nhiệt cao nhất trong ngày cũng không vượt quá 17 độ,oZYcu26DgGU
+20,70.0,76.0,6.0,65,Theo dự báo thì mưa như vậy đó là do không khí lạnh sẽ tăng cường,oZYcu26DgGU
+21,76.0,81.0,5.0,80,trong khoảng đêm thứ 7 sang đến ngày chủ nhật xuống khu vực miền Bắc của nước ta,oZYcu26DgGU
+22,81.0,84.0,3.0,47,Ngày này thì được đánh giá là cường độ khá mạnh,oZYcu26DgGU
+23,84.0,87.0,3.0,46,bởi vậy mà sẽ gây mưa và cả làm giảm nhiệt nữa,oZYcu26DgGU
+24,87.0,91.0,4.0,65,Còn nằm xa hơn ở phía nam nên ít chịu tác động của không khí lạnh,oZYcu26DgGU
+25,91.0,95.0,4.0,62,thì trong 3 ngày tới dự báo là ở Phan Thiết sẽ đều có nắng đẹp,oZYcu26DgGU
+26,95.0,99.0,4.0,73,Giữa trưa và đầu giờ chiều thì mức nhiệt ở đây khoảng từ 30 cho đến 32 độ,oZYcu26DgGU
+27,99.0,105.0,6.0,78,"Còn ban đêm thì trời dịu mát, thoáng đắng với mức nhiệt từ 23 đến khoảng 24 độ",oZYcu26DgGU
+28,105.0,107.0,2.0,43,Và cuối cùng thì sẽ là phần dự báo thờ tiết,oZYcu26DgGU
+29,107.0,111.0,4.0,48,trong số nơi ở cả nước trong đêm nay và ngày mai,oZYcu26DgGU
+30,111.0,115.0,4.0,64,Đà Nẵng dự báo đêm nay sáng mai sẽ có lúc có mưa trời lạnh 21 độ,oZYcu26DgGU
+31,117.0,120.0,3.0,48,Trưa chiều mai trời nhiều mây và tạnh giáo 27 độ,oZYcu26DgGU
+32,122.0,125.0,3.0,39,Đà Lạt đêm nay không mưa trời dép 14 độ,oZYcu26DgGU
+33,126.0,130.0,4.0,63,"Sang ngày mai nắng liên tục nhiệt độ tăng nhanh, cao nhất 24 độ",oZYcu26DgGU
+34,132.0,135.0,3.0,53,Thành phố Hồ Chí Minh đêm nay tạnh giáo xe lạnh 23 độ,oZYcu26DgGU
+35,135.0,140.0,5.0,83,"Sang ngày mai nắng mạnh, ở lâu ngoài trời thì sẽ hơi nóng, mức nhiệt cao nhất 31 độ",oZYcu26DgGU

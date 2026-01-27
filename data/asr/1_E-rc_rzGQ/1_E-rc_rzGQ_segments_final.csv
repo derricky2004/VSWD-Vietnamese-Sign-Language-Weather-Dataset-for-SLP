@@ -1,0 +1,57 @@
+video_id,segment_id,start,end,duration,text_whisper,text_clean,text_final,review_decision,quality_level
+1_E-rc_rzGQ,0,0.0,4.0,4.0,Còn tiếp theo sẽ đến thông tin dự báo thời tiết cùng biên tập viên thời tiết Quỳnh Hoa.,Còn tiếp theo sẽ đến thông tin dự báo thời tiết cùng biên tập viên thời tiết Quỳnh Hoa.,Còn tiếp theo sẽ đến thông tin dự báo thời tiết cùng biên tập viên thời tiết Quỳnh Hoa.,OK,HIGH
+1_E-rc_rzGQ,1,4.0,7.0,3.0,"Chị Quỳnh Hoa, như vậy là 2-3 ngày hôm nay rồi thì chúng ta đã nói với khán giả","Chị Quỳnh Hoa, như vậy là 2-3 ngày hôm nay rồi thì chúng ta đã nói với khán giả","Chị Quỳnh Hoa, như vậy là 2-3 ngày hôm nay rồi thì chúng ta đã nói với khán giả",OK,HIGH
+1_E-rc_rzGQ,2,7.0,10.0,3.0,về thông tin về không khí lạnh mạnh có thể tràn xuống.,về thông tin về không khí lạnh mạnh có thể tràn xuống.,về thông tin về không khí lạnh mạnh có thể tràn xuống.,OK,HIGH
+1_E-rc_rzGQ,3,10.0,12.0,2.0,Và tôi thì cũng đã chuẩn bị sẵn áo Z rồi để đón không khí lạnh.,Và tôi thì cũng đã chuẩn bị sẵn áo Z rồi để đón không khí lạnh.,Và tôi thì cũng đã chuẩn bị sẵn áo Z rồi để đón không khí lạnh.,OK,HIGH
+1_E-rc_rzGQ,4,12.0,14.0,2.0,Không biết là cụ thể thì đến ngày nào?,Không biết là cụ thể thì đến ngày nào?,Không biết là cụ thể thì đến ngày nào?,OK,HIGH
+1_E-rc_rzGQ,5,14.0,16.0,2.0,Bao giờ thì không khí lạnh sẽ tràn xuống miền Bắc đấy ạ?,Bao giờ thì không khí lạnh sẽ tràn xuống miền Bắc đấy ạ?,Bao giờ thì không khí lạnh sẽ tràn xuống miền Bắc đấy ạ?,OK,HIGH
+1_E-rc_rzGQ,6,16.0,19.0,3.0,"Vâng, thông tin mới nhất đó là từ trong khoảng đêm nay đến sáng ngày mai thôi","Vâng, thông tin mới nhất đó là từ trong khoảng đêm nay đến sáng ngày mai thôi","Vâng, thông tin mới nhất đó là từ trong khoảng đêm nay đến sáng ngày mai thôi",OK,HIGH
+1_E-rc_rzGQ,7,19.0,21.0,2.0,thì trời sẽ chuyển Z thực sự.,thì trời sẽ chuyển Z thực sự.,thì trời sẽ chuyển Z thực sự.,OK,HIGH
+1_E-rc_rzGQ,8,21.0,23.0,2.0,Và tôi tin chắc chắn rằng là vào thời điểm sáng mai,Và tôi tin chắc chắn rằng là vào thời điểm sáng mai,Và tôi tin chắc chắn rằng là vào thời điểm sáng mai,OK,HIGH
+1_E-rc_rzGQ,9,24.0,26.0,2.0,thì chúng ta sẽ cần đến những chiếc áo khoác ấm đấy ạ.,thì chúng ta sẽ cần đến những chiếc áo khoác ấm đấy ạ.,thì chúng ta sẽ cần đến những chiếc áo khoác ấm đấy ạ.,OK,HIGH
+1_E-rc_rzGQ,10,26.0,28.0,2.0,Nếu như quý vị theo dõi hình ảnh mây vệ tinh,Nếu như quý vị theo dõi hình ảnh mây vệ tinh,Nếu như quý vị theo dõi hình ảnh mây vệ tinh,OK,HIGH
+1_E-rc_rzGQ,11,28.0,30.0,2.0,mà chúng tôi chụp lại ngay đằng sau lưng tôi đây ạ,mà chúng tôi chụp lại ngay đằng sau lưng tôi đây ạ,mà chúng tôi chụp lại ngay đằng sau lưng tôi đây ạ,OK,HIGH
+1_E-rc_rzGQ,12,30.0,32.0,2.0,thì quý vị cũng có thể thấy,thì quý vị cũng có thể thấy,thì quý vị cũng có thể thấy,OK,HIGH
+1_E-rc_rzGQ,13,32.0,34.0,2.0,phần dìa mây của khối không khí lạnh này,phần dìa mây của khối không khí lạnh này,phần dìa mây của khối không khí lạnh này,OK,HIGH
+1_E-rc_rzGQ,14,34.0,37.0,3.0,đã áp sát khu vực vùng núi phía Bắc biên giới của nước ta,đã áp sát khu vực vùng núi phía Bắc biên giới của nước ta,đã áp sát khu vực vùng núi phía Bắc biên giới của nước ta,OK,HIGH
+1_E-rc_rzGQ,15,37.0,39.0,2.0,như là tại Cao Bằng và Hà Giang rồi.,như là tại Cao Bằng và Hà Giang rồi.,như là tại Cao Bằng và Hà Giang rồi.,OK,HIGH
+1_E-rc_rzGQ,16,39.0,41.0,2.0,Và chính tại những khu vực này,Và chính tại những khu vực này,Và chính tại những khu vực này,OK,HIGH
+1_E-rc_rzGQ,17,41.0,44.0,3.0,thì gió cũng đã chuyển hướng Đông Bắc,thì gió cũng đã chuyển hướng Đông Bắc,thì gió cũng đã chuyển hướng Đông Bắc,OK,HIGH
+1_E-rc_rzGQ,18,44.0,46.0,2.0,và thổi những luồng gió Đông Bắc đã thổi tới đây.,và thổi những luồng gió Đông Bắc đã thổi tới đây.,và thổi những luồng gió Đông Bắc đã thổi tới đây.,OK,HIGH
+1_E-rc_rzGQ,19,46.0,48.0,2.0,Và trong đêm nay và sáng mai,Và trong đêm nay và sáng mai,Và trong đêm nay và sáng mai,OK,HIGH
+1_E-rc_rzGQ,20,48.0,50.0,2.0,thì những luồng gió Đông Bắc này,thì những luồng gió Đông Bắc này,thì những luồng gió Đông Bắc này,OK,HIGH
+1_E-rc_rzGQ,21,50.0,52.0,2.0,sẽ thổi tới khu vực Đông Bằng ven biển,sẽ thổi tới khu vực Đông Bằng ven biển,sẽ thổi tới khu vực Đông Bằng ven biển,OK,HIGH
+1_E-rc_rzGQ,22,52.0,54.0,2.0,trong đó có thủ đô Hà Nội,trong đó có thủ đô Hà Nội,trong đó có thủ đô Hà Nội,OK,HIGH
+1_E-rc_rzGQ,23,54.0,56.0,2.0,và tốc độ gió cũng sẽ mạnh hơn.,và tốc độ gió cũng sẽ mạnh hơn.,và tốc độ gió cũng sẽ mạnh hơn.,OK,HIGH
+1_E-rc_rzGQ,24,56.0,58.0,2.0,Mức nhiệt thấp nhất trong đêm nay,Mức nhiệt thấp nhất trong đêm nay,Mức nhiệt thấp nhất trong đêm nay,OK,HIGH
+1_E-rc_rzGQ,25,58.0,60.0,2.0,khi mà gió về kèm theo mưa,khi mà gió về kèm theo mưa,khi mà gió về kèm theo mưa,OK,HIGH
+1_E-rc_rzGQ,26,60.0,62.0,2.0,ở thủ đô Hà Nội và các thành phố phía Bắc,ở thủ đô Hà Nội và các thành phố phía Bắc,ở thủ đô Hà Nội và các thành phố phía Bắc,OK,HIGH
+1_E-rc_rzGQ,27,62.0,66.0,4.0,"như là tại Ninh Bình, Hải Phòng, Cao Bằng, Hà Giang, Lào Cai","như là tại Ninh Bình, Hải Phòng, Cao Bằng, Hà Giang, Lào Cai","như là tại Ninh Bình, Hải Phòng, Cao Bằng, Hà Giang, Lào Cai",OK,HIGH
+1_E-rc_rzGQ,28,66.0,68.0,2.0,"hay là sang phía Việt Trì, Sơn La và Địa Biên Phủ","hay là sang phía Việt Trì, Sơn La và Địa Biên Phủ","hay là sang phía Việt Trì, Sơn La và Địa Biên Phủ",OK,HIGH
+1_E-rc_rzGQ,29,68.0,72.0,4.0,sẽ giao động trong khoảng là từ 10 cho tới là 15 độ.,sẽ giao động trong khoảng là từ 10 cho tới là 15 độ.,sẽ giao động trong khoảng là từ 10 cho tới là 15 độ.,OK,HIGH
+1_E-rc_rzGQ,30,72.0,75.0,3.0,Chỉ riêng có thành phố Lạng Sơn thì nhiệt độ thấp hơn khoảng là 9 độ.,Chỉ riêng có thành phố Lạng Sơn thì nhiệt độ thấp hơn khoảng là 9 độ.,Chỉ riêng có thành phố Lạng Sơn thì nhiệt độ thấp hơn khoảng là 9 độ.,OK,HIGH
+1_E-rc_rzGQ,31,75.0,78.0,3.0,Thế nhưng đêm nay sẽ chưa phải là đêm zét nhất của đợt này,Thế nhưng đêm nay sẽ chưa phải là đêm zét nhất của đợt này,Thế nhưng đêm nay sẽ chưa phải là đêm zét nhất của đợt này,OK,HIGH
+1_E-rc_rzGQ,32,78.0,80.0,2.0,và dự báo là những đêm tiếp theo,và dự báo là những đêm tiếp theo,và dự báo là những đêm tiếp theo,OK,HIGH
+1_E-rc_rzGQ,33,80.0,83.0,3.0,thì nhiệt độ ở khu vực miền Bắc sẽ còn giảm sâu hơn.,thì nhiệt độ ở khu vực miền Bắc sẽ còn giảm sâu hơn.,thì nhiệt độ ở khu vực miền Bắc sẽ còn giảm sâu hơn.,OK,HIGH
+1_E-rc_rzGQ,34,83.0,86.0,3.0,Vùng Đông Bằng trong đó có thủ đô Hà Nội,Vùng Đông Bằng trong đó có thủ đô Hà Nội,Vùng Đông Bằng trong đó có thủ đô Hà Nội,OK,HIGH
+1_E-rc_rzGQ,35,86.0,89.0,3.0,nhiệt độ phổ biến trong khoảng là từ 6 cho tới 9 độ.,nhiệt độ phổ biến trong khoảng là từ 6 cho tới 9 độ.,nhiệt độ phổ biến trong khoảng là từ 6 cho tới 9 độ.,OK,HIGH
+1_E-rc_rzGQ,36,89.0,93.0,4.0,Với các khu vực núi cao thì nhiệt độ là từ 3 cho tới 6 độ,Với các khu vực núi cao thì nhiệt độ là từ 3 cho tới 6 độ,Với các khu vực núi cao thì nhiệt độ là từ 3 cho tới 6 độ,OK,HIGH
+1_E-rc_rzGQ,37,93.0,95.0,2.0,và thậm chí là các đỉnh núi cao hơn,và thậm chí là các đỉnh núi cao hơn,và thậm chí là các đỉnh núi cao hơn,OK,HIGH
+1_E-rc_rzGQ,38,95.0,97.0,2.0,thì nhiệt độ có thể dưới 0 độ.,thì nhiệt độ có thể dưới 0 độ.,thì nhiệt độ có thể dưới 0 độ.,OK,HIGH
+1_E-rc_rzGQ,39,97.0,99.0,2.0,Vì vậy mà các hiện tượng như là băng giá,Vì vậy mà các hiện tượng như là băng giá,Vì vậy mà các hiện tượng như là băng giá,OK,HIGH
+1_E-rc_rzGQ,40,99.0,101.0,2.0,hay là sương muối có thể xảy ra.,hay là sương muối có thể xảy ra.,hay là sương muối có thể xảy ra.,OK,HIGH
+1_E-rc_rzGQ,41,101.0,103.0,2.0,Phạm vi xảy ra băng giá đợt này,Phạm vi xảy ra băng giá đợt này,Phạm vi xảy ra băng giá đợt này,OK,HIGH
+1_E-rc_rzGQ,42,103.0,105.0,2.0,không chỉ có ở đỉnh Phan Xipang,không chỉ có ở đỉnh Phan Xipang,không chỉ có ở đỉnh Phan Xipang,OK,HIGH
+1_E-rc_rzGQ,43,105.0,110.0,5.0,"mà còn có thể xuất hiện tại đỉnh Pha Điên, Lũng Cú, Phiêu Âu hay là Mẫu Sơn.","mà còn có thể xuất hiện tại đỉnh Pha Điên, Lũng Cú, Phiêu Âu hay là Mẫu Sơn.","mà còn có thể xuất hiện tại đỉnh Pha Điên, Lũng Cú, Phiêu Âu hay là Mẫu Sơn.",OK,HIGH
+1_E-rc_rzGQ,44,110.0,114.0,4.0,Còn tiếp theo sẽ là những thông tin dự báo cụ thể cho các thành phố trên cả nước.,Còn tiếp theo sẽ là những thông tin dự báo cụ thể cho các thành phố trên cả nước.,Còn tiếp theo sẽ là những thông tin dự báo cụ thể cho các thành phố trên cả nước.,OK,HIGH
+1_E-rc_rzGQ,45,114.0,117.0,3.0,Với thành phố Vinh cũng chịu tác động của không khí lạnh,Với thành phố Vinh cũng chịu tác động của không khí lạnh,Với thành phố Vinh cũng chịu tác động của không khí lạnh,OK,HIGH
+1_E-rc_rzGQ,46,117.0,119.0,2.0,trời mưa zét cả đêm nay và ngày mai.,trời mưa zét cả đêm nay và ngày mai.,trời mưa zét cả đêm nay và ngày mai.,OK,HIGH
+1_E-rc_rzGQ,47,119.0,121.0,2.0,Nhiệt độ thấp nhất trong đêm nay là 15 độ.,Nhiệt độ thấp nhất trong đêm nay là 15 độ.,Nhiệt độ thấp nhất trong đêm nay là 15 độ.,OK,HIGH
+1_E-rc_rzGQ,48,123.0,126.0,3.0,Sang ngày mai nhiệt độ sẽ tăng lên mức là 17 độ.,Sang ngày mai nhiệt độ sẽ tăng lên mức là 17 độ.,Sang ngày mai nhiệt độ sẽ tăng lên mức là 17 độ.,OK,HIGH
+1_E-rc_rzGQ,49,126.0,128.0,2.0,Với thành phố Đà Nẵng trời mưa lạnh,Với thành phố Đà Nẵng trời mưa lạnh,Với thành phố Đà Nẵng trời mưa lạnh,OK,HIGH
+1_E-rc_rzGQ,50,128.0,130.0,2.0,nhiệt độ đêm nay chỉ khoảng là 20 độ,nhiệt độ đêm nay chỉ khoảng là 20 độ,nhiệt độ đêm nay chỉ khoảng là 20 độ,OK,HIGH
+1_E-rc_rzGQ,51,130.0,133.0,3.0,và sang ngày mai cao nhất sẽ là 23 độ.,và sang ngày mai cao nhất sẽ là 23 độ.,và sang ngày mai cao nhất sẽ là 23 độ.,OK,HIGH
+1_E-rc_rzGQ,52,134.0,136.0,2.0,"Ở Nam Bộ, thành phố Hồ Chí Minh đêm nay tạnh giáo","Ở Nam Bộ, thành phố Hồ Chí Minh đêm nay tạnh giáo","Ở Nam Bộ, thành phố Hồ Chí Minh đêm nay tạnh giáo",OK,HIGH
+1_E-rc_rzGQ,53,136.0,138.0,2.0,xe lạnh với mức nhiệt là 23 độ.,xe lạnh với mức nhiệt là 23 độ.,xe lạnh với mức nhiệt là 23 độ.,OK,HIGH
+1_E-rc_rzGQ,54,138.0,140.0,2.0,Sang ngày mai trời có nắng cả ngày,Sang ngày mai trời có nắng cả ngày,Sang ngày mai trời có nắng cả ngày,OK,HIGH
+1_E-rc_rzGQ,55,140.0,143.0,3.0,nhiệt độ sẽ nhanh chóng tăng lên mức 32 độ.,nhiệt độ sẽ nhanh chóng tăng lên mức 32 độ.,nhiệt độ sẽ nhanh chóng tăng lên mức 32 độ.,OK,HIGH

@@ -1,0 +1,29 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,8.319999694824219,8.319999694824219,134,"Còn bây giờ sẽ là những thông tin dự báo thời tiết. Anh Tùng, ở miền Bắc bây giờ thì trời nắng lên có vẻ như là có dấu hiệu chuyển mùa",izPv9cGRLVI
+1,8.319999694824219,11.039999961853027,2.7200002670288086,64,"Vậy thì miền Nam thì sao? Đã đến mùa khô, cao điểm mùa khô chưa?",izPv9cGRLVI
+2,11.039999961853027,16.799999237060547,5.7599992752075195,115,Thật ra thì nếu như mà theo mọi năm thì cái thời điểm này đáng lẽ ra đã phải là cao điểm mùa khô khu vực Nam Bộ rồi,izPv9cGRLVI
+3,16.799999237060547,22.239999771118164,5.440000534057617,114,Nhưng mà năm nay thì đến muộn hơn và khả năng là đến cuối tuần này thì mới có một đợt nắng nóng tại khu vực Nam Bộ,izPv9cGRLVI
+4,22.239999771118164,26.479999542236328,4.239999771118164,88,Và thưa quý vị như là tại thành phố Hồ Chí Minh thì theo dự báo là đến Chủ nhật tuần này,izPv9cGRLVI
+5,26.559999465942383,32.880001068115234,6.320001602172852,107,Mức nhiệt mới có thể tăng lên ngưỡng nắng nóng là 35 độ và đợt nóng này thì sẽ kéo dài sang đến cả tuần sau,izPv9cGRLVI
+6,32.880001068115234,38.0,5.119998931884766,116,Còn trước đó trong 3 ngày tới thì người dân tại khu vực Nam Bộ cũng sẽ cảm nhận được là thời tiết nóng dần từng ngày,izPv9cGRLVI
+7,38.0,41.119998931884766,3.1199989318847656,34,Khi nhiệt độ tăng lên 33 rồi 34 độ,izPv9cGRLVI
+8,41.119998931884766,45.68000030517578,4.560001373291016,90,Vùng nóng trong giai đoạn này ở khu vực Nam Bộ thì dự báo là tập trung chủ yếu ở miền Đông,izPv9cGRLVI
+9,45.68000030517578,48.15999984741211,2.479999542236328,52,Điều này sẽ thể hiện rất rõ trên bản đồ trường nhiệt,izPv9cGRLVI
+10,48.15999984741211,52.400001525878906,4.240001678466797,81,Với những cái vùng màu cam và màu đỏ thì chủ yếu là tập trung ở khu vực miền Đông,izPv9cGRLVI
+11,52.720001220703125,57.84000015258789,5.119998931884766,76,"Như là tại một số nơi như là tại thành phố Hồ Chí Minh, Tây Ninh và Biên Hòa",izPv9cGRLVI
+12,57.84000015258789,63.68000030517578,5.840000152587891,92,Và ngay ngày mai thì đây cũng là những khu vực có nhiệt độ cao nhất ở Nam Bộ là 33 đến 34 độ,izPv9cGRLVI
+13,63.68000030517578,68.16000366210938,4.480003356933594,77,"Còn lại ở miền Tây thì dịu hơn, giao động trong khoảng là từ 30 cho đến 32 độ",izPv9cGRLVI
+14,68.72000122070312,71.04000091552734,2.3199996948242188,50,Ở miền Bắc ngày mai sẽ tiếp tục chuỗi ngày nắng ấm,izPv9cGRLVI
+15,71.04000091552734,75.12000274658203,4.0800018310546875,78,Thời gian nắng từ gần trưa cho đến chiều với nhiệt độ cao nhất ở thủ đô Hà Nội,izPv9cGRLVI
+16,75.12000274658203,79.91999816894531,4.799995422363281,90,"Các thành phố Ninh Bình, Hạ Long, Lạng Sơn lên tới Hà Giang và sang Lào Cai, Điện Biên Phủ",izPv9cGRLVI
+17,80.0,83.04000091552734,3.0400009155273438,51,Giao động trong khoảng nhiệt là từ 25 cho đến 28 độ,izPv9cGRLVI
+18,83.04000091552734,86.0,2.9599990844726562,65,Riêng buổi sáng thì quý vị chú ý là có thể xuất hiện sương mù nhẹ,izPv9cGRLVI
+19,86.0,89.36000061035156,3.3600006103515625,76,Còn bây giờ sẽ là những thông tin cập nhật cho một số thành phố trên cả nước,izPv9cGRLVI
+20,89.36000061035156,93.04000091552734,3.6800003051757812,58,Với thủ đô Hà Nội thì đêm nay trời lạnh thấp nhất là 21 độ,izPv9cGRLVI
+21,93.04000091552734,96.55999755859375,3.5199966430664062,58,"Sáng sớm có sương mù nhẹ, đến gần trưa thì có nắng trở lại",izPv9cGRLVI
+22,96.55999755859375,99.76000213623047,3.2000045776367188,52,Và nhiệt độ sẽ tăng dần lên mức 27 độ vào buổi chiều,izPv9cGRLVI
+23,99.76000213623047,104.4000015258789,4.6399993896484375,65,"Thành phố Đà Nẵng duy trì tiết trời tạnh giáo, đêm nay lạnh 20 độ",izPv9cGRLVI
+24,104.4000015258789,107.19999694824219,2.7999954223632812,47,"Ngày mai nắng đẹp, mức nhiệt buổi trưa là 27 độ",izPv9cGRLVI
+25,108.16000366210938,111.68000030517578,3.5199966430664062,59,Thành phố Đà Lạt với địa hình cao thế nên nhiệt độ khá thấp,izPv9cGRLVI
+26,111.68000030517578,114.87999725341797,3.1999969482421875,59,Đêm nay và sáng sớm mai trời rét sâu với mức nhiệt là 11 độ,izPv9cGRLVI
+27,114.87999725341797,118.87999725341797,4.0,77,"Ban ngày nắng nhiều, nhiệt độ tăng lên rất nhanh, lên mức 27 độ vào buổi trưa",izPv9cGRLVI

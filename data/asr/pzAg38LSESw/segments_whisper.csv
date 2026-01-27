@@ -1,0 +1,19 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,8.0,8.0,156,"Còn bây giờ sẽ là những thông tin dự báo thời tiết, chị Xuân Anh. Mấy ngày hôm nay trời nóng bức khó chịu, khi nào thì hết cái loại thời tiết như thế này ạ?",pzAg38LSESw
+1,8.0,16.0,8.0,158,"Vâng, khả năng là cho đến hết tuần này thì thời tiết ở khu vực thủ đô Hà Nội cũng như là hầu khắp miền Bắc vẫn sẽ tiếp tục là oi nóng và khó chịu anh Dương ạ.",pzAg38LSESw
+2,16.0,21.0,5.0,102,"Thưa quý vị, bởi vì miền Bắc của chúng ta thì đang có đủ các yếu tố thời tiết gây ra cảm giác oi nóng.",pzAg38LSESw
+3,21.0,27.0,6.0,78,"Đó là nhiệt và ẩm thì đều cao, trời thì nhiều mây và có những khoảng lặng gió.",pzAg38LSESw
+4,28.0,37.0,9.0,139,"Ngay trong ngày mai thì dự báo khu vực Hòa Bình, Sang Tới, Trung Du và Đồng Bằng Bắc Bộ sẽ là những nơi mà cảm giác oi bức và khó chịu nhất",pzAg38LSESw
+5,37.0,44.0,7.0,75,"do là nhiệt cao từ khoảng 35 cho tới 38 độ, còn về độ ẩm là từ 52% trở lên.",pzAg38LSESw
+6,44.0,50.0,6.0,112,Theo nhiều nghiên cứu khoa học thì đã chứng minh là thời tiết có tác động đến tâm trạng và cảm xúc của chúng ta.,pzAg38LSESw
+7,50.0,53.0,3.0,61,Quý vị hãy chú ý đến các cách giảm nóng trong những ngày này.,pzAg38LSESw
+8,53.0,59.0,6.0,106,"Đôi khi nó chỉ đơn giản như lựa chọn trang phục phù hợp, thoáng mát hay là bổ sung nước đầy đủ cho cơ thể.",pzAg38LSESw
+9,59.0,66.0,7.0,121,"Các lưu ý này cũng sẽ rất hiệu ích với quý vị ở khu vực miền Trung, bởi đây cũng là nơi đang trong đợt nắng nóng kéo dài.",pzAg38LSESw
+10,66.0,77.0,11.0,133,"Ngay ngày mai, khắp từ Thanh Hóa trở xuống cho đến Ninh Thuận đều nằm trong vùng nhiệt cao từ 35 tới 38 độ, có nơi còn lên đến 39 độ.",pzAg38LSESw
+11,78.0,81.0,3.0,72,Và cuối cùng sẽ là những thông tin dự báo chi tiết cho một số thành phố.,pzAg38LSESw
+12,81.0,85.0,4.0,66,"Thủ đô Hà Nội đêm nay trời vẫn nóng bức, nhiệt độ thấp nhất 29 độ.",pzAg38LSESw
+13,87.0,89.0,2.0,33,Ngày mai nắng nóng gai gắt 37 độ.,pzAg38LSESw
+14,91.0,95.0,4.0,61,"Nha Trang đêm có gió biển thổi mát, nhiệt độ không quá 26 độ.",pzAg38LSESw
+15,96.0,99.0,3.0,47,"Ngày mai nắng cả ngày, nhiệt độ cao nhất 34 độ.",pzAg38LSESw
+16,101.0,104.0,3.0,41,Đà Lạt đêm nay tạnh ráo và khá rét 16 độ.,pzAg38LSESw
+17,104.0,110.0,6.0,84,"Ngày mai trời nắng nhưng vẫn khá dễ chịu, nhiệt độ cao nhất trong ngày khoảng 25 độ.",pzAg38LSESw

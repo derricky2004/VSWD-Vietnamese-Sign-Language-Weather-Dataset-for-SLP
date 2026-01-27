@@ -1,0 +1,60 @@
+video_id,segment_id,start,end,duration,text_whisper,text_clean,text_final,review_decision,quality_level
+AQBy4LeoE3k,0,0.0,3.0,3.0,Bây giờ sẽ là những thông tin dự báo thời tiết.,Bây giờ sẽ là những thông tin dự báo thời tiết.,Bây giờ sẽ là những thông tin dự báo thời tiết.,OK,HIGH
+AQBy4LeoE3k,1,3.0,6.0,3.0,"Chị Quỳnh Anh, hôm qua thì trời lạnh nhưng mà khô.","Chị Quỳnh Anh, hôm qua thì trời lạnh nhưng mà khô.","Chị Quỳnh Anh, hôm qua thì trời lạnh nhưng mà khô.",OK,HIGH
+AQBy4LeoE3k,2,6.0,8.0,2.0,Hôm nay thì cũng lạnh nhưng mà lại mưa.,Hôm nay thì cũng lạnh nhưng mà lại mưa.,Hôm nay thì cũng lạnh nhưng mà lại mưa.,OK,HIGH
+AQBy4LeoE3k,3,8.0,10.0,2.0,Chị phân tích rõ hơn cho khán giả đi.,Chị phân tích rõ hơn cho khán giả đi.,Chị phân tích rõ hơn cho khán giả đi.,OK,HIGH
+AQBy4LeoE3k,4,10.0,12.0,2.0,"Dạ vâng, nguyên nhân là do ngày hôm nay","Dạ vâng, nguyên nhân là do ngày hôm nay","Dạ vâng, nguyên nhân là do ngày hôm nay",OK,HIGH
+AQBy4LeoE3k,5,12.0,14.0,2.0,cũng có không khí lạnh tăng cường xuống nước ta.,cũng có không khí lạnh tăng cường xuống nước ta.,cũng có không khí lạnh tăng cường xuống nước ta.,OK,HIGH
+AQBy4LeoE3k,6,14.0,15.0,1.0,Thế nhưng khi mà di chuyển xuống đây,Thế nhưng khi mà di chuyển xuống đây,Thế nhưng khi mà di chuyển xuống đây,OK,HIGH
+AQBy4LeoE3k,7,15.0,17.0,2.0,nó lại lệch ra phía biển nhiều hơn.,nó lại lệch ra phía biển nhiều hơn.,nó lại lệch ra phía biển nhiều hơn.,OK,HIGH
+AQBy4LeoE3k,8,17.0,19.0,2.0,Chính vì vậy mà ẩm vào trong đất liền rất là nhiều.,Chính vì vậy mà ẩm vào trong đất liền rất là nhiều.,Chính vì vậy mà ẩm vào trong đất liền rất là nhiều.,OK,HIGH
+AQBy4LeoE3k,9,19.0,21.0,2.0,"Thưa quý vị và các bạn,","Thưa quý vị và các bạn,","Thưa quý vị và các bạn,",OK,HIGH
+AQBy4LeoE3k,10,21.0,23.0,2.0,ở miền Bắc và Bắc miền Trung,ở miền Bắc và Bắc miền Trung,ở miền Bắc và Bắc miền Trung,OK,HIGH
+AQBy4LeoE3k,11,23.0,25.0,2.0,sẽ là những nơi chịu tác động rõ nét nhất của không khí lạnh.,sẽ là những nơi chịu tác động rõ nét nhất của không khí lạnh.,sẽ là những nơi chịu tác động rõ nét nhất của không khí lạnh.,OK,HIGH
+AQBy4LeoE3k,12,25.0,27.0,2.0,Qua hình ảnh mây vệ tinh ngay sau đây,Qua hình ảnh mây vệ tinh ngay sau đây,Qua hình ảnh mây vệ tinh ngay sau đây,OK,HIGH
+AQBy4LeoE3k,13,27.0,29.0,2.0,thì cũng có thể thấy rõ được điều này.,thì cũng có thể thấy rõ được điều này.,thì cũng có thể thấy rõ được điều này.,OK,HIGH
+AQBy4LeoE3k,14,29.0,31.0,2.0,Từ đèo Hải Vân trở ra,Từ đèo Hải Vân trở ra,Từ đèo Hải Vân trở ra,OK,HIGH
+AQBy4LeoE3k,15,31.0,33.0,2.0,quý vị có thể thấy là được bao phủ,quý vị có thể thấy là được bao phủ,quý vị có thể thấy là được bao phủ,OK,HIGH
+AQBy4LeoE3k,16,33.0,35.0,2.0,bởi một lớp mây dày,bởi một lớp mây dày,bởi một lớp mây dày,OK,HIGH
+AQBy4LeoE3k,17,35.0,37.0,2.0,và có những cơn mưa bắt chợt kèm theo.,và có những cơn mưa bắt chợt kèm theo.,và có những cơn mưa bắt chợt kèm theo.,OK,HIGH
+AQBy4LeoE3k,18,37.0,39.0,2.0,Trong khi đó qua đèo Hải Vân,Trong khi đó qua đèo Hải Vân,Trong khi đó qua đèo Hải Vân,OK,HIGH
+AQBy4LeoE3k,19,39.0,41.0,2.0,từ Đà Nẵng trở vào đến Nam Bộ,từ Đà Nẵng trở vào đến Nam Bộ,từ Đà Nẵng trở vào đến Nam Bộ,OK,HIGH
+AQBy4LeoE3k,20,41.0,43.0,2.0,"thì lại là trạng thái ít mây, nắng giáo.","thì lại là trạng thái ít mây, nắng giáo.","thì lại là trạng thái ít mây, nắng giáo.",OK,HIGH
+AQBy4LeoE3k,21,43.0,45.0,2.0,Để thấy rõ hơn được sự khác biệt,Để thấy rõ hơn được sự khác biệt,Để thấy rõ hơn được sự khác biệt,OK,HIGH
+AQBy4LeoE3k,22,45.0,47.0,2.0,về thời tiết này thì quý vị hãy quan sát,về thời tiết này thì quý vị hãy quan sát,về thời tiết này thì quý vị hãy quan sát,OK,HIGH
+AQBy4LeoE3k,23,47.0,49.0,2.0,những hình ảnh thực tế mà chúng tôi kinh nhận,những hình ảnh thực tế mà chúng tôi kinh nhận,những hình ảnh thực tế mà chúng tôi kinh nhận,OK,HIGH
+AQBy4LeoE3k,24,49.0,51.0,2.0,trong ngày hôm nay.,trong ngày hôm nay.,trong ngày hôm nay.,OK,HIGH
+AQBy4LeoE3k,25,51.0,53.0,2.0,Tại thủ đô Hà Nội và thành phố Huế,Tại thủ đô Hà Nội và thành phố Huế,Tại thủ đô Hà Nội và thành phố Huế,OK,HIGH
+AQBy4LeoE3k,26,53.0,55.0,2.0,trời ấm u cả ngày hôm nay.,trời ấm u cả ngày hôm nay.,trời ấm u cả ngày hôm nay.,OK,HIGH
+AQBy4LeoE3k,27,55.0,57.0,2.0,Thậm chí là ở thủ đô Hà Nội,Thậm chí là ở thủ đô Hà Nội,Thậm chí là ở thủ đô Hà Nội,OK,HIGH
+AQBy4LeoE3k,28,57.0,59.0,2.0,trời có mưa kèm theo đó là sương mù ấm ướt,trời có mưa kèm theo đó là sương mù ấm ướt,trời có mưa kèm theo đó là sương mù ấm ướt,OK,HIGH
+AQBy4LeoE3k,29,59.0,61.0,2.0,khiến cho ống kính camera,khiến cho ống kính camera,khiến cho ống kính camera,OK,HIGH
+AQBy4LeoE3k,30,61.0,63.0,2.0,bị mờ đi như thế này.,bị mờ đi như thế này.,bị mờ đi như thế này.,OK,HIGH
+AQBy4LeoE3k,31,63.0,65.0,2.0,Ngược lại tại 2 thành phố là Đà Nẵng và Cần Thơ,Ngược lại tại 2 thành phố là Đà Nẵng và Cần Thơ,Ngược lại tại 2 thành phố là Đà Nẵng và Cần Thơ,OK,HIGH
+AQBy4LeoE3k,32,65.0,67.0,2.0,trời quang đẵng và có nắng đến tận chiều.,trời quang đẵng và có nắng đến tận chiều.,trời quang đẵng và có nắng đến tận chiều.,OK,HIGH
+AQBy4LeoE3k,33,67.0,69.0,2.0,Trạng thái thời tiết đối lập như vậy,Trạng thái thời tiết đối lập như vậy,Trạng thái thời tiết đối lập như vậy,OK,HIGH
+AQBy4LeoE3k,34,69.0,71.0,2.0,vẫn sẽ còn tiếp diễn.,vẫn sẽ còn tiếp diễn.,vẫn sẽ còn tiếp diễn.,OK,HIGH
+AQBy4LeoE3k,35,71.0,73.0,2.0,Ở phía bắc của đèo Hải Vân,Ở phía bắc của đèo Hải Vân,Ở phía bắc của đèo Hải Vân,OK,HIGH
+AQBy4LeoE3k,36,73.0,75.0,2.0,ngày mai trời sẽ nhiều mây,ngày mai trời sẽ nhiều mây,ngày mai trời sẽ nhiều mây,OK,HIGH
+AQBy4LeoE3k,37,75.0,77.0,2.0,"trong đó khu vực miền Bắc và Thanh Hóa, Nghệ An","trong đó khu vực miền Bắc và Thanh Hóa, Nghệ An","trong đó khu vực miền Bắc và Thanh Hóa, Nghệ An",OK,HIGH
+AQBy4LeoE3k,38,77.0,79.0,2.0,"sẽ có mưa nhỏ, mưa phủn","sẽ có mưa nhỏ, mưa phủn","sẽ có mưa nhỏ, mưa phủn",OK,HIGH
+AQBy4LeoE3k,39,79.0,81.0,2.0,trội lẫn với cả sương mù.,trội lẫn với cả sương mù.,trội lẫn với cả sương mù.,OK,HIGH
+AQBy4LeoE3k,40,81.0,83.0,2.0,Các thành phố tập trung về đêm và sáng.,Các thành phố tập trung về đêm và sáng.,Các thành phố tập trung về đêm và sáng.,OK,HIGH
+AQBy4LeoE3k,41,83.0,85.0,2.0,Còn ở phía nam của đèo Hải Vân,Còn ở phía nam của đèo Hải Vân,Còn ở phía nam của đèo Hải Vân,OK,HIGH
+AQBy4LeoE3k,42,85.0,87.0,2.0,ngày mai trời nắng ráo.,ngày mai trời nắng ráo.,ngày mai trời nắng ráo.,OK,HIGH
+AQBy4LeoE3k,43,87.0,89.0,2.0,Riêng khu vực miền Đông Nam Bộ,Riêng khu vực miền Đông Nam Bộ,Riêng khu vực miền Đông Nam Bộ,OK,HIGH
+AQBy4LeoE3k,44,89.0,91.0,2.0,còn xuất hiện nắng nóng với mức nhiệt cao,còn xuất hiện nắng nóng với mức nhiệt cao,còn xuất hiện nắng nóng với mức nhiệt cao,OK,HIGH
+AQBy4LeoE3k,45,91.0,93.0,2.0,khoảng 35-36 độ.,khoảng 35-36 độ.,khoảng 35-36 độ.,OK,HIGH
+AQBy4LeoE3k,46,93.0,95.0,2.0,Tiếp theo là những thông tin dự báo chi tiết,Tiếp theo là những thông tin dự báo chi tiết,Tiếp theo là những thông tin dự báo chi tiết,OK,HIGH
+AQBy4LeoE3k,47,95.0,97.0,2.0,cho một số thành phố trên cả nước vào ngày mai.,cho một số thành phố trên cả nước vào ngày mai.,cho một số thành phố trên cả nước vào ngày mai.,OK,HIGH
+AQBy4LeoE3k,48,97.0,99.0,2.0,Hà Nội đêm nay và sáng ngày mai,Hà Nội đêm nay và sáng ngày mai,Hà Nội đêm nay và sáng ngày mai,OK,HIGH
+AQBy4LeoE3k,49,99.0,101.0,2.0,"có mưa nhỏ, mưa phủn, trời rét 18 độ.","có mưa nhỏ, mưa phủn, trời rét 18 độ.","có mưa nhỏ, mưa phủn, trời rét 18 độ.",OK,HIGH
+AQBy4LeoE3k,50,101.0,103.0,2.0,"Trời chiều mai lúc mưa, lúc tạnh","Trời chiều mai lúc mưa, lúc tạnh","Trời chiều mai lúc mưa, lúc tạnh",OK,HIGH
+AQBy4LeoE3k,51,103.0,105.0,2.0,nhiệt độ không vượt quá 22 độ.,nhiệt độ không vượt quá 22 độ.,nhiệt độ không vượt quá 22 độ.,OK,HIGH
+AQBy4LeoE3k,52,105.0,107.0,2.0,Nhà Trang đêm nay không mưa,Nhà Trang đêm nay không mưa,Nhà Trang đêm nay không mưa,OK,HIGH
+AQBy4LeoE3k,53,107.0,109.0,2.0,trời mát 25 độ.,trời mát 25 độ.,trời mát 25 độ.,OK,HIGH
+AQBy4LeoE3k,54,109.0,111.0,2.0,"Ngày mai nắng đẹp, nhiệt độ cao nhất 30 độ.","Ngày mai nắng đẹp, nhiệt độ cao nhất 30 độ.","Ngày mai nắng đẹp, nhiệt độ cao nhất 30 độ.",OK,HIGH
+AQBy4LeoE3k,55,111.0,113.0,2.0,Đà Lạt đêm nay tạnh ráo,Đà Lạt đêm nay tạnh ráo,Đà Lạt đêm nay tạnh ráo,OK,HIGH
+AQBy4LeoE3k,56,113.0,115.0,2.0,trời rét 14 độ.,trời rét 14 độ.,trời rét 14 độ.,OK,HIGH
+AQBy4LeoE3k,57,115.0,117.0,2.0,Ngày mai ban ngày có nắng 24 độ.,Ngày mai ban ngày có nắng 24 độ.,Ngày mai ban ngày có nắng 24 độ.,OK,HIGH
+AQBy4LeoE3k,58,117.0,119.0,2.0,Chiều tối có mưa rồng xuất hiện.,Chiều tối có mưa rồng xuất hiện.,Chiều tối có mưa rồng xuất hiện.,OK,HIGH

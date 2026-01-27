@@ -1,0 +1,46 @@
+video_id,segment_id,start,end,duration,text_whisper,text_clean,text_final,review_decision,quality_level
+DObEka2HzHY,0,0.0,4.0,4.0,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Thanh Tùng,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Thanh Tùng,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Thanh Tùng,OK,HIGH
+DObEka2HzHY,1,4.0,8.0,4.0,"Cho anh Thanh Tùng, tuần này ở Hà Nội thì thời tiết là cứ ấm ẩm suốt cả ngày","Cho anh Thanh Tùng, tuần này ở Hà Nội thì thời tiết là cứ ấm ẩm suốt cả ngày","Cho anh Thanh Tùng, tuần này ở Hà Nội thì thời tiết là cứ ấm ẩm suốt cả ngày",OK,HIGH
+DObEka2HzHY,2,8.0,11.0,3.0,Và mọi người cảm thấy là không hề dễ chịu với kiểu thời tiết như thế này,Và mọi người cảm thấy là không hề dễ chịu với kiểu thời tiết như thế này,Và mọi người cảm thấy là không hề dễ chịu với kiểu thời tiết như thế này,OK,HIGH
+DObEka2HzHY,3,11.0,14.0,3.0,Không biết là ngày mai thì nó còn tiếp tục duy trì giống như hôm nay hay không ạ?,Không biết là ngày mai thì nó còn tiếp tục duy trì giống như hôm nay hay không ạ?,Không biết là ngày mai thì nó còn tiếp tục duy trì giống như hôm nay hay không ạ?,OK,HIGH
+DObEka2HzHY,4,14.0,19.0,5.0,"Vâng thưa anh, cái kiểu thời tiết như anh vừa nói đó thì ngày mai không những là nó vẫn còn tiếp tục duy trì","Vâng thưa anh, cái kiểu thời tiết như anh vừa nói đó thì ngày mai không những là nó vẫn còn tiếp tục duy trì","Vâng thưa anh, cái kiểu thời tiết như anh vừa nói đó thì ngày mai không những là nó vẫn còn tiếp tục duy trì",OK,HIGH
+DObEka2HzHY,5,19.0,23.0,4.0,Mà thậm chí là những quý vị khán giả nào mà ở phía Đông Bắc Bộ thì còn cảm thấy là,Mà thậm chí là những quý vị khán giả nào mà ở phía Đông Bắc Bộ thì còn cảm thấy là,Mà thậm chí là những quý vị khán giả nào mà ở phía Đông Bắc Bộ thì còn cảm thấy là,OK,HIGH
+DObEka2HzHY,6,23.0,26.0,3.0,thời tiết còn khó chịu hơn so với cả ngày hôm nay nữa,thời tiết còn khó chịu hơn so với cả ngày hôm nay nữa,thời tiết còn khó chịu hơn so với cả ngày hôm nay nữa,OK,HIGH
+DObEka2HzHY,7,26.0,30.0,4.0,"Thưa quý vị, ngày mai thì dự báo là trời vẫn sẽ có những khoảng nắng trong ngày","Thưa quý vị, ngày mai thì dự báo là trời vẫn sẽ có những khoảng nắng trong ngày","Thưa quý vị, ngày mai thì dự báo là trời vẫn sẽ có những khoảng nắng trong ngày",OK,HIGH
+DObEka2HzHY,8,30.0,35.0,5.0,"Nhiệt độ cao nhất ở thủ đô Hà Nội và các thành phố Hòa Bình, Ninh Bình, Hạ Long, Lạng Sơn","Nhiệt độ cao nhất ở thủ đô Hà Nội và các thành phố Hòa Bình, Ninh Bình, Hạ Long, Lạng Sơn","Nhiệt độ cao nhất ở thủ đô Hà Nội và các thành phố Hòa Bình, Ninh Bình, Hạ Long, Lạng Sơn",OK,HIGH
+DObEka2HzHY,9,35.0,41.0,6.0,Lên tới Tuyên Quang hay là Hà Giang thì đều tăng lên và đạt mức là từ 26 cho đến 28 độ,Lên tới Tuyên Quang hay là Hà Giang thì đều tăng lên và đạt mức là từ 26 cho đến 28 độ,Lên tới Tuyên Quang hay là Hà Giang thì đều tăng lên và đạt mức là từ 26 cho đến 28 độ,OK,HIGH
+DObEka2HzHY,10,41.0,44.0,3.0,Nhiệt độ thì tăng là như vậy nhưng mà độ ẩm trong không khí thì vẫn còn khá lớn,Nhiệt độ thì tăng là như vậy nhưng mà độ ẩm trong không khí thì vẫn còn khá lớn,Nhiệt độ thì tăng là như vậy nhưng mà độ ẩm trong không khí thì vẫn còn khá lớn,OK,HIGH
+DObEka2HzHY,11,44.0,48.0,4.0,Buổi trưa mà vẫn còn cao từ 75 cho đến 86%,Buổi trưa mà vẫn còn cao từ 75 cho đến 86%,Buổi trưa mà vẫn còn cao từ 75 cho đến 86%,OK,HIGH
+DObEka2HzHY,12,48.0,52.0,4.0,Trời vừa ấm nóng vừa ẩm thì tạo ra một cảm giác khá là khó chịu,Trời vừa ấm nóng vừa ẩm thì tạo ra một cảm giác khá là khó chịu,Trời vừa ấm nóng vừa ẩm thì tạo ra một cảm giác khá là khó chịu,OK,HIGH
+DObEka2HzHY,13,52.0,54.0,2.0,Trạng thái ấm ẩm như vậy sẽ duy trì cho đến thứ 7,Trạng thái ấm ẩm như vậy sẽ duy trì cho đến thứ 7,Trạng thái ấm ẩm như vậy sẽ duy trì cho đến thứ 7,OK,HIGH
+DObEka2HzHY,14,54.0,58.0,4.0,Với nhiệt độ cao nhất ở thủ đô Hà Nội là từ 26 cho đến 27 độ,Với nhiệt độ cao nhất ở thủ đô Hà Nội là từ 26 cho đến 27 độ,Với nhiệt độ cao nhất ở thủ đô Hà Nội là từ 26 cho đến 27 độ,OK,HIGH
+DObEka2HzHY,15,58.0,60.0,2.0,Và độ ẩm thì luôn trên mức 76%,Và độ ẩm thì luôn trên mức 76%,Và độ ẩm thì luôn trên mức 76%,OK,HIGH
+DObEka2HzHY,16,60.0,64.0,4.0,Phải sang đến chủ nhật khi mà có một đợt không khí lạnh cuối mùa tràn về,Phải sang đến chủ nhật khi mà có một đợt không khí lạnh cuối mùa tràn về,Phải sang đến chủ nhật khi mà có một đợt không khí lạnh cuối mùa tràn về,OK,HIGH
+DObEka2HzHY,17,64.0,66.0,2.0,Thì nhiệt độ giảm xuống còn 23 độ,Thì nhiệt độ giảm xuống còn 23 độ,Thì nhiệt độ giảm xuống còn 23 độ,OK,HIGH
+DObEka2HzHY,18,66.0,68.0,2.0,Quý vị thấy ở đây là mặc dù có một chút mưa,Quý vị thấy ở đây là mặc dù có một chút mưa,Quý vị thấy ở đây là mặc dù có một chút mưa,OK,HIGH
+DObEka2HzHY,19,68.0,71.0,3.0,Thế nhưng mà gió đông bắc thì sẽ làm khô dần bầu không khí,Thế nhưng mà gió đông bắc thì sẽ làm khô dần bầu không khí,Thế nhưng mà gió đông bắc thì sẽ làm khô dần bầu không khí,OK,HIGH
+DObEka2HzHY,20,71.0,74.0,3.0,Và độ ẩm sẽ giảm dần xuống còn ở mức là 68%,Và độ ẩm sẽ giảm dần xuống còn ở mức là 68%,Và độ ẩm sẽ giảm dần xuống còn ở mức là 68%,OK,HIGH
+DObEka2HzHY,21,74.0,77.0,3.0,Trong 2 ngày tới thì trời sẽ ấm ẩm,Trong 2 ngày tới thì trời sẽ ấm ẩm,Trong 2 ngày tới thì trời sẽ ấm ẩm,OK,HIGH
+DObEka2HzHY,22,77.0,80.0,3.0,"Dễ khiến cho các loại vi khuẩn sinh sôi, nấm mốc phát triển","Dễ khiến cho các loại vi khuẩn sinh sôi, nấm mốc phát triển","Dễ khiến cho các loại vi khuẩn sinh sôi, nấm mốc phát triển",OK,HIGH
+DObEka2HzHY,23,80.0,83.0,3.0,Vậy quý vị hãy chú ý dọn dẹp nhà cửa luôn sạch sẽ,Vậy quý vị hãy chú ý dọn dẹp nhà cửa luôn sạch sẽ,Vậy quý vị hãy chú ý dọn dẹp nhà cửa luôn sạch sẽ,OK,HIGH
+DObEka2HzHY,24,83.0,87.0,4.0,"Vệ sinh sàn nhà, tường nhà, cửa kính bằng khăn khô","Vệ sinh sàn nhà, tường nhà, cửa kính bằng khăn khô","Vệ sinh sàn nhà, tường nhà, cửa kính bằng khăn khô",OK,HIGH
+DObEka2HzHY,25,87.0,88.0,1.0,Nên có ẩm kế ở trong phòng,Nên có ẩm kế ở trong phòng,Nên có ẩm kế ở trong phòng,OK,HIGH
+DObEka2HzHY,26,88.0,91.0,3.0,Duy trì độ ẩm ở mức là từ 40 đến 60%,Duy trì độ ẩm ở mức là từ 40 đến 60%,Duy trì độ ẩm ở mức là từ 40 đến 60%,OK,HIGH
+DObEka2HzHY,27,91.0,94.0,3.0,Bằng cách đóng cửa kính và kết hợp sử dụng máy hút ẩm,Bằng cách đóng cửa kính và kết hợp sử dụng máy hút ẩm,Bằng cách đóng cửa kính và kết hợp sử dụng máy hút ẩm,OK,HIGH
+DObEka2HzHY,28,95.0,99.0,4.0,Với khu vực Đông Nam Bộ thì ngày mai vẫn sẽ có những điểm năng nóng,Với khu vực Đông Nam Bộ thì ngày mai vẫn sẽ có những điểm năng nóng,Với khu vực Đông Nam Bộ thì ngày mai vẫn sẽ có những điểm năng nóng,OK,HIGH
+DObEka2HzHY,29,99.0,101.0,2.0,"Như là tại Đồng Nai, Bình Dương, Bình Phước","Như là tại Đồng Nai, Bình Dương, Bình Phước","Như là tại Đồng Nai, Bình Dương, Bình Phước",OK,HIGH
+DObEka2HzHY,30,101.0,102.0,1.0,Với mức nhiệt là 35 độ,Với mức nhiệt là 35 độ,Với mức nhiệt là 35 độ,OK,HIGH
+DObEka2HzHY,31,102.0,104.0,2.0,Còn thành phố Hồ Chí Minh và nhiều nơi khác,Còn thành phố Hồ Chí Minh và nhiều nơi khác,Còn thành phố Hồ Chí Minh và nhiều nơi khác,OK,HIGH
+DObEka2HzHY,32,104.0,106.0,2.0,Ở khu vực miền Tây thì nhiệt độ cũng khá cao,Ở khu vực miền Tây thì nhiệt độ cũng khá cao,Ở khu vực miền Tây thì nhiệt độ cũng khá cao,OK,HIGH
+DObEka2HzHY,33,106.0,109.0,3.0,Giao động là từ 31 đến 34 độ,Giao động là từ 31 đến 34 độ,Giao động là từ 31 đến 34 độ,OK,HIGH
+DObEka2HzHY,34,109.0,112.0,3.0,Còn bây giờ chúng tôi xin được chuyển sang những thông tin dự báo chi tiết,Còn bây giờ chúng tôi xin được chuyển sang những thông tin dự báo chi tiết,Còn bây giờ chúng tôi xin được chuyển sang những thông tin dự báo chi tiết,OK,HIGH
+DObEka2HzHY,35,112.0,113.0,1.0,Trong một số thành phố,Trong một số thành phố,Trong một số thành phố,OK,HIGH
+DObEka2HzHY,36,113.0,115.0,2.0,Với Hải Phòng thì dự báo đêm nay không mưa,Với Hải Phòng thì dự báo đêm nay không mưa,Với Hải Phòng thì dự báo đêm nay không mưa,OK,HIGH
+DObEka2HzHY,37,115.0,117.0,2.0,"Có sương mù nhẹ, nhiệt độ thấp nhất là 23 độ","Có sương mù nhẹ, nhiệt độ thấp nhất là 23 độ","Có sương mù nhẹ, nhiệt độ thấp nhất là 23 độ",OK,HIGH
+DObEka2HzHY,38,117.0,120.0,3.0,"Ngày mai còn nắng, về trưa chiều 27 độ","Ngày mai còn nắng, về trưa chiều 27 độ","Ngày mai còn nắng, về trưa chiều 27 độ",OK,HIGH
+DObEka2HzHY,39,122.0,125.0,3.0,"Đà Nẵng đêm nay cũng tạnh giáo, trời mát 24 độ","Đà Nẵng đêm nay cũng tạnh giáo, trời mát 24 độ","Đà Nẵng đêm nay cũng tạnh giáo, trời mát 24 độ",OK,HIGH
+DObEka2HzHY,40,125.0,128.0,3.0,"Ngày mai nắng cả ngày, nhưng không nóng","Ngày mai nắng cả ngày, nhưng không nóng","Ngày mai nắng cả ngày, nhưng không nóng",OK,HIGH
+DObEka2HzHY,41,128.0,130.0,2.0,Nhiệt độ không quá 31 độ,Nhiệt độ không quá 31 độ,Nhiệt độ không quá 31 độ,OK,HIGH
+DObEka2HzHY,42,132.0,134.0,2.0,"Đà Lạt đêm nay không mưa, trời rét nhẹ 14 độ","Đà Lạt đêm nay không mưa, trời rét nhẹ 14 độ","Đà Lạt đêm nay không mưa, trời rét nhẹ 14 độ",OK,HIGH
+DObEka2HzHY,43,134.0,138.0,4.0,"Ngày mai nắng lên, nhiệt tăng nhanh, cao nhất là 27 độ","Ngày mai nắng lên, nhiệt tăng nhanh, cao nhất là 27 độ","Ngày mai nắng lên, nhiệt tăng nhanh, cao nhất là 27 độ",OK,HIGH
+DObEka2HzHY,44,139.0,142.0,3.0,"Đà Lạt đêm nay không mưa, trời rét nhẹ, cao nhất là 27 độ","Đà Lạt đêm nay không mưa, trời rét nhẹ, cao nhất là 27 độ","Đà Lạt đêm nay không mưa, trời rét nhẹ, cao nhất là 27 độ",OK,HIGH

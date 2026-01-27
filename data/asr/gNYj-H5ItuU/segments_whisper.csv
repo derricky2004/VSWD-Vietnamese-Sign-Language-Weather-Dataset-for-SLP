@@ -1,0 +1,28 @@
+id,start,end,duration,text_len,text,video_id
+0,0.0,5.0,5.0,116,"Còn bây giờ sẽ là những thông tin dự báo thời tiết, chị Quỳnh Hoa tôi nghe nói là Hà Nội chuẩn bị đón không khí lạnh",gNYj-H5ItuU
+1,5.0,10.0,5.0,118,"và đến bây giờ thì tôi thấy vẫn chưa lạnh lắm, tậm chí là buổi trưa nay còn thấy nắng nóng nữa cơ. Cụ thể như thế nào?",gNYj-H5ItuU
+2,10.0,15.0,5.0,117,"Vâng, không khí lạnh thì chưa về đến thủ đô Hà Nội nhưng mà cũng đã bắt đầu chớm tác động đến một số nơi miền Bắc rồi",gNYj-H5ItuU
+3,15.0,19.0,4.0,105,và khả năng là sang ngày mai thì anh Dương có thể cảm nhận được rõ hơn những tác động của không khí lạnh.,gNYj-H5ItuU
+4,19.0,25.0,6.0,116,Cụ thể theo diện biến của không khí lạnh thì đến chiều nay nó mới di chuyển tới khu vực vùng núi của nước ta mà thôi,gNYj-H5ItuU
+5,25.0,32.0,7.0,135,"và dự báo trong đêm nay ngày mai nó sẽ bắt đầu ảnh hưởng tới khu vực thủ đô Hà Nội, hầu khắp miền Bắc và xuống cả khu vực Bắc Trung Bộ.",gNYj-H5ItuU
+6,32.0,39.0,7.0,116,Đặc điểm của đợt không khí lạnh lần này là nó mang theo những luồng gió Đông Bắc vì vậy mà ban ngày trời vẫn có nắng,gNYj-H5ItuU
+7,39.0,45.0,6.0,114,"và dự báo là nắng sẽ vẫn duy trì trong những ngày tới, hoàn toàn khác biệt giữa cảm giác giữa ban ngày và ban đêm.",gNYj-H5ItuU
+8,45.0,51.0,6.0,81,Dự báo vùng Z sẽ trải rộng từ khu vực miền Bắc xuống tới cả khu vực Bắc Trung Bộ.,gNYj-H5ItuU
+9,52.0,61.0,9.0,123,"Lần đầu tiên từ đầu mùa đông đến giờ, nhiệt độ thấp nhất ở hầu khắp các thành phố các khu vực này sẽ trong khoảng 11-14 độ.",gNYj-H5ItuU
+10,61.0,65.0,4.0,58,"Thậm chí ở những vùng núi cao, nhiệt độ có thể từ 7-10 độ.",gNYj-H5ItuU
+11,65.0,69.0,4.0,68,Các điểm vùng núi cao hơn thì nhiệt độ có thể dưới 5 độ trời Z cóng.,gNYj-H5ItuU
+12,69.0,75.0,6.0,116,"Vì nhiều lý do khác nhau, cứ mỗi khi trời Z thì nhiều người lại có thói quen là chúng ta dùng than tổ ong để sởi ấm.",gNYj-H5ItuU
+13,75.0,81.0,6.0,87,"Tuy nhiên, cách làm này tiêm ẩn rất nhiều những rủi ro khi mà có thể bị ngộ độc khí CO.",gNYj-H5ItuU
+14,81.0,88.0,7.0,137,"Và chính khí này có thể ảnh hưởng tới sức khỏe của chúng ta, thậm chí là gây tử vong như trường hợp ở Quảng Bình xảy ra đêm ngày hôm qua.",gNYj-H5ItuU
+15,88.0,98.0,10.0,162,"Một trong những nguyên nhân khiến rủi ro này cao hơn đó là do kết cấu nhà ở hiện nay thường kín hơn ngày xưa, hạn chế sự trao đổi khí giữa bên ngoài và trong nhà.",gNYj-H5ItuU
+16,98.0,107.0,9.0,150,"Theo các chuyên gia y tế, để hạn chế việc ngộ độc khí CO thì chúng ta không nên đốt than tổ ong, than củi hay là các nguyên liệu khác trong phòng kín.",gNYj-H5ItuU
+17,107.0,111.0,4.0,66,"Nếu phải đốt thì cần phải mở rộng cửa, tạo ra những sự thoáng khí.",gNYj-H5ItuU
+18,112.0,116.0,4.0,89,Và tiếp theo sẽ là phần dự báo chi tiết trong một số thành phố trong đêm nay và ngày mai.,gNYj-H5ItuU
+19,116.0,120.0,4.0,79,"Với thủ đô Hà Nội, đêm nay trời không mưa, nhiệt độ sẽ giảm xuống ngưỡng 15 độ.",gNYj-H5ItuU
+20,120.0,125.0,5.0,78,"Sang ngày mai, trời nắng hanh và Z khô, nhiệt độ cao nhất trong ngày là 20 độ.",gNYj-H5ItuU
+21,126.0,129.0,3.0,40,"Với thành phố Huế, đêm nay mưa Z, 19 độ.",gNYj-H5ItuU
+22,129.0,134.0,5.0,86,"Sang ngày mai, mưa sẽ vẫn còn duy trì từng lúc, nhiệt độ cao nhất trong ngày là 25 độ.",gNYj-H5ItuU
+23,135.0,138.0,3.0,47,"Thành phố Hồ Chí Minh đêm nay không mưa, 24 độ.",gNYj-H5ItuU
+24,138.0,141.0,3.0,52,"Sang ngày mai trời nắng, nhiệt độ cao nhất là 32 độ.",gNYj-H5ItuU
+25,141.0,143.0,2.0,36,"Chiều tối mai, khả năng mưa vài nơi.",gNYj-H5ItuU
+26,155.0,157.0,2.0,69,Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn,gNYj-H5ItuU
