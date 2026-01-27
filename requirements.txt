@@ -1,0 +1,25 @@
+# Core dependencies for video processing and pose estimation
+opencv-python==4.8.1.78  # For video processing, cropping, scaling
+mediapipe==0.10.5        # For pose detection and holistic landmarks
+numpy==1.24.3            # Numerical computations
+Pillow==10.0.1           # Image processing (PIL)
+
+# Progress bars and utilities
+tqdm==4.65.0             # Progress bars for long-running tasks
+
+# AI and API integrations
+openai==1.3.0            # For GPT and Whisper API calls
+pandas==2.0.3            # Data manipulation for metadata and CSV handling
+
+# HTTP requests and downloads
+requests==2.31.0         # For downloading thumbnails and web requests
+
+# Optional: Video downloading (if using yt-dlp via pip)
+# yt-dlp==2023.11.16      # YouTube video downloader (install via pip if needed, or use system package)
+
+# Optional: FFmpeg wrapper (if not using subprocess directly)
+# ffmpeg-python==0.2.0    # Python wrapper for FFmpeg commands
+
+# Note: FFmpeg must be installed separately on the system (not via pip).
+# For Ubuntu: sudo apt install ffmpeg
+# For yt-dlp: pip install yt-dlp or use system package.
