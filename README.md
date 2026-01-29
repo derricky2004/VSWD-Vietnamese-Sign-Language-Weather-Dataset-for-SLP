@@ -95,13 +95,23 @@ For more details on dataset statistics, annotation format, and usage, see the [D
    ```
    This processes videos, segments scenes, crops/scales, and extracts poses.
 
-3. **Optional Refinements:**
+3. **Rebuild and Add Pose (if scenes need pose re-extraction):**
+   ```bash
+   python rebuild_and_add_pose.py
+   ```
+   This script reconstructs pose videos from original scenes by:
+   - Reading backup metadata
+   - Extracting clips from source videos
+   - Applying MediaPipe Holistic to draw skeleton overlays
+   - Muxing pose video with original audio
+   - Outputs to `data/scene_videos_pose/`
+
+4. **Optional Refinements:**
    - Refine scenes: `python classifier_ends/refine_scenes.py`
    - Crop and scale: `python classifier_ends/crop_scale_scenes.py`
-   - Extract poses: `python classifier_ends/add_pose_to_scenes.py`
    - Sort metadata: `python classifier_ends/sort_metadata.py`
 
-4. **Visualize Results:**
+5. **Visualize Results:**
    Use `classifier_ends/visualize_inference.py` to inspect processed videos and keypoints.
 
 ### Advanced Usage
@@ -114,23 +124,58 @@ For more details on dataset statistics, annotation format, and usage, see the [D
 
 ```
 VSWD-Vietnamese-Sign-Language-Weather-Dataset-for-SLP/
-├── classifier_ends/          # Core pipeline scripts
-│   ├── run_full_pipeline.py  # Main pipeline
-│   ├── rule_based_classifier.py  # Pose-based classifier
-│   └── ...                   # Other processing scripts
-├── utils/                    # Utility functions
-│   ├── pose_detection.py     # MediaPipe pose extraction
-│   ├── gpt_utils.py          # GPT integration
-│   └── ...                   # Other helpers
-├── data/                     # Data storage (ignored in Git)
-│   ├── raw_videos/           # Input videos
-│   ├── scene_videos/         # Processed scenes
-│   ├── scene_keypoints/      # Pose JSONs
-│   └── metadata/             # CSV files
-├── legacy/                   # Deprecated code
-├── requirements.txt          # Python dependencies
-├── README.md                 # This file
-└── .gitignore                # Git ignore rules
+├── .gitignore                      # Quy tắc ignore file (bỏ qua data lớn)
+├── README.md                       # Tài liệu này
+├── requirements.txt                # Danh sách thư viện Python
+├── rebuild_and_add_pose.py         # Script rebuild pose videos từ scenes
+├── classifier_ends/                # Scripts chính cho pipeline
+│   ├── run_full_pipeline.py        # Pipeline chính: cắt scene từ video thô
+│   ├── rule_based_classifier.py    # Phân loại pose dựa trên luật
+│   ├── add_pose_to_scenes.py       # Trích xuất pose và vẽ skeleton
+│   ├── crop_scale_scenes.py        # Crop và scale video scene
+│   ├── refine_scenes.py            # Tinh chỉnh scene (tách clip rời rạc)
+│   ├── sort_metadata.py            # Sắp xếp metadata CSV
+│   ├── sync_mapping.py             # Đồng bộ mapping ID video
+│   ├── process_video_scenes.py     # Xử lý logic cắt ghép
+│   ├── match_scenes.py             # Module hỗ trợ matching
+│   └── visualize_inference.py      # Trực quan hóa kết quả
+├── utils/                          # Thư viện hàm hỗ trợ
+│   ├── __init__.py
+│   ├── audit.py                    # Kiểm tra tính toàn vẹn dữ liệu
+│   ├── classification.py           # Hàm phân loại chung
+│   ├── common.py                   # Hàm tiện ích chung
+│   ├── download_raw_thumbnails.py  # Tải thumbnail
+│   ├── ffmpeg_utils.py             # Hàm xử lý FFmpeg
+│   ├── filter_urls.py              # Lọc URL
+│   ├── gpt_utils.py                # Tích hợp GPT
+│   ├── pose_detection.py           # Trích xuất pose với MediaPipe
+│   ├── title_filter.py             # Lọc tiêu đề
+│   ├── video_crop.py               # Hàm crop video
+│   ├── video_download.py           # Tải video
+│   ├── video_scale.py              # Hàm scale video
+│   └── whisper_utils.py            # Tích hợp Whisper (ASR)
+├── docs/                           # Tài liệu
+│   └── dataset.md                  # Tài liệu chi tiết về dataset
+├── data/                           # Dữ liệu (bị ignore trong Git, trừ CSV)
+│   ├── raw_videos/                 # Video gốc tải về
+│   ├── scene_videos_orginal/       # Video scenes được cắt (nguyên gốc, không pose)
+│   ├── scene_videos_pose/          # Video scene với skeleton pose (đầu ra cuối)
+│   ├── scene_keypoints/            # File JSON keypoints pose
+│   ├── labeled_videos/             # JSON kết quả phân đoạn
+│   ├── metadata/                   # File CSV metadata
+│   │   ├── scene_metadata.csv      # Metadata scene chính
+│   │   ├── clip_mapping_final.csv  # Mapping thời gian clip
+│   │   ├── vswd_final_filtered.csv # Danh sách clip lọc (3,680)
+│   │   └── mapping/                # Folder mapping ID video
+│   ├── asr/                        # Dữ liệu ASR (audio transcripts)
+│   ├── audio/                      # File audio trích xuất
+│   ├── lists/                      # Danh sách URL/video
+│   ├── train_ends/                 # Dữ liệu cho training
+│   └── train_v2/                   # Dữ liệu training v2
+└── legacy/                         # Mã nguồn cũ (không dùng)
+    ├── classifier_ends/            # Scripts cũ
+    ├── classifier_thumbnail/       # Phân loại thumbnail cũ
+    └── data_processing/            # Xử lý dữ liệu cũ
 ```
 
 ## Methodology
