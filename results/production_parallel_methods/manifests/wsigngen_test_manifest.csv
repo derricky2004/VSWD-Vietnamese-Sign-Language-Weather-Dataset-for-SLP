@@ -1,0 +1,157 @@
+sample_id,text,pose_path
+test_000001,"Sáng sớm, trời không chỉ lạnh mà còn rất gió.",/workspace/datdq/SignWeather/data/scene_keypoints/v166/scene_007.json
+test_000002,"Ban ngày 30 độ, lưu ý chiều tối ngày chủ nhật sẽ có mưa rông.",/workspace/datdq/SignWeather/data/scene_keypoints/v226/scene_011.json
+test_000003,"Năm năm qua, nhiệt độ trái đất nóng nhất kể từ năm 1850.",/workspace/datdq/SignWeather/data/scene_keypoints/v099/scene_001.json
+test_000005,"Về đêm và sáng trời lạnh, nhiệt độ giảm xuống còn từ 19-20 độ",/workspace/datdq/SignWeather/data/scene_keypoints/v199/scene_007.json
+test_000006,Người dân cần chủ động theo dõi thông tin và tìm nơi trú ẩn an toàn khi có bão.,/workspace/datdq/SignWeather/data/scene_keypoints/v059/scene_014.json
+test_000007,Đáng chú ý là tuần sau khả năng nền nhiệt toàn miền sẽ lên mức nắng nóng là 35-37 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v236/scene_006.json
+test_000010,"Nhiều khu vực sóng biển đã xâm thực vào đất liền gần 30 mét, với chiều dài bị tác động nặng nhất lên tới gần 2 km.",/workspace/datdq/SignWeather/data/scene_keypoints/v071/scene_008.json
+test_000016,"Thành phố Hà Nội đêm nay có lúc mưa rông 25 độ, ngày mai mưa vẫn xảy ra ngắt quãng 31 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v204/scene_009.json
+test_000017,"Ở Bắc Bộ, Trung Bộ, vùng nắng nóng màu đỏ tương ứng với mức nhiệt 36-39 độ sẽ bao phủ phía Nam Sơn La,",/workspace/datdq/SignWeather/data/scene_keypoints/v124/scene_001.json
+test_000019,"Ngày mai trời nắng cả ngày, trưa và chiều nắng mạnh, cảm giác khá nóng 34 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v143/scene_007.json
+test_000022,"Thưa quý vị, vào khoảng trưa nay, mưa đá đã xuất hiện tại một số địa phương của tỉnh Lào Cai.",/workspace/datdq/SignWeather/data/scene_keypoints/v106/scene_001.json
+test_000023,Xin chào chị Hương Liên. Mưa to đợt này ở Trung Bộ và Tây Nguyên đã được 2 ngày nay rồi.,/workspace/datdq/SignWeather/data/scene_keypoints/v119/scene_002.json
+test_000025,Ngày mai trời nắng nhiệt cao nhất 32 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v102/scene_007.json
+test_000026,"Sau bão thì sóng gió ở vùng biển Bình Định cũng đã giảm rồi, tuy nhiên dự báo trong đêm nay trời vẫn sẽ tiếp tục còn có mưa rông",/workspace/datdq/SignWeather/data/scene_keypoints/v260/scene_001.json
+test_000027,Nhiệt độ không quá 29 độ,/workspace/datdq/SignWeather/data/scene_keypoints/v173/scene_013.json
+test_000028,"Đà Nẵng đêm nay sáng mai có mưa vừa mưa to trời rét 19 độ, ngày mai trời lạnh, nhiệt độ cao nhất 21 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v140/scene_018.json
+test_000032,"Dự báo đến đêm nay và sáng mai, lũ trên sông Bồ tại Phú Ốc sẽ giảm xuống dưới mức báo động 3 khoảng 10 cm.",/workspace/datdq/SignWeather/data/scene_keypoints/v081/scene_003.json
+test_000036,"Với sức gió, vùng gần tâm bão lên tới 170 km một giờ, đã dần chuyển từ siêu bão xuống thành bão mạnh.",/workspace/datdq/SignWeather/data/scene_keypoints/v094/scene_001.json
+test_000040,"Đà Nẵng đêm nay có lúc mưa rông, nhiệt độ thấp nhất 23 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v235/scene_011.json
+test_000042,sẽ giao động quanh ngưỡng là 25-28 độ. Chỉ riêng có Lạng Sơn là nhiệt độ là 23 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v050/scene_002.json
+test_000044,"Năm nay, một số khu vực tại Trung Quốc đã hứng chịu những trận lũ lụt chưa từng thấy.",/workspace/datdq/SignWeather/data/scene_keypoints/v148/scene_011.json
+test_000045,Nhiệt độ cao nhất ở nhiều thành phố sẽ là từ 31-35 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v146/scene_006.json
+test_000049,"Tuy nhiên, khoảng thời gian tạnh mưa đó chỉ diễn ra tạm thời.",/workspace/datdq/SignWeather/data/scene_keypoints/v028/scene_005.json
+test_000050,"Sáng đến trưa vẫn có nắng, nhiệt độ cao nhất 2 ngày tới là 32-34 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v017/scene_008.json
+test_000051,lượng mưa trên địa bàn phổ biến từ 177 đến trên 300mm.,/workspace/datdq/SignWeather/data/scene_keypoints/v144/scene_006.json
+test_000052,Mức nhiệt thấp nhất trong đêm nay,/workspace/datdq/SignWeather/data/scene_keypoints/v007/scene_001.json
+test_000053,"Ở thủ đô Hà Nội thì ngày hôm nay trời cũng thực sự rét rồi, người dân ra đường là cảm thấy cái rét rất là rõ rệt.",/workspace/datdq/SignWeather/data/scene_keypoints/v140/scene_008.json
+test_000056,"Mưa lớn liên tục chốt xuống miền Trung trong ngày hôm nay, đặc biệt là ở Quảng Nam, Quảng Ngãi",/workspace/datdq/SignWeather/data/scene_keypoints/v240/scene_001.json
+test_000059,Duy trì độ ẩm ở mức là từ 40 đến 60%,/workspace/datdq/SignWeather/data/scene_keypoints/v053/scene_008.json
+test_000060,"Ngày mai nắng cả ngày, nhiệt độ tăng cả chục độ so với buổi đêm, lên mức là 25 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v227/scene_006.json
+test_000066,nhiệt độ cao nhất không quá 27 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v207/scene_009.json
+test_000067,Đây cũng là những nơi nắng nóng nhất trong đợt này.,/workspace/datdq/SignWeather/data/scene_keypoints/v084/scene_006.json
+test_000068,"Ba ngày tới thì sẽ là giai đoạn cao điểm của chiều cường và dự báo là mức nước cao nhất tại Trạm Phú An trên sông Sài Gòn đều từ 1,54m cho đến 1,60m.",/workspace/datdq/SignWeather/data/scene_keypoints/v160/scene_008.json
+test_000069,"Ngoài ra, tỉnh cũng đã bố trí lực lượng tại chỗ, sẵn sàng ứng phó với mưa lũ.",/workspace/datdq/SignWeather/data/scene_keypoints/v188/scene_022.json
+test_000071,"Vâng anh Dương, những cánh rừng ở Trung Bộ vẫn là khu vực đứng trước nguy cơ cao xảy ra cháy ở trên cả nước.",/workspace/datdq/SignWeather/data/scene_keypoints/v251/scene_001.json
+test_000075,"Đà Lạt đêm nay có khả năng xuất hiện mưa với lượng khá, trời lạnh với nhiệt độ khoảng 17 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v000/scene_008.json
+test_000076,"ngày mai nắng và ấm hơn, nhiệt độ tăng nhanh lên 29 độ, độ ẩm giảm thấp 40% nên khá là hành khô.",/workspace/datdq/SignWeather/data/scene_keypoints/v163/scene_013.json
+test_000084,Cần phải đề phòng với hiện tượng ngập ống có thể xảy ra tại những vùng trũng thấp ven sông,/workspace/datdq/SignWeather/data/scene_keypoints/v151/scene_008.json
+test_000086,Cảnh báo gió mạnh và mưa lớn sẽ diễn ra từ giờ cho đến chiều tối mai.,/workspace/datdq/SignWeather/data/scene_keypoints/v041/scene_007.json
+test_000087,"Từ giờ cho đến khi yếu đi, bão sẽ tiếp tục gây thời tiết xấu ở trên biển.",/workspace/datdq/SignWeather/data/scene_keypoints/v239/scene_006.json
+test_000092,"rét đậm, rét hại cho cây non và vật nuôi, có biện pháp giữ ấm cho người già và trẻ nhỏ.",/workspace/datdq/SignWeather/data/scene_keypoints/v140/scene_007.json
+test_000095,"Thành phố Đà Nẵng đêm nay mưa rào ngắt quãng 25 độ, ngày mai trời nắng nhiệt độ tăng lên 33 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v204/scene_010.json
+test_000098,"Tại một số vùng ngoại ô phía đông của Manila, nhiều người dân phải lên nóc nhà để tránh ngập.",/workspace/datdq/SignWeather/data/scene_keypoints/v104/scene_007.json
+test_000105,Đây sẽ là những nơi có khả năng cao sẽ còn lên đến 39 độ vào ngày mai.,/workspace/datdq/SignWeather/data/scene_keypoints/v095/scene_003.json
+test_000107,Bởi vì ngày mai dự báo là nắng cả ngày,/workspace/datdq/SignWeather/data/scene_keypoints/v090/scene_003.json
+test_000108,Ô nhiễm không khí ở miền Bắc gia tăng do xuất hiện hiện tượng nghịch nhiệt.,/workspace/datdq/SignWeather/data/scene_keypoints/v208/scene_003.json
+test_000110,"Còn buổi tối và đêm trời rét, nhiệt độ hạ xuống rất nhanh, thấp nhất chỉ 15-16 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v241/scene_005.json
+test_000115,"Riêng Quảng Nam, Quảng Ngãi là 60-120mm và có nơi trên 150mm.",/workspace/datdq/SignWeather/data/scene_keypoints/v140/scene_015.json
+test_000116,"Từ gần sáng mai thì gió sẽ mạnh dần lên cấp 6, cấp 7, giật cấp 8.",/workspace/datdq/SignWeather/data/scene_keypoints/v196/scene_012.json
+test_000117,"Quế ngày mai vẫn còn mưa lớn. Từ thứ Ba, cường độ mưa sẽ giảm dần, trời lạnh với nhiệt độ cao nhất trong ngày không quá 25 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v257/scene_009.json
+test_000118,"Ở ngay trong chiều tối nay thôi thì sau một ngày nắng nóng, mưa sông nhiệt lại xuất hiện ở một số nơi thuộc khu vực Trung Bộ và Tây Nguyên",/workspace/datdq/SignWeather/data/scene_keypoints/v217/scene_001.json
+test_000120,"Thành phố Đà Lạt đêm nay không mưa 17 độ, ngày mai trời nắng 25 độ, chiều tối có mưa rông.",/workspace/datdq/SignWeather/data/scene_keypoints/v154/scene_008.json
+test_000121,nhiệt độ cao nhất là 27 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v028/scene_010.json
+test_000125,"Thành phố Huế dự báo có lúc có mưa rào, đêm nay nhiệt độ thấp nhất là 23 độ C.",/workspace/datdq/SignWeather/data/scene_keypoints/v201/scene_007.json
+test_000126,"Những vùng màu vàng trên radar gồm Tuyên Quang, Bắc Cạn, Lạng Sơn, Nghệ An và Hà Tĩnh là nơi mưa nặng hạt.",/workspace/datdq/SignWeather/data/scene_keypoints/v204/scene_002.json
+test_000130,"Đêm nay, vùng mưa mở rộng dọc Hà Tĩnh",/workspace/datdq/SignWeather/data/scene_keypoints/v188/scene_017.json
+test_000131,Và đây cũng là khu vực có nguy cơ cao xuất hiện các hiện tượng thời tiết cực đoan.,/workspace/datdq/SignWeather/data/scene_keypoints/v125/scene_004.json
+test_000133,"Trước những diễn biến phức tạp của thời tiết, tỉnh Bình Định đang khẩn trương khắc phục thiệt hại.",/workspace/datdq/SignWeather/data/scene_keypoints/v188/scene_027.json
+test_000135,"Lưu ý thêm với quý vị đó là sáng sớm mai sương mù vẫn bao phủ nhiều nơi ở khu vực miền Bắc,",/workspace/datdq/SignWeather/data/scene_keypoints/v033/scene_003.json
+test_000136,"Thành phố Huế đêm nay có mưa to đến rất to, với nguy cơ ngập lụt trên diện rộng.",/workspace/datdq/SignWeather/data/scene_keypoints/v000/scene_007.json
+test_000137,"Nguy cơ cao sẽ gây ra ngập úng tại vùng trũng thấp ven sông,",/workspace/datdq/SignWeather/data/scene_keypoints/v038/scene_011.json
+test_000138,"Lượng mưa có nơi ở Đắk Lắc, Hè, Lâm Đồng đo được từ 23-30mm trong khoảng 2 giờ đồng hồ.",/workspace/datdq/SignWeather/data/scene_keypoints/v078/scene_003.json
+test_000139,Vậy nên tại các thành phố Hà Tĩnh và Đồng Hới thì trời vẫn sẽ rét cả ngày mai,/workspace/datdq/SignWeather/data/scene_keypoints/v047/scene_002.json
+test_000140,"Ngày mai nắng đến cuối chiều, nhiệt độ cao nhất 25 độ",/workspace/datdq/SignWeather/data/scene_keypoints/v180/scene_014.json
+test_000143,siêu bão Goni đã làm ít nhất 10 người thiệt mạng và 3 người mất tích.,/workspace/datdq/SignWeather/data/scene_keypoints/v001/scene_005.json
+test_000145,"Mưa do không khí lạnh sẽ không kéo dài lâu, và đến khoảng chiều tối mai, mưa sẽ giảm nhanh.",/workspace/datdq/SignWeather/data/scene_keypoints/v248/scene_006.json
+test_000147,"Trong 2 ngày tới, TP.HCM vẫn có mưa trái mùa vào chiều tối, trong khi sáng và trưa trời nắng ráo với mức nhiệt từ 31-32 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v160/scene_013.json
+test_000148,"khu vực vùng núi Bắc Bộ sẽ có mưa rông, cục Bộ có mưa vừa, mưa to",/workspace/datdq/SignWeather/data/scene_keypoints/v211/scene_003.json
+test_000153,"Tuy nhiên, mưa bão liên tục khiến biển động dữ dội đã tàn phá nghiêm trọng gần 7 km bờ biển thành phố Hội An, tỉnh Quảng Nam.",/workspace/datdq/SignWeather/data/scene_keypoints/v071/scene_007.json
+test_000156,"Vùng núi Thừa Thiên Huế đến Bình Thuận, Tây Nguyên và Đồng Nai đều trong khu vực có nguy cơ cao về sạt lở.",/workspace/datdq/SignWeather/data/scene_keypoints/v134/scene_005.json
+test_000159,"Tuy nhiên, mưa trong đợt này chỉ là dạng mưa rào ngắt quãng với lượng không lớn.",/workspace/datdq/SignWeather/data/scene_keypoints/v135/scene_006.json
+test_000160,"Vòng mưa lớn đang gây khó khăn cho công tác tìm kiếm cứu nạn các nạn nhân bị vùi lấp tại khu vực Thủy điện Rào Trang 3, tỉnh Thừa Thiên Huế.",/workspace/datdq/SignWeather/data/scene_keypoints/v091/scene_001.json
+test_000161,"Tuy nhiên, vào đầu tuần tới, chất lượng không khí ở nhiều nơi thuộc miền Bắc lại có xu hướng xấu đi.",/workspace/datdq/SignWeather/data/scene_keypoints/v208/scene_002.json
+test_000162,chiều mai lại có mưa trên diện rộng.,/workspace/datdq/SignWeather/data/scene_keypoints/v231/scene_005.json
+test_000164,"Trong 24 đến 48 giờ tới, bão sẽ giữ nguyên hướng di chuyển và tốc độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v152/scene_002.json
+test_000167,"Nhiệt độ tăng và ấm lên, nhưng độ ẩm lại giảm, khiến không khí trở nên rất khô.",/workspace/datdq/SignWeather/data/scene_keypoints/v117/scene_003.json
+test_000168,Cần Thơ đêm nay và chiều tối ngày mai có mưa rông dễ đi kèm với gió giật và sớm xét.,/workspace/datdq/SignWeather/data/scene_keypoints/v097/scene_013.json
+test_000169,Sáng ngày mai thì mưa sẽ hết và nhiệt độ tăng lên 28 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v034/scene_010.json
+test_000170,Hôm nay thời tiết tại khu vực Rào Trăng 3 của tỉnh Thừa Thiên Huế tiếp tục có nắng,/workspace/datdq/SignWeather/data/scene_keypoints/v001/scene_007.json
+test_000173,Ngày mai trời nắng và hơi nóng vào giữa trưa cao nhất 33 độ,/workspace/datdq/SignWeather/data/scene_keypoints/v165/scene_008.json
+test_000174,"Thưa quý vị, hiện tại tình hình ngập úng và chiều cường dâng cao tại TP.HCM đang diễn ra nghiêm trọng.",/workspace/datdq/SignWeather/data/scene_keypoints/v036/scene_009.json
+test_000177,"Toàn bộ tàu thuyền đã được kêu gọi vào bờ neo đậu, không có phương tiện nào hoạt động ở vùng nguy hiểm.",/workspace/datdq/SignWeather/data/scene_keypoints/v045/scene_010.json
+test_000178,"Cường độ bão mạnh cấp 8, cấp 9 và có gió giật lên tới cấp 11.",/workspace/datdq/SignWeather/data/scene_keypoints/v107/scene_004.json
+test_000179,Nơi có xác suất xảy ra băng giá cao hơn sẽ là đỉnh Phan Xipang.,/workspace/datdq/SignWeather/data/scene_keypoints/v200/scene_004.json
+test_000180,Miền Bắc và miền Trung đang trải qua một đợt không khí lạnh tăng cường mạnh.,/workspace/datdq/SignWeather/data/scene_keypoints/v209/scene_002.json
+test_000181,"Ngày mai trời còn nắng, chiều tối mưa rải rác, nhiệt độ cao nhất trong ngày 31 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v041/scene_015.json
+test_000182,"Ngày mai nhiệt độ tăng nhanh theo nắng, cao nhất trong ngày 26 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v102/scene_009.json
+test_000183,Trời ấm lên rõ rệt là từ thứ 5 cho đến thứ 7 của tuần này khi mà nắng sẽ xuất hiện.,/workspace/datdq/SignWeather/data/scene_keypoints/v189/scene_004.json
+test_000187,Vâng anh Dương. Một thông tin tích cực đó là mưa ở Nam Trung Bộ và Tây Nguyên đang giảm dần,/workspace/datdq/SignWeather/data/scene_keypoints/v119/scene_003.json
+test_000189,"Dự báo trong 24 giờ tới trên địa bàn tỉnh Con Tum tiếp tục có mưa vừa, mưa to đến rất to.",/workspace/datdq/SignWeather/data/scene_keypoints/v197/scene_005.json
+test_000190,"Cụ thể, dự báo các đợt nắng nóng ở Bắc Bộ thì sẽ tập trung từ nay cho đến hết tháng 7",/workspace/datdq/SignWeather/data/scene_keypoints/v011/scene_004.json
+test_000191,và từ Thanh Hóa đến Hà Tĩnh có mưa vừa mưa to với lượng từ 50 mm đến 120 mm,/workspace/datdq/SignWeather/data/scene_keypoints/v204/scene_005.json
+test_000193,Còn khu vực Bắc Bộ và Quảng Trị lượng mưa là từ 100-150mm và có nơi trên 200mm,/workspace/datdq/SignWeather/data/scene_keypoints/v173/scene_009.json
+test_000196,"Trưa chiều mai, trời sẽ tạnh ráo, nhiệt độ tăng lên 25 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v222/scene_003.json
+test_000199,Các tàu trên quần đảo Trường Sa đang tiếp tục chuẩn bị để đối mặt với cơn bão mới.,/workspace/datdq/SignWeather/data/scene_keypoints/v153/scene_004.json
+test_000201,"Trưa chiều mai thì mưa giảm cường độ, trời khá mát, nhiệt độ cao nhất không quá 28 độ",/workspace/datdq/SignWeather/data/scene_keypoints/v180/scene_011.json
+test_000205,"Sau đây, biên tập viên Hải Yến sẽ chuyển đến quý vị những thông tin mới nhất về đợt không khí lạnh đang tràn xuống miền Bắc.",/workspace/datdq/SignWeather/data/scene_keypoints/v248/scene_001.json
+test_000206,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Thanh Tùng,/workspace/datdq/SignWeather/data/scene_keypoints/v233/scene_001.json
+test_000209,Bây giờ là phần tin thời tiết cùng với biên tập viên Hải Yến.,/workspace/datdq/SignWeather/data/scene_keypoints/v168/scene_001.json
+test_000210,"Vì vậy, quý vị hãy lập kế hoạch phù hợp để tránh đi vào những khu vực đường bị ngập.",/workspace/datdq/SignWeather/data/scene_keypoints/v034/scene_006.json
+test_000211,Và cuối cùng sẽ là phần dự báo thời tiết cho các thành phố trong 2 ngày cuối tuần,/workspace/datdq/SignWeather/data/scene_keypoints/v165/scene_004.json
+test_000212,Tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố trong đêm nay và ngày mai.,/workspace/datdq/SignWeather/data/scene_keypoints/v084/scene_008.json
+test_000213,"Thưa quý vị, từ tuyết đến giờ thì thời tiết miền Bắc gần như là đã chuyển sang trạng thái ấm áp.",/workspace/datdq/SignWeather/data/scene_keypoints/v077/scene_001.json
+test_000214,"Sau đây, chúng ta sẽ gặp lại biên tập viên thời tiết Quỳnh Anh để cập nhật tình hình mưa lũ trên đất liền.",/workspace/datdq/SignWeather/data/scene_keypoints/v266/scene_001.json
+test_000216,"Bây giờ, chúng ta cùng đến với tin tức thời tiết cùng biên tập viên Quỳnh Anh.",/workspace/datdq/SignWeather/data/scene_keypoints/v014/scene_001.json
+test_000217,"John Anh, mấy ngày hôm nay thời tiết ở Hà Nội cũng như miền Bắc rất là hanh khô, đúng không ạ?",/workspace/datdq/SignWeather/data/scene_keypoints/v020/scene_002.json
+test_000218,"Bây giờ, xin chuyển sang phần dự báo chi tiết cho các thành phố trong đêm nay và ngày mai.",/workspace/datdq/SignWeather/data/scene_keypoints/v179/scene_006.json
+test_000219,"Cuối cùng, chúng tôi xin gửi đến quý vị dự báo thời tiết cho các thành phố trong đêm nay và ngày mai.",/workspace/datdq/SignWeather/data/scene_keypoints/v002/scene_009.json
+test_000221,Còn tiếp theo sẽ là phần dự báo thời tiết cho một số thành phố đêm nay và ngày mai.,/workspace/datdq/SignWeather/data/scene_keypoints/v119/scene_011.json
+test_000223,"Cuối cùng, chúng ta sẽ đến với phần dự báo chi tiết cho các thành phố trong 2 ngày cuối tuần.",/workspace/datdq/SignWeather/data/scene_keypoints/v014/scene_009.json
+test_000224,Còn tiếp theo sẽ là những thông tin dự báo thời tiết đến từ biên tập viên thời tiết Hương Liên.,/workspace/datdq/SignWeather/data/scene_keypoints/v119/scene_001.json
+test_000225,Cuối cùng sẽ là phần dự báo chi tiết cho một số nơi trên cả nước trong đêm nay và ngày mai.,/workspace/datdq/SignWeather/data/scene_keypoints/v097/scene_010.json
+test_000228,"Tại thủ đô Hà Nội vào 2 ngày tới, trời lạnh với đêm và sáng đến mức nhiệt 19-20 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v257/scene_007.json
+test_000229,"lên tới cấp 4, cấp gần cao nhất trong thang cảnh báo.",/workspace/datdq/SignWeather/data/scene_keypoints/v111/scene_003.json
+test_000231,Với Sapa không mưa vào đêm nay trời rét 9 độ.,/workspace/datdq/SignWeather/data/scene_keypoints/v097/scene_011.json
+test_000236,Sẽ giảm từ 2 đến 4 độ so với ngày hôm nay,/workspace/datdq/SignWeather/data/scene_keypoints/v135/scene_005.json
+test_000238,Chúng tôi nhận định là mùa đông năm nay sẽ lạnh hơn so với mùa đông năm 2020,/workspace/datdq/SignWeather/data/scene_keypoints/v220/scene_011.json
+test_000242,"Bởi vì đã là cuối mùa rồi, không khí lạnh xuống không mạnh và cũng suy yếu nhanh.",/workspace/datdq/SignWeather/data/scene_keypoints/v088/scene_003.json
+test_000245,"Còn lại các nơi khác, trong đó có cả thủ đô Hà Nội thì có chăng mưa cũng chỉ xảy ra thoáng qua ở khu vực phía Bắc và trung tâm thành phố.",/workspace/datdq/SignWeather/data/scene_keypoints/v029/scene_006.json
+test_000247,"Tại thủ đô Hà Nội đêm nay dự báo tạnh giáo, chuyển dịu mát, nhiệt độ thấp nhất là 26 độ",/workspace/datdq/SignWeather/data/scene_keypoints/v217/scene_007.json
+test_000251,Sở dĩ mưa nhiều nơi như vậy là do sự xuất hiện của nhiều hình thế gây mưa cùng một lúc,/workspace/datdq/SignWeather/data/scene_keypoints/v156/scene_004.json
+test_000252,"Nhiều sông có khả năng xuất hiện cái lũ báo động 2, báo động 3",/workspace/datdq/SignWeather/data/scene_keypoints/v219/scene_009.json
+test_000254,thậm chí là có những nơi mưa to với lượng từ 25 đến 50mm.,/workspace/datdq/SignWeather/data/scene_keypoints/v223/scene_004.json
+test_000256,"Trong khi dòng nước ấm bị đẩy về phía tây Thái Bình Dương khiến bề mặt biển nóng lên,",/workspace/datdq/SignWeather/data/scene_keypoints/v213/scene_003.json
+test_000257,Còn ở Bắc miền Trung thì tuy không mát bằng nhưng mà cũng đã chấm dứt nắng nóng.,/workspace/datdq/SignWeather/data/scene_keypoints/v226/scene_003.json
+test_000258,"Trong đó tại các tỉnh như là Điện Biên, Lào Cai hay là Hòa Bình là những nơi mà khả năng sương mù dày tầm nhìn có thể dưới 1km.",/workspace/datdq/SignWeather/data/scene_keypoints/v073/scene_004.json
+test_000259,trời quang đẵng và có nắng đến tận chiều.,/workspace/datdq/SignWeather/data/scene_keypoints/v039/scene_005.json
+test_000260,Hoàng Lưu bão số 10 cũng đã gây ra mưa lớn trên địa bàn của tỉnh Quảng Ngãi.,/workspace/datdq/SignWeather/data/scene_keypoints/v171/scene_007.json
+test_000262,Số liệu thực tế cũng cho thấy là thay vì đới gió đông nam ấm thì ngày hôm nay gió đã chuyển hướng là đông bắc khô,/workspace/datdq/SignWeather/data/scene_keypoints/v230/scene_002.json
+test_000263,"thời tiết ở Bắc Bộ sẽ tốt hẳn lên, mưa giảm nhanh và trời truyền lạnh.",/workspace/datdq/SignWeather/data/scene_keypoints/v196/scene_009.json
+test_000264,"Không chỉ Lào Cai có mưa lớn dẫn đến lũ ống, tại nhiều nơi ở miền Bắc như khu vực Đồng Bằng cũng đã ghi nhận lượng mưa sối xả từ gần 100 đến hơn 200mm,",/workspace/datdq/SignWeather/data/scene_keypoints/v083/scene_001.json
+test_000268,"Nha Trang tối nay và chiều tối mai có mưa dông, còn sáng đến trưa mai trời nắng rán đoạn 31 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v064/scene_009.json
+test_000269,Phải sang đến chủ nhật khi mà có một đợt không khí lạnh cuối mùa tràn về,/workspace/datdq/SignWeather/data/scene_keypoints/v053/scene_006.json
+test_000274,"Lượng mưa cũng tăng lên ở mức là mưa vừa, mưa to,",/workspace/datdq/SignWeather/data/scene_keypoints/v018/scene_003.json
+test_000278,"Thưa quý vị và các bạn, chiều tối mai, diện mưa chưa rộng mới chỉ xuất hiện ở khu vực Địa Biên hay là La Châu.",/workspace/datdq/SignWeather/data/scene_keypoints/v018/scene_002.json
+test_000279,"Cảnh báo vùng nguy hiểm do bão trên Biển Đông trong 24h tới sẽ từ vị tuyến 12-16,5 độ vị Bắc,",/workspace/datdq/SignWeather/data/scene_keypoints/v239/scene_007.json
+test_000280,"thì nhiệt độ giảm rất mạnh, giảm từ 6 cho tới 12 độ xuống còn mức nhiệt là từ 14 cho tới 19 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v049/scene_005.json
+test_000283,"Thưa quý vị, mùa rông lốc trên cả nước đang bắt đầu với liên tiếp các trận rông gió, cuột đổ cây cối xảy ra khắp từ Bắc vào Nam.",/workspace/datdq/SignWeather/data/scene_keypoints/v215/scene_001.json
+test_000284,"Rông lốc xét và mưa đá thường xuất hiện khi mây rông kéo đến rất mạnh, đen kịt bầu trời. Các lơ mây cuộn trồng lên cao, gió bắt đầu nổi lên và có cảm giác hơi xe lạnh.",/workspace/datdq/SignWeather/data/scene_keypoints/v214/scene_005.json
+test_000287,"vùng núi là xuống dưới 13 độ, còn núi cao nhiều nơi xuống dưới 7 độ.",/workspace/datdq/SignWeather/data/scene_keypoints/v252/scene_004.json
+test_000289,Còn tại trạm Mỹ Thuật của Vĩnh Long thì dự báo là sẽ cao hơn báo động 3 là khoảng 8cm.,/workspace/datdq/SignWeather/data/scene_keypoints/v012/scene_003.json
+test_000291,nguy cơ ngập lụt ở các vùng Hải Nhu sẽ rất là lớn.,/workspace/datdq/SignWeather/data/scene_keypoints/v240/scene_006.json
+test_000292,"Khả năng là trong đó mưa to sẽ tập trung tại các khu vực như là Đắk Lắc, Đắk Nông, Lâm Đồng hay là miền Đông Nam Bộ bao gồm thành phố Hồ Chí Minh và một số nơi của miền Tây như là Cần Thơ hay là Đồng Tháp, Kiên Giang.",/workspace/datdq/SignWeather/data/scene_keypoints/v097/scene_004.json
+test_000293,Đối với các vùng núi thì lại có cảnh báo về nguy cơ sạt lở đất,/workspace/datdq/SignWeather/data/scene_keypoints/v038/scene_012.json
+test_000294,"Nguy cơ về rông lốc, sấm xét cũng như là gió giật mạnh",/workspace/datdq/SignWeather/data/scene_keypoints/v043/scene_012.json
+test_000295,"Chưa kể, thời tiết mưa to sẽ tiếp tục quản trở việc tìm kiếm trong những ngày tiếp theo.",/workspace/datdq/SignWeather/data/scene_keypoints/v188/scene_024.json
+test_000298,Sáng đến chiều mai trời nắng khá nóng 34 độ,/workspace/datdq/SignWeather/data/scene_keypoints/v135/scene_009.json
+test_000301,"Hạn chế không nên đi ra ngoài khi bão đổ bộ, đặc biệt nghiêm cấm các trường hợp hiếu kỳ.",/workspace/datdq/SignWeather/data/scene_keypoints/v249/scene_012.json
+test_000302,thì mức nhiệt phổ biến trong ngày mai là khoảng từ 18 cho đến 20 độ,/workspace/datdq/SignWeather/data/scene_keypoints/v161/scene_004.json
+test_000307,"Theo như dự bảo, trong những ngày tới, tỉnh Bình Định tiếp tục có mưa to đến rất to,",/workspace/datdq/SignWeather/data/scene_keypoints/v080/scene_014.json
+test_000308,Quý vị lưu ý là chiều cường có thể gây ngập nhẹ vào chiều tối,/workspace/datdq/SignWeather/data/scene_keypoints/v112/scene_009.json
+test_000310,"Vâng ạ, trong đêm nay và ngày mai thì nhiều tình hình sẽ bắt đầu có sự chuyển biến với thời tiết từ Bắc đến Nam,",/workspace/datdq/SignWeather/data/scene_keypoints/v160/scene_002.json
+test_000313,"Vâng, về thời tiết thì ở cả ba miền đất nước sẽ đều có một chút sự thay đổi trong cái ngày đầu tiên mà chúng ta quay trở lại công việc thường nhật sau kỳ ngày Tết",/workspace/datdq/SignWeather/data/scene_keypoints/v158/scene_001.json
+test_000314,"Vâng, theo dự báo thì thời tiết ở hầu khắp các nơi thì khá là ổn định",/workspace/datdq/SignWeather/data/scene_keypoints/v115/scene_001.json
+test_000315,"Tốt nhất hãy hạn chế tối đa thời gian ở ngoài trời, đặc biệt không giờ, từ 12h đến 16h nên uống nhiều nước ngay cả khi không khát.",/workspace/datdq/SignWeather/data/scene_keypoints/v270/scene_006.json
+test_000316,Tiếp theo như thường lệ sẽ là thông tin sự báo chi tiết cho một số thành phố trong đêm nay và ngày mai.,/workspace/datdq/SignWeather/data/scene_keypoints/v016/scene_014.json

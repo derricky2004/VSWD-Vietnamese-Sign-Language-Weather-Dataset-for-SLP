@@ -1,0 +1,9 @@
+track,model,bleu,wer,recall_at_1,recall_at_5,recall_at_10,map_at_10,dtw,fid,acc_train_mean_pm_std,acc_val_test_mean_pm_std,fid_test_mean_pm_std,fid_train_mean_pm_std,dtw_norm_mean_pm_std,highlight
+retrieval,intfloat/multilingual-e5-large,0.1541,0.8099,0.3146,0.7073,0.8421,0.1522,34.4494,1.36,,,,,,BEST_RETRIEVAL
+retrieval,BAAI/bge-m3,0.1494,0.8299,0.2591,0.6617,0.8051,0.1202,37.4266,2.06,,,,,,
+retrieval,bkai-foundation-models/vietnamese-bi-encoder,0.1445,0.8538,0.2221,0.6142,0.7831,0.1003,38.8425,2.72,,,,,,
+production,wSignGen,,,,,,,,,63.800 ± 0.000,51.000 ± 1.732,45.000 ± 0.000,57.000 ± 0.000,1.000 ± 0.058,BEST_MEASURED_RUNTIME
+production,SignDiff,,,,,,,,,68.000 ± 2.309,54.000 ± 2.309,42.500 ± 4.330,53.500 ± 4.907,0.950 ± 0.058,BEST_PRODUCTION_NUMBERS
+production,SignVQNet,,,,,,,,,64.000 ± 2.309,50.500 ± 2.598,50.000 ± 5.774,60.000 ± 5.774,1.050 ± 0.058,
+production,fast-SLP,,,,,,,,,61.500 ± 2.021,46.500 ± 2.021,60.000 ± 5.774,72.500 ± 7.217,1.125 ± 0.072,
+production,ProgressiveTransformerSLP,,,,,,,,,58.500 ± 2.021,44.000 ± 2.309,72.500 ± 7.217,82.500 ± 7.217,1.225 ± 0.072,

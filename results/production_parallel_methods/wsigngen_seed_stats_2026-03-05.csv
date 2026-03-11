@@ -1,0 +1,5 @@
+metric,n,mean,variance,std,mean_pm_std
+fid_gen_test,5,110.690480,1246.816264,35.310286,110.690 ± 35.310
+fid_gen_validation,5,94.152560,356.022988,18.868571,94.153 ± 18.869
+diversity_gen_test,5,30.181900,0.271632,0.521183,30.182 ± 0.521
+diversity_gen_validation,5,31.066760,2.989428,1.728996,31.067 ± 1.729

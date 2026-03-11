@@ -1892,7 +1892,7 @@ v145/v145_c010.mp4,"Các công trình thủy lợi và nước sinh hoạt tại
 v145/v145_c011.mp4,"Trong những ngày tới, tỉnh Quảng Nam tiếp tục có mưa to đến rất to, canh báo nguy cơ sát lợ ở vùng núi",MEDIUM,WEATHER_CORE,80
 v145/v145_c027.mp4,"Mờ lũ cũng đã khiến 5 xã trên địa bàn huyện Hương Khê bị chia cắt, giao thông không thể đi lại.",MEDIUM,WEATHER_CORE,70
 v146/v146_c000.mp4,Còn tiếp theo sẽ là những thông tin dự báo thời tiết cho những ngày sắp tới,MEDIUM,WEATHER_SUPPORT,40
-v146/v146_c004.mp4,"Vâng anh Dương, sau buổi trưa nắng thì chiều đến đêm mưa rông sẽ xuất hiện",HIGH,Em nên mua choco hay matcha anh,85
+v146/v146_c004.mp4,"Vâng anh Dương, sau buổi trưa nắng thì chiều đến đêm mưa rông sẽ xuất hiện",HIGH,WEATHER_SUPPORT,85
 v146/v146_c006.mp4,"Cụ thể, vùng núi Bắc Bộ có mưa trong đêm nay đến sáng sớm mai,",HIGH,WEATHER_CORE,90
 v146/v146_c008.mp4,Ngoài rông lốc sấm xét đi kèm trong mưa thì cần chú ý đến nguy cơ sạt lở đất cục bộ.,MEDIUM,WEATHER_CORE,60
 v146/v146_c012.mp4,"Đến trưa chiều mai mưa ngớt, toàn miền Bắc đều có nắng và cảm giác oi nóng trở lại.",HIGH,WEATHER_CORE,50

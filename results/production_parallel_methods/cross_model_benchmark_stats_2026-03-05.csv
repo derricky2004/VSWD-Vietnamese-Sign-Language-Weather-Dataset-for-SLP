@@ -1,0 +1,26 @@
+model,metric,mean,variance,std,unit,mean_pm_std
+wSignGen,acc_train,63.800000,0.000000,0.000000,percent,63.800 ± 0.000
+wSignGen,acc_val_test,51.000000,3.000000,1.732051,percent,51.000 ± 1.732
+wSignGen,fid_test,45.000000,0.000000,0.000000,score,45.000 ± 0.000
+wSignGen,fid_train,57.000000,0.000000,0.000000,score,57.000 ± 0.000
+wSignGen,dtw_norm,1.000000,0.003333,0.057735,score,1.000 ± 0.058
+SignDiff,acc_train,68.000000,5.333333,2.309401,percent,68.000 ± 2.309
+SignDiff,acc_val_test,54.000000,5.333333,2.309401,percent,54.000 ± 2.309
+SignDiff,fid_test,42.500000,18.750000,4.330127,score,42.500 ± 4.330
+SignDiff,fid_train,53.500000,24.083333,4.907477,score,53.500 ± 4.907
+SignDiff,dtw_norm,0.950000,0.003333,0.057735,score,0.950 ± 0.058
+SignVQNet,acc_train,64.000000,5.333333,2.309401,percent,64.000 ± 2.309
+SignVQNet,acc_val_test,50.500000,6.750000,2.598076,percent,50.500 ± 2.598
+SignVQNet,fid_test,50.000000,33.333333,5.773503,score,50.000 ± 5.774
+SignVQNet,fid_train,60.000000,33.333333,5.773503,score,60.000 ± 5.774
+SignVQNet,dtw_norm,1.050000,0.003333,0.057735,score,1.050 ± 0.058
+fast-SLP,acc_train,61.500000,4.083333,2.020726,percent,61.500 ± 2.021
+fast-SLP,acc_val_test,46.500000,4.083333,2.020726,percent,46.500 ± 2.021
+fast-SLP,fid_test,60.000000,33.333333,5.773503,score,60.000 ± 5.774
+fast-SLP,fid_train,72.500000,52.083333,7.216878,score,72.500 ± 7.217
+fast-SLP,dtw_norm,1.125000,0.005208,0.072169,score,1.125 ± 0.072
+ProgressiveTransformerSLP,acc_train,58.500000,4.083333,2.020726,percent,58.500 ± 2.021
+ProgressiveTransformerSLP,acc_val_test,44.000000,5.333333,2.309401,percent,44.000 ± 2.309
+ProgressiveTransformerSLP,fid_test,72.500000,52.083333,7.216878,score,72.500 ± 7.217
+ProgressiveTransformerSLP,fid_train,82.500000,52.083333,7.216878,score,82.500 ± 7.217
+ProgressiveTransformerSLP,dtw_norm,1.225000,0.005208,0.072169,score,1.225 ± 0.072

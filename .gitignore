@@ -39,17 +39,15 @@ Thumbs.db
 *.mp3
 *.m4a
 
-# Data folder handling
-# Ignore everything inside data/ by default
-data/**/*
+# Data folder handling (keep repo lightweight)
+# Ignore everything under data by default
+data/**
 
-# Allow all directory structures so the data/ folder exists on GitHub
-!data/**/
-
-# Explicitly allow CSV files within the data/ folder
-!data/**/*.csv
-
-# Also allow the lists/*.txt as they are usually small metadata
+# Re-include only lightweight metadata/list artifacts
+!data/metadata/
+!data/metadata/*.csv
+!data/lists/
+!data/lists/*.csv
 !data/lists/*.txt
 
 # Ignore heavy output/temporary folders
@@ -62,3 +60,29 @@ classifier_thumbnail/
 *.h5
 *.weights
 *.onnx
+*.pt
+*.ckpt
+
+# Logs and experiment artifacts
+*.log
+logs/
+wandb/
+runs/
+tensorboard/
+
+# Notebook and editor caches
+.ipynb_checkpoints/
+.vscode/
+
+# Archive/compressed files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Keep final reports and benchmark tables under results
+!results/final_reports/*.md
+!results/final_reports/*.csv
+!results/production_parallel_methods/*.csv
+!results/retrieval_parallel_methods/**/*.md
+!results/retrieval_parallel_methods/**/*.csv
